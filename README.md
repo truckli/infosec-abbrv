@@ -1,5 +1,5 @@
 
-# 1 说明
+# 网络安全缩略词表
 
 作为网络安全从业者，我们经常会被别人甩出一堆莫名其妙的缩略词，仿佛不用缩略词就不能沟通。
 
@@ -7,9 +7,9 @@
 
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
-# 2 词表
 
-## 2.1 A
+
+## A
 
 * AAA：认证、授权与核查（Authentication, Authorization & Accounting）
 
@@ -223,7 +223,7 @@
 
 * A2AD：反介入／区域拒止（Anti-Access & Area Denial）
 
-## 2.2 B
+## B
 
 * BaaS：备份即服务（Backup-as-a-Service）；后端即服务（Backend-as-a-Service）
 
@@ -321,7 +321,7 @@
 
 * BYOE：企业自助使用（Bring Your Own Enterprise）
 
-## 2.3 C
+## C
 
 * CA：数字证书认证机构（Certificate Authority）；保密协议（Confidentiality Agreement）
 
@@ -897,7 +897,7 @@
 
 * C6ISR：指挥、控制、通信、计算机、网络防御、战斗系统、情报、监视与侦察（C5, Combat systems & ISR）
 
-## 2.4 D
+## D
 
 * DAA：直接匿名作证（Direct Anonymous Attestation）
 
@@ -1219,7 +1219,7 @@
 
 * D3FEND：赋能网络防御的检测、拒止和扰乱框架（Detection, Denial, and Disruption Framework Empowering Network Defense）
 
-## 2.5 E
+## E
 
 * EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）
 
@@ -1423,7 +1423,7 @@
 
 * E3：拓线分析、信息富化和结果评价（Expansion, Enrichment & Evaluation）
 
-## 2.6 F
+## F
 
 * FAB：特色、优势、价值（Feature, Advantage & Benefit）
 * FAR：错误接受率（False Acceptance Rate）；现场机柜室（Field Assemble Rack Room）
@@ -1483,7 +1483,7 @@
 * FWaaS：防火墙即服务（FireWall as a Service）
 * F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
 
-## 2.7 G
+## G
 
 * GAN：生成式对抗网络（Generative Adversarial Networks）
 
@@ -1587,7 +1587,7 @@
 
 * GUID：全局唯一标识符（Globally Unique Identifier）
 
-## 2.8 H
+## H
 
 * HA：高可用（High Availability）
 
@@ -1675,7 +1675,7 @@
 
 * HWASan：硬件辅助地址检查器（Hardware-assisted Address Sanitizer）
 
-## 2.9 I
+## I
 
 * IA：信息保障（Information Assurance）；互联网访问（Internet Access）
 
@@ -2009,7 +2009,7 @@
 
 * I2P：隐形网计划（Invisible Internet Project）
 
-## 2.10 J
+## J
 
 * JAD：联合应用开发模式（Joint Application Development）
 
@@ -2075,7 +2075,7 @@
 
 * JWT：JSON Web令牌（JSON Web Token）
 
-## 2.11 K
+## K
 
 * KBA：基于知识的鉴别（Knowledge-Based Authentication）
 
@@ -2141,7 +2141,7 @@
 
 * K8S：Kubernetes容器管理工具（Kubernetes）
 
-## 2.12 L
+## L
 
 * LAC：L2TP访问集中器（L2TP Access Concentrator）；位置区码（Location Area Code）；中文词法分析（Lexical Analysis of Chinese）
 
@@ -2221,7 +2221,7 @@
 
 * L2TP：二层隧道协议（Layer 2 Tunneling Protocol）
 
-## 2.13 M
+## M
 
 * MaaS：恶意程序即服务（Malware as a Service）
 
@@ -2437,7 +2437,7 @@
 
 * M2M：机器间通信（Machine-to-Machine）
 
-## 2.14 N
+## N
 
 * N/A：不适用（Not Applicable）
 
@@ -2637,7 +2637,7 @@
 
 * NXD：不可执行数据（Non-Executable Data）
 
-## 2.15 O
+## O
 
 * OA：办公自动化（Office Automation）
 
@@ -2795,7 +2795,7 @@
 
 * OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
 
-## 2.16 P
+## P
 
 * PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）
 * PaaS：平台即服务（Platform As A Service）
@@ -2931,7 +2931,7 @@
 * P2P：对等网络（Peer-to-Peer）
 * P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
 
-## 2.17 Q
+## Q
 
 * QA：质量保证（Quality Assurance）
 
@@ -2945,7 +2945,7 @@
 
 * QVM：奇虎支持向量机（Qihoo Support Vector Machine）
 
-## 2.18 R
+## R
 
 * RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）
 
@@ -3105,7 +3105,7 @@
 
 * RVA：相对虚拟地址（Relative Virtual Address）
 
-## 2.19 S
+## S
 
 * SA：态势感知（Situation Awareness）；系统管理员（System Administrator）；5G独立组网（StandAlone）；源地址（Source Address）；服务代理（Service Agent）
 
@@ -3557,7 +3557,7 @@
 
 * S2C2F：安全供应链消费框架（Secure Supply Chain Consumption Framework）
 
-## 2.20 T
+## T
 
 * TA：可信应用（Trusted Application）；跟踪区（Tracking Area）；时耗分析（Timing Analysis）
 * TAC：跟踪区码（Tracking Area Code）；类型分配码（Type Allocation Code）
@@ -3657,7 +3657,7 @@
 * TVF：表值函数（Table-Valued Function）
 * TXT：可信执行技术（Trusted eXecution Technology）；DNS文本资源记录（text）
 
-## 2.21 U
+## U
 
 * UA：用户代理（User Agent）；用户鉴别（User Authentication）
 * UAC：用户账户控制（User Account Control）；用户代理客户端（User Agent Client）
@@ -3710,7 +3710,7 @@
 * UUID：通用唯一识别码（Universally Unique Identifier）
 * U2F：通用双因子认证（Universal 2nd Factor）
 
-## 2.22 V
+## V
 
 * VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
 
@@ -3812,7 +3812,7 @@
 
 * V2X：车物通信（Vehicle-to-Everything）
 
-## 2.23 W
+## W
 
 * WA：瓦森纳协定（Wassenaar Arrangement）
 
@@ -3890,7 +3890,7 @@
 
 * W3C：万维网联盟（World Wide Web Consortium）
 
-## 2.24 X
+## X
 
 * XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
 
@@ -3934,13 +3934,13 @@
 
 * X3DH：扩展式三路DH协议（Extended Triple Diffie-Hellman）
 
-## 2.25 Y
+## Y
 
 * YAML：YAML序列化格式（YAML Ain't Markup Language）
 
 * YARA：YARA规则语言（Yet Another Ridiculous Acronym）
 
-## 2.26 Z
+## Z
 
 * ZCAIA：中关村网络安全产业联盟（Zhongguancun Cyberspace Affairs Industry Association）
 
@@ -3956,7 +3956,7 @@
 
 * ZTNA：零信任网络访问（Zero Trust Network Access）
 
-## 2.27 0-9
+## 0-9
 
 * 2B：面向企业（To Business）
 
