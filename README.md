@@ -526,7 +526,7 @@
 * DiD：纵深防御（Defense in Depth）
 * DIEA：美国国防部信息体系架构（DoD Information Enterprise Architecture）
 * DII：国防信息基础设施（Defense Information Infrastructure）
-* DIKM：数据-信息-知识-智慧模型（Data-Information-Knowledge- Wisdom）
+* DIKM：数据-信息-知识-智慧模型（Data-Information-Knowledge-Wisdom）
 * DIM：维度（Dimension）
 * DIP：目的IP（Destination IP）
 * DIS：国际标准草案（Draft International Standard）；数字免疫系统（Digital Immune System）
