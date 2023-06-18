@@ -1,7 +1,7 @@
 
 # 网络安全缩略词表
 
-作为网络安全从业者，我们经常会被别人甩出一堆莫名其妙的缩略词，仿佛不用缩略词就不能沟通。
+作为网络安全从业者，我们经常会被别人甩出一堆莫名其妙的缩略词，似乎不用缩写就不能沟通。
 
 本列表收录了网络安全行业日常沟通中可能出现了数千条缩略词。相当多的缩略词有多种含义，下表大致按照行业相关度、词频等因素对多个含义进行排序。读者在阅读其他文献时如果遇到未加解释的缩略词，可以查询本表获得中英文全称。
 
@@ -10,10 +10,12 @@
 
 ## A
 
+* A&A：评估与授权（Assessment & Authorization）；认证与授权（ Authentication & Authorization）
 * AAA：认证、授权与核查（Authentication, Authorization & Accounting）
 * AAAA：认证、授权、审计与核查（Authentication, Authorization, Auditing & Accounting）；DNS IPv6地址资源记录（Address × 4）
 * AAC：自适应访问控制（Adaptive Access Control）
-* AAL：认证器保障级别（Authenticator Assurance Level）
+* AAD：Azure活动目录（Azure Active Directory）
+* AAL：应用许可列表（Application Allowlisting）；认证器保障级别（Authenticator Assurance Level）
 * AB：认可机构（Accreditation Body）
 * ABAC：基于属性的访问控制（Attribute-Based Access Control）
 * ABI：基于活动的情报（Activity-Based Intelligence）；应用二进制接口（Application Binary Interface）
@@ -27,9 +29,11 @@
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
+* ACO：认证密码偏移量（Authenticated Ciphering Offset）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACS：访问控制服务（Access Control Service）
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）
+* ADCS：活动目录证书服务（Active Directory Certificate Services）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
@@ -40,8 +44,9 @@
 * AEAD：关联数据的认证加密（Authenticated Encryption with Associated Data）
 * AEP：敌手模拟计划（Adversary Emulation Plan）；高级端点防护（Advanced Endpoint Protection）
 * AES：先进加密标准（Advanced Encryption Standard）
+* AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
+* AES-CCM：AES CCM模态（Advanced Encryption Standard–Counter with CBC-MAC）
 * AES-NI：因特尔AES指令集 (the Intel Advanced Encryption Standard New Instructions)
-
 * AFS：安德鲁文件系统（Andrew File System）
 * AGM：隶属图模型（Affiliation Graph Model）
 * AH：认证头部（Authentication Header）；接受主机（Accept Host）
@@ -118,7 +123,9 @@
 * AWS：亚马逊云服务（Amazon Web Services）
 * A2AD：反介入／区域拒止（Anti-Access & Area Denial）
 
+
 ## B
+
 
 * BaaS：备份即服务（Backup-as-a-Service）；后端即服务（Backend-as-a-Service）
 * BAB：谷歌Borg二进制授权（Binary Authentication on Borg）
@@ -169,6 +176,7 @@
 * BYOD：用户自带设备（Bring Your Own Device）
 * BYOE：企业自助使用（Bring Your Own Enterprise）
 
+
 ## C
 
 * CA：数字证书认证机构（Certificate Authority）；保密协议（Confidentiality Agreement）
@@ -201,6 +209,7 @@
 * CASE：计算机辅助软件工程（Computer-Aided Software Engineering）
 * CATR：电信研究院（China Academy of Telecommunication Research）
 * CAVP：加密算法确认程序（Cryptographic Algorithm Validation Program）
+* CBA：基于组件的架构（Component-Based Architecture）
 * CBAC：基于主张的访问控制（Claims-Based Access Control）；基于上下文的访问控制（Context-Based Access Control）
 * CBC：密文块链接模态（Cipher Block Chaining）
 * CBI：云浏览器隔离（Cloud Browser Isolation）；主张式身份（Claims-Based Identity）
@@ -246,6 +255,7 @@
 * CCTV：闭路电视（Closed Circuit Television）；中国中央电视台（China Central Television）
 * CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）
 * CDA：保密协议（Confidential Disclosure Agreement）
+* CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）
 * CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）
 * CDD：码分复用（Code Division Duplexing）
 * CDES：跨域企业级服务（Cross Domain Enterprise Service）
@@ -260,6 +270,7 @@
 * CE：网络窃取（Cyber Exploitation）
 * CEC：中国电子信息产业集团有限公司（China Electronics Corporation）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
+* CEF：通用事件格式（Common Event Format）
 * CEM：通用准则评价方法（CC Evaluation Methodology）
 * CEN：欧洲标准化委员会（法语：Comité Européen de Normalisation）
 * CENELEC：欧洲电工标准化委员会（法语：Comité Européen de Normalisation Électrotechnique）
@@ -321,7 +332,7 @@
 * CLS：无证书签名（Certificateless Signature）
 * CM：配置管理（Configuration Management）；持续监视（Continuous Monitoring）
 * CMAC：基于密码的消息验证码（Cipher-Based Message Authentication Code）
-* CMD：网络空间拟态防御（Cyber Minic Defense）；操作命令（Command）
+* CMD：网络空间拟态防御（Cyber Minic Defense）；操作命令（command）
 * CMDB：配置管理数据库（Configuration Management Database）
 * CMF：网络任务部队（Cyber Mission Force）；内容监控过滤（Content Monitoring & Filtering）；收集管理框架（Collection Management Framework）
 * CMM：能力成熟度模型（Capability Maturity Model）
@@ -351,7 +362,7 @@
 * CNI：容器网络接口（Container Network Interface）；关键国家基础设施（Critical National Infrastructure）
 * CNIL：法国国家数据保护委员会（法语：Commission Nationale Informatique et Libertés）
 * CNITSEC：中国信息安全测评中心（China Information Technology Security Evaluation Center）
-* CNMF：国家网络任务部队（Cyber National Mission Force）
+* CNMF：美国国家网络任务部队（Cyber National Mission Force）
 * CNNIC：中国互联网络信息中心（China Internet Network Information Center）
 * CNNVD：中国国家信息安全漏洞库（China National Vulnerability Database of Information Security）
 * CNRI：美国国家研究推进机构（Corporation for National Research Initiatives）
@@ -420,7 +431,6 @@
 * CSR：凭证签发请求（Certificate Signing Request）；控制状态寄存器（Control and Status Register）
 * CSRF：跨站请求伪造（Cross Site Request Forgery）
 * CSS：层叠样式表（Cascading Style Sheets）；美国中央安全署（Central Security Service）
-
  * CSSTP：安全众测平台（Crowdsourced Software Security Testing Platform）
 *  CSTC：密码行业标准化技术委员会（Cryptography Standardization Technical Committee）
 * CSTIS：网络安全威胁和漏洞信息共享平台（Cyber Security Threat Information Sharing Platform）
@@ -462,6 +472,7 @@
 
 ## D
 
+* D&A：数据与分析（Data & Analytics）
 * DAA：直接匿名作证（Direct Anonymous Attestation）
 * DaaS：检测即服务（Detection as a Service）；目录即服务（Directory as a Service）；桌面即服务（Desktop as a Service）；数据即服务（Data as a Service）
 * DAC：自主访问控制模型（Discretionary Access Control）
@@ -843,7 +854,7 @@
 
 ## H
 
-* HA：高可用（High Availability）
+* HA：高可用（High Availability）  
 * HAG：高保障卫士（High Assurance Guard）
 * HAL：硬件抽象层（Hardware Abstraction Layer）
 * HBS：基于硬件的安全（Hardware-Based Security）
@@ -861,6 +872,7 @@
 * HDLC：高级数据链路控制（High-level Data Link Control）
 * HDR：主机检测与响应（Host Detection & Response）
 * HE：同态加密（Homomorphic Encryption）
+* HFO：前出狩猎行动（Hunt Forward Operation）
 * HIDS：主机入侵检测系统（Host Intrusion Detection System）
 * HIPAA：美国健康保险便携性与责任法案（Health Insurance Portability and Accountability Act）
 * HIPS：主机入侵预防系统（Host Intrusion Prevention System）
@@ -1118,7 +1130,6 @@
 * KQL：Kusto查询语言（Kusto Query Language）；Kibana查询语言（Kibana Query Language）；关键词查询语言（Keyword Query Language）
 * KRACK：KRACK攻击（Key Reinstallation Attacks）
 * KRI：关键风险指标（Key Risk Indicator） 
-
 * KRR：知识表示和推理（Knowledge Representation and Reasoning）
 * KSF：关键成功因素（Key Success Factor）
 * KSK：密钥签名密钥（Key-Signing Key）
@@ -1203,7 +1214,6 @@
 * MFT：主文件表（Master File Table）；受控文件传输（Managed File Transfer）
 * MGCP：媒体网关控制协议（Media Gateway Control Protocol）
 * MGF：掩码生成函数（Mask Generation Function） 
-
 * MHA：印度内政部（Ministry of Home Affairs）
 * MIB：管理信息库（Management Information Base）
 * MIC：强制完整性控制（Mandatory Integrity Control）
@@ -1263,7 +1273,6 @@
 * HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
 * MSSP：托管式安全服务提供商（Managed Security Services Provider）
 * MT：机床（Machine Tool） 
-
 * MTBF：平均故障间隔（Mean Time Between Failures）
 * MTC：移动威胁目录（Mobile Threat Catalogue）
 * MTD：移动目标防御（Moving Target Defense）；最大允许中断时间（Maximum Tolerable Downtime）
@@ -1359,8 +1368,7 @@
 * NSA：美国国家安全局（National Security Agency）；5G非独立组网（Non-Standalone）
 * NSATP：注册网络安全测评专业人员（Certified Cybersecurity Assessment Professional）
 * NSB：国家标准化团体（National Standards Body）；美国国家科学理事会（National Science Board）
-
- * NSC：网络交换板（Network Switch Cards）
+* NSC：网络交换板（Network Switch Cards）
 * NSEC：美国国家安全工程中心（National Security Engineering Center）
 * NSIN：美国国家安全创新网络（National Security Innovation Network）
 * NSM：网络安全监控（Network Security Monitoring）
@@ -1678,8 +1686,7 @@
 * RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）
 * RST：连接重置（Reset The Connection）
 * RT：红队（Red Team）；红队测试（Red Teaming）
-
- * RTC：实时通信（Real-time Communication）
+* RTC：实时通信（Real-time Communication）
 * RTCP：RTP控制协议（RTP Control Protocol）
 * RTM：可信度量根（Root of Trust for Measurement）
 * RTMP：实时消息协议（Real-Time Messaging Protocol）
@@ -1691,6 +1698,7 @@
 * RTU：远程终端单元（Remote Terminal Unit）
 * RuBAC：基于规则的访问控制（Rule-Based Access Control）
 * RUM：真实用户监控（Real User Monitoring）
+* RUP：统一软件开发过程（Rational Unified Process）
 * RVA：相对虚拟地址（Relative Virtual Address）
 
 ## S
@@ -1962,6 +1970,7 @@
 * TGS：票授权服务（Ticket Granting Service）
 * TGT：票授权票据（Ticket Granting Ticket）
 * TH：威胁狩猎（Threat Hunting）
+* THP：威胁狩猎过程（Threat Hunting Process）；威胁狩猎平台（Threat Hunting Platform）；威胁狩猎专家（Threat Hunting Professional）；透明巨页（Transparent Huge Page）
 * TIB：标记信息库（Tag Information Base）
 * TIBER-EU：欧洲威胁情报道德红队框架（European framework for Threat Intelligence-Based Ethical Red-teaming）
 * TIC：威胁情报计算（Threat Intelligence Computing）；可信网络连接计划（Trusted Internet Connects）
@@ -2112,7 +2121,6 @@
 * VRF：虚拟路由转发（Virtual Routing Forwarding）；验证随机函数（Verifiable Random Function）
 * VRM：供应商风险管理（Vendor Risk Management）
 * VRRP：虚拟路由冗余协议（Virtual Router Redundancy Protocol） 
-
 * VSAM：虚拟存储访问方法（Virtual Storage Access Method）
 * VSS：来访用户服务器（Visitor Subscriber Server）
 * VT：某威胁样本分析网站（VirusTotal）
@@ -2132,7 +2140,7 @@
 
 * WA：瓦森纳协定（Wassenaar Arrangement）
 * WAAP：Web应用与API保护（Web Application & API Protection）
-* WAF：Web应用防护系统（Web Application Firewall）
+* WAF：Web应用防火墙（Web Application Firewall）
 * WAM：Web访问管理（Web Access Management）
 * WAN：广域网（Wide Area Network）
 * WANET：无线自组织网络（Wireless Ad-hoc NETwork）
