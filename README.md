@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词**2251**条，释义**2726**条。 
+当前收录缩略词**2313**条，释义**2777**条。 
 
 
 
@@ -30,8 +30,10 @@
 * ABMS：先进战斗管理系统（Advanced Battle Management System）
 * ABNT：巴西国家标准化组织（葡萄牙语：Associação Brasileira de Normas Técnicas）
 * AC：访问控制（Access Control）；上网行为管理（Access Control）；应用接入数据中心（Application Center）；攻击复杂度（Attack Complexity）
+* ACC：应用指令中心（Application Command Center）
 * ACE：访问控制项（Access Control Entry）
 * ACG：应用控制网关（Application Control Gateway）
+* ACI：航空网络计划（Aviation Cyber Initiative）
 * ACK：确认标志（Acknowledge flag）
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
@@ -44,6 +46,7 @@
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
+* ADO：ActiveX数据对象（ActiveX Data Object）
 * ADP：自动数据处理（Automated Data Processing）
 * ADR：应用安全检测与响应（Application Detection & Response）
 * ADS：数据应用服务（Application Data Service）
@@ -55,8 +58,11 @@
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
 * AES-NI：
 * AFS：安德鲁文件系统（Andrew File System）
+* AG：接入网关（Access Gateway）
+* AGA：美国天然气协会（American Gas Association）
 * AGM：隶属图模型（Affiliation Graph Model）
 * AH：认证头部（Authentication Header）；接受主机（Accept Host）
+* AHA：美国医院协会（American Hospital Association）
 * AI：人工智能（Artificial Intelligence）
 * AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
 * AIDM：应用与基础设施依赖映射（Application And Infrastructure Dependency Mapping）
@@ -64,19 +70,24 @@
 * AIK：作证身份密钥（Attestation Identity Key）；自动化安装工具包（Automated Installation Kit）
 * AIO：多合一（All-In-One）；异步输入输出（Asynchronous Input/Output）
 * AIoT：人工智能物联网（Artificial Intelligence for the Internet of Things）
+* AIP：攻击拦截点（Attack Interdiction Point）
 * AIS：自动标示共享（Automated Indicator Sharing）；自动化信息系统（Automated Information System）；船载自动识别系统（Automatic Identification System）
+* AISP：帐户信息服务提供商（Account Information Service Provider）
 * AIVD：荷兰情报安全总局（荷兰语：Algemene Inlichtingen en Veiligheidsdienst）
 * AJAX：异步JavaScript和XML（Asynchronous Javascript And XML）
 * AK：访问密钥（Access Key）
 * AKC：非对称密钥加密（Asymmetric Key Cryptography）
 * AKE：鉴别密钥交换（Authenticated Key Exchange）
+* ALB：应用负载均衡器（Application Load Balancer）
 * ALE：年化损失预期（Annualized Loss Expectancy）
 * ALFA：授权策略简易语言（Abbreviated Language For Authorization）
+* ALM/PLM：应用生命周期管理/产品生命周期管理（Application Lifecycle Management/Product Lifecycle Management）
 * ALPN：应用层协议协商（Application Layer Protocol Negotiation）
 * ALTS：应用层传输安全（Application Layer Transport Security）
 * AM：资产管理（Asset Management）；访问管理（Access Management）；资产移动性（Asset Mobility）
 * AMD：超微半导体公司（Advanced Micro Devices, Inc）
 * AML：反洗钱（Anti-Money Laundering）
+* AMP：备用MAC/PHY（Alternate MAC/PHY）
 * AMSI：反恶意软件扫描接口（Anti-Malware Scan Interface）
 * ANN：人工神经网络（Artificial Neural Network）；近似近邻（Approximate Nearest Neighbor）
 * ANS：美国国家标准（American National Standard）
@@ -99,6 +110,7 @@
 * ARM：高级精简指令集机器（Advanced RISC Machines）
 * ARO：年度发生率（Annualized Rate of Occurrence）
 * ARP：地址解析协议（Address Resolution Protocol）
+* ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
 * AS：互联网自治域（Autonomous System）
 * ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）
 * ASan：地址检查器（Address Sanitizer）
@@ -124,7 +136,8 @@
 * ATS：iOS应用传输安全（App Transport Security）
 * ATSD：数字对象体系架构应用技术与标准促进组织（DOA Application Technology Standardization & Development）
 * ATT&CK：敌手战术、战技和通识（Adversarial Tactics, Techniques, and Common Knowledge）
-* AUP：可接受的使用策略（Acceptable Use Policy）
+* AU：审计与可问责性（Audit & Accountability）
+* AUP：可接受的使用策略（Acceptable Use Policy）；商定程序（Agreed-Upon Procedure）
 * AV：反病毒软件（Anti-Virus）；攻击载体（Attack Vector）
 * AVC：应用漏洞关联（Application Vulnerability Correlation）
 * AVP：属性－值对（Attribute-Value Pair）
@@ -151,6 +164,7 @@
 * BCM：业务连续性管理（Business Continuity Management）
 * BCP：业务连续性计划（Business Continuity Plan）
 * BCR：约束性公司准则（Binding Corporate Rules）
+* BDA：战斗损伤评估（Battle Damage Assessment）
 * BEAST：BEAST攻击（Browser Exploit Against SSL/TLS）
 * BEP：行为执行预防（Behavioral Execution Prevention）
 * BER：基本编码规则（Basic Encoding Rules）
@@ -169,6 +183,7 @@
 * BLP：贝尔-拉帕杜拉模型（Bell-LaPadula）；旁路标签处理（Bypass Label Processing）
 * BME：燃烧铸造平衡模型（Burn-And-Mint Equilibrium）
 * BMIS：信息安全业务模型（Business Model for Information Security）
+* BOA：缓冲区溢出攻击（Buffer Overflow Attack）
 * BOD：约束性行动指令（Binding Operational Directives）；董事会（Board of Directors）
 * BoF：话题兴趣组（Birds of a Feather）
 * BOSS：业务运营支撑系统（Business & Operation Support System）
@@ -237,7 +252,9 @@
 * CAVP：加密算法确认程序（Cryptographic Algorithm Validation Program）
 * CBA：基于组件的架构（Component-Based Architecture）
 * CBAC：基于主张的访问控制（Claims-Based Access Control）；基于上下文的访问控制（Context-Based Access Control）
+* CBAM：Cloudband应用程序管理器（Nokia Cloudband Application Manager）
 * CBC：密文块链接模态（Cipher Block Chaining）
+* CBC-MAC：密码块链 - 消息验证码（Cipher Block Chaining - Message Authentication Code）
 * CBI：云浏览器隔离（Cloud Browser Isolation）；主张式身份（Claims-Based Identity）
 * CBK：通用知识体系（Common Body of Knowledge）
 * CBM：组件化业务模型（Component Business Model）
@@ -252,7 +269,7 @@
 * CCC：中国强制认证（China Compulsory Certification）；网络安全协作中心（Cybersecurity Collaboration Center）
 * CCDB：通用准则开发组（Common Criteria Development Board）
 * CCE：通用配置枚举（Common Configuration Enumeration）
-* CCF：中国计算机学会（China Computer Federation）
+* CCF：中国计算机学会（China Computer Federation）；CAPIF 核心功能（CAPIF Core Function）
 * CCFIR：紧凑控制流完整性和随机化（Compact Control Flow Integrity and Randomization）
 * CCI：网络反间谍（Cyber Counterintelligence）；通用控制索引（Common Control Index）
 * CCIA：中国网络安全产业联盟（China Cybersecurity Industry Alliance）
@@ -274,11 +291,12 @@
 * CCS：ACM计算机与通信安全会议（the ACM Conference on Computer & Communications Security）
 * CCSA：中国通信标准化协会（China Communications Standards Association）
 * CCSC：网络安全能力认证（Certification for Cyber Security Competence）
+* CCSDS：空间数据系统咨询委员会（The Consultative Committee for Space Data Systems）
 * CCSP：网络安全等级保护（Classified Cyber Security Protection）；CCF大学生计算机系统与程序设计竞赛（Collegiate Computer Systems & Programming contest）
 * CCSRP：网络与信息安全应急人员认证（Certified Cyber Security Response Professional）
 * CCTC：商用密码检测中心（Commercial Cryptography Testing Center）
 * CCTV：闭路电视（Closed Circuit Television）；中国中央电视台（China Central Television）
-* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）
+* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）；后果驱动（Consequence-Driven）
 * CDA：保密协议（Confidential Disclosure Agreement）
 * CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）
 * CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）
@@ -305,6 +323,7 @@
 * CERN：欧洲核子研究中心（法语：Conseil Européen pour la Recherche Nucléaire）
 * CERT：计算机应急响应组（Computer Emergency Response Team）
 * CESD：英国通信电子安全部（Communications-Electronic Security Department）
+* CESER：网络安全、能源安全和应急响应（Cybersecurity, Energy Security, and Emergency Response）
 * CESG：GCHQ通信电子安全组（Communications-Electronic Security Group）
 * CESS：网络空间内生安全（Cyberspace Endogenous Safety and Security）
 * CET：控制流强制技术（Control-Flow Enforcement Technology）
@@ -324,38 +343,45 @@
 * CGI： 通用网关接口（Common Gateway Interface）
 * CGS：社区黄金标准框架（Community Gold Standard）
 * CHAP：挑战握手鉴别协议（Challenge-Handshake Authentication Protocol）
-* CHERI：权能硬件增强式RISC指令（Capability Hardware Enhanced RISC Instructions）
+* CHERI：功能硬件增强 RISC 指令（Capability Hardware Enhanced RISC Instructions）
 * CI：关键基础设施（Critical Infrastructures）；反情报（Counter Intelligence）；配置项（Configuration Item）；基站小区标识（Cell Identifier）；持续集成（Continuous Integration）；融合基础设施（Converged Infrastructure）
 * CIA：保密性、完整性和可用性（Confidentiality, Integrity & Availability）；美国中央情报局（Central Intelligence Agency）；刑侦分析（Criminal Investigative Analysis）
 * CIAM：客户身份与访问管理（Customer Identity & Access Management）
+* CIBA：客户端启动的反向通道身份验证（Client Initiated Backchannel Authentication）
 * CICA：加拿大特许会计师协会（Canadian Institute of Chartered Accountants）
 * CICC：中国指挥与控制学会（Chinese Institute of Command and Control）；IEEE专用集成电路会议（IEEE Custom Integrated Circuits Conference）
 * CICS-CERT：国家工业信息安全发展研究中心（China Industrial Control Systems Cyber Emergency Response Team）
 * CIDF：通用入侵检测框架（Common Intrusion Detection Framework）
 * CIDR：无类域间路由（Classless Interdomain Routing）
+* CIE：网络信息工程（Cyber-Informed Engineering）
 * CIEM：云基础设施权利管理（Cloud Infrastructure Entitlements Management）
 * CIFS：通用互联文件系统（Common Internet File System）
 * CIG：云身份治理（Cloud Identity Governance）
+* CIGRE：国际大型电力系统理事会（International Council on Large Electric Systems）
 * CII：关键信息基础设施（Critical Information Infrastructures）
 * CIIP：关键信息基础设施保护（Critical Information Infrastructure Protection）
 * CIKR：关键基础设施和重要资源（Critical Infrastructure and Key Resources）
 * CIM：公共信息模型（Common Information Model）
 * CIMOM：公共信息模型对象管理器（Common Information Model Object Manager）
 * CIO：首席信息官（Chief Information Officer）
-* CIP：关键基础设施保护（Critical Infrastructure Protection）
+* CIP：关键基础设施保护（Critical Infrastructure Protection）；通用工业协议（Common Industrial Protocol）
+* CIPAC：关键基础设施伙伴关系咨询委员会（Critical Infrastructure Partnership Advisory Council）
 * CIRT：计算机事件应急响应小组（Computer Incident Response Team）
 * CIS：全面内网安全（Comprehensive Intranet Security）；互联网安全中心（Center for Internet Security）；计算机信息系统（Computer Information System）
 * CISA：认证信息系统审核员（Certified Information Systems Auditor）；美国网络安全与基础设施安全局（Cybersecurity & Infrastructure Security Agency）；网络安全信息共享法案（Cybersecurity Information Sharing Act）
 * CISAW：信息安全保障人员认证（Certified Information Security Assurance Worker）
 * CISCP：网络信息分享协作计划（Cyber Information Sharing and Collaboration Program）
-* CISO：首席信息安全官（Chief information security officer）；注册信息安全管理员（Certified Information Security Officer）
+* CISM：信息安全管理师（Certified Information Security Manager）
+* CISO：注册信息安全管理员（Certified Information Security Officer）；首席信息安全官（Chief Information Security Officer）
 * CISP：注册信息安全专业人员（Certified Information Security Professional）
+* CISQ：信息与软件质量联盟（Consortium for Information & Software Quality）
 * CISSO：认证信息系统安全官（Certified Information Systems Security Officer）；美国涉密信息共享和保护办公室（Classified Information Sharing and Safeguarding Office）
 * CISSP：信息系统安全专业认证（Certification for Information System Security Professional）
 * CJA：王冠珍珠分析（Crown Jewels Analysis）
 * CK：ClickHouse数据库（ClickHouse）；Cohn-Kanade数据集（Cohn-Kanade）；列键（Column Key）
 * CLG：社区主导型增长（Community-Led Growth）
 * CLOB：字符大对象（Character Large Object）
+* CloudSPF：云安全策略框架（Cloud Security Policy Framework）
 * CLS：无证书签名（Certificateless Signature）
 * CLUE：中文语言理解评测（Chinese Language Understanding Evaluation）
 * CM：配置管理（Configuration Management）；持续监视（Continuous Monitoring）
@@ -397,6 +423,7 @@
 * CNRI：美国国家研究推进机构（Corporation for National Research Initiatives）
 * CNSS：美国国家安全系统委员会（Committee on National Security Systems）
 * CNSSI：美国国家安全系统委员会指示（Committee on National Security Systems Instruction）
+* CNSSP：国家安全系统委员会出版物（Committee on National Security Systems Publication）
 * CNVD：国家信息安全漏洞共享平台（China National Vulnerability Database）
 * CoA：行动措施（Course of Action）
 * COBIT：信息与技术控制目标框架（Control Objectives for Information and related Technology）
@@ -413,7 +440,7 @@
 * CORPINT：竞争情报（Corporate Intelligence）
 * CORS：跨域资源共享（Cross-Origin Resource Sharing）
 * COS：片内操作系统（Chip Operating System）
-* COSO：特雷德韦委员会发起人委员会（Committee of Sponsoring Organizations of the Treadway Commission）
+* COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * COTS：商用现货（Commercial Off-The-Shelf）
 * CP：应急计划（Contingency Planning）；证书策略（Certificate Policy）；复制（copy）
 * CPA：选择明文攻击（Chosen-Plaintext Attack）；注册会计师（Certified Public Accountant）；单次获客成本（Cost Per Acquisition）；商用产品确保（Commercial Product Assurance）
@@ -498,6 +525,7 @@
 * D&A：数据与分析（Data & Analytics）
 * D3A：决策、检测、交付和评估（Decide, Detect, Deliver & Assess）
 * D3FEND：赋能网络防御的检测、拒止和扰乱框架（Detection, Denial, and Disruption Framework Empowering Network Defense）
+* D@RE：静态数据加密（Data at Rest Encryption）
 * DAA：直接匿名作证（Direct Anonymous Attestation）
 * DaaS：检测即服务（Detection as a Service）；目录即服务（Directory as a Service）；桌面即服务（Desktop as a Service）；数据即服务（Data as a Service）
 * DAC：自主访问控制模型（Discretionary Access Control）
@@ -519,6 +547,7 @@
 * DBSCAN：噪声应用密度空间聚类算法（Density-Based Spatial Clustering of Applications with Noise）
 * DC：域控制器（Domain Controller）；主数据中心（Data Center）
 * DC3：美国国防部网络犯罪中心（the Department of Defense Cyber Crime Center）
+* DCAP：以数据为中心的审计和保护（Data Centric Audit and Protection）
 * DCB：数据中心桥接（Data Center Bridging）
 * DCE：数据电路终端设备（Data Circuit-Terminating Equipment）；分布式计算环境（Distributed Computing Environment）
 * DCEO：防御性网络行动（Defensive Cyber Effects Operation）
@@ -981,6 +1010,7 @@
 * ICANN：互联网名称与数字地址分配机构（The Internet Corporation for Assigned Names and Numbers）
 * ICAP：互联网内容适配协议（Internet Content Adaptation Protocol）
 * ICASI：互联网安全促进产业联盟（the Industry Consortium for Advancement of Security）
+* ICCP：互操作控制中心协议（Inter-Control Center Communications Protocol）
 * ICDT：信息通信与数据技术（Information, Communication & Data Technology）
 * ICE：网络环境情报（Intelligence on Cyber Environment）；交互连接建立协议（Interactive Connectivity Establishment）
 * ICES：集成云邮件安全 （Integrated Cloud Email Security）
@@ -1211,6 +1241,7 @@
 * LAC：L2TP访问集中器（L2TP Access Concentrator）；位置区码（Location Area Code）；中文词法分析（Lexical Analysis of Chinese）
 * LaC：基础设施即代码（Infrastructure as Code）
 * LaMDA：LaMDA模型（Language Models for Dialog Applications）
+* LAS：日志审计系统（Log Auditing System）
 * LB：负载均衡（Load Balance）
 * LBS：基于位置的服务（Location-Based Service）
 * LBSA：基于实验室的安全评估（Lab-Based Security Assessment）
@@ -1308,6 +1339,7 @@
 * MNS：大规模通知系统（Mass Notification System）
 * MO：惯用手法（Modus Operandi）
 * MOD：国际标准修改后引入（Modified）；国防部（Ministry of Defence）
+* MODAF：英国国防部架构框架（British Ministry of Defence Architecture Framework）
 * ModelOps：模型运营（Model Operations）
 * MOM：动机、机会和手段（Motive, Opportunity and Means）；面向消息的中间件（Message-Oriented Middleware）
 * MOPS：每秒百万次运算数（Million Operations Per Second）
@@ -1383,7 +1415,9 @@
 * NC：国家级委员会（National Committee）
 * NCC：国家协调中心（National Coordination Center）；国家网络安全中心（The National Cybersecurity Center）
 * NCCC：国家网络协调中心（National Cyber Coordination Centre）
+* NCCIC：国家网络和通信集成中心（National Cybersecurity and Communications Integration Center）
 * NCCM：网络配置和变更管理（Network Configuration & Change Management）
+* NCCoE：美国国家网络安全卓越中心（National Cybersecurity Center of Excellence）
 * NCD：美国国家网络总监（National Cyber Director）
 * NCF：国家关键职能（National Critical Functions）
 * NCIIPC：国家关键信息基础设施保护中心（National Critical Information Infrastructure Protection Centre）
@@ -1458,6 +1492,7 @@
 * NSTC：美国国家科技咨议会（National Science & Technology Council）
 * NSTIC：美国国家网络空间可信身份战略（National Strategy for Trusted Identities in Cyberspace）
 * NTA：网络流量分析（Network Traffic Analysis）
+* NTCTF：NAS/CSS网络空间威胁框架（NSA/CSS Technical Cyber Threat Framework）
 * NTFS：Windows NT文件系统（New Technology File System）
 * NTLM：Windows NT局域网管家（NT LAN Manager）
 * NTM：网络流量监视器（Network Traffic Monitor）
@@ -1619,6 +1654,7 @@
 * PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
 * PGT：代理授权票据（Proxy Granting Ticket）
 * PHI：个人健康信息（Personal Health Information）
+* PHY：物理层（Physical Layer）
 * PI：个人信息（Personal Information）
 * PIA：隐私影响评估（Privacy Impact Assessment）
 * PIC：位置独立代码（Position Independent Code）
@@ -1647,6 +1683,7 @@
 * PLG：产品主导型增长（Product-Led Growth）
 * PLoP：程序模式语言（Pattern Languages of Programs）
 * PLT：规程链接表（Procedure Linkage Table）
+* PMBOK：项目管理知识体系（Project Management Body of Knowledge）
 * PMI：权限管理基础设施（Privilege Management Infrastructure）
 * PMM：隐私成熟度模型（Privacy Maturity Model）
 * PMO：项目经理（Project Management Officer）；项目管理办公室（Project Management Office）；总理办公室（Prime Minister's Office）
@@ -1706,6 +1743,7 @@
 
 * QA：质量保证（Quality Assurance）
 * QAX：奇安信公司（拼音：Qi An Xin）
+* QEMU：QEMU虚拟化技术（Quick EMUlator）
 * QKD：量子密钥分发（Quantum Key Distribution）
 * QMS：质量管理系统（Quality management system）
 * QoS：服务质量（Quality of Service）
@@ -1845,6 +1883,7 @@
 * SCIF：敏感分区信息设施（Sensitive Compartmented Information Facility）
 * SCM：安全配置管理（Security Configuration Management）；供应链管理（Supply Chain Management）；软件配置管理（Software Configuration Management）；源码配置管理（Source Configuration Management）；源码管理（Source Code Management）
 * SCONE：安全容器环境（Secure CONtainer Environment）
+* SCP：服务控制策略（Service Control Policy）；安全复制协议（Secure Copy Protocol）
 * SCRM：供应链风险管理（Supply Chain Risk Management）；社会客户关系管理（Social Customer Relationship Management）
 * SCS：影子调用栈（Shadow Call Stack）；供应链安全（Supply Chain Security）
 * SCSI：小型计算机系统接口（Small Computer System Interface）
@@ -2063,6 +2102,7 @@
 * TCMU：中国可信计算工作组（China TCM Union）
 * TCO：总拥有成本（Total Cost of Ownership）；尾调用优化（Tail Call Optimization）
 * TCP：传输控制协议（Transmission Control Protocol）
+* TCPA：可信计算平台联盟（Trusted Computing Platform Alliance）
 * TCS：TCM核心服务（TCM Core Services）
 * TCSEC：可信计算机系统评价标准（Trusted Computer System Evaluation Criteria）
 * TDD：TCM设备驱动（TCM Device Driver）；时分复用（Time Division Duplex）；测试驱动开发（Test-Driven Development）
@@ -2122,6 +2162,7 @@
 * TQM：全面质量管理（Total Quality Management）
 * TR：技术报告（Technical Report）
 * TRADINT：贸易情报（Trade Intelligence）
+* TRANSEC：Transmission Security（传输安全）
 * TRiSM：信任、风险与安全管理（Trust, Risk and Security Management）
 * TRNG：真随机数发生器（True Random Number Generator）
 * TS：技术规范（Technical Specification）；时间戳（Time Stamp）；绝密（Top Secret）
@@ -2176,6 +2217,7 @@
 * UHF：超高频（Ultra High Frequency）
 * UI：用户交互（User Interaction）；用户界面（User Interface）
 * UICC：通用集成电路卡（Universal Integrated Circuit Card）
+* UIM：统一身份管理（Unified Identity Management）
 * UIO：用户空间输入输出（Userspace I/O）
 * UIPI：用户界面特权隔离（User Interface Privilege Isolation）
 * UK：用户类密钥（User Key）
@@ -2214,6 +2256,7 @@
 * V2V：车间通信（Vehicle-to-Vehicle）
 * V2X：车物通信（Vehicle-to-Everything）
 * VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
+* VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
 * VANET：车载自组织网络（Vehicular Ad-hoc Network）
 * VAS：虚拟地址空间（Virtual Address Space）
 * VB：Visual Basic语言（Visual Basic）
@@ -2232,7 +2275,7 @@
 * VF：虚拟功能（Virtual Function）
 * vFW：虚拟防火墙（Virtual Firewall）
 * VHF：甚高频（Very High Frequency）
-* VIP：虚拟IP地址（Virtual IP）
+* VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
 * VIRTIO：虚拟化 I/O（Virtualization Input/Output）
 * VKB：漏洞知识库（Vulnerability Knowledge Base）
 * VLAN：虚拟局域网（Virtual Local Area Network）
@@ -2316,6 +2359,7 @@
 * XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
 * XAI：可解释人工智能（eXplainable Artificial Intelligence）
 * XBT：比特币（Bitcoin）
+* XC：信创（XC）
 * XCCDF：可扩展配置检查表描述格式（The eXtensible Configuration Checklist Description Format）
 * XDP：快速数据路径（eXpress Data Path）
 * XDR：扩展式检测响应（Extended Detection & Response）；外部数据表示（External Data Representation）
@@ -2355,6 +2399,7 @@
 
 
 ## 0-9
+
 
 * 2B：面向企业（To Business）
 * 2C：面向消费者（To Consumer）
