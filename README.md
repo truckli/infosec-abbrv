@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词**2313**条，释义**2777**条。 
+当前收录缩略词**2297**条，释义**2778**条。 
 
 
 
@@ -1184,7 +1184,9 @@
 * JIT：即时编译（Just-In-Time）
 * JMS：联合管理系统（Joint Management. System）
 * JOP：面向跳转编程（Jump Oriented Programming）
+* JOPES：联合作战计划与执行系统（Joint Operation Planning and Execution System）
 * JPEG：联合照片专家组（Joint Photographic Experts Group）
+* JPES：联合计划与执行服务（Joint Planning and Execution Services）
 * JRE：Java运行时环境（Java Runtime Environment）
 * JRSS：联合区域安全栈（Joint Regional Security Stack）
 * JS：JavaScript（JavaScript）
@@ -2399,7 +2401,6 @@
 
 
 ## 0-9
-
 
 * 2B：面向企业（To Business）
 * 2C：面向消费者（To Consumer）
