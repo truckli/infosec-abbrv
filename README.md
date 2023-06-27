@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词**2297**条，释义**2778**条。 
+当前收录缩略词**2303**条，释义**2786**条。 
 
 
 
@@ -647,7 +647,7 @@
 * DPIA：数据保护影响评估（Data Protection Impact Assessment）
 * DPKI：分布式PKI（Distributed PKI）
 * DPO：数据保护官（Data Protection Officer）
-* DR：灾难恢复（Disaster Recovery）
+* DR：灾难恢复（Disaster Recovery）；检测与响应（Detection & Response）
 * DRA：数据风险评估（Data Risk Assessment）；动态资源分配（Dynamic Resource Allocation）
 * DRaaS：灾难恢复即服务（Disaster Recovery as a Service）
 * DRBG：确定性随机比特生成器（Deterministic Random Bit Generator）
@@ -1116,6 +1116,7 @@
 * iSCSI：互联网小型计算机系统接口（Internet Small Computer System Interface）
 * ISDN：综合服务数字网（Integrated Service Digital Network）
 * ISEAA：信息安全测评联盟（InfoSecurity Evaluation and Assessment Association）
+* ISG：基础设施方案组（Infrastructure Solutions Group）
 * ISIRT：信息安全事件响应组（Information Security Incident Response Team）
 * ISM：信息安全管理（Information Security Management）
 * ISMS：信息安全管理体系（Information Security Management System）
@@ -1147,6 +1148,7 @@
 * ITSG：IT供给侧治理（IT Supply-side Governance）
 * ITSM：IT服务管理（IT Service Management）
 * ITSMS：IT服务管理（IT Service Management System）
+* ITSS：信息技术服务标准（IT Service Standard）
 * ITSTEC：信息产业信息安全测评中心（Information Technology & Security Test and Evaluation Center）
 * ITT：入侵容忍技术（Intrusion Tolerance Technology）
 * ITU：国际电信联盟（International Telecommunication Union）
@@ -1207,7 +1209,7 @@
 * KBA：基于知识的鉴别（Knowledge-Based Authentication）
 * KBP：基于知识的证明（Knowledge-Based Proofing）
 * KBV：基于知识的验证（Knowledge-Based Verification）
-* KCM：密钥缓存管理（Key Cache Management）
+* KCM：密钥缓存管理（Key Cache Management）；杀伤链模型（Kill Chain Model）
 * KDC：密钥分发中心（Key Distribute Center）
 * KDD：数据库中的知识发现（Knowledge Discovery in Database）
 * KDF：密钥导出函数（Key Derivation Function）
@@ -1298,6 +1300,7 @@
 * MAU：月均活跃用户数量（Monthly Active User）
 * MBR：主引导记录（Master Boot Record）；最大比特率（Maximum Bit Rate）
 * MBSA：微软基线安全分析器（Microsoft Baseline Security Analyzer）
+* MCM：多芯片模块（Multi-Chip Module）
 * MCN：多频道网络（Multi-Channel Network）
 * MCS：多类别安全（Multi Categories Security）
 * MCU：微控制器单元（Micro-Controller Unit）
@@ -1357,6 +1360,7 @@
 * MPS：公安部（Ministry of Public Security）
 * MPT：默克尔帕特里树（Merkle Patricia Tree）
 * MPTD：最大中断时间（Maximum Period Time of Disruption）
+* MPU：微处理器（Micro Processing Unit）
 * MQ：消息队列（Message Queuing）
 * MQTT：消息队列遥测传输（Message Queuing Telemetry Transport）
 * MQV：MQV协议（Menezes-Qu-Vanstone）
@@ -1939,6 +1943,7 @@
 * SIM：用户身份模块（Subscriber Identity Module）；安全信息管理（Security Information Management）
 * SIMD：单指令多数据流技术（Single Instruction Multiple Data）
 * SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）
+* SiP：系统级封装（System in Package）
 * SIPRNet：机密IP路由网（Secret Internet Protocol Router Network）
 * SIRP：安全事件响应平台（Security Incident Response Platform）
 * SIS：安全仪表系统（Safety Instrumented System）
@@ -1992,6 +1997,7 @@
 * SOG-IS：信息系统安全高级官员组（Senior Officials Group Information Systems Security）
 * SONET：同步光纤网络（Synchronous Optical Network）
 * SOP：标准操作规程（Standard Operation Procedure）；同源策略（Same-Origin Policy）
+* SoP：SoP电路（System on Package）
 * SOR：记录系统（System Of Records）
 * SORN：记录系统通告（System Of Records Notice）
 * SoT：可信系统（System of Trust）
@@ -2114,7 +2120,7 @@
 * TE：类型强制（Type Enforcement）
 * TEB：线程环境块（Thread Environment Block）
 * TECHINT：科技情报（Technical Intelligence）
-* TEE：可信执行环节（Trusted Execution Environment）
+* TEE：可信执行环境（Trusted Execution Environment）
 * TEMPEST：瞬间电磁脉冲辐射监视技术（Transient Electromagnetic Pulse Emanation Surveillance Technology）
 * TePA：三元对等架构（Tri-element Peer Architecture）
 * TFA：双因素认证（Two Factor Authentication）
