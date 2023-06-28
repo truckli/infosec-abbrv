@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词**2299**条，释义**2780**条。 
+当前收录缩略词**2307**条，释义**2790**条。 
 
 
 
@@ -387,6 +387,7 @@
 * CLS：无证书签名（Certificateless Signature）
 * CLUE：中文语言理解评测（Chinese Language Understanding Evaluation）
 * CM：配置管理（Configuration Management）；持续监视（Continuous Monitoring）
+* CMA：中国计量认证（China Metrology Accreditation）
 * CMAC：基于密码的消息验证码（Cipher-Based Message Authentication Code）
 * CMD：网络空间拟态防御（Cyber Minic Defense）；操作命令（command）
 * CMDB：配置管理数据库（Configuration Management Database）
@@ -884,6 +885,7 @@
 * GC：混淆电路（Garbled Circuit）；垃圾回收器（Garbage Collector）
 * GC&CS：英国政府编码和密码学校（Government Code and Cypher School）
 * GCC：GNU编译器套件（GNU Compiler Collection）
+* GCCP：企业安全建设实践群峰会（the Group of Cybersecurity Construction Practice summit）
 * GCCS：全球指挥控制系统（Global Command & Control System）
 * GCHQ：英国政府通信总部（Government Communications Head Quarters）
 * GCM：伽罗瓦计数器模式（Galois/Counter Mode）
