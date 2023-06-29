@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2350**条，词组**2849**条。 
+当前收录缩略词形**2350**条，词组**2850**条。 
 
 
 
@@ -58,7 +58,7 @@
 * AES：先进加密标准（Advanced Encryption Standard）
 * AES-CCM：AES CCM模态（Advanced Encryption Standard–Counter with CBC-MAC）
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
-* AES-NI：
+* AES-NI：英特尔AES-NI指令集（AES-New Instructions）
 * AFS：安德鲁文件系统（Andrew File System）
 * AG：接入网关（Access Gateway）
 * AGA：美国天然气协会（American Gas Association）
