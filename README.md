@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2325**条，词组**2813**条。 
+当前收录缩略词形**2326**条，词组**2814**条。 
 
 
 
@@ -251,6 +251,7 @@
 * CASE：计算机辅助软件工程（Computer-Aided Software Engineering）
 * CATR：电信研究院（China Academy of Telecommunication Research）
 * CAVP：NIST密码算法验证项目（Cryptographic Algorithm Validation Program）
+* CB：认证机构（Certification Body）
 * CBA：基于组件的架构（Component-Based Architecture）
 * CBAC：基于主张的访问控制（Claims-Based Access Control）；基于上下文的访问控制（Context-Based Access Control）
 * CBAM：Cloudband应用程序管理器（Nokia Cloudband Application Manager）
