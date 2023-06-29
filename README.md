@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词**2307**条，释义**2790**条。 
+当前收录缩略词形**2325**条，词组**2813**条。 
 
 
 
@@ -250,7 +250,7 @@
 * CASCO：ISO合格评定委员会（ISO Committee on Conformity Assessment）
 * CASE：计算机辅助软件工程（Computer-Aided Software Engineering）
 * CATR：电信研究院（China Academy of Telecommunication Research）
-* CAVP：加密算法确认程序（Cryptographic Algorithm Validation Program）
+* CAVP：NIST密码算法验证项目（Cryptographic Algorithm Validation Program）
 * CBA：基于组件的架构（Component-Based Architecture）
 * CBAC：基于主张的访问控制（Claims-Based Access Control）；基于上下文的访问控制（Context-Based Access Control）
 * CBAM：Cloudband应用程序管理器（Nokia Cloudband Application Manager）
@@ -261,6 +261,8 @@
 * CBM：组件化业务模型（Component Business Model）
 * CBOR：简明二进制对象表示（Concise Binary Object Representation）
 * CBPR：跨境隐私规则（Cross-Border Privacy Rules）
+* CBTC：CB测试证书（Certification Body Test Certificates）
+* CBTL：CB测试实验室（Certification Body Testing Laboratory）
 * CC：挑战黑洞攻击（Challenge Collapsar）；信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）
 * CCA：选择密文攻击（Chosen-Ciphertext Attack）；持续配置自动化（Continuous Configuration Automation）；思杰认证管理员（Citrix Certified Administrator）；思科认证架构师（Cisco Certified Architect）；克林格-科恩法案（Clinger-Cohen Act）；应急能力评估（Contingency Capabilities Assessment）；成本效益分析（Cost-Consequences Analysis）；英国网络评估中心（Centre for Cyber Assessment）
 * CCA2：自适应选择密文攻击（Adaptive Chosen Ciphertext Attack）
@@ -312,7 +314,7 @@
 * CDP：潜在附带损害（Collateral Damage Potential）；客户数据平台（Customer Data Platform）；Cloudera数据平台（Cloudera Data Platform）
 * CDR：话单记录（Call Detail Record）；云端检测与响应（Cloud Detection & Response）；内容拆解与重建（Content Disarm & Reconstruction）
 * CDS：跨域解决方案（Cross Domain Solution）
-* CE：网络窃取（Cyber Exploitation）
+* CE：网络窃取（Cyber Exploitation）；欧洲合格标志（法语：Conformité Européene）
 * CEC：中国电子信息产业集团有限公司（China Electronics Corporation）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
 * CEF：通用事件格式（Common Event Format）
@@ -400,6 +402,7 @@
 * CMS：密码消息语法（Cryptographic Message Syntax）；配置管理系统（Configuration Management System）；内容管理系统（Content Management System）
 * CMT：时序默克尔树（Chronological Merkle Tree）
 * CMU：卡耐基梅陇大学（Carnegie Mellon University）
+* CMVP：NIST密码模块验证项目（Cryptographic Module Validation Program）
 * CN：核心网（Core Network）；通用名（Common Name）
 * CNA：CVE编号授权机构（CVE Numbering Authority）；计算机网络攻击（Computer Network Attack）
 * CnA：认证认可（Certification & Accreditation）
@@ -737,11 +740,12 @@
 * EDR：端点检测响应（Endpoint Detection & Response）；汽车事件数据记录系统（Event Data Recorder）
 * EDW：企业数仓（Enterprise Data Warehouse）
 * EE：数字证书终端实体（End Entity）
+* EEA：欧洲经济区（the European Economic Area）
 * EEC：欧洲经济共同体（European Economic Community）
 * EF：暴露因子（Exposure Factor）
 * EFI：可扩展固件接口（Extensible Firmware Interface）
 * EFT：电子资金转账（Electronic Funds Transfer）
-* EFTA：欧洲自由贸易区（European Free Trade Association）
+* EFTA：欧洲自由贸易联盟（European Free Trade Association）
 * EGIT：企业信息与技术治理（Enterprise Governance of Information and Technology）
 * EGP：外部网关协议（Exterior Gateway Protocol）
 * EHR：电子健康记录（Electronic Health Records）
@@ -773,7 +777,7 @@
 * EPO：入口点混淆（Entry Point Obfuscation）
 * EPP：端点保护平台（Endpoint Protection Platform）
 * ePR：欧盟电子隐私条例（e-Privacy Regulation）
-* EPS：演进分组系统（Evolved Packet System）
+* EPS：演进分组系统（Evolved Packet System）；每秒事件数（events per second）
 * EPSS：漏洞利用预测评分系统（Exploit Prediction Scoring System）
 * EQ：外部查询（External Query）
 * ER：实体及其关系（Entities and their Relationships）
@@ -781,6 +785,7 @@
 * ERM：企业风险管理（Enterprise Risk Management）；企业资源管理（Enterprise Resource Management）
 * ES：ElasticSearch数据仓储（ElasticSearch）
 * ESA：企业安全架构（Enterprise Security Architecture）
+* ESAM：嵌入式安全控制模块（Embedded Secure Access Module）
 * ESB：企业服务总线（Enterprise Service Bus）
 * ESF：持久安全框架（Enduring Security Framework）
 * ESG：环境、社会与企业治理（Environmental, Social and corporate Governance）；ESG公司（Enterprise Strategy Group）
@@ -1003,6 +1008,7 @@
 * IAM：身份与访问管理（Identity & Access Management）
 * IANA：互联网数字分配机构（The Internet Assigned Numbers Authority）
 * IAST：交互式应用安全测试（Interactive Application Security Testing）
+* IAT：信息保障技能（Information Assurance Technical）
 * IATF：信息保障技术框架（Information Assurance Technical Framework）
 * IB：InfiniBand（InfiniBand）
 * IBC：基于身份的密码（Identity-Based Cryptography）
@@ -1387,6 +1393,7 @@
 * MSS：托管式安全服务（Managed Security Services）；国家安全部（Ministry of State Security）
 * MSSP：托管式安全服务提供商（Managed Security Services Provider）
 * MSSQL：微软SQLServer数据库（Microsoft SQL Server）
+* MSV：Mandiant安全验证（Mandiant Security Validation）
 * MT：机床（Machine Tool）
 * MTBF：平均故障间隔（Mean Time Between Failures）
 * MTC：移动威胁目录（Mobile Threat Catalogue）
@@ -1423,6 +1430,7 @@
 * NBT-NS：NBT名称服务器（NetBIOS Name Server）
 * NBV：荷兰国家通信安全局（荷兰语：Nationaal Bureau voor Verbindingsbeveiliging）
 * NC：国家级委员会（National Committee）
+* NCB：国家级认证机构（National Certification Body）
 * NCC：国家协调中心（National Coordination Center）；国家网络安全中心（The National Cybersecurity Center）
 * NCCC：国家网络协调中心（National Cyber Coordination Centre）
 * NCCIC：国家网络和通信集成中心（National Cybersecurity and Communications Integration Center）
@@ -1479,6 +1487,7 @@
 * NoSQL：非关系型数据库（Not only SQL）
 * NP：非确定性多项式复杂度（Non-deterministic Polynomial）；网络处理器（Network Processor）；新标准提议（New Proposal）
 * NPE：非人实体（Non-Person Entity）
+* NPIVP：NIST个人身份验证确认项目（NIST Personal Identity Verification Validation Program）
 * NPS：网络代理服务器（Network Proxy Server）
 * NPSI：德国国家信息保护计划（Nationaler Plan zum Schutz der Informationsstrukturen）
 * NPU：网络处理单元（Network Processing Unit）；神经网络处理器（Neural-network Processing Unit）
@@ -1508,6 +1517,8 @@
 * NTM：网络流量监视器（Network Traffic Monitor）
 * NTOC：美国国家安全局威胁行动中心（NSA/CSS Threat Operation Center）
 * NTP：网络时间协议（Network Time Protocol）
+* NVDB：国家网络安全威胁和漏洞信息共享平台（National Vulnerability Database）
+* NVLAP：NIST国家志愿实验室认可项目（National Voluntary Laboratory Accreditation Program）
 * NVMe：非易失性内存快速通道（Non-Volatile Memory Express）
 * NWC：不可写代码（Non-Writable Code）
 * NWIP：新工作项提议（New Work Item Proposal）
@@ -1946,7 +1957,7 @@
 * SIKE：超奇异同源性密钥交换（Supersingular Isogeny Key Exchange）
 * SIM：用户身份模块（Subscriber Identity Module）；安全信息管理（Security Information Management）
 * SIMD：单指令多数据流技术（Single Instruction Multiple Data）
-* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）
+* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）
 * SiP：系统级封装（System in Package）
 * SIPRNet：机密IP路由网（Secret Internet Protocol Router Network）
 * SIRP：安全事件响应平台（Security Incident Response Platform）
@@ -2064,8 +2075,10 @@
 * SSVC：特定相关者漏洞分类法（Stakeholder-specific Vulnerability Categorization）
 * ST：服务票据（Service Ticket）；安全目标（Security Target）
 * STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）
+* STCU：安全充电计费控制单元（Secure Telematics Control Unit）
 * STD：互联网标准（Internet Standard）
 * STDM：统计时分多路复用（Statistical Time-Division Multiplexing）
+* STE：安全终端装置（Secure Terminal Equipment）
 * STEM：科学、技术、工程和数学（Science, Technology, Engineering & Math）
 * STG：STG公司（Symphony Technology Group）
 * STIG：安全技术实施指南（Security Technical Implementation Guide）
@@ -2076,7 +2089,10 @@
 * STT：透明式安全（Security Through Transparency）；语音转文本（Speech-to-Text）
 * STUN：用于NAT的会话遍历实用程序（Session Traversal Utilities for NAT）
 * STUNS：STUN over TLS（STUN over TLS）
+* STVM：安全测试、确认与测度（Security Testing, Validation, and Measurement）
+* STVMG：安全测试、确认与测度工作组（Security Testing, Validation, and Measurement Group）
 * SUID：SUID（Set User ID）
+* SV：安全漏洞（Security Vulnerability）；安全验证（Security Verification）；安全确认（Security Validation）
 * SVC：交换式虚电路（Switched Virtual Circuit）
 * SVM：支持向量机（Support Vector Machine）；安全虚拟机（Secure Virtual Machine）
 * SVR：俄罗斯联邦对外情报局（俄语拉丁化：Sluzhba Vneshney razvedki Rossiyskoy Federatsii）
@@ -2117,6 +2133,7 @@
 * TCPA：可信计算平台联盟（Trusted Computing Platform Alliance）
 * TCS：TCM核心服务（TCM Core Services）
 * TCSEC：可信计算机系统评价标准（Trusted Computer System Evaluation Criteria）
+* TCU：充电计费控制单元（Telematics Control Unit）
 * TDD：TCM设备驱动（TCM Device Driver）；时分复用（Time Division Duplex）；测试驱动开发（Test-Driven Development）
 * TDR：威胁检测与响应（Threat Detection & Response）
 * TDS：交易型数据存储（Transaction Data Store）
@@ -2416,6 +2433,7 @@
 * 2C：面向消费者（To Consumer）
 * 2FA：双因素认证（Two Factor Authentication）
 * 2G：面向政府（To Government）
+* 2SV：两步验证（Two-Step Verification）
 * 3C：中国强制认证（China Compulsory Certification）
 * 3DES：三重DES（Triple DES）
 * 3DH：三路DH协议（Triple Diffie-Hellman）
