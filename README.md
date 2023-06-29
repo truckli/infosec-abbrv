@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2326**条，词组**2814**条。 
+当前收录缩略词形**2350**条，词组**2849**条。 
 
 
 
@@ -34,12 +34,14 @@
 * ACE：访问控制项（Access Control Entry）
 * ACG：应用控制网关（Application Control Gateway）
 * ACI：航空网络计划（Aviation Cyber Initiative）
+* ACID：原子性、一致性、隔离性、持久性（Atomicity, Consistency, Isolation & Durability）
 * ACK：确认标志（Acknowledge flag）
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
+* ACRS：自动证书请求设置（Automatic Certificate Request Settings）
 * ACS：访问控制服务（Access Control Service）
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）
 * ADCS：活动目录证书服务（Active Directory Certificate Services）
@@ -356,6 +358,7 @@
 * CICA：加拿大特许会计师协会（Canadian Institute of Chartered Accountants）
 * CICC：中国指挥与控制学会（Chinese Institute of Command and Control）；IEEE专用集成电路会议（IEEE Custom Integrated Circuits Conference）
 * CICS-CERT：国家工业信息安全发展研究中心（China Industrial Control Systems Cyber Emergency Response Team）
+* CICSVD：国家工业信息安全漏洞库（China National Industrial Cyber Security Vulnerability Database）
 * CIDF：通用入侵检测框架（Common Intrusion Detection Framework）
 * CIDR：无类域间路由（Classless Interdomain Routing）
 * CIE：网络信息工程（Cyber-Informed Engineering）
@@ -536,6 +539,7 @@
 * DAA：直接匿名作证（Direct Anonymous Attestation）
 * DaaS：检测即服务（Detection as a Service）；目录即服务（Directory as a Service）；桌面即服务（Desktop as a Service）；数据即服务（Data as a Service）
 * DAC：自主访问控制模型（Discretionary Access Control）
+* DACL：自主访问控制列表（Discretionary Access Control List）
 * DAD：冗余地址检测（Duplicate Address Detection）
 * DAG：数据访问治理（Data Access Governance）；有向无环图（Directed Acyclic Graph）
 * DAL：数据访问层（Data Access Layer）
@@ -622,7 +626,7 @@
 * DML：检测成熟度等级（Detection Maturity Level）；数据操纵语言（Data Manipulation Language）
 * DMN：决策模型和标记（Decision Model and Notation）
 * DMP：数据管理平台（Data Management Platform）
-* DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）
+* DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）
 * DMZ：隔离区（Demilitarized Zone）
 * DN：可分辨名称（Distinguished Name）
 * DNA：数据网络架构（Digital Network Architecture）
@@ -664,8 +668,8 @@
 * DRP：数字风险保护（Digital Risk Protection）；灾难恢复计划（Disaster Recovery Plan）
 * DRPS：数字风险保护服务（Digital Risk Protection Service）
 * DRTM：动态可信度量根（Dynamic Root of Trust for Measurement）
-* DS：数据段（Data Segment）
-* DSA：数字签名算法（Digital Signature Algorithm）
+* DS：数据段（Data Segment）；发现服务（Discovery Service）；目录服务（Directory Service）
+* DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）
 * DSaaS：数据安全即服务（Data Security as a Service）
 * DSbD：数字安全设计计划（Digital Security by Design）
 * DSG：数据安全治理（Data Security Governance）
@@ -750,7 +754,7 @@
 * EGIT：企业信息与技术治理（Enterprise Governance of Information and Technology）
 * EGP：外部网关协议（Exterior Gateway Protocol）
 * EHR：电子健康记录（Electronic Health Records）
-* EI：外部输入（External Input）
+* EI：外部输入（External Input）；工程索引（Engineering Index）
 * EIAM：员工身份和访问管理（Employee Identity Access Management）
 * EIF：外部接口文件（External Interface File）
 * EIGRP：增强内部网关路由协议（Enhanced Interior Gateway Routing Protocol）
@@ -784,7 +788,7 @@
 * ER：实体及其关系（Entities and their Relationships）
 * ER&A：实体识别分析（Entity Resolution & Analysis）
 * ERM：企业风险管理（Enterprise Risk Management）；企业资源管理（Enterprise Resource Management）
-* ES：ElasticSearch数据仓储（ElasticSearch）
+* ES：ElasticSearch数据仓储（ElasticSearch）；登记服务（Enrollment Service）
 * ESA：企业安全架构（Enterprise Security Architecture）
 * ESAM：嵌入式安全控制模块（Embedded Secure Access Module）
 * ESB：企业服务总线（Enterprise Service Bus）
@@ -795,6 +799,7 @@
 * ESO：欧洲标准组织（European Standards Organization）
 * ESP：封装安全载荷（Encapsulate Security Payload）；企业安全计划（Enterprise-wide Security Program）；EFI系统分区（EFI System Partition）；事件流处理（Event Stream Processing）
 * ESS：主管支持系统（Executive Support System）
+* EST：安全传输登记（Enrollment over Secure Transport）
 * ETA：加密流量分析（Encrypted Traffic Analysis）
 * ETH：以太币（Ether）；苏黎世联邦理工学院（德语：Eidgenössische Technische Hochschule Zürich）
 * ETL：抽取、转换、加载（Extract-Transform-Load）
@@ -856,15 +861,18 @@
 * FPE：格式保留加密（Format-Preserving Encryption）
 * FPGA：现场可编程门阵列（Field-Programmable Gate Array）
 * FPI：全包检测（Full Packet Inspection）
+* FPO：外部主对象（Foreign Principal Object）
 * FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
 * FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
 * FREAK：FREAK攻击（Factoring RSA Export Keys）
 * FRR：错误拒绝率（False Rejection Rate）
+* FRS：文件复制服务（File Replication Service）
 * FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
 * FSF：自由软件基金会（Free Software Foundation）
 * FSL：设施安全等级（Facility Security Level）
 * FSLS：活跃时间窗口（First Seen & Last Seen）
 * FSM：有限状态机（Finite State Machine）；功能规模测量（Functional Size Measurement）
+* FSMO：灵活单主操作（Flexible Single Master Operation）
 * FSR：反馈移位寄存器（Feedback Shift Register）
 * FTE：全职人力工时（Full-Time Equivalents）
 * FTP：文件传输协议（File Transfer Protocol）
@@ -1319,6 +1327,7 @@
 * MDA：消息摘要算法（Message-Digest Algorithm）
 * MDATP：微软高级威胁保护防御（Microsoft Defender Advanced Threat Protection）
 * MDC：模块化数据中心（Modular Data Center）；移动数据中心（Mobile Data Center）
+* MDE：微软端点防护（Microsoft Defender for Endpoint）
 * MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）
 * MDO：多域作战（Multi-Domain Operation）
 * MDR：托管式检测与响应（Managed Detection & Response）
@@ -1326,7 +1335,7 @@
 * MECR：多边出口控制机制（Multilateral Export Control Regime）
 * MeitY：印度电子和信息技术部（Ministry of Electronics and Information Technology）
 * MEM：微软端点管理器（Microsoft Endpoint Manager）
-* MES：制造执行系统（Manufacturing Execution System）
+* MES：制造执行系统（Manufacturing Execution System）；管理登记服务（Management Enrollment Service）
 * MFA：多因素认证（Multi-Factor Authentication）
 * MFLOP：每秒百万浮点运算数（Mega FLoating-point Operations Per Second）
 * MFT：主文件表（Master File Table）；受控文件传输（Managed File Transfer）
@@ -1430,7 +1439,7 @@
 * NBT：基于TCP/IP的NetBIOS（NetBIOS over TCP/IP）
 * NBT-NS：NBT名称服务器（NetBIOS Name Server）
 * NBV：荷兰国家通信安全局（荷兰语：Nationaal Bureau voor Verbindingsbeveiliging）
-* NC：国家级委员会（National Committee）
+* NC：国家级委员会（National Committee）；命名上下文（Naming Context）
 * NCB：国家级认证机构（National Certification Body）
 * NCC：国家协调中心（National Coordination Center）；国家网络安全中心（The National Cybersecurity Center）
 * NCCC：国家网络协调中心（National Cyber Coordination Centre）
@@ -1452,6 +1461,7 @@
 * ND：近邻发现（Neighbor Discovery）
 * NDA：保密协议（Non-Disclosure Agreement）
 * NDAA：美国国防授权法案（National Defense Authorization Act）
+* NDES：网络设备登记服务（Network Device Enrollment Service）
 * NDLP：网络数据泄露预防（Network Data Leakage Prevention）
 * NDN：数据命名网络（Named Data Networking）
 * NDR：网络侧检测与响应（Network Detection & Response）
@@ -1632,7 +1642,7 @@
 * PAN：个人区域网（Personal Area Network）
 * PAP：策略管理点（Policy Administration Point）；口令鉴别协议（Password Authentication Protocol）
 * PARC：派拓研究中心（Palo Alto Research Center, Inc.）
-* PAS：公开可用规范（Publicly Available Specifications）
+* PAS：公开可用规范（Publicly Available Specifications）；部分属性集（Partial Attribute Set）
 * PAT：端口地址转换（Port Address Translation）
 * PB：剧本（Play Book）
 * PBAC：基于策略的访问控制（Policy-Based Access Control）；基于管道的访问控制（Pipeline-Based Access Control）
@@ -1653,6 +1663,7 @@
 * PCS：态势收集服务（Posture Collection Service）；过程控制系统（Process Control Systems）
 * PCTE：持续网络训练环境（Persistent Cyber Training Environment）
 * PD：公共数据库（Public Database）
+* PDC：主域控（Primary Domain Controller）
 * PDCA：PDCA循环（Plan-Do-Check-Adjust）
 * PDD：美国总统决议令（Presidential Decision Directive）
 * PDG：程序依赖图（Program Dependence Graph）
@@ -1753,6 +1764,7 @@
 * PTES：渗透测试执行标准（Penetration Testing Execution Standard）
 * PtH：哈希传递攻击（Pass the Hash）
 * PTP：精确时间协议（Precision Time Protocol）
+* PTS：渗透测试专家（Penetration Testing Specialist）
 * PUA：灰色应用（Potentially Unwanted Application）；心理操控（Pick-Up Artist）
 * PUE：能源使用效率（Power Usage Effectiveness）
 * PUP：灰色软件（Potentially Unwanted Program）
@@ -1769,6 +1781,7 @@
 * QKD：量子密钥分发（Quantum Key Distribution）
 * QMS：质量管理系统（Quality management system）
 * QoS：服务质量（Quality of Service）
+* QTY：青藤云公司（Qing Teng Yun）
 * QUIC：快速UDP互联网连接（Quick UDP Internet Connections）
 * QVM：奇虎支持向量机（Qihoo Support Vector Machine）
 
@@ -1799,7 +1812,7 @@
 * RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
 * RDBMS：
 * RDF：资源描述框架（Resource Description Framework）
-* RDN：相对可分辨名称（Relative Distinguished Name）
+* RDN：相对可辨识名称（Relative Distinguished Name）
 * RDP：远程桌面协议（Remote Desktop Protocol）
 * RDS：远程桌面服务（Remote Desktop Service）
 * REE：富执行环境（Rich Execution Environment）
@@ -1814,6 +1827,7 @@
 * RFP：征求意见书（Request For Proposal）
 * RHCA：红帽认证架构师（Red Hat Certified Architect）
 * RHCE：红帽认证工程师（Red Hat Certified Engineer）
+* RID：相对标识（Relative Identifier）
 * RIN：规章识别号（Regulation Identifier Numbers）
 * RIP：路由信息协议（Routing Information Protocol）
 * RISC：精简指令集计算机（Reduced Instruction Set Computer）
@@ -1830,6 +1844,7 @@
 * ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
 * RoCE：RDMA以太网（RDMA over Converged Ethernet）
 * rodata：只读数据段（read-only data segment）
+* RODC：只读域控（Read-Only Domain Controller）
 * ROE：交手规则（Rules of Engagement）
 * ROI：产投比（Return On Investment）
 * ROP：面向返回编程（Return Oriented Programming）
@@ -1873,6 +1888,7 @@
 * SaaS：软件即服务（Software as a Service）
 * SABSA：舍伍德应用业务安全架构（Sherwood Applied Business Security Architecture）
 * SAC：国家标准化管理委员会（Standardization Administration of the People's Republic of China）
+* SACL：系统访问控制列表（System Access Control List）
 * SACM：安全自动化与持续监控（Security Automation and Continuous Monitoring）
 * SAE：系统架构演进（System Architecture Evolution）；国际汽车工程学会（Society of Automotive Engineers）
 * SAM：账户安全管理（Account Security Management）；软件资产管理（Software Asset Management）
@@ -1900,6 +1916,7 @@
 * SCCA：安全云计算架构（Secure Cloud Computing Architecture）
 * SCCM：软件变更与配置管理（Software Change and Configuration Management）
 * SCE：安全计算环境（Secure Computing Environment）；安全混沌工程（Security Chaos Engineering）；卓越安全中心（Security Center of Excellence）；安全配置编辑器（Security Configuration Editor）
+* SCEP：简单证书登记协议（Simple Certificate Enrollment Protocol）
 * SCF：无服务器云函数（Serverless Cloud Function）；安全控制框架（Security Control Framework）
 * SCI：敏感分区信息（Sensitive Compartmented Information）；科学引文索引（Science Citation Index）
 * SCIF：敏感分区信息设施（Sensitive Compartmented Information Facility）
@@ -1950,7 +1967,7 @@
 * SHA：安全散列算法（Secure Hash Algorithm）
 * SHARP：可扩展分层聚合化约协议（Scalable Hierarchical Aggregation and Reduction Protocol）
 * SI：软件完整性（Software Integrity）
-* SID：Windows安全标识符（Security Identifier）
+* SID：Windows安全标识（Security Identifier）
 * SIDH：超奇异同源性DH协议（Supersingular Isogeny Diffie–Hellman）
 * SIEM：安全信息和事件管理（Security Information & Events Management）
 * SIG：特别兴趣组（Special Interest Group）
@@ -2136,6 +2153,7 @@
 * TCSEC：可信计算机系统评价标准（Trusted Computer System Evaluation Criteria）
 * TCU：充电计费控制单元（Telematics Control Unit）
 * TDD：TCM设备驱动（TCM Device Driver）；时分复用（Time Division Duplex）；测试驱动开发（Test-Driven Development）
+* TDO：受信域对象（Trusted Domain Object）
 * TDR：威胁检测与响应（Threat Detection & Response）
 * TDS：交易型数据存储（Transaction Data Store）
 * TDT：威胁检测技术（Threat Detection Technology）
@@ -2261,6 +2279,7 @@
 * UP：统一平台（Unified Platform）
 * UPDSS：银联卡支付信息安全管理标准（UnionPay Payment Data Security Standard）
 * UPF：用户面功能（User Plane Function）
+* UPN：用户主要名字（User Principal Name）
 * UPnP：通用即插即用（Universal Plug and Play）
 * UPS：不间断电源（Uninterruptible Power Supply）
 * URI：统一资源标识符（Uniform Resource Identifier）
@@ -2270,6 +2289,7 @@
 * USB：通用串行总线（Universal Serial Bus）
 * USCERT：美国计算机应急响应中心（United States Computer Emergency Readiness Team）
 * USGCB：美国政府配置基线（United States Government Configuration Baseline）
+* USN：更新序列号（Update Sequence Number）
 * UTM：统一威胁管理（Unified Threat Management）
 * UTP：非屏蔽双绞线（Unshielded Twisted Pair）
 * UTRAN：UMTS陆地无线接入网（UMTS Terrestrial Radio Access Network）
@@ -2332,6 +2352,7 @@
 * VRM：供应商风险管理（Vendor Risk Management）
 * VRRP：虚拟路由冗余协议（Virtual Router Redundancy Protocol）
 * VSAM：虚拟存储访问方法（Virtual Storage Access Method）
+* VSOC：车辆信息安全运营中心（Vehicle Security Operations Center）
 * VSS：来访用户服务器（Visitor Subscriber Server）
 * VT：某威胁样本分析网站（VirusTotal）
 * VTEP：VXLAN隧道端点（VXLAN Tunnel Endpoint）
@@ -2366,6 +2387,7 @@
 * WIC：世界互联网大会（World Internet Conference）
 * WIDS：无线入侵检测系统（Wireless IDS）
 * WIF：Windows身份基础框架（Windows Identity Foundation）
+* WKO：周知对象（Well-Known Object）
 * WLAN：无线局域网（Wireless Local Area Network）
 * WMI：Windows管理规范（Windows Management Instrumentation）
 * WORM：一次写入多次读取（Write-Once, Read-Many）
@@ -2376,10 +2398,11 @@
 * WPS：Wifi保护设置（Wifi Protection Setup）
 * WRGRU：权缩门控循环单元（Weight Reduction Gated Recurrent Unit）
 * WRT：工作恢复时间（Work Recovery Time）
-* WS：WebSocket（WebSocket）
+* WS：WebSocket（WebSocket）；Web服务（Web Service）
 * WSDL：Web服务描述语言（Web Services Description Language）
 * WSL：Windows的Linux子系统（Windows Subsystem for Linux）
 * WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
+* WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
 * WWW：万维网（World Wide Web）
 
 
@@ -2391,6 +2414,7 @@
 * XBT：比特币（Bitcoin）
 * XC：信创（XC）
 * XCCDF：可扩展配置检查表描述格式（The eXtensible Configuration Checklist Description Format）
+* XCEP：X.509证书登记策略协议（X.509 Certificate Enrollment Policy Protocol）
 * XDP：快速数据路径（eXpress Data Path）
 * XDR：扩展式检测响应（Extended Detection & Response）；外部数据表示（External Data Representation）
 * XEdDSA：XEdDSA算法（X Edwards-curve DSA）
