@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2353**条，词组**2856**条。 
+当前收录缩略词形**2358**条，词组**2863**条。 
 
 
 
@@ -424,7 +424,7 @@
 * CND：计算机网络防御（Computer Network Defense）
 * CNE：计算机网络利用（Computer Network Exploitation）
 * CNF：容器化网络功能（Containerized Network Function）；云原生网络功能（Cloud-native Network Function）
-* CNI：容器网络接口（Container Network Interface）；关键国家基础设施（Critical National Infrastructure）
+* CNI：容器网络接口（Container Network Interface）；关键国家基础设施（Critical National Infrastructure）；运营商网络基础设施（Carrier Network Infrastructure）
 * CNIL：法国国家数据保护委员会（法语：Commission Nationale Informatique et Libertés）
 * CNITSEC：中国信息安全测评中心（China Information Technology Security Evaluation Center）
 * CNMF：美国国家网络任务部队（Cyber National Mission Force）
@@ -479,6 +479,7 @@
 * CRQ：网络风险量化（Cyber Risk Quantification）
 * CRSM：网络空间资源测绘（Cyberspace Resource Surveying & Mapping）
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
+* CRUD：增删查改（Create, Retrieve, Update, Delete）
 * CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）
 * CS&C：美国网络空间安全和通信办公室（Office of Cybersecurity and Communications）
 * CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）
@@ -913,6 +914,7 @@
 * GDS：GPU直接存储（GPU Direct Storage）；全球分布式存储（Global Distributed Storage）；全球分发系统（Global Distributed System）
 * GEOINT：地理空间情报（Geospatial Intelligence）
 * GFS：全局文件系统（Global File System）；谷歌文件系统（Google File System）
+* GGE：联合国政府专家组（Group of Governmental Experts）
 * GGML：GGML格式（Georgi Gerganov's Model Library）
 * GGSN：网关GPRS支撑节点（Gateway GPRS Support Node）
 * GHC：格拉斯哥Haskell编译器（Glasgow Haskell Compiler）
@@ -1103,6 +1105,7 @@
 * IoT：物联网（Internet of Things）
 * IoV：车联网（Internet of Vehicles）
 * IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）
+* IPA：身份、策略与审计（Identity, Policy & Audit）
 * IPAM：IP地址管理（IP Address Management）
 * IPC：进程间通信（Inter-Process Communication）；信息保护控制（Information Protection and Control）
 * IPDR：IP通信详单（Internet Protocol Detail Record）
@@ -1519,7 +1522,7 @@
 * NSP：网络服务提供商（Network Service Provider）
 * NSPD：美国国家安全总统令（National Security Presidential Directive）
 * NSPM：网络安全策略管理（Network Security Policy Management）
-* NSS：国家安全系统（National Security System）
+* NSS：国家安全系统（National Security System）；名字服务切换器（Name Service Switch）
 * NSSTEC：国家保密科技测评中心（National Secrecy Science and Technology Evaluation Center）
 * NSTB：美国国家SCADA试验台（National SCADA Test Bed）
 * NSTC：美国国家科技咨议会（National Science & Technology Council）
@@ -1573,6 +1576,7 @@
 * ODS：操作型数据存储（Operational Data Store）
 * OE：作战环境（Operational Environment）
 * OEM：原始设备生产商（Original Equipment Manufacturer）
+* OEWG：联合国开放成员工作组（Open-ended Working Group）
 * OFB：输出反馈模态（Output Feedback）
 * OFDM：正交频分复用（Orthogonal Frequency-Division Multiplexing）
 * OGAS：前苏联全国自动化会计与系统处理系统（俄语拉丁化：ObweGosudarstvennaq Avtomatizirovannaq Sistema uchyota i obrabotki informacii）
@@ -2091,6 +2095,7 @@
 * SSPM：SaaS安全配置管理（SaaS Security Posture Management）
 * SSR：系统安全就绪（System Security Readiness）
 * SSRF：服务端请求伪造（Server-Side Request Forgery）
+* SSSD：系统安全服务守护进程（System Security Services Daemon）
 * SSTI：服务器端模板注入攻击（Server-Side Template Injection）
 * SSTP：安全套接字隧道协议（Secure Socket Tunneling Protocol）
 * SSVC：特定相关者漏洞分类法（Stakeholder-specific Vulnerability Categorization）
