@@ -13,6 +13,23 @@
 
 
 
+# 参考链接
+
+本列表链接：[国内链接](https://gitcode.net/littlekarl/infosec-abbrv) [GitHub链接](https://github.com/truckli/infosec-abbrv)
+
+以下链接包含了其他有用的缩略词数据库:
+
+* [All Acronyms网站](https://www.allacronyms.com/)：一个社区驱动的通用缩略词数据库, 词条数非常庞大，虽然网络安全缩略词仍不完善
+* [NIST IR 7581《系统与网络安全缩略词》](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf)：约1000个网络安全缩略词
+* [美军网站](https://public.cyber.mil/acronyms/) : 美国DoD约300个网络安全类缩略词
+* [Webopedia Complete List Of Cybersecurity Acronyms](https://www.webopedia.com/insights/cybersecurity-acronyms/)：约100个网络安全缩略词
+* [Cybersecurity Acronyms – A Practical Glossary](https://www.uscybersecurity.net/cybersecurity-acronyms/): 约100个网络安全缩略词
+* [TOTEM.TECH](https://www.totem.tech/acronyms/): 128个网络安全缩略词
+
+
+
+
+
 ## A
 
 * A&A：评估与授权（Assessment & Authorization）；认证与授权（ Authentication & Authorization）
