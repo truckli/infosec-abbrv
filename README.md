@@ -9,7 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2358**条，词组**2865**条。 
+当前收录缩略词形**2358**条，词组**2866**条。 
 
 
 
@@ -1834,7 +1834,7 @@
 * RCA：根源分析（Root Cause Analysis）
 * RD：负责任披露（Responsible Disclosure）；受限数据（Restricted Data）
 * RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
-* RDBMS：
+* RDBMS：关系型数据库管理系统（Relational Database Management System）
 * RDF：资源描述框架（Resource Description Framework）
 * RDN：相对可辨识名称（Relative Distinguished Name）
 * RDP：远程桌面协议（Remote Desktop Protocol）
