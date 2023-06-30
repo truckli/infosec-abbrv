@@ -9,11 +9,7 @@
 该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-<<<<<<< HEAD
-当前收录缩略词形**2358**条，词组**2863**条。 
-=======
-当前收录缩略词形**2350**条，词组**2850**条。 
->>>>>>> ef4d9f4b4c24d9e2e662fd4c03d1e4f835f65a72
+当前收录缩略词形**2358**条，词组**2865**条。 
 
 
 
@@ -55,7 +51,7 @@
 * ADO：ActiveX数据对象（ActiveX Data Object）
 * ADP：自动数据处理（Automated Data Processing）
 * ADR：应用安全检测与响应（Application Detection & Response）
-* ADS：数据应用服务（Application Data Service）
+* ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）
 * AE：认证加密（Authenticated Encryption）
 * AEAD：关联数据的认证加密（Authenticated Encryption with Associated Data）
 * AEP：敌手模拟计划（Adversary Emulation Plan）；高级端点防护（Advanced Endpoint Protection）；英特尔Optane存储产品原名（Apache Pass）
@@ -486,7 +482,7 @@
 * CRUD：增删查改（Create, Retrieve, Update, Delete）
 * CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）
 * CS&C：美国网络空间安全和通信办公室（Office of Cybersecurity and Communications）
-* CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）
+* CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）；网络安全通报（Cyber Security Advisory）
 * CSAAC：网络态势感知分析能力（Cyber Situational Awareness Analytic Capabilities）
 * CSAF：通用安全通报框架（Common Security Advisory Framework）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
