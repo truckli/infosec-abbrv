@@ -6,10 +6,10 @@
 
 本列表收录了网络安全行业日常沟通中可能出现了数千条缩略词，涉及攻防技术、安全运营、安全研发以及周边的ICT、情报、人工智能等领域。相当多的缩略词有多种含义，下表大致按照行业相关度、词频等因素对多个含义进行排序。读者在阅读其他文献时如果遇到未加解释的缩略词，可以查询本表获得中英文全称。
 
-该列表最初发表于机械工业出版社[《网络空间安全体系》](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
+该列表最初由CNCERT技术人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2398**条，词组**2915**条。 
+当前收录缩略词形**2402**条，词组**2919**条。 
 
 
 
@@ -2190,6 +2190,7 @@
 * TAFIM：信息管理技术架构框架（Technical Architecture Framework for Information Management）
 * TAG：威胁分析团队（Threat Analysis Group）；技术咨询组（Technical Advisory Group）
 * TAO：美国国家安全局特定入侵行动办公室（Tailored Access Operations）
+* TAS：诺基亚电信应用服务器（Telecom Application Server）
 * TAXII：标示信息可信自动化交换（Trusted Automated Exchange of Indicator Information）
 * TBAC：基于任务的访问控制（Task-Based Access Control）
 * TBB：可信平台构造模块（Trusted Building Blocks）
@@ -2220,6 +2221,8 @@
 * TEE：可信执行环境（Trusted Execution Environment）
 * TEMPEST：瞬间电磁脉冲辐射监视技术（Transient Electromagnetic Pulse Emanation Surveillance Technology）
 * TePA：三元对等架构（Tri-element Peer Architecture）
+* TESLA：定时高效流容错认证（Timed Efficient Stream Loss-Tolerant Authentication）
+* TEVV：测试、评估、验证和确认（Testing, Evaluation, Verification & Validation）
 * TFA：双因素认证（Two Factor Authentication）
 * TFLOPS：每秒万亿次浮点运算数（Tera Floating-point Operations Per Second）
 * TFTP：简易文件传输协议（Trivial File Transfer Protocol）
@@ -2465,6 +2468,7 @@
 * WSL：Windows的Linux子系统（Windows Subsystem for Linux）
 * WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
 * WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
+* WSUS：Windows服务更新服务（Windows Server Update Service）
 * WWW：万维网（World Wide Web）
 
 
