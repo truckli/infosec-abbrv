@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2592**条，词组**3155**条。 
+当前收录缩略词形**2614**条，词组**3179**条。 
 
 
 
@@ -21,6 +21,7 @@
 以下链接包含了其他有用的缩略词数据库:
 
 * [All Acronyms网站](https://www.allacronyms.com/)：一个社区驱动的通用缩略词数据库, 词条数庞大，动态更新，并由社区投票确定排名。网络安全部分仍不完善
+* [The Free Dictionary](https://acronyms.thefreedictionary.com/)：类似的通用缩略词网站
 * [NIST IR7581《系统与网络安全缩略词》](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf)：约1000个网络安全缩略词
 * [美军网站](https://public.cyber.mil/acronyms/) : 美国DoD约300个网络安全类缩略词
 * [Webopedia Complete List Of Cybersecurity Acronyms](https://www.webopedia.com/insights/cybersecurity-acronyms/)：约100个网络安全缩略词
@@ -123,6 +124,7 @@
 * aPAKE：非对称口令鉴别密钥协商（asymmetric Password-Authenticated Key Agreement）
 * APC：异步过程调用（Asynchronous Procedure Call）
 * APCERT：亚太地区计算机应急响应组（Asia Pacific Computer Emergency Response Team）
+* APhiD：自适应的心理防御（Adaptative Psychology-informed Defense）
 * API：应用程序接口（Application Programming Interface）
 * APK：安卓应用程序包（Android Application Package）
 * APM：应用性能管理（Application Performance Management）；应用性能测量（Application Performance Measurement）；攻击路径管理（Attack Path Management）
@@ -245,6 +247,7 @@
 * C2M2：网络安全能力成熟度（Cybersecurity Capability Maturity Model）
 * C3：指挥、控制、通信（Command, Control, Communication）
 * C3I：指挥、控制、通信与情报（C3 & Intelligence）
+* C3M：计算认知模型（Computational Cognitive Model）
 * C4I：指挥、控制、通信、计算机与情报（C3, Computer & Intelligence）
 * C4ISR：指挥、控制、通信、计算机、情报、监视与侦察（C4 & ISR）
 * C4KISR：指挥、控制、通信、计算机、杀伤、情报、监视与侦察（C4, Killing & ISR）
@@ -479,6 +482,7 @@
 * COBIT：信息与技术控制目标框架（Control Objectives for Information and related Technology）
 * COFRAC：法国认证委员会（法语：Comité Français d'Accréditation）
 * COG：COG信息安全论坛（Chown Group）
+* CogVul：认知漏洞（Cognitive Vulnerability）
 * COI：利益冲突（Conflict Of Interest）
 * COM：组件对象模型（Component Object Model）；模块化计算机架构（Computer-On-Module）
 * COMINT：通信情报（Communications Intelligence）
@@ -529,6 +533,7 @@
 * CSAAC：网络态势感知分析能力（Cyber Situational Awareness Analytic Capabilities）
 * CSAF：通用安全通报框架（Common Security Advisory Framework）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
+* CSC：美国网络日光室委员会（Cyberspace Solarium Commission）
 * CSCP：美国通信系统主任委员会（Communication System Committee of Principals）
 * CSE：加拿大通信安全机构（Communications Security Establishment）
 * CSIA：网络安全和信息保障（Cyber Security & Information Assurance）
@@ -574,8 +579,9 @@
 * CWE：公共弱点枚举（Common Weakness Enumeration）
 * CWPP：云工作负载安全防护平台（Cloud Workload Protection Platform）
 * CX：某寄存器代号（C eXtended）
+* CYBINT：网络情报（Cyber Intelligence）
 * CyBOK：网络安全知识体（The Cyber Security Body of Knowledge）
-* CYNINT：网络情报（Cyber Intelligence）
+* CyphiD：基于网络心理学的防御（Cyberpsychology-informed Defense）
 
 
 ## D
@@ -620,7 +626,7 @@
 * DCOM：分布式组件对象模型（Distributed Component Object Model）
 * DCS：分布式缓存服务（Distributed Cache Service）；集散控制系统（Distributed Control System）
 * DD：定义双字指令（Define Doubleword）
-* dd：某UNIX工具（dd）
+* dd：某UNIX工具（disk duplicator）
 * DDH：决策DH（Decisional Diffie-Hellman）
 * DDM：动态数据脱敏（Dynamic Data Masking）
 * DDN：数字数据网络（Digital Data Network）
@@ -753,6 +759,7 @@
 * DTR：技术报告草案（Draft Technical Report）
 * DTS：技术规范草案（Draft Technical Specification）
 * DTT：德勤公司（Deloitte）
+* DUP：复制指令（duplicate）
 * DUT：被测设备（Device Under Test）
 * DV：域名验证型证书（Domain Validated）
 * DW：数据仓库（Data Warehouse）；定义字指令（Define Word）
@@ -1035,6 +1042,7 @@
 * GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）
 * GRUB：GNU启动管理器（GRand Unified Bootloader）
 * GS：额外段寄存器（G extra Segment）
+* GSA：美国联邦总务署（General Services Administration）
 * GSLB：全局负载均衡（Global Server Load Balance）
 * GSM：全球移动通讯系统（Global System for Mobile Communications）
 * GSN：GPRS支撑节点（GPRS Support Node）
@@ -1119,6 +1127,7 @@
 * IAL：身份确保级（Identity Assurance Level）
 * IAM：身份与访问管理（Identity & Access Management）
 * IANA：互联网数字分配机构（The Internet Assigned Numbers Authority）
+* IARPA：美国情报高级研究计划局（Intelligence Advanced Research Projects Activity）
 * IAST：交互式应用安全测试（Interactive Application Security Testing）
 * IAT：信息保障技能（Information Assurance Technical）
 * IATF：信息保障技术框架（Information Assurance Technical Framework）
@@ -1561,6 +1570,7 @@
 * MTTF：平均失败间隔（Mean Time to Failure）
 * MTTR：平均恢复时间（Mean Time To Recovery）
 * MTU：最大传输单元（Maximum Transmission Unit）；主终端设备（Master Terminal Unit）
+* MUD：制造商使用描述（Manufacturer Usage Description）
 * MVC：模型-视图-控制器（Model-View-Controller）
 * MVD：俄罗斯联邦内务部（俄语拉丁化：Ministerstvo vnutrennikh del）
 * MVP：最简可行产品（Minimal Viable Product）；最具价值专家（Most Valuable Professional）
@@ -1590,6 +1600,7 @@
 * NBT-NS：NBT名称服务器（NetBIOS Name Server）
 * NBV：荷兰国家通信安全局（荷兰语：Nationaal Bureau voor Verbindingsbeveiliging）
 * NC：国家级委员会（National Committee）；命名上下文（Naming Context）
+* NCAS：美国国家网络预警系统（National Cyber Awareness System）
 * NCB：国家级认证机构（National Certification Body）
 * NCC：国家协调中心（National Coordination Center）；国家网络安全中心（The National Cybersecurity Center）
 * NCCC：国家网络协调中心（National Cyber Coordination Centre）
@@ -1769,6 +1780,7 @@
 * OMAC：单钥MAC（One-key Message Authentication Code）
 * OMB：美国行政管理和预算办公室（Office of Management and Budget）
 * OMG：对象管理组织（Object Management Group）
+* ONCD：美国国家网络总监办公室（Office of the National Cyber Director）
 * ONF：开放网络基金会（Open Networking Foundation）
 * OOB：带外（Out-Of-Band）
 * OODA：观察、知悉、决策、行动循环（Observe, Orient, Decide, Act）
@@ -1860,11 +1872,12 @@
 * PDP：策略决策点（Policy Decision Point）；策略定义点（Policy Definition Point）
 * PDR：防护、检测、响应（Protection, Detection & Response）
 * PDU：协议数据单元（Protocol Data Unit）；电源分配单元（Power Distribution Unit）
-* PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；提供商边缘（Provider Edge）
+* PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；提供商边缘（Provider Edge）；策略引擎（Policy Engine）；处理器元件（Processor Element）
 * PEAP：保护性可扩展认证协议（Protective Extensible Authentication Protocol）
 * PEB：进程环境块（Process Environment Block）
 * PEC：隐私计算（Privacy Enhancing Computing）
 * PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
+* PEF：保护执行设施（Protected Execution Facility）
 * PEK：平台加密密钥（Platform Encryption Key）
 * PEM：隐私增强邮件（Privacy Enhanced Mail）
 * PEN：特权执行禁用（Privileged Execute Never）
@@ -1880,6 +1893,8 @@
 * PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
 * PGT：代理授权票据（Proxy Granting Ticket）
 * PHI：个人健康信息（Personal Health Information）
+* PHM4S：智能制造中可靠操作的预测和健康管理（Predictive and Health Management for Reliable Operations in Smart Manufacturing）
+* PHMSA：美国管道和危险品安全管理局（Pipeline & Hazardous Materials Safety Administration）
 * PHY：物理层（Physical Layer）
 * PI：个人信息（Personal Information）
 * PIA：隐私影响评估（Privacy Impact Assessment）
@@ -1904,6 +1919,7 @@
 * PKE：公钥加密（Public-Key Encryption）；公钥使能（Public Key Enabling）
 * PKG：私钥生成器（Private Key Generator）
 * PKI：公钥基础设施（Public Key Infrastructure）
+* PKI-CA：公钥基础设施证书颁发机构（Public Key Infrastructure Certification Authority）
 * PL：特权等级（Privilege Level）
 * PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
 * PLC：可编程逻辑控制器（Programmable Logic Controller）
@@ -2358,6 +2374,7 @@
 * SYN：同步标识（Synchronization flag）
 * SysCon：IEEE国际系统学会议（IEEE International Systems Conference）
 * SYSLOG：系统日志（System Log）
+* SZTP：安全零接触配置（Secure Zero Touch Provisioning）
 
 
 ## T
@@ -2666,6 +2683,7 @@
 * X3DH：扩展式三路DH协议（Extended Triple Diffie-Hellman）
 * XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
 * XAI：可解释人工智能（eXplainable Artificial Intelligence）
+* XAUTH：可扩展认证（Extended Authentication）
 * XBT：比特币（Bitcoin）
 * XC：信创（拼音：Xin Chuang）
 * XCCDF：可扩展配置检查表描述格式（The eXtensible Configuration Checklist Description Format）
@@ -2679,6 +2697,8 @@
 * XML：可扩展标记语言（Extensible Markup Language）
 * XMPP：可扩展消息与存在协议（Extensible Messaging & Presence Protocol）
 * XMR：门罗币（Monero）
+* XMSS：可扩展Merkle签名体制（eXtended Merkle Signature Scheme）
+* XMSSMT：多树XMSS（Multi-tree XMSS）
 * XOR：异或（eXclusive-OR）
 * XP：极限编程（Extreme Programming）
 * XPath：XML路径语言（XML Path Language）
@@ -2693,12 +2713,14 @@
 ## Y
 
 * YAML：YAML序列化格式（YAML Ain't Markup Language）
+* YANG：YANG数据建模语言（Yet Another Next Generation）
 * YARA：YARA规则语言（Yet Another Ridiculous Acronym）
 
 
 ## Z
 
 * ZCAIA：中关村网络安全产业联盟（Zhongguancun Cyberspace Affairs Industry Association）
+* ZDA：零日攻击（Zero-Day Attack）
 * ZDI：某国际软件漏洞计划（Zero Day Initiative）
 * ZKP：零知识证明（Zero-Knowledge Proof）
 * ZSK：区域签名密钥（Zone-Signing Key）
@@ -2708,6 +2730,7 @@
 * ZTA：零信任架构（Zero Trust Architecture）
 * ZTE：零信任边缘（Zero Trust Edge）
 * ZTNA：零信任网络访问（Zero Trust Network Access）
+* ZTP：零接触配置（Zero Touch Provisioning）
 
 
 ## 0-9
