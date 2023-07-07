@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**2719**条，词组**3318**条。 
+当前收录缩略词形**2738**条，词组**3344**条。 
 
 
 
@@ -118,6 +118,7 @@
 * AM：资产管理（Asset Management）；访问管理（Access Management）；资产移动性（Asset Mobility）
 * AMD：超微半导体公司（Advanced Micro Devices, Inc）
 * AMD-SP：AMD安全处理器（AMD Secure Processor）
+* AMF：接入移动性管理网元（Access & Mobility Management Function）
 * AML：反洗钱（Anti-Money Laundering）
 * AMP：备用MAC/PHY（Alternate MAC/PHY）
 * AMSI：反恶意软件扫描接口（Anti-Malware Scan Interface）
@@ -374,6 +375,7 @@
 * CEC：中国电子信息产业集团有限公司（China Electronics Corporation）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
 * CEF：通用事件格式（Common Event Format）
+* CEK：列加密键（Column Encryption Key）
 * CEM：通用准则评价方法（CC Evaluation Methodology）
 * CEN：欧洲标准化委员会（法语：Comité Européen de Normalisation）
 * CENELEC：欧洲电工标准化委员会（法语：Comité Européen de Normalisation Électrotechnique）
@@ -459,6 +461,7 @@
 * CMD：网络空间拟态防御（Cyber Minic Defense）；操作命令（command）
 * CMDB：配置管理数据库（Configuration Management Database）
 * CMF：网络任务部队（Cyber Mission Force）；内容监控过滤（Content Monitoring & Filtering）；收集管理框架（Collection Management Framework）
+* CMK：客户主密钥（Customer Master Keys）
 * CMM：能力成熟度模型（Capability Maturity Model）
 * CMMI：能力成熟度模型集成（Capability Maturity Model Integration）
 * CMMS：计算化维护管理系统（Computerized Maintenance Management System）
@@ -547,6 +550,7 @@
 * CRP：容量需求计划（Capacity Requirements Planning）
 * CRQ：网络风险量化（Cyber Risk Quantification）
 * CRSM：网络空间资源测绘（Cyberspace Resource Surveying & Mapping）
+* CRTC：阴极射线管控制器（Cathode Ray Tube Controller）
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
 * CRUD：增删查改（Create, Retrieve, Update, Delete）
 * CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）；代码段寄存器（Code Segment）
@@ -557,7 +561,10 @@
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
 * CSC：美国网络日光室委员会（Cyberspace Solarium Commission）
 * CSCP：美国通信系统主任委员会（Communication System Committee of Principals）
-* CSE：加拿大通信安全机构（Communications Security Establishment）
+* CSE：加拿大通信安全机构（Communications Security Establishment）；客户端扩展（Client-Side Extension）；客户端加密（Client-Side Encryption）
+* CSE-C：客户自备密钥客户端加密（Client-Side Encryption with Customer Provided Keys）
+* CSE-KMS：KMS管理密钥客户端加密（Client-Side Encryption with KMS Managed Keys）
+* CSFLE：客户端字段级加密（Client-Side Field Level Encryption）
 * CSIA：网络安全和信息保障（Cyber Security & Information Assurance）
 * CSIRT：计算机安全事件应急响应组（Computer Security Incident Response Team）
 * CSM：网络空间测绘（Cyberspace Surveying & Mapping）；配置设定管理（Configuration Settings Management）
@@ -929,6 +936,7 @@
 * EVI：EVPN实例（EVPN Instance）
 * EVP：OpenSSL数字封装库（EnVeloPe）
 * EVPN：以太网VPN（Ethernet VPN）
+* eVRF：可扩展可视性面参考框架（extensible Visibility Reference Framework）
 * EW：电子战（Electronic Warfare）
 * EXT：EXT文件系统（Extended File System）
 
@@ -947,6 +955,7 @@
 * FCAPS：故障、配置、审计、性能、安全（Fault, Configuration, Accounting, Performance & Security）
 * FCC：美国联邦通信委员会（Federal Communications Commission）
 * FCD：委员会最终草案（Final Committee Draft）
+* FCEB：美国联邦文职机构（Federal Civilian Executive Branch）
 * FCG：函数调用图（Function Call Graph）
 * FCIP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * FCoE：光纤通道以太网（Fibre Channel over Ethernet）
@@ -1083,6 +1092,7 @@
 * GTP：GPRS隧道协议（GPRS Tunnelling Protocol）
 * GUA：全局单播地址（Global Unicast Address）
 * GUID：全局唯一标识符（Globally Unique Identifier）
+* GVLK：微软通用卷授权密钥（Generic Volume License Key）
 * GZ：GZIP压缩格式（GNU ZIP）
 * GZIP：GZIP压缩格式（GNU ZIP）
 
@@ -1386,6 +1396,7 @@
 * JPES：联合计划与执行服务（Joint Planning and Execution Services）
 * JRE：Java运行时环境（Java Runtime Environment）
 * JRSS：联合区域安全栈（Joint Regional Security Stack）
+* JRTF：联合勒索软件特别工作组（Joint Ransomware Task Force）
 * JS：JavaScript（JavaScript）
 * JSON：JavaScript对象标记语言（JavaScript Object Notation）
 * JTAG：联合测试行动组协议（Joint Test Action Group）
@@ -1425,7 +1436,7 @@
 * KM：知识管理（Knowledge Management）
 * KMaaS：密钥管理即服务（Key Management as a Service）
 * KMC：密钥管理中心（Key Management Center）
-* KMS：密钥管理服务（Key Management Service）
+* KMS：密钥管理服务（Key Management Service）；内核模式设定（Kernel Mode Setting）
 * KPA：已知明文攻击（Known-Plaintext Attack）
 * KPI：关键绩效指标（Key Performance Indicator）
 * KPMG：毕马威（Klynveld Peat Marwick Goerdeler）
@@ -1449,6 +1460,7 @@
 * LACP：链路聚合控制协议（Link Aggregation Control Protocol）
 * LAG：链路聚合组（Link Aggregation Group）
 * LaMDA：LaMDA模型（Language Models for Dialog Applications）
+* LAPS：Windows LAPS密码管理工具（Local Administrator Password Solution）
 * LAS：日志审计系统（Log Auditing System）
 * LB：负载均衡（Load Balance）
 * LBS：基于位置的服务（Location-Based Service）
@@ -1643,7 +1655,7 @@
 * NAI：NAI公司（Network Associates, Inc.）
 * NAPT：网络地址与端口转换（Network Address & Port Translation）
 * NARA：美国国家档案和记录管理局（National Archives and Records Administration）
-* NAS：网络附属存储（Network Attached Storage）
+* NAS：网络附属存储（Network Attached Storage）；非接入层（Non Access Stratum）
 * NASL：Nessus攻击脚本语言（Nessus Attack Scripting Language）
 * NAT：网络地址转译（Network Address Translation）
 * NAT-PMP：网络地址转换端口映射协议（Network Address Translation - Port Mapping Protocol）
@@ -1702,6 +1714,7 @@
 * NFT：非同质化代币（Non-Fungible Token）；网络取证技术（Network Forensics Technology）
 * NFV：网络功能虚拟化（Network Function Virtualization）
 * NFVO：网络功能虚拟化编排器（Network Functions Virtualization Orchestrator）
+* NGAP：下一代应用协议（Next Generation Application Protocol）
 * NGAV：下一代反病毒（Next-Generation Anti-Virus）
 * NGFW：下一代防火墙（Next-Generation Firewall）
 * NGIDS：下一代入侵检测系统（Next-Generation IDS）
@@ -2239,6 +2252,7 @@
 * SCSI：小型计算机系统接口（Small Computer System Interface）
 * SCSSI：法国中央信息系统安全局（法语：Service Central de la Sécurité des Systèmes d'Informations）
 * SCT：签名证书时间戳（Signed Certificate Timestamp）
+* SCuBA：安全云业务应用（Secure Cloud Business Applications）
 * SD-WAN：软件定义广域网（Software Defined Wide Area Network）
 * SDDC：软件定义数据中心（Software-Defined Data Center）
 * SDE：软件开发环境（Software Development Environment）
@@ -2407,7 +2421,10 @@
 * SSD：固态硬盘（Solid State Drive）
 * SSDF：安全软件开发框架（Secure Software Development Framework）
 * SSDP：简单服务发现协议（Simple Service Discovery Protocol）
-* SSE：安全服务边缘（Security Service Edge）；系统安全工程（System Security Engineering）；流式SIMD扩展（Streaming SIMD Extensions）
+* SSE：安全服务边缘（Security Service Edge）；系统安全工程（System Security Engineering）；流式SIMD扩展（Streaming SIMD Extensions）；服务端加密（Server-Side Encryption）
+* SSE-C：客户自备密钥服务端加密（Server-Side Encryption with Customer Provided Keys）
+* SSE-KMS：KMS管理密钥服务端加密（Server-Side Encryption with KMS Managed Keys）
+* SSE-S3：S3管理密钥服务端加密（Server-Side Encryption with S3 Managed Keys）
 * SSF：软件安全框架（Software Security Framework）；SSOIS安全功能（SSOIS Security Function）；战略支援部队（Strategic Support Force）
 * SSH：安全外壳协议（Secure Shell）
 * SSI：自治式身份（Self-Sovereign Identity）
@@ -2532,6 +2549,7 @@
 * TIFF：标签图像文件格式（Tagged Image File Format）
 * TIG：威胁情报网关（Threat Intelligence Gateway）
 * TIP：威胁情报平台（Threat Intelligence Platform）
+* TKG：时序知识图谱（Temporal Knowledge Graph）；攻防技术知识图谱（Technique Knowledge Graph）
 * TKIP：临时密钥完整性协议（Temporal Key Integrity Protocol）
 * TLB：旁路快表缓冲（Translation Lookaside Buffer）
 * TLCP：传输层密码协议（Transport Layer Cryptographic Protocol）
@@ -2566,6 +2584,7 @@
 * TPS：每秒交易数（Transactions Per Second）
 * TQM：全面质量管理（Total Quality Management）
 * TR：技术报告（Technical Report）；任务寄存器（Task Register）
+* TRA：技术参考架构（Technical Reference Architecture）
 * TRADINT：贸易情报（Trade Intelligence）
 * TRANSEC：Transmission Security（传输安全）；传输安全（Transmission Security）
 * TRiSM：信任、风险与安全管理（Trust, Risk and Security Management）
@@ -2680,7 +2699,7 @@
 * VBOS：VBOS计划（Vulnerabilities Below The Operating System）
 * VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
 * VCN：虚拟云网络（Virtual Cloud Network）
-* VDC：虚拟数据中心（Virtual Data Center）
+* VDC：虚拟数据中心（Virtual Data Center）；视频显示控制器（Video Display Controler）
 * VDI：虚拟桌面设施（Virtual Desktop Infrastructure）
 * vDNS：虚拟DNS（Virtual DNS）
 * VDP：漏洞报告政策（Vulnerability Disclosure Policy）
