@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3073**条，词组**3752**条。 
+当前收录缩略词形**3088**条，词组**3772**条。 
 
 
 
@@ -134,9 +134,10 @@
 * AMD-SP：AMD安全处理器（AMD Secure Processor）
 * AMF：接入移动性管理网元（Access & Mobility Management Function）
 * AML：反洗钱（Anti-Money Laundering）
-* AMP：备用MAC/PHY（Alternate MAC/PHY）；DARPA可靠微补丁项目（Assured Micropatching）
+* AMP：备用MAC/PHY（Alternate MAC/PHY）；DARPA可靠微补丁项目（Assured Micropatching）；高级恶意软件保护（Advanced Malware Protection）
 * AMSI：反恶意软件扫描接口（Anti-Malware Scan Interface）
 * AMT：Intel主动管理技术（Active Management Technology）
+* ANAB：ANSI国家认可委员会（ANSI National Accreditation Board）
 * ANATEL：巴西国家电信管理局（葡萄牙语：Agência Nacional de Telecomunicações）
 * ANL：美国阿贡国家实验室（Argonne National Laboratory）
 * ANN：人工神经网络（Artificial Neural Network）；近似近邻（Approximate Nearest Neighbor）
@@ -185,14 +186,14 @@
 * ASP：应用服务供应商（Application Service Provider）
 * ASPM：应用安全态势管理 （Application Security Posture Management）
 * ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）
-* AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）
+* AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）
 * ASTaaS：应用安全测试即服务（Application Security Testing as a Service）
 * ASTARTE："快速战术执行的空域全感知"（Airspace Total Awareness for Rapid Tactical Execution）
 * ASTO：应用安全测试编排（Application Security Testing Orchestration）
 * ATA：ATA接口（Advanced Technology Attachment）
 * ATC：ATC威胁覆盖项目（Atomic Threat Coverage）
 * ATM：异步传输模式（Asynchronous Transfer Mode）；自动取款机（Automated Teller Machine）
-* ATO：授权运营（Authorization To Operate）
+* ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）
 * ATP：高级威胁防护（Advanced Threat Protection）
 * ATS：iOS应用传输安全（App Transport Security）
 * ATSD：数字对象体系架构应用技术与标准促进组织（DOA Application Technology Standardization & Development）
@@ -325,6 +326,7 @@
 * CAP：云接入点（Cloud Access Point）；组合确保包（Composed Assurance Packages）
 * CAPEC：通用攻击模式枚举和分类（Common Attack Pattern Enumeration & Classification）
 * CAPEX：资本性支出（Capital Expenditure）
+* CAPIF：3GPP北向API通用API框架（Common API Framework for 3GPP northbound APIs）
 * CAPP：受控访问保护轮廓（Controlled Access Protection Profile）
 * CAPTCHA：验证码（Completely Automated Public Turing Test to tell Computers and Humans Apart）
 * CAR：网络分析知识库（Cyber Analytics Repository）
@@ -467,7 +469,7 @@
 * CICSVD：国家工业信息安全漏洞库（China National Industrial Cyber Security Vulnerability Database）
 * CIDF：通用入侵检测框架（Common Intrusion Detection Framework）
 * CIDR：无类域间路由（Classless Interdomain Routing）
-* CIE：网络信息工程（Cyber-Informed Engineering）
+* CIE：网络信息工程（Cyber-Informed Engineering）；中国电子学会（Chinese Institute of Electronics）
 * CIEM：云基础设施权利管理（Cloud Infrastructure Entitlements Management）
 * CIFS：通用互联文件系统（Common Internet File System）
 * CIG：云身份治理（Cloud Identity Governance）
@@ -483,6 +485,9 @@
 * CIO：首席信息官（Chief Information Officer）
 * CIP：关键基础设施保护（Critical Infrastructure Protection）；通用工业协议（Common Industrial Protocol）
 * CIPAC：关键基础设施伙伴关系咨询委员会（Critical Infrastructure Partnership Advisory Council）
+* CIPM：IPAA注册信息隐私管理人员（Certified Information Privacy Manager）
+* CIPP：IPAA注册信息隐私专业人员（Certified Information Privacy Professional）
+* CIPT：IPAA注册信息隐私技术人员（Certified Information Privacy Technologist）
 * CIRP：网络事件应急预案（Cyber Incident Response Plan）
 * CIRT：计算机事件应急响应小组（Computer Incident Response Team）
 * CIS：全面内网安全（Comprehensive Intranet Security）；互联网安全中心（Center for Internet Security）；计算机信息系统（Computer Information System）
@@ -897,6 +902,7 @@
 * DTE：数据终端设备（Data Terminal Equipment）
 * DTIC：国防技术信息中心（Defense Technical Information Center）
 * DTLS：数据报安全传输层协议（Datagram Transport Layer Security）
+* DTO：数字转型官（Digital Transformation Officer）
 * dTPM：分离可信平台模块（discrete Trusted Platform Module）
 * DTR：技术报告草案（Draft Technical Report）
 * DTS：技术规范草案（Draft Technical Specification）
@@ -1059,12 +1065,14 @@
 * eVRF：可扩展可视性面参考框架（extensible Visibility Reference Framework）
 * EW：电子战（Electronic Warfare）
 * EX：FireEye邮件安全产品系列（Email security）
+* EXIN：国际信息科学考试学会（Exam Institute for Information Science）
 * EXT：EXT文件系统（Extended File System）
 
 
 ## F
 
 * F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
+* FAA：美国联邦航空管理局（Federal Aviation Administration）
 * FaaS：函数即服务（Function as a Service）
 * FAB：特色、优势、价值（Feature, Advantage & Benefit）
 * FAIR：信息风险因子分析（Factor Analysis of Information Risk）
@@ -1350,6 +1358,7 @@
 * ICO：首次代币发行（Initial Coin Offering）；英国信息专员办公室（Information Commissioner's Office）
 * ICOS：IBM云对象存储（IBM Cloud Object Storage）
 * ICP：网络内容服务商（Internet Content Provider）；行业云平台（Industry Cloud Platform）；情报作战计划（Intelligence Campaign Plan）
+* ICR：联网记录（Internet Connection Record）
 * ICS：工业控制系统（Industrial Control System）
 * ICT：信息及通信技术（Information & Communications Technology）
 * ICV：完整性校验值（Integrity Check Value）
@@ -1431,6 +1440,7 @@
 * IoV：车联网（Internet of Vehicles）
 * IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）
 * IPA：身份、策略与审计（Identity, Policy & Audit）
+* IPAA：国际隐私保护专业人员协会（International Association of Privacy Professionals）
 * IPAM：IP地址管理（IP Address Management）
 * IPC：进程间通信（Inter-Process Communication）；信息保护控制（Information Protection and Control）
 * IPDR：IP通信详单（Internet Protocol Detail Record）
@@ -1485,6 +1495,7 @@
 * ISP：互联网服务提供商（Internet Service Provider）
 * ISPAB：信息安全和隐私咨询委员会（Information Security & Privacy Advisory Board）
 * ISPIM：IBM安全特权身份管理（IBM Security Privileged Identity Manager）
+* ISPL：EXIN信息服务采购管理认证项目（Information Service Procurement Management）
 * ISR：情报、监视、侦察（Intelligence, Surveillance, Reconnaissance）
 * ISS：信息安全系统（Information Security System）；互联网安全系统公司（Internet Security Systems）；国际空间站（International Space Station）
 * ISSE：信息系统安全工程（Information Systems Security Engineering）
@@ -1849,6 +1860,7 @@
 * N-2：美国陆军情报局（U.S. Navy Intelligence）
 * N/A：不适用（Not Applicable）
 * N/S：北/南（North/South）
+* NAB：国家认可委员会（National Accreditation Board）
 * NAC：网络准入控制（Network Access control）
 * NACHA：美国国家自动化清算所协会（National Automated Clearing House Association）
 * NAD：网络访问域（Network Access Domain）
@@ -2228,6 +2240,7 @@
 * PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）
 * PIN：个人标识码（Personal Identifier Number）
 * PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
+* PIPA：个人信息保护法案（Personal Information Protection Act）
 * PIPL：个人信息保护法（the Personal Information Protection Law）
 * PIR：隐私信息检索（Private Information Retrieval）
 * PISA：独立于协议的交换机架构（Protocol Independent Switch Architecture）
@@ -2266,6 +2279,7 @@
 * PoPW：物理工作量证明（Proof of Physical Work）
 * POS：销售终端（Point Of Sales）
 * POSIX：可移植操作系统接口（Portable Operating System Interface）
+* POTUS：美国总统（President Of The United States）
 * PoW：工作量证明（Proof of Work）
 * PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）
 * PPA：保护轮廓确保（Protection Profile Assurance）
@@ -2448,10 +2462,10 @@
 * RTO：恢复时间目标（Recovery Time Objective）
 * RTP：实时传输协议（Real-time Transport Protocol）
 * RTR：可信报告根（Root of Trust for Report）
-* RTS：可信存储根（Root of Trust for Storage）；监管技术标准（Regulatory Technical Standard）
+* RTS：监管技术标准（Regulatory Technical Standard）；存储信任根（Root of Trust for Storage）
 * RTSP：实时流协议（Real Time Streaming Protocol）
 * RTT：往返时间（Round Trip Time）
-* RTU：远程终端单元（Remote Terminal Unit）
+* RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
 * RuBAC：基于规则的访问控制（Rule-Based Access Control）
 * RUM：真实用户监控（Real User Monitoring）
 * RUP：统一软件开发过程（Rational Unified Process）
@@ -2986,6 +3000,7 @@
 * USCERT：美国计算机应急响应中心（United States Computer Emergency Readiness Team）
 * USCYBERCOM：美国网络司令部（United States Cyber Command）
 * USDT：美国财政部（United States Department of the Treasury）
+* USG：美国政府（United States Government）
 * USGCB：美国政府配置基线（United States Government Configuration Baseline）
 * USN：更新序列号（Update Sequence Number）
 * USSTRATCOM：美军战略司令部（U.S. Strategic Command）
