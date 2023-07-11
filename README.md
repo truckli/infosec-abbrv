@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3634**条，词组**4452**条。 
+当前收录缩略词形**3655**条，词组**4476**条。 
 
 
 
@@ -110,6 +110,7 @@
 * AIGA：人工智能生成行动（AI Generated Actions）
 * AIGC：人工智能生成内容（AI Generated Content）
 * AIGS：人工智能生成软件（AI Generated Softwares）
+* AIIA：中国人工智能产业发展联盟（Artificial Intelligence Industry Alliance）
 * AIK：作证身份密钥（Attestation Identity Key）；自动化安装工具包（Automated Installation Kit）
 * AIM：智能恶意软件（Autonomous Intelligent Malware）
 * AIMEE：紧急执行的人工智能缓解（Artificial Intelligence Mitigation for Emergency Execution）
@@ -221,6 +222,7 @@
 * AU：审计与可问责性（Audit & Accountability）
 * AUKUS：澳英美"三方安全联盟"（Australia, UK, and US Security Alliance）
 * AUP：可接受的使用策略（Acceptable Use Policy）；商定程序（Agreed-Upon Procedure）
+* AusCERT：澳大利亚计算机应急响应团队（Australian Computer Emergency Response Team）
 * AUSF：身份验证服务功能（Authentication Server Function）
 * AV：反病毒软件（Anti-Virus）；攻击载体（Attack Vector）；DoDAF全景视角（All Viewpoint）
 * AVC：应用漏洞关联（Application Vulnerability Correlation）
@@ -283,6 +285,7 @@
 * BMC：板管理控制器（Board Management Controller）
 * BME：燃烧铸造平衡模型（Burn-And-Mint Equilibrium）
 * BMIS：信息安全业务模型（Business Model for Information Security）
+* BND：德国对外情报局（德语：Bundesnachrichtendienst）
 * BNPL：现买后付（Buy Now Pay Later）
 * BOA：缓冲区溢出攻击（Buffer Overflow Attack）
 * BOD：约束性行动指令（Binding Operational Directives）；董事会（Board of Directors）
@@ -426,7 +429,7 @@
 * CCoA：网络响应措施（Cyber Course of Action）
 * CCOP：网络空间通用作战图（Cyber Common Operational Picture）
 * CCP：CMMC认证专业人员（CMMC Certified Professional）
-* CCPA：加州消费者隐私法案（California Consumer Privacy Act）
+* CCPA：工信部商用密码应用产业促进联盟（MIIT Commercial Cryptography Application Industry Promotion Alliance）；加州消费者隐私法案（California Consumer Privacy Act）
 * CCR：中央控制室（Central Control Room）
 * CCRA：通用准则互认约定（Common Criteria Recognition Arrangement）
 * CCRC：中国网络安全审查技术与认证中心（China Cybersecurity Review Technology and Certification Center）
@@ -479,6 +482,10 @@
 * CER：典范编码规则（Canonical Encoding Rules）
 * CERN：欧洲核子研究中心（法语：Conseil Européen pour la Recherche Nucléaire）
 * CERT：计算机应急响应组（Computer Emergency Response Team）
+* CERT-BUND：德国联邦计算机应急响应中心（德语：CERT - Bundesamt für Sicherheit in der Informationstechnik）
+* CERT-IN：印度计算机紧急响应团队（Computer Emergency Response Team - India）
+* CERT-UK：英国国家网络安全应急响应中心（United Kingdom Computer Emergency Response Team）
+* CERT/CC：计算机应急响应协调中心（Computer Emergency Response Team/Coordination Center）
 * CESA：Cisco端点安全分析（Cisco Endpoint Security Analytics）
 * CESD：英国通信电子安全部（Communications-Electronic Security Department）
 * CESER：网络安全、能源安全和应急响应（Cybersecurity, Energy Security, and Emergency Response）
@@ -664,6 +671,7 @@
 * CPM：网络安全绩效管理（Cybersecurity Performance Management）；关键路径法（Critical Path Method）
 * CPNI：国家基础设施保护中心（Centre for the Protection of National Infrastructure）
 * CPO：首席隐私官（Chief Privacy Officer）
+* CPRA：加州隐私权法案（California Privacy Rights Act）
 * CPRI：公共无线电接口（Common Public Radio Interface）
 * CPRNG：密码学安全伪随机数生成器（Cryptographically secure Pseudo-Random Number Generator）
 * CPS：代码指针分离（Code-Pointer Seperation）；赛博物理系统（Cyber-Physical System）；续体传入风格（Continuation-Passing Style）
@@ -974,6 +982,7 @@
 * DoH：DNS-over-HTTPs（DNS over HTTPs）
 * DOI：数字对象标识符（Digital Object Identifier）
 * DOIP：数字对象接口协议（Digital Object Interface Protocol）
+* DoJ：美国司法部（Department of Justice）
 * DoN：美国海军部（Department of the Navy）
 * DONA：多纳基金会（DONA Foundation）
 * DOP：面向数据编程攻击（Data Oriented Programming）
@@ -1022,6 +1031,7 @@
 * DSO：动态共享对象（Dynamic Shared Objects）；数据安全官（Data Security Officer）；DARPA国防科学办公室（Defense Sciences Office）
 * DSP：数据安全保护（Data Security Protection）；数据安全平台（Data Security Platform）；数据协作平台（Data Sharing Platform）；数据服务平台（Data Service Platform）；数字信号处理（Digital Signal Processing）
 * DSPM：数据安全态势管理（Data Security Posture Management）
+* DSRC：专用短程通信（Dedicated Short Range Communication）
 * DSS：数字签名标准（Digital Signature Standard）；决策支持系统（Decision Support Systems）
 * DSSA：分布式系统安全架构（Distributed System Security Architecture）
 * DSSS：直接序列扩频（Direct Sequence Spread Spectrum）
@@ -1186,7 +1196,8 @@
 * ER：实体及其关系（Entities and their Relationships）；加密根（Encryption Root）
 * ER&A：实体识别分析（Entity Resolution & Analysis）
 * ERM：企业风险管理（Enterprise Risk Management）；企业资源管理（Enterprise Resource Management）
-* ERP：企业风险简介（Enterprise Risk Profile）
+* ERP：企业风险简介（Enterprise Risk Profile）；电子道路收费（Electronic Road Pricing）
+* ERPS：电子道路收费系统（Electronic Road Pricing System）
 * ERR：企业风险登记册（Enterprise risk register）
 * ES：ElasticSearch数据仓储（ElasticSearch）；登记服务（Enrollment Service）；额外段寄存器（Extra Segment）；以太网段（Ethernet Segment）
 * ESA：企业安全架构（Enterprise Security Architecture）
@@ -1208,6 +1219,7 @@
 * EST：安全传输登记（Enrollment over Secure Transport）
 * ETA：加密流量分析（Encrypted Traffic Analysis）；教育、培训与意识（Education, Training & Awareness）
 * ETAPWG：教育、培训、意识和专业化工作组（Education, Training, Awareness & Professionalization Working Group）
+* ETC：电子不停车收费系统（Electronic Toll Collection）
 * ETH：以太币（Ether）；苏黎世联邦理工学院（德语：Eidgenössische Technische Hochschule Zürich）
 * ETL：抽取、转换、加载（Extract-Transform-Load）
 * EtM：加密后MAC（Encrypt-then-MAC）
@@ -1406,6 +1418,7 @@
 * gNB：gNB基站（gNodeB）
 * GND：地线（Ground）
 * GNN：图神经网络（Graph Neural Network）
+* GNSS：全球导航卫星系统（Global Navigation Satellite System）
 * GNU：GNU操作系统计划（GNU's Not Unix）
 * GOPS：每秒十亿次运算数（Giga Operations Per Second）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
@@ -1498,6 +1511,7 @@
 * HNT：氦币（Helium Network Token）
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
+* HOV：高乘载车道（High-Occupancy Vehicle lane）
 * HPC：高性能计算（High-Performance Computing）；硬件性能计数器（Hardware Performance Counter）
 * HPE：惠普公司（Hewlett Packard Enterprise）
 * HPH：医疗和公共卫生（Healthcare & Public Health）
@@ -1895,6 +1909,7 @@
 * KMC：密钥管理中心（Key Management Center）
 * KMIP：密钥管理互操作性协议（Key Management Interoperability Protocol）
 * KMS：密钥管理服务（Key Management Service）；内核模式设定（Kernel Mode Setting）；密钥管理系统（Key Management System）
+* KN-CERT：韩国国家网络安全应急响应团队（Korea National Computer Emergency Response Team）
 * KPA：已知明文攻击（Known-Plaintext Attack）
 * KPI：关键绩效指标（Key Performance Indicator）
 * KPMG：毕马威（Klynveld Peat Marwick Goerdeler）
@@ -1902,6 +1917,7 @@
 * KPTI：内核页表隔离（Kernel PageTable Isolation）
 * KQL：Kusto查询语言（Kusto Query Language）；Kibana查询语言（Kibana Query Language）；关键词查询语言（Keyword Query Language）
 * KRACK：KRACK攻击（Key Reinstallation Attacks）
+* krCERT/CC：韩国计算机应急响应团队（Korea Computer Emergency Response Team/Coordination Center）
 * KRI：关键风险指标（Key Risk Indicator）
 * KRR：知识表示和推理（Knowledge Representation and Reasoning）
 * KSF：关键成功因素（Key Success Factor）
@@ -2280,7 +2296,7 @@
 * NIPP：美国国家基础设施保护计划（National Infrastructure Protection Plan）
 * NIPRNet：非涉密IP路由器网 （Non-classified Internet Protocol Router Network）
 * NIPS：网络入侵预防系统（Network Intrusion Prevention System）
-* NIS：网络信息服务（Network Information Service）
+* NIS：网络信息服务（Network Information Service）；韩国国家情报院（National Intelligence Service）
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * NISP：美国国家工业安全计划（National Industrial Security Program）
 * NIST：美国国家标准技术研究院（National Institute of Standards & Technology）
@@ -2398,6 +2414,7 @@
 * OBIE：开放式银行实施实体（Open Banking Implementation Entity）
 * OBM：原始品牌制造商（Original Brand Manufacturer）
 * OBSAI：开放基站架构倡议（Open Base Station Architecture Initiative）
+* OBU：车载单元（On-Board Unit）
 * OC：光载波（Optical Carrier）
 * OCA：开放网络安全联盟（The Open Cybersecurity Alliance）
 * OCB：偏移电码本模式（Offset CookBook）；片上总线（On-Chip Bus）
@@ -2507,6 +2524,7 @@
 
 * P2DR：策略、防护、检测和响应（Policy, Protection, Detection & Response）
 * P2P：对等网络（Peer-to-Peer）
+* P2V：行人车辆通信（Pedestrian-to-Vehicle）
 * P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
 * PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）；策略管理（Policy Administration）
 * PaaS：平台即服务（Platform As A Service）
@@ -2895,6 +2913,7 @@
 * RTT：往返时间（Round Trip Time）
 * RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
 * RU：无线电单元（Radio Unit）
+* RU-CERT：俄罗斯计算机应急响应团队（Russian Computer Emergency Response Team）
 * RuBAC：基于规则的访问控制（Rule-Based Access Control）
 * RUM：真实用户监控（Real User Monitoring）
 * RUP：统一软件开发过程（Rational Unified Process）
@@ -2962,6 +2981,7 @@
 * SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）
 * SCCA：安全云计算架构（Secure Cloud Computing Architecture）
 * SCCM：软件变更与配置管理（Software Change and Configuration Management）；系统中心配置管理器（System Center Configuration Manager）
+* SCCTC：国家密码管理局商用密码检测中心（Commercial Cryptography Testing Center of State Cryptography Administration）
 * SCCVI：安全配置合规验证计划（Secure Configuration Compliance Validation Initiative）
 * SCE：安全计算环境（Secure Computing Environment）；安全混沌工程（Security Chaos Engineering）；卓越安全中心（Security Center of Excellence）；安全配置编辑器（Security Configuration Editor）
 * SCEF：服务能力暴露功能（Service Capability Exposure Function）
@@ -3578,6 +3598,7 @@
 * VHF：甚高频（Very High Frequency）
 * VHSIC：超高速集成电路（Very High Speed Integrated Circuits）
 * VIB：vSphere安装捆绑包（vSphere Installation Bundle）
+* VIN：车辆识别码（Vehicle Identification Number）
 * VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
 * VIRTIO：虚拟化 I/O（Virtualization Input/Output）
 * Virtual：虚拟机监视器（Machine Monitor）
