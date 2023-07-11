@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3655**条，词组**4476**条。 
+当前收录缩略词形**3671**条，词组**4494**条。 
 
 
 
@@ -317,6 +317,7 @@
 * BX：某寄存器代号（B eXtended）
 * BYOD：用户自带设备（Bring Your Own Device）
 * BYOE：企业自助使用（Bring Your Own Enterprise）
+* BYOVD：自带脆弱驱动程序（Bring Your Own Vulnerable Driver）
 
 
 ## C
@@ -462,9 +463,9 @@
 * CDRL：合同交付要求清单（Contract Delivery Requirements List）
 * CDS：跨域解决方案（Cross Domain Solution）
 * CDSE：安全卓越发展中心（Center for Development of Security Excellence）
+* CDSP：数据安全从业人员认证（Certified Data Security Professional）
 * CDSS：云提供的安全服务（Cloud-Delivered Security Service）
 * CE：网络窃取（Cyber Exploitation）；欧洲合格标志（法语：Conformité Européene）；计算机工程（Computer Engineering）；客户支持部门（Customer Engineering）；客户支持工程师（Customer Engineer）
-* CEC：中国电子信息产业集团有限公司（China Electronics Corporation）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
 * CEDS：CESER能源输送系统网络安全（Cybersecurity for Energy Delivery Systems）
 * CEE：通用事件表达式（Common Event Expression）
@@ -669,7 +670,7 @@
 * CPI：代码指针完整性（Code-Pointer Integrity）；持续过程提升（Continuous Process Improvement）
 * CPL：请求特权等级（Current Privilege Level）
 * CPM：网络安全绩效管理（Cybersecurity Performance Management）；关键路径法（Critical Path Method）
-* CPNI：国家基础设施保护中心（Centre for the Protection of National Infrastructure）
+* CPNI：英国国家基础设施保护中心（Centre for the Protection of National Infrastructure）
 * CPO：首席隐私官（Chief Privacy Officer）
 * CPRA：加州隐私权法案（California Privacy Rights Act）
 * CPRI：公共无线电接口（Common Public Radio Interface）
@@ -711,8 +712,10 @@
 * CS&C：美国网络安全和通信办公室（Office of Cybersecurity and Communications）
 * CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）；网络安全通报（Cyber Security Advisory）
 * CSAAC：网络态势感知分析能力（Cyber Situational Awareness Analytic Capabilities）
-* CSAC：CISA网络安全咨询委员会（CISA Cybersecurity Advisory Committee）
+* CSAC：中国网络空间安全协会（Cyber Security Association of China）；CISA网络安全咨询委员会（Cyber Security Advisory Committee）
 * CSAF：通用安全通报框架（Common Security Advisory Framework）
+* CSAP：CompTIA安全分析从业人员认证（CompTIA Security Analytics Professional）
+* CSAP+：CompTIA高级安全从业人员认证（CompTIA Advanced Security Practitioner）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
 * CSC：美国网络日光室委员会（Cyberspace Solarium Commission）
 * CSCP：美国通信系统主任委员会（Communication System Committee of Principals）
@@ -1092,6 +1095,7 @@
 * EBX：某32位寄存器代号（Extended BX）
 * EC：边缘计算（Edge Computing）
 * EC2：弹性计算云（Elastic Compute Cloud）
+* EC3：欧洲网络犯罪中心（European Cyber Crime Centre）
 * ECA：外部证书授权机构（External Certificate Authority）
 * ECAB：紧急变更顾问委员会（Emergency Change Advisory Board）
 * ECB：电码本（Electronic Codebook）
@@ -1124,6 +1128,7 @@
 * EDP：邮件数据防护（Email Data Protection）；电子数据处理（Electronic Data Processing）
 * EDPB：欧洲数据保护委员会（European Data Protection Board）
 * EDR：端点检测响应（Endpoint Detection & Response）；汽车事件数据记录系统（Event Data Recorder）
+* EDU：欧洲缉毒组（Europol Drugs Unit）
 * EDW：企业数仓（Enterprise Data Warehouse）
 * EDX：某32位寄存器代号（Extended DX）
 * EE：数字证书终端实体（End Entity）；电子工程（Electronics Engineering）；电气工程（Electrical Engineering）
@@ -1561,6 +1566,7 @@
 * I/O：输入/输出（Input/Output）
 * I2P：隐形网计划（Invisible Internet Project）
 * I3P：信息基础设施保护研究所（Institute for Information Infrastructure Protection）
+* I4C：印度网络犯罪协调中心（Indian Cyber Crime Coordination Centre）
 * IA：信息保障（Information Assurance）；互联网访问（Internet Access）；FireEye调查分析系统（Investigation Analysis）；英特尔安腾体系结构（Itanium Architecture）；身份验证与认证（Identification & Authentication）
 * IA-32：英特尔32位架构（Intel Architecture 32-bit）
 * IA-64：英特尔安腾架构（Intel Itanium Architecture）
@@ -1717,7 +1723,7 @@
 * IPMC：智能平台管理控制器（Intelligent Platform Management Controller）
 * IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）
 * IPPBE：情报计划、编程、预算和评估过程（Intelligence Planning, Programming, Budgeting, and Evaluation）
-* IPS：入侵预防系统（Intrusion Prevention System）
+* IPS：入侵预防系统（Intrusion Prevention System）；印度警察系统（India Police Service）
 * IPsec：互联网协议安全（Internet Protocol Security）
 * IPTF：基础设施保护任务部队（Infrastructure Protection Task Force）
 * IPU：Intel产品升级（Intel Product Update）
@@ -1845,6 +1851,7 @@
 * JFFS：日志快闪文件系统（Journaling Flash File System）
 * JFHQ：联合部队总部（JFHQ）
 * JFHQ-DoDIN：国防部信息网络联合部队司令部（Joint Force Headquarters-Department of Defense Information Network）
+* JIC：英国联合情报委员会（Joint Intelligence Committee）
 * JIE：联合信息环境（Joint Information Environment）
 * JIEO：联合互操作性工程组织（Joint Interoperability Engineering Organization）
 * JIT：即时编译（Just-In-Time）
@@ -1980,6 +1987,7 @@
 * LOL：离地工具（Living Off The Land）
 * LOLBAS：离地攻击二进制与脚本（Living Off the Land Binaries And Scripts）
 * LOLBins：离地攻击二进制（Living Off the Land Binaries）
+* LOLDriver：离地驱动程序（Living Off The Land Driver）
 * LOP：局部作战图（Local Operational Picture）
 * LoRa：远距离无线电（Long Range Radio）
 * LotL：离地攻击（Living off the Land）
@@ -2070,6 +2078,8 @@
 * MHA：印度内政部（Ministry of Home Affairs）
 * MHz：兆赫（Megahertz）
 * MI：美国军事情报部队（Military Intelligence）；管理信息（Management Information）
+* MI5：英国军情五局（Military Intelligence, Section 5）
+* MI6：英国军情六局（Military Intelligence, Section 6）
 * MIB：管理信息库（Management Information Base）
 * MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）
 * MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
@@ -2204,6 +2214,7 @@
 * NASL：Nessus攻击脚本语言（Nessus Attack Scripting Language）
 * NAT：网络地址转译（Network Address Translation）
 * NAT-PMP：网络地址转换端口映射协议（Network Address Translation - Port Mapping Protocol）
+* NATGRID：印度国家情报网（National Intelligence Grid）
 * NATO：北约（North Atlantic Treaty Organization）
 * NAVAIR：美国海军航空系统司令部（Naval Air System Command）
 * NAVSEA：海军海上系统司令部（Naval Sea Systems Command）
@@ -2286,6 +2297,7 @@
 * NIAM：NetGuard身份访问管理器（NetGuard Identity Access Manager）
 * NIAP：美国国家信息保障联盟（National Information Assurance Partnership）
 * NIC：网络接口卡（Network Interface Card）
+* NICC：美国国家基础设施协调中心（National Infrastructure Coordinating Center）
 * NICCS：美国国家网络安全职业与学习计划（National Initiative for Cybersecurity Careers & Studies）
 * NICE：美国国家网络安全教育计划（National Initiative for Cybersecurity Education）
 * NIDG：非侵入式数据治理框架（Non-Invasive Data Governance）
@@ -2297,6 +2309,7 @@
 * NIPRNet：非涉密IP路由器网 （Non-classified Internet Protocol Router Network）
 * NIPS：网络入侵预防系统（Network Intrusion Prevention System）
 * NIS：网络信息服务（Network Information Service）；韩国国家情报院（National Intelligence Service）
+* NISCC：英国国家基础设施安全协调中心（National Infrastructure Security Coordination Centre）
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * NISP：美国国家工业安全计划（National Industrial Security Program）
 * NIST：美国国家标准技术研究院（National Institute of Standards & Technology）
@@ -2322,6 +2335,7 @@
 * NPCI：印度国家支付公司（National Payments Corporation of India）
 * NPE：非人实体（Non-Person Entity）
 * NPIVP：NIST个人身份验证确认项目（NIST Personal Identity Verification Validation Program）
+* NPPD：美国CISA前身，原国家保护和计划司（National Protection and Programs Directorate）
 * NPS：网络代理服务器（Network Proxy Server）；美国国家战备体系（National Preparedness System）；网络策略服务器（Network Policy Server）
 * NPSI：德国国家信息保护计划（Nationaler Plan zum Schutz der Informationsstrukturen）
 * NPU：网络处理单元（Network Processing Unit）；神经网络处理器（Neural-network Processing Unit）
@@ -2338,6 +2352,7 @@
 * NS：名字服务器（Name Server）
 * NS/EP：美国国家安全与应急准备（National Security & Emergency Preparedness）
 * NSA：美国国家安全局（National Security Agency）；5G非独立组网（Non-Standalone）
+* NSAC：英国国家安全咨询中心（National Security Advisory Centre）
 * NSATP：注册网络安全测评专业人员（Certified Cybersecurity Assessment Professional）
 * NSB：国家标准化团体（National Standards Body）；美国国家科学理事会（National Science Board）；美国FBI国家安全处（National Security Branch）
 * NSC：网络交换板（Network Switch Cards）；美国国家安全委员会（National Security Council）
@@ -3327,6 +3342,7 @@
 * TCA：可信连接架构（Trusted Connect Architecture）
 * TCB：可信计算基（Trusted Computing Base）
 * TCCM：可信云凭据管理器（Trusted Cloud Credential Manager）
+* TCCS：中国计算机学会计算机安全专业委员会（Technical Committee on Computer Security）
 * TCG：可信计算组织（Trusted Computing Group）
 * TCH：某金融行业机构（The Clearing House）
 * TCM：可信密码模块（Trusted Cryptography Module）
