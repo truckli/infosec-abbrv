@@ -22,11 +22,9 @@
 
 * [All Acronyms网站](https://www.allacronyms.com/)：一个社区驱动的通用缩略词数据库, 词条数庞大，动态更新，并由社区投票确定排名。网络安全部分仍不完善
 * [The Free Dictionary](https://acronyms.thefreedictionary.com/)：类似的通用缩略词网站
-* [NIST IR7581《系统与网络安全缩略词》](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf)：约1000个网络安全缩略词，本项目已收录
-* [美军网站](https://public.cyber.mil/acronyms/) : 美国DoD约300个网络安全类缩略词
-* [Webopedia Complete List Of Cybersecurity Acronyms](https://www.webopedia.com/insights/cybersecurity-acronyms/)：约100个网络安全缩略词
-* [Cybersecurity Acronyms – A Practical Glossary](https://www.uscybersecurity.net/cybersecurity-acronyms/): 约100个网络安全缩略词
-* [TOTEM.TECH](https://www.totem.tech/acronyms/): 128个网络安全缩略词
+* [NIST IR7581《系统与网络安全缩略词》](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf)：约1000个网络安全缩略词，本项目已吸收
+* [美军网络缩略词列表](https://public.cyber.mil/acronyms/) : 美国DoD约300个网络安全类缩略词，本项目已吸收
+
 
 
 
