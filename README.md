@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3671**条，词组**4494**条。 
+当前收录缩略词形**3708**条，词组**4539**条。 
 
 
 
@@ -68,7 +68,7 @@
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）；自动发现（Auto-Discovery）
 * ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
 * ADconf：ADconf安全大会（Attack & Defense Conference）
-* ADCS：活动目录证书服务（Active Directory Certificate Services）
+* ADCS：活动目录证书服务（Active Directory Certificate Services）；活动目录证书服务（Active Directory Certificate Service）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
@@ -76,6 +76,7 @@
 * ADP：自动数据处理（Automated Data Processing）
 * ADR：应用安全检测与响应（Application Detection & Response）
 * ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）
+* ADSI：活动目录服务接口（Active Directory Services Interface）
 * AE：认证加密（Authenticated Encryption）
 * AEAD：关联数据的认证加密（Authenticated Encryption with Associated Data）
 * AEP：敌手模拟计划（Adversary Emulation Plan）；高级端点防护（Advanced Endpoint Protection）；英特尔Optane存储产品原名（Apache Pass）
@@ -260,6 +261,7 @@
 * BCP：业务连续性计划（Business Continuity Plan）；最佳当前实践（Best Current Practice）
 * BCR：约束性公司准则（Binding Corporate Rules）
 * BDA：战斗损伤评估（Battle Damage Assessment）
+* BDFL：开源项目领袖（Benevolent Dictator For Life）
 * BDP：大数据平台（Big Data Platform）
 * BEAST：BEAST攻击（Browser Exploit Against SSL/TLS）
 * BEP：行为执行预防（Behavioral Execution Prevention）
@@ -290,6 +292,7 @@
 * BOA：缓冲区溢出攻击（Buffer Overflow Attack）
 * BOD：约束性行动指令（Binding Operational Directives）；董事会（Board of Directors）
 * BoF：话题兴趣组（Birds of a Feather）
+* BOLA：无效的对象级授权（Broken Object Level Authorization）
 * BOM：字节序标记（Byte Order Mark）；物料清单（Bill of Materials）
 * BOSS：业务运营支撑系统（Business & Operation Support System）
 * Botnet：僵尸网络（Robot Network）
@@ -312,6 +315,7 @@
 * BST：二叉查找树（Binary Search Tree）
 * BTC：比特币（Bitcoin）
 * BTI：分行目标识别（Branch Target Identification）
+* BTS：美国交通统计局（Bureau of Transportation Statistics）
 * BUM：广播、未知单播、组播（Broadcast, Unknown-unicast, Multicast）
 * Business：业务连续性计划（Continuity Plan）
 * BX：某寄存器代号（B eXtended）
@@ -578,6 +582,7 @@
 * CLI：命令行界面（Command-Line Interface）
 * CLOB：字符大对象（Character Large Object）
 * CloudSPF：云安全策略框架（Cloud Security Policy Framework）
+* CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer）
 * CLS：无证书签名（Certificateless Signature）；CEE日志语法（CEE Log Syntax）；承包商后勤支持（Contractor Logistics Support）
 * CLT：CEE日志传输（CEE Log Transport）
 * CLUE：中文语言理解评测（Chinese Language Understanding Evaluation）
@@ -715,7 +720,6 @@
 * CSAC：中国网络空间安全协会（Cyber Security Association of China）；CISA网络安全咨询委员会（Cyber Security Advisory Committee）
 * CSAF：通用安全通报框架（Common Security Advisory Framework）
 * CSAP：CompTIA安全分析从业人员认证（CompTIA Security Analytics Professional）
-* CSAP+：CompTIA高级安全从业人员认证（CompTIA Advanced Security Practitioner）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
 * CSC：美国网络日光室委员会（Cyberspace Solarium Commission）
 * CSCP：美国通信系统主任委员会（Communication System Committee of Principals）
@@ -764,6 +768,8 @@
 * CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）
 * CTA：认知任务分析（Cognitive Task Analysis）
 * CTAP：客户端认证器协议（Client to Authenticator Protocol）
+* CTE：CipherTrust透明加密（CipherTrust Transparent Encryption）
+* CTE-RWP：CipherTrust透明加密勒索软件保护（CipherTrust Transparent Encryption Ransomware Protection）
 * CTEM：持续威胁暴露面管理（Continuous Threat Exposure Management）
 * CTF：夺旗赛（Capture The Flag）；打击恐怖主义融资（Counter-Terrorist Financing）；CTF加载程序（ctfmon.exe）
 * CTI：网络威胁情报（Cyber Threat Intelligence）；受控技术信息（Controlled Technical Information）
@@ -772,6 +778,7 @@
 * CTIIC：美国网络威胁情报整合中心（the Cyber Threat Intelligence Integration Center）
 * CTIO：网络威胁情报本体（Cyber Threat Intelligence Ontology）
 * CTL：通信技术实验室（Communication Technology Laboratory）
+* CTM：Thales密码信任管家（CipherTrust Manager）
 * CTO：首席技术官（Chief Technology Officer）
 * CTR：计数器工作模式（CounTeR operation mode）
 * CTSRD：“值得信赖的清洁安全研发”计划（Clean Slate Trustworthy Secure Research and Development）
@@ -806,6 +813,7 @@
 * D3A：决策、检测、交付和评估（Decide, Detect, Deliver & Assess）
 * D3FEND：赋能网络防御的检测、拒止和扰乱框架（Detection, Denial, and Disruption Framework Empowering Network Defense）
 * D@RE：静态数据加密（Data at Rest Encryption）
+* DA：域管理员（Domain Admin）
 * DAA：直接匿名作证（Direct Anonymous Attestation）；指定审批机构（Designated Approving Authority）
 * DaaS：检测即服务（Detection as a Service）；目录即服务（Directory as a Service）；桌面即服务（Desktop as a Service）；数据即服务（Data as a Service）
 * DAC：自主访问控制模型（Discretionary Access Control）
@@ -862,11 +870,13 @@
 * DDM：动态数据脱敏（Dynamic Data Masking）
 * DDN：数字数据网络（Digital Data Network）
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
+* DDPE：Dell数据保护加密（Dell Data Protection Encryption）
 * DDR：数据检测与响应（Data Detection & Response）
 * DE：数字实体（Digital Entity）
 * DEA：美国缉毒局（United States Drug Enforcement Administration）
 * DEC：DEC公司（Digital Equipment Corporation）
 * DECC：国防企业计算中心（Defense Enterprise Computing Centers）
+* DEE：Dell加密企业版（Dell Encryption Enterprise）
 * DEFCON：DEFCON黑客年会（DEFCON Hacking Conference）；防御就绪条件（Defense Readiness Condition）
 * DeFi：去中心化金融（Decentralized Finance）
 * DEK：数据加密密钥（Data Encryption Key）
@@ -991,8 +1001,7 @@
 * DOP：面向数据编程攻击（Data Oriented Programming）
 * DoS：拒绝服务攻击（Denial of Service）
 * DOS：DOS操作系统（Disk Operating System）
-* DoT：DNS-over-TLS（DNS over TLS）
-* DOT：运输部（Department of Transportation）
+* DoT：DNS-over-TLS（DNS over TLS）；美国运输部（Department of Transportation）
 * DOT&E：运行测试与评估主任（Director, Operational Test & Evaluation）
 * DP：差分隐私（Differential Privacy）
 * DPA：差分能量分析（Differential Power Analysis）；数据处理协议（Data Process Agreement）；数据保护机构（Data Protection Agency）
@@ -1002,6 +1011,7 @@
 * DPKI：分布式PKI（Distributed PKI）
 * DPL：描述符特权等级（Descriptor Privilege Level）
 * DPO：数据保护官（Data Protection Officer）
+* DPRC：美国数据保护审查法院（Data Protection Review Court）
 * DPRIVE：虚拟环境中的数据保护项目（Data Protection in Virtual Environments）
 * DQ：定义QWORD（Define QWORD）
 * DQL：数据查询语言（Data Query Language）
@@ -1075,7 +1085,7 @@
 * E/W：东/西（East/West）
 * E3：拓线分析、信息富化和结果评价（Expansion, Enrichment & Evaluation）
 * E3A：美国爱因斯坦工程加速计划（EINSTEIN 3 Accelerated）
-* EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）
+* EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）；企业管理员（Enterprise Admin）
 * EAD：以太网接入直通（Ethernet Access Direct）；以太网自动发现（Ethernet Auto Discovery）
 * EAI：企业应用集成（Enterprise Application Integration）
 * EAIC：端点应用隔离与控制（Endpoint Application Isolation Containment）
@@ -1115,6 +1125,7 @@
 * ECP：加密控制协议（Encryption Control Protocol）
 * eCPRI：增强公共无线电接口（Enhanced Common Public Radio Interface）
 * ECS：应急通信系统（Emergency Communication System）；增强式网络安全服务（Enhanced Cybersecurity Services）；弹性容器服务（Elastic Container Service）
+* ECSO：欧洲网络安全组织（European Cyber Security Organisation）
 * ECU：电子控制单元（Electronic Control Unit）
 * ECX：某32位寄存器代号（Extended CX）
 * EDC：企业数据中心（Enterprise Data Center）
@@ -1155,8 +1166,9 @@
 * EITDR：企业信息技术数据库存储库（Enterprise Information Technology Database Repository）
 * EK：背书密钥（Endorsement Key）
 * EKE：加密密钥交换（Encrypted Key Exchange）
+* EKM：外部密钥管理（External Key Management）
 * EKS：弹性Kubernetes服务（Elastic Kubernetes Service）
-* EKU：增强型密钥使用（Enhanced Key Usage）
+* EKU：增强型密钥使用（Enhanced Key Usage）；扩展/增强密钥用法（Extended/Enhanced Key Usage）
 * EL：实体链接（Entity Linking）；工程实验室（Engineering Laboratory）；异常级别（Exception Level）
 * ELAM：早期启动防恶意软件技术（Early-Lunch Anti-Malware）
 * ELF：可执行与可链接格式（Executable and Linkable Format）
@@ -1209,6 +1221,14 @@
 * ESAM：嵌入式安全控制模块（Embedded Secure Access Module）
 * ESB：企业服务总线（Enterprise Service Bus）
 * ESC：电子稳定控制系统（Electronic Stability Control）
+* ESC1：第1类提权攻击（Escalation 1）
+* ESC2：第2类提权攻击（Escalation 2）
+* ESC3：第3类提权攻击（Escalation 3）
+* ESC4：第4类提权攻击（Escalation 4）
+* ESC5：第5类提权攻击（Escalation 5）
+* ESC6：第6类提权攻击（Escalation 6）
+* ESC7：第7类提权攻击（Escalation 7）
+* ESC8：第8类提权攻击（Escalation 8）
 * ESCC：电力行业协调委员会（Electricity Subsector Coordinating Council）
 * eSCO：增强的面向同步连接（Enhanced Synchronous Connection Oriented）
 * ESD：静电防护（Electrostatic Discharge）；紧急停机（Emergency Shut Down）
@@ -1317,6 +1337,7 @@
 * FNPS：美国联邦网络防护服务（Federal Network Protection Service）
 * FNR：美国联邦网络弹性计划（Federal Network Resilience）
 * FOA：野战行动机构（Field Operating Agency）
+* FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
 * FOAF：人际关系本体模型（Friend Of A Friend）
 * FOIA：信息自由法案（Freedom of Information Act）
 * FOSS：自由开源软件（Free & Open Source Software）
@@ -1347,6 +1368,7 @@
 * FSS：金融服务部门（Financial Services Sector）
 * FT：故障容差（Fault Tolerance）
 * FTA：联邦交通管理局（Federal Transit Administration）
+* FTC：美国联邦贸易委员会（Federal Trade Commission）
 * FTD：火力威胁防御（Firepower Threat Defense）
 * FTE：全职人力工时（Full-Time Equivalents）
 * FTP：文件传输协议（File Transfer Protocol）
@@ -1784,7 +1806,7 @@
 * ISTQB：国际软件测试资格委员会（International Software Testing Qualifications Board）
 * ISV：独立软件供应商（Independent Software Vendor）
 * IT：信息技术（Information Technology）
-* ITA：IT架构（IT Architecture）
+* ITA：IT架构（IT Architecture）；美国国际贸易署（International Trade Administration）
 * ITAF：IT确保框架（IT Assurance Framework）
 * ITAM：信息技术资产管理（Information Technology Asset Management）
 * ITAR：国际武器交易管制（International Traffic in Arms Regulation）
@@ -2103,6 +2125,7 @@
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）
 * MLOps：机器学习运营（Machine Learning Operations）
+* MLP：多层感知机（Multi-Layer Perceptron）
 * MLS：多级安全（Multi-Level Security）；多级安全体（Multi-Level Secure）
 * MLWE：基于模误差学习问题（Module Learning With Errors）
 * MLWR：医学成像与技术联盟（Module Learning With Rounding）
@@ -2120,6 +2143,7 @@
 * ModelOps：模型运营（Model Operations）
 * MODEM：调制解调器（Modulator-Demodulator）
 * MOE：任务操作环境（Mission Operating Environment）
+* MoE：专家混合模型（Mixture-of-Experts）
 * MOK：设备所有者密钥（Machine Owner Key）
 * MOM：动机、机会和手段（Motive, Opportunity and Means）；面向消息的中间件（Message-Oriented Middleware）
 * MOPS：每秒百万次运算数（Million Operations Per Second）
@@ -2140,6 +2164,7 @@
 * MPTD：最大中断时间（Maximum Period Time of Disruption）
 * MPU：微处理器（Micro Processing Unit）
 * MQ：消息队列（Message Queuing）
+* MQA：多查询注意力机制（Multi-Query Attention）
 * MQTT：消息队列遥测传输（Message Queuing Telemetry Transport）
 * MQV：MQV协议（Menezes-Qu-Vanstone）
 * MRA：互认协议（Mutual Recognition Agreement）
@@ -2308,7 +2333,8 @@
 * NIPP：美国国家基础设施保护计划（National Infrastructure Protection Plan）
 * NIPRNet：非涉密IP路由器网 （Non-classified Internet Protocol Router Network）
 * NIPS：网络入侵预防系统（Network Intrusion Prevention System）
-* NIS：网络信息服务（Network Information Service）；韩国国家情报院（National Intelligence Service）
+* NIS：网络信息服务（Network Information Service）；韩国国家情报院（National Intelligence Service）；国家网络安全协作组（Network & Information System）
+* NIS-CG：欧盟网络信息系统协作组（Network & Information Systems Cooperation Group）
 * NISCC：英国国家基础设施安全协调中心（National Infrastructure Security Coordination Centre）
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * NISP：美国国家工业安全计划（National Industrial Security Program）
@@ -2331,10 +2357,11 @@
 * NOSC：网络操作安全中心（Network Operation Security Center）
 * NoSQL：非关系型数据库（Not only SQL）
 * NP：非确定性多项式复杂度（Non-deterministic Polynomial）；网络处理器（Network Processor）；新标准提议（New Proposal）
-* NPC：诺基亚策略控制器（Nokia Policy Controller）
+* NPC：诺基亚策略控制器（Nokia Policy Controller）；NP完全问题（Non-deterministic Polynomial-Complete）；非玩家角色（Non-Player Character）
 * NPCI：印度国家支付公司（National Payments Corporation of India）
 * NPE：非人实体（Non-Person Entity）
 * NPIVP：NIST个人身份验证确认项目（NIST Personal Identity Verification Validation Program）
+* npm：Node.js包管理器（Node Package Manager）
 * NPPD：美国CISA前身，原国家保护和计划司（National Protection and Programs Directorate）
 * NPS：网络代理服务器（Network Proxy Server）；美国国家战备体系（National Preparedness System）；网络策略服务器（Network Policy Server）
 * NPSI：德国国家信息保护计划（Nationaler Plan zum Schutz der Informationsstrukturen）
@@ -2450,6 +2477,7 @@
 * ODCC：开放数据中心标准推进委员会（Open Data Center Committee）
 * ODM：原始设计制造商（Original Design Manufacturer）；原始设计制造商（Original Device Manufacturer）
 * ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
+* ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
 * ODP：组织定义参数（Organization-Defined Parameter）
 * ODS：操作型数据存储（Operational Data Store）
 * OE：作战环境（Operational Environment）
@@ -2487,6 +2515,7 @@
 * OOM：内存不足（Out Of Memory）
 * OOP：面向对象编程（Object-Oriented Programming）
 * OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
+* OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPE：不经意多项式评估（Oblivious Polynomial Evaluation）
 * OpenSSF：开源安全基金会（Open Source Security Foundation）
 * OPM：美国人事管理办公室（United States Office of Personnel Management）
@@ -2518,6 +2547,7 @@
 * OT&E：运行测试与评估（Operational Test & Evaluation）
 * OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
 * OTE：不经意传输扩展（Oblivious Transfer Extension）
+* OTN：光传送网（Optical Transport Network）
 * OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
 * OTR：无记录消息协议（Off-the-Record messaging）
 * OTX：开放威胁交换（Open Threat Exchange）
@@ -2533,6 +2563,7 @@
 * OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
 * OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
 * OWL：Web本体语言（Web Ontology Language）
+* OXC：光交叉连接（Optical Cross Connect）
 
 
 ## P
@@ -2797,6 +2828,7 @@
 
 * R&D：研究&开发（Research & Development）
 * R/W：读写（Read/Write）
+* R1CS：一阶约束系统（Rank-1 Constraint System）
 * RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）
 * RaaS：勒索软件即服务（Ransomware as a Service）
 * RACE：针对每个人的弹性匿名通信（Resilient Anonymous Communication for Everyone）
@@ -2831,6 +2863,7 @@
 * RD：负责任披露（Responsible Disclosure）；受限数据（Restricted Data）
 * RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
 * RDBMS：关系型数据库管理系统（Relational Database Management System）
+* RDD：弹性分布式数据集（Resilient Distributed Dataset）
 * RDF：资源描述框架（Resource Description Framework）
 * RDI：某64位寄存器代号（Register Destination Index）
 * RDN：相对可辨识名称（Relative Distinguished Name）
@@ -2878,6 +2911,7 @@
 * RNC：无线网络控制器（Radio Network Controller）
 * RNG：随机数发生器（Random Number Generator）
 * RNN：循环神经网络（Recurrent Neural Network）
+* ROADM：可重构光分插复用器（Reconfigurable Optical Add/Drop Multiplexer）
 * ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
 * RoCE：RDMA以太网（RDMA over Converged Ethernet）
 * rodata：只读数据段（read-only data segment）
@@ -3554,6 +3588,7 @@
 * USCYBERCOM：美国网络司令部（United States Cyber Command）
 * USD：美国国防部分管副部长（Under Secretary of Defense）
 * USDA：美国农业部（United States Department of Agriculture）
+* USDOT：美国交通部（U.S. Department of Transportation）
 * USDT：美国财政部（United States Department of the Treasury）
 * USG：美国政府（United States Government）
 * USGCB：美国政府配置基线（United States Government Configuration Baseline）
@@ -3573,11 +3608,12 @@
 
 * V&V：验证与确认（Verification & Validation）
 * V-SPELLS：可验证的大型遗留软件的安全性和性能增强（Verified Security and Performance Enhancement of Large Legacy Software）
-* V2C：车云通信（Vehicle to Cloud）
+* V2C：车云通信（Vehicle-to-Cloud）
 * V2G：车电相联（Vehicle-to-Grid）
-* V2H：车与家（Vehicle to Home）
+* V2H：车与家（Vehicle-to-Home）
 * V2I：车联基础设施（Vehicle-to-Infrastructure）
-* V2P：车与行人通信（Vehicle to Pedestrians）
+* V2P：车与行人通信（Vehicle-to-Pedestrians）
+* V2R：车路通信（Vehicle-to-Road）
 * V2V：车间通信（Vehicle-to-Vehicle）
 * V2X：车物通信（Vehicle-to-Everything）
 * VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
@@ -3691,6 +3727,7 @@
 * WBS：工作分解结构（Work Breakdown Structure）
 * WCF：Windows通信基础库（Windows Communication Foundation）；Web内容过滤（Web Content Filtering）
 * WDF：Windows驱动框架（Windows Driver Frameworks）；Windows防御防火墙（Windows Defender Firewall）
+* WDM：波分复用（Wavelength Division Multiplexing）
 * WEP：有线等效加密（Wired Equivalent Privacy）
 * WF：派拓云端病毒防护服务（WildFire）
 * WfMS：工作流管理系统（Workflow Management System）
