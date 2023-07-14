@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3717**条，词组**4553**条。 
+当前收录缩略词形**3722**条，词组**4558**条。 
 
 
 
@@ -85,6 +85,7 @@
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
 * AES-NI：英特尔AES-NI指令集（AES-New Instructions）
 * AF/A2：美国空军情报局（U.S. Air Force Intelligence）
+* AFA：美国晶圆代工法案（American Foundries Act of 2020）
 * AFC：美国陆军未来司令部（Army Futures Command）
 * AFC4A：美国空军C4机构（Air Force C4 Agency）
 * AFCEA：美国武装部队通信与电子协会（Armed Forces Communications and Electronics Association）
@@ -261,6 +262,7 @@
 * BCM：业务连续性管理（Business Continuity Management）；车身控制模块（Body Control Module）
 * BCP：业务连续性计划（Business Continuity Plan）；最佳当前实践（Best Current Practice）
 * BCR：约束性公司准则（Binding Corporate Rules）
+* BCS：北京网络安全大会（Beijing Cyber Security Conference）
 * BDA：战斗损伤评估（Battle Damage Assessment）
 * BDFL：开源项目领袖（Benevolent Dictator For Life）
 * BDP：大数据平台（Big Data Platform）
@@ -520,6 +522,7 @@
 * CHASE：DARPA大规模网络狩猎项目（Cyber-Hunting at Scale）
 * CHERI：功能硬件增强 RISC 指令（Capability Hardware Enhanced RISC Instructions）
 * CHESS：DARPA人机协作探索软件安全项目（Computers & Humans Exploring Software Security）
+* CHIPS：美国创造有益激励生产半导体法案（Creating Helpful Incentives to Produce Semiconductors）
 * CI：关键基础设施（Critical Infrastructures）；反情报（Counter Intelligence）；配置项（Configuration Item）；基站小区标识（Cell Identifier）；持续集成（Continuous Integration）；融合基础设施（Converged Infrastructure）
 * CIA：保密性、完整性和可用性（Confidentiality, Integrity & Availability）；美国中央情报局（Central Intelligence Agency）；刑侦分析（Criminal Investigative Analysis）
 * CIAC：计算机事件咨询能力（Computer Incident Advisory Capability）
@@ -534,7 +537,7 @@
 * CICSVD：国家工业信息安全漏洞库（China National Industrial Cyber Security Vulnerability Database）
 * CIDF：通用入侵检测框架（Common Intrusion Detection Framework）
 * CIDR：无类域间路由（Classless Interdomain Routing）
-* CIE：网络信息工程（Cyber-Informed Engineering）；中国电子学会（Chinese Institute of Electronics）
+* CIE：中国电子学会（Chinese Institute of Electronics）；网络知情工程（Cyber-Informed Engineering）
 * CIEM：云基础设施权利管理（Cloud Infrastructure Entitlements Management）
 * CIFS：通用互联文件系统（Common Internet File System）
 * CIG：云身份治理（Cloud Identity Governance）
@@ -2281,6 +2284,7 @@
 * NCSAM：美国国家网络安全意识月（National Cybersecurity Awareness Month）
 * NCSC：国家网络安全中心（National Cyber Security Centre）；国家反情报与安全中心（National Counterintelligence and Security Center）；国家网络安全协调员（National Cyber Security Coordinator）；国家计算机安全中心（National Computer Security Center）
 * NCSD：美国国土安全部国家空间网络安全司（National Cyber Security Division）
+* NCSIP：国家网络安全战略实施计划（National Cybersecurity Strategy Implementation Plan）
 * NCSL：美国国家立法机构会议（National Conference of State Legislatures）
 * NCSPA：美国国家和商业空间计划法案（National and Commercial Space Programs Act）
 * NCW：网络中心战（Network-Centric Warfare）
@@ -2802,6 +2806,7 @@
 * PwC：普华永道（Pricewaterhouse Coopers）
 * PWM：脉宽调制（Pulse Width Modulation）
 * pwn：夺取、掌控（键盘录入错误：own）
+* PWSCIF：公共无线供应链创新基金（Public Wireless Supply Chain Innovation Fund）
 * PX：FireEye流量取证平台（猜测：Packet security）
 * PXE：预引导执行环境（Preboot Execution Environment）
 * PXN：特权态禁止执行（Privileged eXucute Never）
