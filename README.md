@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3707**条，词组**4538**条。 
+当前收录缩略词形**3717**条，词组**4553**条。 
 
 
 
@@ -215,6 +215,7 @@
 * ATC：ATC威胁覆盖项目（Atomic Threat Coverage）
 * ATM：异步传输模式（Asynchronous Transfer Mode）；自动取款机（Automated Teller Machine）
 * ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）
+* ATOS：活动层对象存储（Active Tier on Object Storage）
 * ATP：高级威胁防护（Advanced Threat Protection）
 * ATS：iOS应用传输安全（App Transport Security）
 * ATSD：数字对象体系架构应用技术与标准促进组织（DOA Application Technology Standardization & Development）
@@ -434,7 +435,7 @@
 * CCOP：网络空间通用作战图（Cyber Common Operational Picture）
 * CCP：CMMC认证专业人员（CMMC Certified Professional）
 * CCPA：工信部商用密码应用产业促进联盟（MIIT Commercial Cryptography Application Industry Promotion Alliance）；加州消费者隐私法案（California Consumer Privacy Act）
-* CCR：中央控制室（Central Control Room）
+* CCR：中央控制室（Central Control Room）；受控克隆复制（Controlled Clone Replication）
 * CCRA：通用准则互认约定（Common Criteria Recognition Arrangement）
 * CCRC：中国网络安全审查技术与认证中心（China Cybersecurity Review Technology and Certification Center）
 * CCS：ACM计算机与通信安全会议（the ACM Conference on Computer & Communications Security）
@@ -861,8 +862,9 @@
 * DCRTM：测量信任的动态核心根（Dynamic Core Root of Trust for Measurement）
 * DCS：分布式缓存服务（Distributed Cache Service）；集散控制系统（Distributed Control System）；国防通信系统（Defense Communications System）
 * DCSA：美国国防反情报与安全局（Defense Counterintelligence & Security Agency）
-* DD：定义双字指令（Define Doubleword）；虚拟版（VE Data Domain Virtual Edition Data Domain）
+* DD：定义双字指令（Define Doubleword）；数据域（Data Domain）
 * dd：某UNIX工具（disk duplicator）
+* DD-VE：数据域虚拟版（Data Domain Virtual Edition）
 * DDH：决策DH（Decisional Diffie-Hellman）
 * DDI：美国中情局数字创新署（Directorate of Digital Innovation）
 * DDL：数据定义语言（Data Definition Language）
@@ -871,6 +873,7 @@
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
 * DDPE：Dell数据保护加密（Dell Data Protection Encryption）
 * DDR：数据检测与响应（Data Detection & Response）
+* DDVE：数据域虚拟版（Data Domain Virtual Edition）
 * DE：数字实体（Digital Entity）
 * DEA：美国缉毒局（United States Drug Enforcement Administration）
 * DEC：DEC公司（Digital Equipment Corporation）
@@ -953,7 +956,7 @@
 * DLR：分布式逻辑路由器（Distributed Logical Router）
 * DLT：分布式账本技术（Distributed Ledger Technology）
 * DLV：DNSSEC旁路确认（DNSSEC Lookaside Validation）
-* DM：桌面管理（Desktop Management）；数据集市（Data Mart）；检测模型（Detection Model）
+* DM：桌面管理（Desktop Management）；数据集市（Data Mart）；检测模型（Detection Model）；目录管理器（Directory Manager）
 * DM2：DoDAF元模型（DoDAF Meta-Model）
 * DMA：直接存储器访问（Direct Memory Access）
 * DMARC：基于域的消息鉴别、报告与符合性（Domain-based Message Authentication, Reporting & Conformance）
@@ -964,6 +967,7 @@
 * DMN：决策模型和标记（Decision Model and Notation）
 * DMP：数据管理平台（Data Management Platform）
 * DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）
+* DMSP：汽车联网数字化和出行服务提供商（Digital & Mobility Service Provider）
 * DMZ：隔离区（Demilitarized Zone）
 * DN：可分辨名称（Distinguished Name）；域名（Domain Name）
 * DNA：数据网络架构（Digital Network Architecture）
@@ -2078,6 +2082,7 @@
 * MDC：模块化数据中心（Modular Data Center）；移动数据中心（Mobile Data Center）
 * MDE：微软端点防护（Microsoft Defender for Endpoint）
 * MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）
+* MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
 * MDO：多域作战（Multi-Domain Operation）
 * MDR：托管式检测与响应（Managed Detection & Response）
 * ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
@@ -2093,6 +2098,7 @@
 * MFA：多因素认证（Multi-Factor Authentication）
 * MFL：最大可预见损失（Maximum foreseeable loss）
 * MFLOP：每秒百万浮点运算数（Mega FLoating-point Operations Per Second）
+* MFR：托管文件复制（Managed File Replication）
 * MFT：主文件表（Master File Table）；受控文件传输（Managed File Transfer）
 * MGCP：媒体网关控制协议（Media Gateway Control Protocol）
 * MGF：掩码生成函数（Mask Generation Function）
@@ -2172,7 +2178,7 @@
 * MRTI：机读情报（Machine-Readable Threat Intelligence）
 * MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）
 * MS-ISAC：美国州际信息分享和分析中心（Multi-State Information Sharing and Analysis Center）
-* MSA：消息安全辅助（Message Security Assist）
+* MSA：消息安全辅助（Message Security Assist）；微软账号（Microsoft Account）；微软服务协议（Microsoft Services Agreement）
 * MSB：最高有效位（Most Significant Bit）
 * mSCP：macOS安全合规项目（macOS Security Compliance Project）
 * MSDT：微软支持诊断工具（Microsoft Support Diagnostic Tool）
@@ -2560,6 +2566,7 @@
 * OVS：开放虚拟交换机（Open vSwitch）
 * OW-CPA：单向选择明文攻击（One-way under Chosen-Plaintext Attack）
 * OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
+* OWA：Outlook Web应用（Outlook Web App）
 * OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
 * OWL：Web本体语言（Web Ontology Language）
 * OXC：光交叉连接（Optical Cross Connect）
@@ -2815,6 +2822,7 @@
 * QMS：质量管理系统（Quality management system）
 * QoS：服务质量（Quality of Service）
 * QOS：质量服务（Quality of Service）
+* QPS：每秒查询数（Queries Per Second）
 * QROM：可见量子随机预言模型（Quantum-accessible Random Oracle Model）
 * QTY：青藤云公司（Qing Teng Yun）
 * QuANET：DARPA量子增强网络项目（Quantum-Augmented Network）
@@ -3489,7 +3497,7 @@
 * TSM：TCM服务模块（TCM Service Module）
 * TSME：透明内存加密（Transparent Memory Encryption）
 * TSN：可信系统与网络（Trusted Systems & Networks）
-* TSP：TCM服务提供者（TCM Service Provider）；TSS服务提供层（TSS Service Provider）；时间戳协议（Time Stamp Protocol）；电信服务优先级（Telecommunications Service Priority）
+* TSP：TCM服务提供者（TCM Service Provider）；TSS服务提供层（TSS Service Provider）；时间戳协议（Time Stamp Protocol）；电信服务优先级（Telecommunications Service Priority）；汽车远程服务提供商（Telematics Service Provider）
 * TSS：可信软件栈（TCG Software Stack）；时间戳服务（Time Stamp Service）；任务状态段（Task State Segment）
 * TST：时间戳令牌（Time Stamp Token）
 * TSV：TAB符分隔值（TAB-Separated Values）
@@ -3608,9 +3616,11 @@
 * V&V：验证与确认（Verification & Validation）
 * V-SPELLS：可验证的大型遗留软件的安全性和性能增强（Verified Security and Performance Enhancement of Large Legacy Software）
 * V2C：车云通信（Vehicle-to-Cloud）
+* V2D：车辆-设备通信（Vehicle-to-Device）
 * V2G：车电相联（Vehicle-to-Grid）
 * V2H：车与家（Vehicle-to-Home）
 * V2I：车联基础设施（Vehicle-to-Infrastructure）
+* V2N：车辆-网络通信（Vehicle-to-Network）
 * V2P：车与行人通信（Vehicle-to-Pedestrians）
 * V2R：车路通信（Vehicle-to-Road）
 * V2V：车间通信（Vehicle-to-Vehicle）
