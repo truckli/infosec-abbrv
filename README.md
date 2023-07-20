@@ -650,6 +650,7 @@
 * CNMF：美国国家网络任务部队（Cyber National Mission Force）
 * CNNIC：中国互联网络信息中心（China Internet Network Information Center）
 * CNNVD：中国国家信息安全漏洞库（China National Vulnerability Database of Information Security）
+* CNO：计算机网络行动（Computer Network Operation）
 * CNP：云原生平台（Cloud Native Platform）；云原生处理器（Cloud Native Processor）；控制网协议（Control Network Protocol）；RoCE拥塞通知包（Congestion Notification Packet）
 * CNRI：美国国家研究推进机构（Corporation for National Research Initiatives）
 * CNSS：美国国家安全系统委员会（Committee on National Security Systems）
@@ -3235,7 +3236,6 @@
 * SLTT：州、地方、部落及领地（State, Local, Tribal, and Territorial）
 * SM：商用密码（拼音：Shang Mi）；系统管理（Systems Management）；安全措施（Security Measure）
 * SM-DP：订阅管理器数据准备模块（Subscription Manager Data Preparation）
-* SM-DP+：订阅管理器 - 数据准备 +（Subscription Manager - Data Preparation +）
 * SM-DS：订阅管理器发现服务模块（Subscription Manager Discovery Service）
 * SM-SR：订阅管理器安全路由模块（Subscription Manager Secure Routing）
 * SMAC：软件地址访问控制（Software Memory Access Control）
