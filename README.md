@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3799**条，词组**4654**条。 
+当前收录缩略词形**3826**条，词组**4688**条。 
 
 
 
@@ -244,6 +244,7 @@
 * AVPTCC：计算机病毒防治产品检验中心（Anti-Virus Products Testing and Certification Center）
 * AVX：高级向量扩展（Advanced Vector Extensions）
 * AWARE：机构级自适应风险枚举（Agency-Wide Adaptive Risk Enumeration）
+* AWGN：加性高斯白噪声（Additive White Gaussian Noise）
 * AWS：亚马逊云服务（Amazon Web Services）
 * AWWA：美国自来水厂协会（American Water Works Association）
 * AX：某寄存器代号（A eXtended）；FireEye恶意程序分析产品系列（猜测：Application content security）
@@ -269,6 +270,7 @@
 * BCDR：业务连续性与灾难恢复（Business Continuity & Disaster Recovery）
 * BCE：BeyondCorp公司（BeyondCorp Enterprise）
 * BCG：波士顿咨询（The Boston Consulting Group）
+* BCH：BCH码（Bose–Chaudhuri–Hocquenghem）
 * BCM：业务连续性管理（Business Continuity Management）；车身控制模块（Body Control Module）
 * BCP：业务连续性计划（Business Continuity Plan）；最佳当前实践（Best Current Practice）
 * BCR：约束性公司准则（Binding Corporate Rules）
@@ -278,7 +280,7 @@
 * BDP：大数据平台（Big Data Platform）
 * BEAST：BEAST攻击（Browser Exploit Against SSL/TLS）
 * BEP：行为执行预防（Behavioral Execution Prevention）
-* BER：基本编码规则（Basic Encoding Rules）
+* BER：基本编码规则（Basic Encoding Rules）；比特错误率（Bit Error Rate）
 * BERT：基于变换器的双向编码器表示（Bidirectional Encoder Representations from Transformers）
 * BES：散装电力系统（Bulk Electric System）
 * BFA：暴力破解攻击（Brute Force Attacking）
@@ -788,7 +790,7 @@
 * CSTR：云安全技术要求（Cloud Security Technology Requirements）
 * CSU/DSU：通道服务单元／数据服务单元（Channel Service Unit/Data Service Unit）
 * CSV：逗号分隔值（Comma-Separated Values）；网络安全验证（Cyber Security Validation）
-* CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）
+* CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）
 * CTA：认知任务分析（Cognitive Task Analysis）
 * CTAP：客户端认证器协议（Client to Authenticator Protocol）
 * CTE：CipherTrust透明加密（CipherTrust Transparent Encryption）
@@ -802,6 +804,7 @@
 * CTIO：网络威胁情报本体（Cyber Threat Intelligence Ontology）
 * CTL：通信技术实验室（Communication Technology Laboratory）
 * CTM：Thales密码信任管家（CipherTrust Manager）
+* CTN：电话通信网络（Commutated Telephone Network）；蜂窝电话网（Cellular Telephone Network）；核心传输网（Core Transmission Network）
 * CTO：首席技术官（Chief Technology Officer）
 * CTR：计数器工作模式（CounTeR operation mode）
 * CTSRD：“值得信赖的清洁安全研发”计划（Clean Slate Trustworthy Secure Research and Development）
@@ -833,6 +836,7 @@
 ## D
 
 * D&A：数据与分析（Data & Analytics）
+* D2D：设备到设备（Device-to-Device）
 * D3A：决策、检测、交付和评估（Decide, Detect, Deliver & Assess）
 * D3FEND：赋能网络防御的检测、拒止和扰乱框架（Detection, Denial, and Disruption Framework Empowering Network Defense）
 * D@RE：静态数据加密（Data at Rest Encryption）
@@ -851,6 +855,7 @@
 * DAO：数字工件本体（Digital Artifact Ontology）；数据访问对象（Data Access Object）；去中心化自治组织（Decentralized Autonomous Organization）
 * DAP：数据库审计与防护（Database Audit & Protection）
 * DARPA：美国国防先进研究计划局（Defense Advanced Research Projects Agency）
+* DART：微软检测响应（Microsoft Detection and Response Team）
 * DASD：直接访问存储设备（Direct Access Storage Device）；美国国防部副助理部长（Deputy Assistant Secretary of Defense）
 * DAST：动态应用安全测试（Dynamic Application Security Testing）
 * DATO：禁止授权操作（Denial of Authorization To Operate）
@@ -905,6 +910,7 @@
 * DEA：美国缉毒局（United States Drug Enforcement Administration）
 * DEC：DEC公司（Digital Equipment Corporation）
 * DECC：国防企业计算中心（Defense Enterprise Computing Centers）
+* DECT：数码增强无绳电话（Digital Enhanced Cordless Telecommunications）
 * DEE：Dell加密企业版（Dell Encryption Enterprise）
 * DEFCON：DEFCON黑客年会（DEFCON Hacking Conference）；防御就绪条件（Defense Readiness Condition）
 * DeFi：去中心化金融（Decentralized Finance）
@@ -993,6 +999,7 @@
 * DML：检测成熟度等级（Detection Maturity Level）；数据操作语言（Data Manipulation Language）
 * DMN：决策模型和标记（Decision Model and Notation）
 * DMP：数据管理平台（Data Management Platform）
+* DMR：数码移动无线电（Digital Mobile Radio）
 * DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）
 * DMSP：汽车联网数字化和出行服务提供商（Digital & Mobility Service Provider）
 * DMZ：隔离区（Demilitarized Zone）
@@ -1062,10 +1069,11 @@
 * DRTM：动态可信度量根（Dynamic Root of Trust for Measurement）
 * DS：发现服务（Discovery Service）；目录服务（Directory Service）；数据段寄存器（Data Segment）
 * DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）
+* DSAA：DECT标准认证算法（DECT Standard Authentication Algorithm）
 * DSaaS：数据安全即服务（Data Security as a Service）
 * DSAWG：美国国防IA安全认证工作组（Defense IA Security Accreditation Working Group）
 * DSbD：数字安全设计计划（Digital Security by Design）
-* DSC：国防供应链（Defense Supply Chain）
+* DSC：国防供应链（Defense Supply Chain）；DECT标准密码（DECT Standard Cipher）
 * DSCS：DCO补充性系统套件（Defensive Cyberspace Operations Suite of Complementary Systems）
 * DSD：美国国防部常务副部长（Deputy Secretary of Defense）
 * DSG：数据安全治理（Data Security Governance）
@@ -1143,7 +1151,7 @@
 * ECAB：紧急变更顾问委员会（Emergency Change Advisory Board）
 * ECASD：eUICC 控制机构安全域（eUICC Controlling Authority Security Domain）
 * ECB：电码本（Electronic Codebook）
-* ECC：椭圆曲线密码学（Elliptic Curve Cryptography）
+* ECC：椭圆曲线密码学（Elliptic Curve Cryptography）；纠错码（Error Correction Code）
 * ECCN：出口控制分类号（Export Control Classification Number）
 * ECCV：欧洲计算机视觉国际会议（European Conference on Computer Vision）
 * ECDH：椭圆曲线DH协议（Elliptic Curve Diffie–Hellman）
@@ -1232,7 +1240,7 @@
 * EOC：企业操作中心（Enterprise Operations Center）
 * EOP：美国白宫行政办公室（Executive Office of the President）
 * EP：企业端点（Enterprise Endpoint）
-* EPA：美国环境保护署（United States Environmental Protection Agency）
+* EPA：美国环境保护署（U.S. Environmental Protection Agency）
 * EPC：演进分组核心网（Evolved Packet Core）
 * ePHI：电子保护健康信息（Electronic Protected Health Information）
 * EPM：终端权限管理（Endpoint Privilege Management）
@@ -1281,7 +1289,7 @@
 * ETA：加密流量分析（Encrypted Traffic Analysis）；教育、培训与意识（Education, Training & Awareness）
 * ETAPWG：教育、培训、意识和专业化工作组（Education, Training, Awareness & Professionalization Working Group）
 * ETC：电子不停车收费系统（Electronic Toll Collection）
-* ETH：以太币（Ether）；苏黎世联邦理工学院（德语：Eidgenössische Technische Hochschule Zürich）
+* ETH：以太币（Ether）；苏黎世联邦理工学院（德语：Eidgenössische Technische Hochschule Zürich）；以太网（ethernet）
 * ETL：抽取、转换、加载（Extract-Transform-Load）
 * EtM：加密后MAC（Encrypt-then-MAC）
 * ETSI：欧洲电信标准协会（European Telecommunications Standards Institute）
@@ -1337,6 +1345,7 @@
 * FDM：频分多路复用（Frequency-Division Multiplexing）
 * FDT：全双工吞吐量（Full Duplex Throughput）
 * FDX：金融数据交换（Financial Data Exchange）
+* FEC：前向纠错（Forward Error Correction）
 * FedRAMP：美国联邦风险与授权管理计划（Federal Risk and Authorization Management Program）
 * FEMA：联邦应急管理局（Federal Emergency Management Agency）
 * FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
@@ -1381,6 +1390,7 @@
 * FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
 * FOAF：人际关系本体模型（Friend Of A Friend）
 * FOIA：信息自由法案（Freedom of Information Act）
+* FOMO：害怕错过（Fear of Missing Out）
 * FOSS：自由开源软件（Free & Open Source Software）
 * FOTA：固件在线升级（Firmware Over-The-Air）
 * FP：误报（False Positive）
@@ -1778,6 +1788,7 @@
 * IoT：物联网（Internet of Things）
 * IoV：车联网（Internet of Vehicles）
 * IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）
+* IP-PBX：专用分组交换机（IP Private Branch eXchange）
 * IPA：身份、策略与审计（Identity, Policy & Audit）；物联网配置文件助理（IoT Profile Assistant）；智能流程自动化（Intelligent Process Automation）
 * IPAA：国际隐私保护专业人员协会（International Association of Privacy Professionals）
 * iPaaS：集成平台即服务（integration Platform as a Service）
@@ -1793,6 +1804,7 @@
 * IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）
 * IPN：JIE设施处理节点（Installation Processing Nodes）
 * IPPBE：情报计划、编程、预算和评估过程（Intelligence Planning, Programming, Budgeting, and Evaluation）
+* IPQAM：IP正交振幅调制（Internet Protocol Quadrature Amplitude Modulation）
 * IPS：入侵预防系统（Intrusion Prevention System）；印度警察系统（India Police Service）
 * IPsec：互联网协议安全（Internet Protocol Security）
 * IPTF：基础设施保护任务部队（Infrastructure Protection Task Force）
@@ -1875,7 +1887,7 @@
 * ITOM：IT运维管理（IT Operation Management）
 * ITOps：信息技术运营（Information Technologies Operations）
 * ITRM：IT风险管理（IT Risk Management）
-* ITS：入侵容忍系统（Intrusion Tolerance System）；信息技术系统（Information Technology Systems）；智能交通系统（Intelligent Transportation System）；内部可信存储（Internal Trusted Storage）
+* ITS：入侵容忍系统（Intrusion Tolerance System）；信息技术系统（Information Technology Systems）；智能交通系统（Intelligent Transportation System）；内部可信存储（Internal Trusted Storage）；智能交通系统（Intelligent Transport System）
 * ITSG：IT供给侧治理（IT Supply-side Governance）
 * ITSM：IT服务管理（IT Service Management）
 * ITSMS：IT服务管理（IT Service Management System）
@@ -1892,6 +1904,7 @@
 * IVI：车载信息娱乐系统（In-Vehicle Infotainment）
 * IVP：完整性验证规程（Integrity Verification Procedure）
 * IVR：交互式语音应答（Interactive Voice Response）
+* IVRS：交互式语音应答系统（Interactive Voice Response System）
 * IW-D：信息战-防御（Information Warfare – Defensive）
 * IWA：国际工作组协议（International Workshop Agreements）
 * IWG：跨机构工作组（Interagency Working Group）
@@ -1948,7 +1961,7 @@
 * JTAG：联合测试行动组协议（Joint Test Action Group）
 * JTC：联合技术委员会（Joint Technical Committee）
 * JTF：联合任务部队（Joint Task Force）
-* JTF-CNO：联合任务部队-计算机网络操作（Joint Task Force – Computer Network Operations）
+* JTF-CNO：联合任务部队-计算机网络行动（Joint Task Force – Computer Network Operations）
 * JV：合资公司（Joint Venture）
 * JVM：Java虚拟机（Java Virtual Machine）
 * JWCC：联合作战云能力（Joint Warfighting Cloud Capability）
@@ -2063,6 +2076,7 @@
 * LOLDriver：离地驱动程序（Living Off The Land Driver）
 * LOP：局部作战图（Local Operational Picture）
 * LoRa：远距离无线电（Long Range Radio）
+* LOS：视线传播（Line-Of-Sight propagation）
 * LotL：离地攻击（Living off the Land）
 * LPA：本地个人资料助手（Local Profile Assistant in the eUICC）
 * LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
@@ -2248,6 +2262,7 @@
 * MSS：托管式安全服务（Managed Security Services）；国家安全部（Ministry of State Security）
 * MSSP：托管式安全服务提供商（Managed Security Services Provider）
 * MSSQL：微软SQLServer数据库（Microsoft SQL Server）
+* MSTP：多业务传输平台（Multi-Service Transport Platform）
 * MSV：Mandiant安全验证（Mandiant Security Validation）
 * MT：机床（Machine Tool）
 * MTBF：平均故障间隔（Mean Time Between Failures）
@@ -2404,9 +2419,11 @@
 * NITB：美国国家信息安全技术基线（National INFOSEC Technical baseline）
 * NITRD：美国网络信息技术研发计划（Network and Information Technology Research & Development）
 * NITSC：国家信息技术安全研究中心（National Research Center for Information Technology Security）
+* NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
 * NMF：国家任务部队（National Mission Force）
 * NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）
+* NNI：网络到网络接口（Network-to-Network Interface）
 * NNM：Nessus网络监视器（Nessus Network Monitor）
 * NNTP：网络新闻传输协议（Network News Transport Protocol）
 * NOAA：美国国家海洋和大气管理局（National Oceanicand & Atmospheric Administration）
@@ -2564,6 +2581,7 @@
 * OM：编排管理（Orchestration Management）
 * OMAC：单钥MAC（One-key Message Authentication Code）
 * OMB：美国行政管理和预算办公室（Office of Management and Budget）
+* OMC：运营维护中心（Operation & Maintenance Center）
 * OMG：对象管理组织（Object Management Group）
 * ONC：国家协调员办公室（Office of the National Coordinator）
 * ONCD：美国国家网络总监办公室（Office of the National Cyber Director）
@@ -2636,6 +2654,7 @@
 * P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
 * PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）；策略管理（Policy Administration）
 * PaaS：平台即服务（Platform As A Service）
+* PABX：专用自动小交换机（Private Automatic Branch eXchange）
 * PAC：权限属性证书（Privilege Attribute Certificate）；代理自动配置（Proxy Auto-Config）；态势属性收集（Posture Attribute Collection）；可编程自动化控制器（Programmable Automation Controller）；指针身份验证代码（Pointer Authentication Code）；大概率近似正确（Probably Approximately Correct）
 * PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
 * PAD：伪现攻击检测（Presentation Attack Detection）
@@ -2659,7 +2678,7 @@
 * PbD：源自设计的隐私（Privacy by Design）
 * PBE：基于口令的加密（Password-Based Encryption）
 * PBKDF：基于口令的密钥导出函数（Password-Based Key Derivation Function）
-* PBX：专用交换分机（Private Branch Exchange）
+* PBX：专用小交换机（Private Branch eXchange）
 * PC：个人计算机（Personal Computer）；程序计数器（Program Counter）
 * PCA：隐私证书机构（Privacy Certificate Authority）；明文检查攻击（Plaintext-Checking Attacks）；主成分分析算法（Principal Component Analysis）
 * PCAOB：美国公众公司会计监督委员会（Public Company Accounting Oversight Board）
@@ -2794,6 +2813,7 @@
 * PoPW：物理工作量证明（Proof of Physical Work）
 * POS：销售终端（Point Of Sales）
 * POSIX：可移植操作系统接口（Portable Operating System Interface）
+* POTS：普通老式电话服务（Plain Old Telephone Service）
 * POTUS：美国总统（President Of The United States）
 * POU：项目组织单元（Program Organizational Unit）
 * PoW：工作量证明（Proof of Work）
@@ -2846,6 +2866,7 @@
 * PTES：渗透测试执行标准（Penetration Testing Execution Standard）
 * PTF：渗透测试框架（PenTesters Framework）
 * PtH：哈希传递攻击（Pass the Hash）
+* PTN：分组传送网（Packet Transport Network）
 * PTP：精确时间协议（Precision Time Protocol）
 * PTR：指针（Pointer）
 * PTS：渗透测试专家（Penetration Testing Specialist）
@@ -2870,6 +2891,7 @@
 ## Q
 
 * QA：质量保证（Quality Assurance）
+* QAM：正交振幅调制（Quadrature Amplitude Modulation）
 * QAT：QuickAssist技术（QuickAssist Technology）
 * QAX：奇安信公司（拼音：Qi An Xin）
 * QB：QuickBox框架（QuickBox）
@@ -2882,9 +2904,8 @@
 * QKD：量子密钥分发（Quantum Key Distribution）
 * QMS：质量管理系统（Quality management system）
 * QoS：服务质量（Quality of Service）
-* QOS：质量服务（Quality of Service）
 * QPS：每秒查询数（Queries Per Second）
-* QR：快速响应代码（Code Quick Response Code）
+* QR：QR码（Quick Response code）
 * QROM：可见量子随机预言模型（Quantum-accessible Random Oracle Model）
 * QTY：青藤云公司（Qing Teng Yun）
 * QuANET：DARPA量子增强网络项目（Quantum-Augmented Network）
@@ -2994,6 +3015,7 @@
 * ROSC：区域运营与安全中心（Regional Operations & Security Center）
 * ROSE：远程操作服务元素（Remote Operations Service Element）
 * RoT：信任根（Root of Trust）
+* ROT：冗余、过时、琐碎（Redundant, Obsolete, Trivial）
 * RP：依赖方（Relying Party）；返回指针（Return Pointer）
 * RPA：机器人流程自动化（Robotic Process Automation）；可解析专用地址（Resolvable Private Address）
 * RPC：远程过程调用（Remote Procedure Call）
@@ -3016,6 +3038,7 @@
 * RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）；企业资源（Enterprise Resource）
 * RSSI：接收信号强度指示（Received Signal Strength Indication）
 * RST：连接重置（Reset The Connection）
+* RSU：路侧单元（Road Side Unit）
 * RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）
 * RT&E：研究、测试与评估（Research, Test & Evaluation）
 * RTC：实时通信（Real-time Communication）
@@ -3063,6 +3086,7 @@
 * SACMAT：ACM访问控制模型与技术研讨会（ACM Symposium on Access Control Models and Technologies）
 * SAE：系统架构演进（System Architecture Evolution）；国际汽车工程学会（Society of Automotive Engineers）
 * SAF：MITRE安全自动化框架（Security Automation Framework）
+* SAFe：规模化敏捷框架（Scaled Agile Framework）
 * SAFECode：卓越代码软件保障论坛（Software Assurance Forum for Excellence in Code）
 * SAFER：安全快速加密例程（Secure And Fast Encryption Routine）
 * SAG：服务账号治理（Service Account Governance）；安全应用网关（Secure Application Gateway）；安全接入网关（Secure Access Gateway）
@@ -3489,6 +3513,8 @@
 * TEMPEST：瞬间电磁脉冲辐射监视技术（Transient Electromagnetic Pulse Emanation Surveillance Technology）
 * TePA：三元对等架构（Tri-element Peer Architecture）
 * TESLA：定时高效流容错认证（Timed Efficient Stream Loss-Tolerant Authentication）
+* TETRA：地面集群无线电（Terrestrial Trunked Radio）
+* TETRAPOL：地面公共安全地面集群无线电（Terrestrial Trunked Radio for Policing）
 * TEVV：测试、评估、验证和确认（Testing, Evaluation, Verification & Validation）
 * TF-A：可信固件A（Trusted Firmware-A）
 * TFA：双因素认证（Two Factor Authentication）
@@ -3649,6 +3675,7 @@
 * UML：统一建模语言（Unified Modeling Language）
 * UMTS：通用移动通讯系统（Universal Mobile Telecommunications System）
 * UNC：通用命名规范（Universal Naming Convention）
+* UNI：用户到网络接口（User-to-Network Interface）
 * UNIX：UNIX操作系统（UNiplexed Information Computing System）
 * UNSW：新南威尔士大学（University of New South Wales）
 * UOS：统信操作系统（Uniontech OS）
@@ -3742,7 +3769,6 @@
 * VIN：车辆识别码（Vehicle Identification Number）
 * VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
 * VIRTIO：虚拟化 I/O（Virtualization Input/Output）
-* Virtual：虚拟机监视器（Machine Monitor）
 * VKB：漏洞知识库（Vulnerability Knowledge Base）
 * VLAN：虚拟局域网（Virtual Local Area Network）
 * VLANIF：VLAN接口（Virtual Local Area Network Interface）
@@ -3761,7 +3787,7 @@
 * VNI：虚拟网络标识（Virtual Network Identifier）
 * vNIC：虚拟网络接口卡（virtual Network Interface Card）
 * VOI：虚拟操作系统设施（Virtual OS Infrastructure）
-* VoIP：IP语音承载（Voice-over-IP）；IP语音协议（Voice over Internet Protocol）
+* VoIP：IP语音承载（Voice-over-IP）
 * VoLTE：LTE语音承载（Voice-over-LTE）
 * VPAM：厂商特权访问管理（Vendor Privileged Access Management）
 * VPC：虚拟私有云（Virtual Private Cloud）
@@ -3824,6 +3850,7 @@
 * WG：工作组（Working Group）
 * WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
 * WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
+* WGN：高斯白噪声（White Gaussian Noise）
 * WIC：世界互联网大会（World Internet Conference）
 * WIDS：无线入侵检测系统（Wireless IDS）
 * WIF：Windows身份基础框架（Windows Identity Foundation）
