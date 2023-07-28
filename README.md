@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**3898**条，词组**4784**条。 
+当前收录缩略词形**3920**条，词组**4816**条。 
 
 
 
@@ -92,6 +92,7 @@
 * AES-CCM：AES CCM模态（Advanced Encryption Standard–Counter with CBC-MAC）
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
 * AES-NI：英特尔AES-NI指令集（AES-New Instructions）
+* AF：深信服下一代防火墙（猜测：Advanced Firewall）
 * AF/A2：美国空军情报局（U.S. Air Force Intelligence）
 * AFA：美国晶圆代工法案（American Foundries Act of 2020）
 * AFC：美国陆军未来司令部（Army Futures Command）
@@ -111,6 +112,7 @@
 * AGA：美国天然气协会（American Gas Association）
 * AGI：通用人工智能（Artificial General Intelligence）
 * AGM：隶属图模型（Affiliation Graph Model）
+* AGP：加速图形端口（Accelerated Graphics Port）
 * AH：认证头部（Authentication Header）；接受主机（Accept Host）
 * AHA：美国医院协会（American Hospital Association）
 * AI：人工智能（Artificial Intelligence）
@@ -143,6 +145,7 @@
 * ALE：年化损失预期（Annualized Loss Expectancy）
 * ALFA：授权策略简易语言（Abbreviated Language For Authorization）
 * ALM/PLM：应用生命周期管理/产品生命周期管理（Application Lifecycle Management/Product Lifecycle Management）
+* ALPC：异步本地进程间通信（Asynchronous Local Inter-Process Communication）
 * ALPN：应用层协议协商（Application Layer Protocol Negotiation）
 * ALTS：应用层传输安全（Application Layer Transport Security）
 * ALU：算术逻辑单元（arithmetic-logic unit）；阿尔卡特-朗讯公司（Alcatel-Lucent）
@@ -203,6 +206,7 @@
 * ASCII：美国信息交换标准代码（American Standard Code for Information Interchange）
 * ASD：澳大利亚信号局（Australian Signals Directorate）；美国国防部助理部长（Assistant Secretary of Defense）
 * ASDSO：国家大坝安全官员协会（Association of State Dam Safety Officials）
+* aSecPaaS：应用安全平台即服务（application Security PaaS）
 * ASG：应用安全网关（Application Security Gateway）
 * ASIACCS：ACM信息、计算机与通信安全研讨会（ACM Symposium on Information, Computer and Communications Security）
 * ASIC：专用集成电路（Application Specific Integrated Circuit）
@@ -233,6 +237,7 @@
 * ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）
 * ATOS：活动层对象存储（Active Tier on Object Storage）
 * ATP：高级威胁防护（Advanced Threat Protection）
+* aTrust：深信服零信任访问控制系统（猜测：access Trust）
 * ATS：iOS应用传输安全（App Transport Security）
 * ATSD：数字对象体系架构应用技术与标准促进组织（DOA Application Technology Standardization & Development）
 * ATT：属性协议（Attribute Protocol）
@@ -334,6 +339,8 @@
 * BSD：伯克利软件套件（Berkeley Software Distribution）
 * BSI：德国联邦信息安全办公室（德语：Bundesamt für Sicherheit in der Informationstechnik）；英国标准协会（British Standards Institution）
 * BSIMM：构建安全的成熟度模型（Building Security In Maturity Model）
+* BSoD：蓝屏死机（Blue Screen of Death）
+* BSP：主板支持包（Board Support Package）
 * BSS：未初始化数据块（Block Started by Symbol）
 * BST：二叉查找树（Binary Search Tree）
 * BTC：比特币（Bitcoin）
@@ -488,7 +495,7 @@
 * CDM：公共数据模型（Common Data Model）；持续诊断与缓解项目（Continuous Diagnostics & Mitigation）；副本数据管理（Copy Data Management）；客户数据管理（Customer Data Management）
 * CDMA：码分多址（Code Division Multiple Access）
 * CDN：内容分发网络（Content Distribution Network）
-* CDP：潜在附带损害（Collateral Damage Potential）；客户数据平台（Customer Data Platform）；Cloudera数据平台（Cloudera Data Platform）
+* CDP：潜在附带损害（Collateral Damage Potential）；客户数据平台（Customer Data Platform）；Cloudera数据平台（Cloudera Data Platform）；持续数据保护（Continuous Data Protection）
 * CDPSE：国际注册数据隐私专家认证（Certified Data Privacy Solutions Engineer）
 * CDR：话单记录（Call Detail Record）；云端检测与响应（Cloud Detection & Response）；内容拆解与重建（Content Disarm & Reconstruction）
 * CDRL：合同交付要求清单（Contract Delivery Requirements List）
@@ -571,6 +578,7 @@
 * CIG：云身份治理（Cloud Identity Governance）
 * CIGRE：国际大型电力系统理事会（International Council on Large Electric Systems）
 * CII：关键信息基础设施（Critical Information Infrastructures）
+* CIIA：中国信息协会（China Information Industry Association）
 * CIIP：关键信息基础设施保护（Critical Information Infrastructure Protection）
 * CIISAp：网络安全和工业基础设施安全学徒计划（Cybersecurity & Industrial Infrastructure Security Apprenticeship Program）
 * CIKR：关键基础设施和重要资源（Critical Infrastructure and Key Resources）
@@ -796,9 +804,10 @@
 * CSRK：连接签名解析密钥（Connection Signature Resolving Key）
 * CSRM：网络安全风险管理（Cybersecurity risk management）
 * CSRR：网络安全风险注册（Cybersecurity risk register）
+* CSRSS：Windows客户端/服务端运行时子系统（Client/Server Runtime Subsystem）
 * CSS：层叠样式表（Cascading Style Sheets）；美国中央安全署（Central Security Service）
 * CSSO：计算机系统安全官员（Computer Systems Security Officers）
-* CSSP：控制系统安全计划（Control System Security Program）；网络安全服务供应商（Cybersecurity Service Provider）；网络空间安全仿真平台（Cyberspace Security Simulation Platform）
+* CSSP：控制系统安全计划（Control System Security Program）；网络安全服务供应商（Cybersecurity Service Provider）；网络空间安全仿真平台（Cyberspace Security Simulation Platform）；云安全服务提供商（Cloud Security Service Provider）
 * CSSTP：安全众测平台（Crowdsourced Software Security Testing Platform）
 * CSTC：密码行业标准化技术委员会（Cryptography Standardization Technical Committee）
 * CSTIS：网络安全威胁和漏洞信息共享平台（Cyber Security Threat Information Sharing Platform）
@@ -875,6 +884,7 @@
 * DAS：数据库审计系统（Database Audit System）
 * DAS-FW：数据库防火墙（Database Audit System Firewall）
 * DASD：直接访问存储设备（Direct Access Storage Device）；美国国防部副助理部长（Deputy Assistant Secretary of Defense）
+* DASP：数字应用安全平台（Digital Application Security Platform）
 * DAST：动态应用安全测试（Dynamic Application Security Testing）
 * DATO：禁止授权操作（Denial of Authorization To Operate）
 * DAU：日均活跃用户数量（Daily Active User）
@@ -1131,10 +1141,11 @@
 * DW：数据仓库（Data Warehouse）；定义字指令（Define Word）
 * DWD：数仓明细层（Data Warehouse Details）
 * DWH：数据仓库（Data Warehouse）
-* DWM：数仓中间层（Data Warehouse Middle）
+* DWM：数仓中间层（Data Warehouse Middle）；桌面窗口管理器（Desktop Window Manager）
 * DWORD：双字（Doubleword）
 * DWS：数仓服务层（Data Warehouse Service）
 * DX：某寄存器代号（D eXtended）
+* DXGI：DirectX图形基础设施（DirectX Graphics Infrastructure）
 * DXL：数据交换层（Data Exchange Layer）
 
 
@@ -1496,6 +1507,7 @@
 * GCS：谷歌云存储（Google Cloud Storage）
 * GCSB：新西兰政府通信安全局（Government Communications Security Bureau）
 * GCSS：全球作战支援系统（Global Combat Support System）
+* GDI：图形设备接口（Graphics Device Interface）
 * GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
 * GDP：驻军防御性网络空间作战平台（Garrison Defensive Cyberspace Operations Platform）
 * GDPR：欧盟通用数据保护条例（General Data Protection Regulation）
@@ -1518,6 +1530,7 @@
 * GIN：全球情报网（Global Intelligence Network）
 * GIOP：通用对象请求代理间通信协议（General Inter-ORB Protocol）
 * GKH：已知白主机（Good Known Host）
+* GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
 * GMSK：高斯最小频移键控（Gaussian Filtered Minimum Shift Keying）
@@ -1546,6 +1559,7 @@
 * GRID：GIAC响应和工业防御（GIAC Response & Industrial Defense）
 * GRO：通用接收卸载（Generic Receive Offload）
 * gRPC：gRPC框架（gRPC Remote Procedure Calls）
+* GRR：谷歌快速响应（Google Rapid Response）
 * GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）
 * GRUB：GNU启动管理器（GRand Unified Bootloader）
 * GS：额外段寄存器（G extra Segment）
@@ -1634,7 +1648,7 @@
 * HSM：硬件安全模块（Hardware Security Module）；层次化存储管理（Hierarchical Storage Management）；山石安全管理平台（Hillstone Security Management）
 * HSPD：美国国土安全总统令（Homeland Security Presidential Directive）
 * HSR：高可用性无缝冗余（High-Availability Seamless Redundancy）
-* HSS：归属签约用户服务器（Home Subscriber Server）
+* HSS：归属签约用户服务器（Home Subscriber Server）；主机安全服务（Host Security Service）
 * HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
 * HSSI：高速串行接口（High-Speed Serial Interface）
 * HSTS：HTTP严格传输安全（HTTP Strict Transport Security）
@@ -2120,7 +2134,7 @@
 * LPA：本地个人资料助手（Local Profile Assistant in the eUICC）
 * LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
 * LPAR：逻辑分区（Logical Partition）
-* LPC：LPC总线类型（Low Pin Count）
+* LPC：LPC总线类型（Low Pin Count）；本地进程间通信（Local Inter-Process Communication）
 * LPE：本地提权（Local Privilege Escalation）
 * LPP：轻量级表示协议（Lightweight Presentation Protocol）
 * LRA：逻辑响应孔径"项目（Logical Response Aperture）
@@ -2755,6 +2769,7 @@
 * PCR：平台配置寄存器（Platform Configuration Register）；程序变更请求（Program Change Request）
 * PCRE：Perl兼容正则表达式（Perl Compatible Regular Expressions）
 * PCS：态势收集服务（Posture Collection Service）；过程控制系统（Process Control Systems）；哨所、营地、工作站（Post，Camp & Station）
+* PCSA：安全能力者联盟（Private Cloud Security Alliance）
 * PCTE：持续网络训练环境（Persistent Cyber Training Environment）
 * PD：公共数据库（Public Database）
 * PDB：PDB格式（Program DataBase）
@@ -3115,6 +3130,8 @@
 * RuBAC：基于规则的访问控制（Rule-Based Access Control）
 * RUM：真实用户监控（Real User Monitoring）
 * RUP：统一软件开发过程（Rational Unified Process）
+* RUXIM：RUXIM程序（Reusable UX Interaction Manager）
+* RUXIMIH：RUXIM交换句柄（Reusable UX Interaction Manager Interaction Handler）
 * RVA：相对虚拟地址（Relative Virtual Address）；风险和脆弱性评估（Risk and Vulnerability Assessment）
 * RVWP：勒索软件漏洞预警试点项目（Ransomware Vulnerability Warning Pilot）
 * RW：读写（Read/Write）
@@ -3287,7 +3304,7 @@
 * SIM：用户身份模块（Subscriber Identity Module）；安全信息管理（Security Information Management）
 * SIMD：单指令多数据流技术（Single Instruction Multiple Data）
 * SINIT：安全初始化验证代码模块（Secure Initialization Authenticated Code Module）
-* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）
+* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）；安全感知平台（Security Intelligence Platform）；系统完整性保护（System Integrity Protection）
 * SiP：系统级封装（System in Package）；硅提供商（Silicon Provider）
 * SIPRNet：机密IP路由网（Secret Internet Protocol Router Network）
 * SIRP：安全事件响应平台（Security Incident Response Platform）
@@ -3339,6 +3356,7 @@
 * SMS：短信（Short Message Service）；服务管理体系（Service Management System）
 * SMSC：短消息服务中心（Short Message Service Center）
 * SMSF：短消息服务功能（Short Message Service Function）
+* SMSS：Windows会话管理子系统（Session Manager Subsystem）
 * SMTP：简单邮件传输协议（Simple Mail Transfer Protocol）
 * SNA：社交网络分析（Social Network Analysis）；社交网络攻击（Social Network Attack）
 * SNAC：NSA下设的系统与网络攻击中心（System and Network Attack Center）
@@ -3374,7 +3392,7 @@
 * SOW：工作说明书（Statement of Work）
 * SOX：美国萨班斯法案（Sarbanes-OXley act）
 * SP：服务提供者（Service Provider）；统计抽样（Statistical Sampling）；安全处理器（Secure Processor）；IEEE安全和隐私研讨会（IEEE Symposium on Security & Privacy）；NIST特别出版物（Special Publication）
-* SPA：单包授权（Single Packet Authorization）；安全态势评估（Security Posture Assessment）；简单能量分析攻击（Simple Power Analysis）；微软安全口令鉴别协议（Secure Password Authentication）
+* SPA：单包授权（Single Packet Authorization）；安全态势评估（Security Posture Assessment）；简单能量分析攻击（Simple Power Analysis）；微软安全口令鉴别协议（Secure Password Authentication）；安全私有接入（Secure Private Access）；深信服安全专家分析服务（猜测：Security Professional Analysis）
 * SPAN：交换机端口分析器（Switched Port Analyzer）
 * SPARC：SPARC处理器架构（Scalable Processor ARChitecture）
 * SPARQL：SPARQL协议与RDF查询语言（SPARQL Protocol And RDF Query Language）
@@ -3461,7 +3479,7 @@
 * SSTP：安全套接字隧道协议（Secure Socket Tunneling Protocol）
 * SSVC：特定相关者漏洞分类法（Stakeholder-specific Vulnerability Categorization）
 * ST：服务票据（Service Ticket）；安全目标（Security Target）
-* STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）
+* STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）；潜伏威胁探针（Stealth Threat Analysis）
 * Standard：标准制定组织（Setting Organization）
 * STCU：安全充电计费控制单元（Secure Telematics Control Unit）
 * STD：互联网标准（Internet Standard）
@@ -3589,6 +3607,7 @@
 * TH：威胁狩猎（Threat Hunting）
 * THP：威胁狩猎过程（Threat Hunting Process）；威胁狩猎平台（Threat Hunting Platform）；威胁狩猎专家（Threat Hunting Professional）；透明巨页（Transparent Huge Page）
 * TI：表指示符（Table Indicator）
+* TIARA：威胁识别分析与风险评估（Threat Identification, Analysis & Risk Assessment）
 * TIB：标记信息库（Tag Information Base）
 * TIBER-EU：欧洲威胁情报道德红队框架（European framework for Threat Intelligence-Based Ethical Red-teaming）
 * TIC：威胁情报计算（Threat Intelligence Computing）；可信网络连接计划（Trusted Internet Connects）
@@ -3734,6 +3753,7 @@
 * UKAS：英国国家认可局（United Kingdom Accreditation Service）
 * UKRI：英国国家研究与创新署（UK Research and Innovation）
 * UMD：马里兰大学（University of Maryland）
+* UMDF：用户态驱动框架（User-Mode Driver Framework）
 * UMDS：更新管理器下载服务（Update Manager Download Service）
 * UML：统一建模语言（Unified Modeling Language）
 * UMTS：通用移动通讯系统（Universal Mobile Telecommunications System）
@@ -3862,6 +3882,7 @@
 * VPN：虚拟专用网络（Virtual Private Network）
 * VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
 * VQA：视觉问答（Visual Question & Answering）
+* VQL：Velociraptor查询语言（Velociraptor Query Language）
 * vR：vSphere复制（vSphere Replication）
 * vRA：vRealize自动化（vRealize Automation）
 * vRB：vRealize云业务（vRealize Business for Cloud）
@@ -3910,6 +3931,7 @@
 * WBS：工作分解结构（Work Breakdown Structure）
 * WCF：Windows通信基础库（Windows Communication Foundation）；Web内容过滤（Web Content Filtering）
 * WCP：网站云防护服务（Web Cloud Protection）
+* WDDM：窗口显示驱动模型（Windows Display Driver Model）
 * WDF：Windows驱动框架（Windows Driver Frameworks）；Windows防御防火墙（Windows Defender Firewall）
 * WDM：波分复用（Wavelength Division Multiplexing）
 * WEP：有线等效加密（Wired Equivalent Privacy）
