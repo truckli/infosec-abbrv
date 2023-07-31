@@ -9,7 +9,7 @@
 该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4045**条，词组**4992**条。 
+当前收录缩略词形**4051**条，词组**5002**条。 
 
 
 
@@ -244,7 +244,7 @@
 * ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）
 * ATOS：活动层对象存储（Active Tier on Object Storage）
 * ATP：高级威胁防护（Advanced Threat Protection）
-* aTrust：深信服零信任访问控制系统（猜测：access Trust）
+* aTrust：深信服零信任访问控制系统（猜测：application Trust）
 * ATS：iOS应用传输安全（App Transport Security）
 * ATSD：数字对象体系架构应用技术与标准促进组织（DOA Application Technology Standardization & Development）
 * ATT：属性协议（Attribute Protocol）
@@ -446,7 +446,7 @@
 * CBRAM：导电桥接随机存取内存（Conductive-Bridging RAM）
 * CBTC：CB测试证书（Certification Body Test Certificates）
 * CBTL：CB测试实验室（Certification Body Testing Laboratory）
-* CC：挑战黑洞攻击（Challenge Collapsar）；信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）
+* CC：信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）；CC网络安全从业认证（Certified in Cybersecurity）；CC网络攻击（Challenge Collapsar）
 * CC-BY：知识共享许可——署名（Creative Commons Attribution）
 * CC-NC：知识共享许可——非商业性使用（Creative Commons Non-Commercial）
 * CC-ND：知识共享许可——禁止演绎（Creative Commons No Derivatives）
@@ -525,6 +525,7 @@
 * CE：网络窃取（Cyber Exploitation）；欧洲合格标志（法语：Conformité Européene）；计算机工程（Computer Engineering）；客户支持部门（Customer Engineering）；客户支持工程师（Customer Engineer）
 * CEATI：网络安全威胁情报生态联盟（Cybersecurity Ecology Alliance of Threat Intelligence）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
+* CECPQ2：组合椭圆曲线和后量子密钥交换（Combined Elliptic Curve and Post-Quantum Key Exchange）
 * CEDS：CESER能源输送系统网络安全（Cybersecurity for Energy Delivery Systems）
 * CEE：通用事件表达式（Common Event Expression）
 * CEF：通用事件格式（Common Event Format）
@@ -668,6 +669,7 @@
 * CMOT：基于TCP/IP的通用管理信息协议（Common Management Information Protocol over TCP/IP）
 * CMP：证书管理协议（Certificate Management Protocol）
 * CMS：密码消息语法（Cryptographic Message Syntax）；配置管理系统（Configuration Management System）；内容管理系统（Content Management System）；FireEye中央管理系统（Central Management System）
+* CMSS：云托管安全服务（Cloud Managed Security Service）
 * CMT：时序默克尔树（Chronological Merkle Tree）
 * CMU：卡耐基梅陇大学（Carnegie Mellon University）
 * CMVP：NIST密码模块验证项目（Cryptographic Module Validation Program）
@@ -829,8 +831,8 @@
 * CSRF：跨站请求伪造（Cross Site Request Forgery）
 * CSRIC：通信安全可靠性和互操作性委员会（Communications Security Reliability and Interoperability Council）
 * CSRK：连接签名解析密钥（Connection Signature Resolving Key）
-* CSRM：网络安全风险管理（Cybersecurity risk management）
-* CSRR：网络安全风险注册（Cybersecurity risk register）
+* CSRM：网络安全风险管理（Cyber Security Risk Management）
+* CSRR：网络安全风险注册（Cyber Security Risk Register）
 * CSRSS：Windows客户端/服务端运行时子系统（Client/Server Runtime Subsystem）
 * CSS：层叠样式表（Cascading Style Sheets）；美国中央安全署（Central Security Service）
 * CSSO：计算机系统安全官员（Computer Systems Security Officers）
@@ -1235,6 +1237,7 @@
 * ECDSA：椭圆曲线数字签名算法（Elliptic Curve Digital Signature Algorithm）
 * ECE：电子通信工程（Electronics & Communication Engineering）；欧洲经济委员会（European Economic Commission）
 * ECH：加密客户端问候（Encrypted Client Hello）
+* ECIES：基于椭圆曲线的集成加密方案（Elliptic Curve Integrated Encryption Scheme）
 * ECM：端点配置管理器（Endpoint Configuration Manager）；企业内容管理（Enterprise Content Management）
 * ECMP：等价路由（Equal-Cost Multi-Path Routing）
 * ECMQV：椭圆曲线MQV协议（Elliptic Curve Menezes-Qu-Vanstone）
@@ -1296,7 +1299,7 @@
 * ELF：可执行与可链接格式（Executable and Linkable Format）
 * ELINT：电子情报（Electronic Intelligence）
 * ELK：ELK工具（Elasticsearch, Logstash & Kibana）
-* EM：电磁（Electromagnetic）
+* EM：电磁（Electromagnetic）；暴露面管理（Exposure Management）
 * eMASS：企业任务保障支持服务（Enterprise Mission Assurance Support Service）
 * eMBB：增强移动宽带（Enhanced Mobile Broadband）
 * EMBS：IEEE医学与生物学会工程（IEEE Engineering in Medicine & Biology Society）
@@ -1335,7 +1338,7 @@
 * ER：实体及其关系（Entities and their Relationships）；加密根（Encryption Root）
 * ER&A：实体识别分析（Entity Resolution & Analysis）
 * ERM：企业风险管理（Enterprise Risk Management）；企业资源管理（Enterprise Resource Management）
-* ERP：企业风险简介（Enterprise Risk Profile）；电子道路收费（Electronic Road Pricing）
+* ERP：企业风险简介（Enterprise Risk Profile）；电子道路收费（Electronic Road Pricing）；企业资源计划（Enterprise Resources Planning）
 * ERPS：电子道路收费系统（Electronic Road Pricing System）
 * ERR：企业风险登记册（Enterprise risk register）
 * ERT：应急响应团队（Emergency Response Team）；应急处置工具（Emergency Response Tool）
@@ -1357,7 +1360,7 @@
 * ESD：静电防护（Electrostatic Discharge）；紧急停机（Emergency Shut Down）
 * ESE：企业系统工程（Enterprise Systems Engineering）
 * ESF：持久安全框架（Enduring Security Framework）
-* ESG：环境、社会与企业治理（Environmental, Social and corporate Governance）；ESG公司（Enterprise Strategy Group）；边缘服务网关（Edge Services Gateway）
+* ESG：环境、社会与企业治理（Environmental, Social and corporate Governance）；ESG公司（Enterprise Strategy Group）；边缘服务网关（Edge Services Gateway）；邮件安全网关（Email Security Gateway）
 * ESI：某32位寄存器代号（Extended SI）；以太网段标识符（Ethernet Segment Identifier）
 * eSIM：嵌入式SIM（embedded SIM）；基于软件的SIM卡（Software-Based SIM）
 * ESNI：加密主机名称指示（Encrypted SNI）
@@ -1945,6 +1948,7 @@
 * ISAO：信息共享与分析组织（Information Sharing and Analysis Organization）
 * ISATAP：站内自动隧道寻址协议（Intra-Site Automatic Tunnel Addressing Protocol）
 * ISC：中国互联网协会（Internet Society of China）；互联网安全大会（Internet Security Conference）；互联网系统联盟（Internet Systems Consortium）；美国信息共享议政会（Information Sharing Council）；互联网风暴中心（Internet Storm Center）；基础架构安全类别（Infrastructure Security Category）
+* ISC2：国际信息系统安全认证协会（International Information System Security Certification Consortium）
 * ISCAT：工业网络安全合规评估工具（Industrial Security Compliance Assessment Tool）
 * ISCCC：中国信息安全认证中心（China Information Security Certification Center）
 * ISCE：信息共享与协作环境（Information Sharing and Collaboration Environment）
@@ -2892,6 +2896,7 @@
 * PES：态势评价服务（Posture Evaluation Service）；DoDAF物理交换规范（Physical Exchange Specification）；IEEE电力与能源协会（IEEE Power & Energy Society）
 * PEST：宏观环境的分析（Politics, Economy, Society, Technology）
 * PET：隐私增强技术（Privacy Enhancing Technology）
+* PETS：隐私增强技术研讨会（Privacy Enhancing Technologies Symposium）
 * PF：物理功能（Physical Function）
 * PFCP：包转发控制协议（Packet Forwarding Control Protocol）
 * PFR：平台固件弹性（Platform Firmware Resilience）
@@ -2996,6 +3001,7 @@
 * PPT：人、流程、技术（People，Processes & Technology）
 * PPTP：点对点隧道协议（Point-to-Point Tunneling Protocol）
 * PQC：后量子密码术（Post-Quantum Cryptography）
+* PQKE：后量子密钥交换（Post-Quantum Key Exchange）
 * PR：所需权限（Privileges Required）；拉取请求（Pull Request）；PageRank网页分（PageRank）；公共关系（Public Relations）；保护（Protect）
 * PR/SM：处理器资源/系统管理器（Processor Resource/System Manager）
 * PRAM：隐私风险评估方法（Privacy Risk Assessment Methodology）
@@ -3557,7 +3563,7 @@
 * SSAA：系统安全授权协议（Systems Security Authorization Agreement）
 * SSADM：结构化系统分析设计方法（Structured Systems Analysis and Design Method）
 * SSC：安全服务容器（Secure Service Container）
-* SSCP：安全SCADA通信协议（Secure SCADA Communications Protocol）
+* SSCP：安全SCADA通信协议（Secure SCADA Communications Protocol）；ISC2系统安全职业认证（Systems Security Certified Practitioner）
 * SSCS：网络安全滑动标尺（the Sliding Scale of Cyber Security）
 * SSCT：国家资助的网络威胁（State Sponsored Cyber Threat）
 * SSD：固态硬盘（Solid State Drive）
@@ -3689,7 +3695,7 @@
 * TD：信任域（Trust Domain）
 * TDA：威胁发现设备（Threat Detection Appliance）
 * TDD：TCM设备驱动（TCM Device Driver）；时分复用（Time Division Duplex）；测试驱动开发（Test-Driven Development）
-* TDDH：双DDH（Twin DDH）；双子判定Diffie-Hellman问题（Twin Decisional Diffie-Hellman）
+* TDDH：双子判定Diffie-Hellman问题（Twin Decisional Diffie-Hellman）
 * TDM：时分复用（Time Division Multiplexing）
 * TDMA：时分多址（Time Division Multiple Access）
 * TDO：受信域对象（Trusted Domain Object）
@@ -3822,7 +3828,7 @@
 
 ## U
 
-* U/C：产投比（Utility to Cost）
+* U/C：效费比（Utility to Cost）
 * U2F：通用双因子认证（Universal 2nd Factor）
 * UA：用户代理（User Agent）；用户鉴别（User Authentication）
 * UAC：用户账户控制（User Account Control）；用户代理客户端（User Agent Client）
