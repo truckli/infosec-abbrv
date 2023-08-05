@@ -6,10 +6,10 @@
 
 本列表收录了网络安全行业日常沟通中可能出现了数千条缩略词，涉及攻防技术、安全运营、安全研发以及周边的ICT、情报、人工智能等领域。相当多的缩略词有多种含义，下表大致按照行业相关度、词频等因素对多个含义进行排序。读者在阅读其他文献时如果遇到未加解释的缩略词，可以查询本表获得中英文全称。
 
-该列表最初由CNCERT/CC研究人员发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
+该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4078**条，词组**5032**条。 
+当前收录缩略词形**4108**条，词组**5075**条。 
 
 
 
@@ -237,6 +237,7 @@
 * ASV：PCI认可扫描供应商（Approved Scanning Vendor for PCI）
 * AT：意识与培训（Awareness & Training）
 * ATA：ATA接口（Advanced Technology Attachment）
+* ATAPI：ATA 数据包接口（ATA Packet Interface）
 * ATC：ATC威胁覆盖项目（Atomic Threat Coverage）
 * ATH：高级威胁狩猎系统（Advanced Threat Hunting）
 * ATL：攻击威胁级别（Attack Threat Level）
@@ -292,6 +293,7 @@
 * BCP：业务连续性计划（Business Continuity Plan）；最佳当前实践（Best Current Practice）
 * BCR：约束性公司准则（Binding Corporate Rules）
 * BCS：北京网络安全大会（Beijing Cyber Security Conference）
+* BD：蓝光光盘（Blu-ray Disc）
 * BDA：战损评估（Battle Damage Assessment）
 * BDFL：开源项目领袖（Benevolent Dictator For Life）
 * BDP：大数据平台（Big Data Platform）
@@ -418,6 +420,7 @@
 * CAPEX：资本性支出（Capital Expenditure）
 * CAPIF：3GPP北向API通用API框架（Common API Framework for 3GPP northbound APIs）；通用应用程序编程接口框架（Common Application Programming Interface Framework）
 * CAPP：受控访问保护轮廓（Controlled Access Protection Profile）
+* CAPPVD：移动互联网APP产品安全漏洞专业库（China National APP Vulnerabiliy DataBase）
 * CAPTCHA：验证码（Completely Automated Public Turing Test to tell Computers and Humans Apart）
 * CAR：网络分析知识库（Cyber Analytics Repository）
 * CARET：网络分析知识库探索工具（Cyber Analytic Repository Exploration Tool）
@@ -429,6 +432,7 @@
 * CASD：控制机构安全域（Controlling Authority Security Domain）
 * CASE：计算机辅助软件工程（Computer-Aided Software Engineering）；网络安全系统工程（Cyber Assured Systems Engineering）
 * CATR：电信研究院（China Academy of Telecommunication Research）
+* CAVD：车联网产品安全漏洞专业库（China Automobile Vulnerabiliy Database）
 * CAVP：NIST密码算法验证项目（Cryptographic Algorithm Validation Program）
 * CB：认证机构（Certification Body）
 * CBA：基于组件的架构（Component-Based Architecture）
@@ -496,12 +500,16 @@
 * CCSK：云计算安全知识认证（Certificate of Cloud Security Knowledge）
 * CCSP：网络安全等级保护（Classified Cyber Security Protection）；CCF大学生计算机系统与程序设计竞赛（Collegiate Computer Systems & Programming contest）；认证云安全专业人员（Certified Cloud Security Professional）
 * CCSRP：网络与信息安全应急人员认证（Certified Cyber Security Response Professional）
-* CCSS：黑洞云清洗服务（Cloud Cleaning Service System）
+* CCSS：黑洞云清洗服务（Cloud Cleaning Service System）；网络安全服务能力评价（Capability assessment of Cyber Security Service）
 * CCSSP：国际注册云安全系统认证专家（Certified Cloud Security Systems Professional）
 * CCTA：英国中央计算机和通信局（Central Computer and Telecommunications Agency）
 * CCTC：商用密码检测中心（Commercial Cryptography Testing Center）
 * CCTV：闭路电视（Closed Circuit Television）；中国中央电视台（China Central Television）
-* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）；后果驱动（Consequence-Driven）
+* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）；后果驱动（Consequence-Driven）；光盘（Compact Disc）
+* CD-i：交互式光盘（Compact Disc-Interactive）
+* CD-R：可录制光盘（Recordable Compact Discs）
+* CD-ROM：只读光盘（Compact Disc Read-Only Memory）
+* CD-RW：可重写光盘（ReWritable CD）
 * CDA：保密协议（Confidential Disclosure Agreement）；网络防御分析（Cyber Defense Analysis）
 * CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）；美国国防部首席数字和人工智能办公室（Chief Digital & Artificial Intelligence Office）
 * CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）；网络安全防御社区（Cybersecurity Defense Community）；座舱域控制器（Cockpit Domain Controller）
@@ -628,6 +636,7 @@
 * CISM：信息安全管理师（Certified Information Security Manager）
 * CISO：注册信息安全管理员（Certified Information Security Officer）；首席信息安全官（Chief Information Security Officer）
 * CISP：注册信息安全专业人员（Certified Information Security Professional）
+* CISPA：德国亥姆霍兹信息安全中心（Center for IT-Security, Privacy and Accountability）
 * CISQ：信息与软件质量联盟（Consortium for Information & Software Quality）
 * CISR：网络信息安全研究会议（Cyber & Information Security Research conference）
 * CISSO：认证信息系统安全官（Certified Information Systems Security Officer）；美国涉密信息共享和保护办公室（Classified Information Sharing and Safeguarding Office）
@@ -647,7 +656,7 @@
 * CK：ClickHouse数据库（ClickHouse）；Cohn-Kanade数据集（Cohn-Kanade）；列键（Column Key）
 * CKG：网络安全知识图谱（Cybersecurity Knowledge Graph）
 * CLG：社区主导型增长（Community-Led Growth）
-* CLI：命令行界面（Command-Line Interface）
+* CLI：命令行界面（Command-Line Interface）；通用语言基础设施（Common Language Infrastructure）
 * CLOB：字符大对象（Character Large Object）
 * CloudSPF：云安全策略框架（Cloud Security Policy Framework）
 * CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer）
@@ -710,6 +719,7 @@
 * CNSSI：美国国家安全系统委员会指示（Committee on National Security Systems Instruction）
 * CNSSP：国家安全系统委员会出版物（Committee on National Security Systems Publication）
 * CNVD：国家信息安全漏洞共享平台（China National Vulnerability Database）
+* CNVDB：通用网络产品安全漏洞专业库（Common Network-product Vulnerabiliy DataBase）
 * CNW：CSIRT网络（CSIRT NetWork）
 * CoA：行动措施（Course of Action）
 * COBIT：信息与技术控制目标框架（Control Objectives for Information & related Technologies）
@@ -791,7 +801,7 @@
 * CRSA：CREST注册安全分析师（CREST Registered Security Analyst）
 * CRSM：网络空间资源测绘（Cyberspace Resource Surveying & Mapping）
 * CRSRA：商业遥感监管事务（Commercial Remote Sensing Regulatory Affairs）
-* CRT：CREST注册渗透测试人员（CREST Registered Penetration Tester）；中国剩余定理（Chinese Remainder Theorem）
+* CRT：CREST注册渗透测试人员（CREST Registered Penetration Tester）；中国剩余定理（Chinese Remainder Theorem）；阴极射线管（Cathode Ray Tubes）
 * CRTC：阴极射线管控制器（Cathode Ray Tube Controller）
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
 * CRTV：验证信任的核心根（Core Root of Trust for Verification）
@@ -847,7 +857,7 @@
 * CSSO：计算机系统安全官员（Computer Systems Security Officers）
 * CSSP：控制系统安全计划（Control System Security Program）；网络安全服务供应商（Cybersecurity Service Provider）；网络空间安全仿真平台（Cyberspace Security Simulation Platform）；云安全服务提供商（Cloud Security Service Provider）
 * CSSTP：安全众测平台（Crowdsourced Software Security Testing Platform）
-* CSTC：密码行业标准化技术委员会（Cryptography Standardization Technical Committee）
+* CSTC：密码行业标准化技术委员会（Cryptography Standardization Technical Committee）；中国软件评测中心（China Software Testing Center）
 * CSTIS：网络安全威胁和漏洞信息共享平台（Cyber Security Threat Information Sharing Platform）
 * CSTR：云安全技术要求（Cloud Security Technology Requirements）
 * CSU/DSU：通道服务单元／数据服务单元（Channel Service Unit/Data Service Unit）
@@ -1194,6 +1204,7 @@
 * DUP：复制指令（duplicate）
 * DUT：被测设备（Device Under Test）
 * DV：域名验证型证书（Domain Validated）
+* DVD：数字视频光盘或数字多功能光盘（Digital Video Disc or Digital Versatile Disc）
 * DW：数据仓库（Data Warehouse）；定义字指令（Define Word）
 * DWD：数仓明细层（Data Warehouse Details）
 * DWH：数据仓库（Data Warehouse）
@@ -1249,6 +1260,7 @@
 * ECH：加密客户端问候（Encrypted Client Hello）
 * ECIES：基于椭圆曲线的集成加密方案（Elliptic Curve Integrated Encryption Scheme）
 * ECM：端点配置管理器（Endpoint Configuration Manager）；企业内容管理（Enterprise Content Management）
+* ECMA：欧洲计算机制造商协会（European Computer Manufacturers Association）
 * ECMP：等价路由（Equal-Cost Multi-Path Routing）
 * ECMQV：椭圆曲线MQV协议（Elliptic Curve Menezes-Qu-Vanstone）
 * ECN：显式拥塞通知（Explicit Congestion Notification）；电子通信网（Electronic Communication Network）；边缘计算节点（Edge Compute Node）
@@ -1586,6 +1598,7 @@
 * GDTR：全局描述符表寄存器（Global Descriptor Table Register）
 * GE：千兆以太网（Gigabit Ethernet）
 * GEOINT：地理空间情报（Geospatial Intelligence）
+* GF：攻防（拼音：Gong Fang）
 * GFS：全局文件系统（Global File System）；谷歌文件系统（Google File System）
 * GFSK：高斯频移键控（Gaussian Frequency-Shift Keying）
 * GGE：联合国政府专家组（Group of Governmental Experts）
@@ -1627,6 +1640,7 @@
 * GPV：GPV签名框架（Gentry-Peikert-Vaikuntanathan）
 * GQL：图查询语言（Graph Query Language）
 * GRC：治理，风险管理与合规（Governance, Risk Management & Compliance）；治理，风险与合规（Governance, Risk & Compliance）
+* GReAT：卡巴斯基全球研究与分析团队（Kaspersky’s Global Research & Analysis Team）
 * GRID：GIAC响应和工业防御（GIAC Response & Industrial Defense）
 * GRO：通用接收卸载（Generic Receive Offload）
 * gRPC：gRPC框架（gRPC Remote Procedure Calls）
@@ -1674,7 +1688,7 @@
 * HCSA：华为专业认证专家（Huawei Certified Specialist-Associate）
 * HCSE：华为专业认证资深专家（Huawei Certified Specialist-Expert）
 * HCSP：华为专业认证高级专家（Huawei Certified Specialist-Professional）
-* HD：硬盘（Hard Drive）
+* HD：硬盘（Hard Drive）；高清（High Definition）
 * HDAP：高可用性目录访问协议（High-Availability Directory Access Protocol）
 * HDD：硬盘驱动器（Hard Disk Drive）
 * HDFS：Hadoop分布式文件系统（Hadoop Distributed File System）
@@ -1743,7 +1757,7 @@
 * HVAC：暖通空调（Heating, Ventilation & Air Conditioning）
 * HVCI：虚拟机监控器强制代码一致性（HyperVisor-enforced Code Integrity）
 * HVV：某攻防演练活动（HVV）
-* HW：某攻防演练活动（HW）
+* HW：某攻防演练活动（HW）；硬件（HardWare）；华为公司（拼音：Hua Wei）
 * HWASan：硬件辅助地址检查器（Hardware-assisted Address Sanitizer）
 * HX：FireEye端点安全产品系列（猜测：Host security）
 * HYP：虚拟机监控器（hypervisor）
@@ -1888,10 +1902,12 @@
 * IMAP：互联网邮件访问协议（Internet Mail Access Protocol）
 * IMDS：Azure实例元数据服务（Instance Metadata Service）
 * IMEI：国际移动设备标识（International Mobile Equipment Identity）
+* IMG：镜像文件格式（IMaGe）
 * IMI：信息操纵和干扰（Information Manipulation & Interference）
 * IMINT：图像情报（Imagery Intelligence）
 * IMS：IP多媒体子系统（IP Multimedia Subsystem）；IP多媒体核心网络子系统（IP Multimedia Core Network Subsystem）；汽车座舱视觉监控系统（In-cabin Monitoring System）
 * IMSI：国际移动用户身份（International Mobile Subscriber Identity）
+* IMZ：WinImage压缩磁盘映像（WinImage Compressed Disk Image）
 * INCOSE：国际系统工程理事会（International Council on Systems Engineering）
 * IND-CCA：选择密文攻击下的不可区分性（Indistinguishability under Chosen-Cyphertext Attack）
 * IND-CPA：选择明文攻击下的不可区分性（Indistinguishability under Chosen-Plaintext Attack）
@@ -1984,7 +2000,7 @@
 * ISIRT：信息安全事件响应组（Information Security Incident Response Team）
 * ISM：信息安全管理（Information Security Management）；工业、科学和医疗（Industrial, Scientific & Medical）
 * ISMS：信息安全管理体系（Information Security Management System）
-* ISO：国际标准化组织（International Organization for Standardization）
+* ISO：国际标准化组织（International Organization for Standardization）；ISO镜像文件格式（ISO 9600）
 * ISOC：国际互联网协会（Internet Society）
 * ISOO：美国信息安全监督办公室（Information Security Oversight Office）
 * ISOP：智能安全运营平台（Intelligent Security Operation Platform）
@@ -2213,6 +2229,7 @@
 * LLVM：LLVM编译器（Low Level Virtual Machine）
 * LMMP：局域网/广域网管理协议（LAN/MAN Management Protocol）
 * LMS：学习管理系统（Learning Management System）；许可证管理系统（License Management System）
+* LNK：Windows快捷方式文件格式（Link）
 * LNS：L2TP网络服务器（L2TP Network Server）
 * LOA：确保级（Level of Assurance）
 * LOD：链接开放数据（Linked Open Data）
@@ -2296,10 +2313,12 @@
 * MDAV：移动设备及属性验证（Mobile Device & Attributes Validation）
 * MDC：模块化数据中心（Modular Data Center）；移动数据中心（Mobile Data Center）
 * MDE：微软端点防护（Microsoft Defender for Endpoint）
+* MDF：媒体描述文件（Media Descriptor File）
 * MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）；错误/虚假/恶意信息（Mis/Dis/Mal-information）
 * MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
 * MDO：多域作战（Multi-Domain Operation）
 * MDR：托管式检测与响应（Managed Detection & Response）
+* MDS：微架构数据采样（Microarchitectural Data Sampling）
 * ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
 * MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
 * MEC：移动边缘计算（Mobile Edge Computing）
@@ -2529,6 +2548,7 @@
 * NE：网络元素（Network Element）
 * NEA：网络端点评估（Network Endpoint Assessment）；核能机构（Nuclear Energy Agency）
 * NEAT：不可逾越、可评价、始终调用、防篡改（Non-bypassable, Evaluatable, Always-invoked, Tamperproof）
+* NEC：日本电气公司有限公司（Nippon Electric Company, Limited）
 * NECP：美国国家应急通讯计划（National Emergency Communications Plan）
 * NED：美国“国家民主基金会”（The National Endowment for Democracy）
 * NEF：网络暴露功能（Network Exposure Function）
@@ -2579,6 +2599,7 @@
 * NISCC：英国国家基础设施安全协调中心（National Infrastructure Security Coordination Centre）
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * NISP：美国国家工业安全计划（National Industrial Security Program）
+* NISPOM：国家工业安全计划操作手册（National Industrial Security Program Operating Manual）
 * NISS：绿盟综合安全系统（NSFOCUS Integrated Security System）
 * NIST：美国国家标准技术研究院（National Institute of Standards & Technology）
 * NISTIR：NIST跨机构报告（NIST Interagency Report）；NIST内部报告（NIST Internal Report）
@@ -2799,6 +2820,7 @@
 * OSS：运营支撑系统（Operation Support System）；对象存储服务（Object Storage Service）；开源软件（Open Source Software）
 * OSSEM：开源安全事件元数据（Open Source Security Events Metadata）
 * OSSTMM：开源安全测试方法手册（Open Source Security Testing Methodology Manual）
+* OSTA：光存储技术协会（Optical Storage Technology Association）
 * OSTP：白宫科技政策办公室（Office of Science and Technology Policy）
 * OT：运营技术（Operational Technology）；不经意传输（Oblivious Transfer）；其他交易（Other Transaction）
 * OT&E：运行测试与评估（Operational Test & Evaluation）
@@ -2957,7 +2979,7 @@
 * PIV：个人信息验证（Personal Identity Verification）
 * PIV-I：个人身份验证互操作（Personal Identity Verification-Interoperable）
 * PJL：打印机作业语言（Printer Job Language）
-* PK：端口敲门（Port Knocking）；平台密钥（Platform Key）
+* PK：端口敲门（Port Knocking）；平台密钥（Platform Key）；飞腾-麒麟生态体系（Phytium-Kylin）
 * PKC：公钥密码学（Public Key Cryptography）
 * PKCS：公钥加密标准（Public Key Cryptography Standards）
 * PKE：公钥加密（Public-Key Encryption）；公钥使能（Public Key Enabling）
@@ -2965,6 +2987,7 @@
 * PKI：公钥基础设施（Public Key Infrastructure）
 * PKI-CA：公钥基础设施证书颁发机构（Public Key Infrastructure Certification Authority）
 * PKI-EE：公钥基础设施终端实体（Public Key Infrastructure-End Entities）
+* PKS：PKS生态体系（Phytium-Kylin-Security）
 * PL：特权等级（Privilege Level）
 * PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
 * PLC：可编程逻辑控制器（Programmable Logic Controller）
@@ -3283,6 +3306,7 @@
 * SABI：机密及以下互操作性（Secret & Below Interoperability）
 * SABSA：舍伍德应用业务安全架构（Sherwood Applied Business Security Architecture）
 * SAC：国家标准化管理委员会（Standardization Administration of the People's Republic of China）
+* SACD：超级音频光盘（Super Audio CD）
 * SACL：系统访问控制列表（System Access Control List）
 * SACM：安全自动化与持续监控（Security Automation and Continuous Monitoring）
 * SACMAT：ACM访问控制模型与技术研讨会（ACM Symposium on Access Control Models and Technologies）
@@ -3309,7 +3333,7 @@
 * SASE：安全访问服务边缘（Secure Access Service Edge）
 * SASL：简单认证与安全层（Simple Authentication and Security Layer）
 * SAST：静态应用安全测试（Static Application Security Testing）
-* SAT：安全意识宣贯培训（(Security Awareness Training）
+* SAT：安全意识宣贯培训（(Security Awareness Training）；SCSI-ATA转换（SCSI/ATA Translation）
 * SATA：串行ATA接口（Serial Advanced Technology Attachment）
 * SATAN：某漏洞工具（Security Administrator Tool for Analyzing Networks）
 * SAV：源地址验证（Source Address Validation）
@@ -3402,6 +3426,7 @@
 * SEV-SNP：使用安全嵌套分页的安全加密虚拟化（Secured Encrypted Virtualization with Secured Nested Paging）
 * SF：安全功能（Security Function）
 * SFA：销售能力自动化（Sales Force Automation）
+* SFF：小型机箱委员会（Small Form Factor committee）
 * SFI：软件故障隔离（Software Fault Isolation）
 * SFP：安全功能策略（Security Function Policy）；简单功能点（Simple Function Point）；小型可热插拔光收发一体模块（Small Form-factor Pluggsable）
 * SFR：安全功能需求（Security Function Requirement）
@@ -3598,13 +3623,14 @@
 * SSE-KMS：KMS管理密钥服务端加密（Server-Side Encryption with KMS Managed Keys）
 * SSE-S3：S3管理密钥服务端加密（Server-Side Encryption with S3 Managed Keys）
 * SSF：软件安全框架（Software Security Framework）；SSOIS安全功能（SSOIS Security Function）；战略支援部队（Strategic Support Force）
-* SSH：安全外壳协议（Secure Shell）
+* SSH：安全外壳协议（Secure Shell）；Java SSH框架（Spring, Struts, Hibernate）
 * SSI：自治式身份（Self-Sovereign Identity）
 * SSID：服务集标识（Service Set Identifier）
 * SSITH：“基于硬固件的系统安全集成”计划（System Security Integration Through Hardware and Firmware）
 * SSL：安全套接字协议（Secure Sockets Layer）
 * SSLIOP：SSL对象请求代理间通信协议（SSL InterORB Protocol）
 * SSLO：SSL流量编排技术（SSL Orchestration）
+* SSM：Amazon EC2简单系统管理器（Simple Systems Manager）
 * SSO：单点登录（Single Sign On）
 * SSOIS：信息系统安全子系统（Security Subsystem Of Information System）
 * SSOR：记录源系统（Source System Of Records）
@@ -3653,13 +3679,14 @@
 * SUPM：超级用户权限管理（Superuser Privilege Management）
 * SV：安全漏洞（Security Vulnerability）；安全验证（Security Verification）；安全确认（Security Validation）；DoDAF系统视角（System Viewpoint）
 * SVC：交换式虚电路（Switched Virtual Circuit）
+* SVCD：超级视频光盘（Super Video CD）
 * SvcV：DoDAF服务视角（Services Viewpoint）
 * SVID：SPIFFE可验证身份文档（SPIFFE Verifiable Identity Document）
 * SVIP：硅谷创新计划（Silicon Valley Innovation Program）
 * SVM：支持向量机（Support Vector Machine）；安全虚拟机（Secure Virtual Machine）
 * SVP：最短向量问题（Shortest vector problem）
 * SVR：俄罗斯联邦对外情报局（俄语拉丁化：Sluzhba Vneshney razvedki Rossiyskoy Federatsii）
-* SW：ARM安全系统区域（Secure World）
+* SW：ARM安全系统区域（Secure World）；软件（SoftWare）
 * SwA：软件保障（Software Assurance）
 * SWaP：尺寸、重量和功率（Size, Weight & Power）
 * SWD：安全无线防御系统（Security Wireless Defense）
@@ -3745,6 +3772,7 @@
 * TFA：双因素认证（Two Factor Authentication）
 * TFI：美国财政部暴恐及金融情报办公室（Office of Terrorism and Financial Intelligence）
 * TFLOPS：每秒万亿次浮点运算数（Tera Floating-point Operations Per Second）
+* TFTI：技术为重点的威胁情报（Technology-Focused Threat Intelligence）
 * TFTP：简易文件传输协议（Trivial File Transfer Protocol）
 * TGC：票授权Cookie（Ticket Granting Cookie）
 * TGS：票授权服务（Ticket Granting Service）
@@ -3982,8 +4010,10 @@
 * VBA：VB宏语言（Visual Basic for Applications）
 * VBOS：VBOS计划（Vulnerabilities Below The Operating System）
 * VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
+* VCD：视频光盘（Video CD）
 * VCF：VMware云基础（VMware Cloud Foundation）
 * VCN：虚拟云网络（Virtual Cloud Network）
+* VCR：录像机（Video Cassette Recorder）
 * vCS：vCenter服务器（vCenter Server）
 * VCU：整车控制器（Vehicle Control Unit）
 * VDB：漏洞库（Vulnerability Database）
