@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4108**条，词组**5075**条。 
+当前收录缩略词形**4114**条，词组**5082**条。 
 
 
 
@@ -132,6 +132,7 @@
 * AIMEE：紧急执行的人工智能缓解（Artificial Intelligence Mitigation for Emergency Execution）
 * AIMS：自动化基础设施管理系统（Automated Infrastructure Management System）
 * AIO：多合一（All-In-One）；异步输入输出（Asynchronous Input/Output）
+* AIOPS：智能运维（Artificial Intelligence for IT operations）
 * AIOS：WordPress AIOS插件（All-in-One Security）
 * AIoT：人工智能物联网（Artificial Intelligence for the Internet of Things）
 * AIP：攻击拦截点（Attack Interdiction Point）
@@ -1123,6 +1124,7 @@
 * DOE-OE：美国能源部电力调度与能源可靠性办公室（DOE Office of Electricity）
 * DoH：DNS-over-HTTPs（DNS over HTTPs）
 * DOI：数字对象标识符（Digital Object Identifier）
+* DOICT：数据、运营、信息与通信技术（Data Technology, Operation Technology, Information technology & Communication Technology）
 * DOIP：数字对象接口协议（Digital Object Interface Protocol）
 * DoJ：美国司法部（Department of Justice）
 * DoN：美国海军部（Department of the Navy）
@@ -1204,7 +1206,7 @@
 * DUP：复制指令（duplicate）
 * DUT：被测设备（Device Under Test）
 * DV：域名验证型证书（Domain Validated）
-* DVD：数字视频光盘或数字多功能光盘（Digital Video Disc or Digital Versatile Disc）
+* DVD：数字视频光盘（Digital Video Disc）
 * DW：数据仓库（Data Warehouse）；定义字指令（Define Word）
 * DWD：数仓明细层（Data Warehouse Details）
 * DWH：数据仓库（Data Warehouse）
@@ -2518,7 +2520,7 @@
 * NCF：国家关键职能（National Critical Functions）；美国国家网络安全联邦资助研发中心（National Cybersecurity FFRDC）
 * NCIIPC：国家关键信息基础设施保护中心（National Critical Information Infrastructure Protection Centre）
 * NCIRP：国家网络事件响应计划（National Cyber Incident Response Plan）
-* NCIS：海军刑事调查局（Naval Criminal Investigative Service）
+* NCIS：美国海军刑事调查局（Naval Criminal Investigative Service）
 * NCISS：国家网络事件评分系统（National Cyber Incident Scoring System）
 * NCM：NetGuard证书管理器（NetGuard Certificate Manager）
 * NCP：网络控制协议（Network Control Protocol）；netlink连接器进程（netlink Connector Process）；美国国家清单检查计划（National Checklist Program）；NSX容器插件（NSX Container Plugin）
@@ -2548,7 +2550,7 @@
 * NE：网络元素（Network Element）
 * NEA：网络端点评估（Network Endpoint Assessment）；核能机构（Nuclear Energy Agency）
 * NEAT：不可逾越、可评价、始终调用、防篡改（Non-bypassable, Evaluatable, Always-invoked, Tamperproof）
-* NEC：日本电气公司有限公司（Nippon Electric Company, Limited）
+* NEC：日本电气公司（Nippon Electric Company）
 * NECP：美国国家应急通讯计划（National Emergency Communications Plan）
 * NED：美国“国家民主基金会”（The National Endowment for Democracy）
 * NEF：网络暴露功能（Network Exposure Function）
@@ -2605,6 +2607,7 @@
 * NISTIR：NIST跨机构报告（NIST Interagency Report）；NIST内部报告（NIST Internal Report）
 * NITB：美国国家信息安全技术基线（National INFOSEC Technical baseline）
 * NITRD：美国网络信息技术研发计划（Network and Information Technology Research & Development）
+* NITS：全国信息技术标准化技术委员会（China National Information Technology Standardization Network）
 * NITSC：国家信息技术安全研究中心（National Research Center for Information Technology Security）
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
@@ -2885,7 +2888,6 @@
 * PCA：隐私证书机构（Privacy Certificate Authority）；明文检查攻击（Plaintext-Checking Attacks）；主成分分析（Principal Component Analysis）
 * PCAOB：美国公众公司会计监督委员会（Public Company Accounting Oversight Board）
 * PCAP：抓包（Packet Capture）
-* pcap：数据包捕获（Packet Capture）
 * PcapNg：数据包捕获下一代转储（Packet Capture Next Generation Dump）
 * PCAST：美国总统科技顾问委员会（President's Council of Advisors on Science & Technology）
 * PCB：印刷电路板（Printed Circuit Board）
@@ -3726,6 +3728,7 @@
 * TBYTE：十字节字（Ten-Byte）
 * TC：可信计算（Trusted Computing）；流量控制（Traffic Control）；尾调用（Tail Call）；技术委员会（Technical Committee）
 * TC260：全国信息安全标准化技术委员会（Technical Committee 260）
+* TC28：全国信息技术标准化技术委员会（Technical Committee 28）
 * TCA：可信连接架构（Trusted Connect Architecture）
 * TCB：可信计算基（Trusted Computing Base）
 * TCCM：可信云凭据管理器（Trusted Cloud Credential Manager）
@@ -3845,7 +3848,7 @@
 * TRiSM：信任、风险与安全管理（Trust, Risk and Security Management）
 * TRMC：测试资源管理中心（Test Resource Management Center）
 * TRNG：真随机数发生器（True Random Number Generator）
-* TS：技术规范（Technical Specification）；时间戳（Time Stamp）；绝密（Top Secret）
+* TS：技术规范（Technical Specification）；时间戳（Time Stamp）；绝~密（Top Secret）
 * TSA：威胁态势感知（Threat Situation Awareness）；美国运输安全管理局（Transportation Security Administration）
 * TSB：可信软件基（Trusted Software Base）
 * TSC：时间戳计数器（Time Stamp Counter）；透明供应链（Transparent Supply Chain）
@@ -4227,18 +4230,21 @@
 * 2B：面向企业（To Business）
 * 2C：面向消费者（To Consumer）
 * 2FA：双因素认证（Two Factor Authentication）
-* 2G：面向政府（To Government）
+* 2G：面向政府（To Government）；第二代移动通信（2nd Generation）
 * 2SV：两步验证（Two-Step Verification）
 * 3A：3A公有云（Aliyun，AWS & Azure）
 * 3C：中国强制认证（China Compulsory Certification）
 * 3DES：三重DES（Triple DES）
 * 3DH：三路DH协议（Triple Diffie-Hellman）
+* 3G：第三代移动通信（3rd Generation）
 * 3GPP：第三代合作伙伴计划（3rd Generation Partnership Project）
 * 3W：人力、场所和负荷（Workforce, Workplace & Workloads）
 * 4A：认证、授权、账号、审计（Authentication, Authorization, Account & Audit）
+* 4G：第四代移动通信（4th Generation）
 * 5A：账户、认证、授权、审计和访问控制（Account, Authentication, Authorization, Audit & Access Control）
 * 5G：第五代移动通信（5th Generation）
 * 5GC：5G核心（5G Core）
 * 5GSC：5G独立安全类别（5G Standalone Security Category）
 * 5W1H：六何分析法（Where，When，Who，What，Why，How）
+* 6G：第六代移动通信（6th Generation）
 * 8DPSK：8相位差分相移键控（8 Phase Differential Phase Shift Keying）
