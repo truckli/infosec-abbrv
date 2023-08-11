@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4114**条，词组**5082**条。 
+当前收录缩略词形**4117**条，词组**5086**条。 
 
 
 
@@ -286,6 +286,7 @@
 * BBP：漏洞赏金计划（Bug Bounty Program）
 * BBS：电子布告栏系统（Bulletin Board System）
 * BBU：基带单元（Base Band Unit）
+* BC：博彩（拼音：Bo Cai）
 * BCDR：业务连续性与灾难恢复（Business Continuity & Disaster Recovery）
 * BCE：BeyondCorp公司（BeyondCorp Enterprise）
 * BCG：波士顿咨询（The Boston Consulting Group）
@@ -754,7 +755,7 @@
 * COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
 * COTS：商用现货（Commercial Off-The-Shelf）
-* CP：应急计划（Contingency Planning）；证书策略（Certificate Policy）；复制（copy）；密码处理器（cryptographic Processor）；中央处理器（Central Processor）
+* CP：应急计划（Contingency Planning）；证书策略（Certificate Policy）；复制（copy）；密码处理器（cryptographic Processor）；中央处理器（Central Processor）；彩票（拼音：Cai Piao）
 * CPA：选择明文攻击（Chosen-Plaintext Attack）；注册会计师（Certified Public Accountant）；单次获客成本（Cost Per Acquisition）；商用产品确保（Commercial Product Assurance）
 * CPACF：IBM中央处理器辅助密码功能（CP Assist for Cryptographic Function）
 * CPB：单字节运算时间（Cycles Per Byte）
@@ -2219,6 +2220,7 @@
 * LEO：低地球轨道（Low Earth Orbit）
 * LFI：本地文件包含（Local File Inclusion）
 * LFSR：线性反馈移位寄存器（Linear Feedback Shift Register）
+* LH：六合赌博（拼音：Liu He）
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
 * LIN：局域网互联网络（Local Interconnect Network）
 * LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
@@ -3123,6 +3125,7 @@
 * QMC：奎因－麦克拉斯基算法（Quine–McCluskey）
 * QMS：质量管理系统（Quality management system）
 * QoS：服务质量（Quality of Service）
+* QP：棋牌赌博（拼音：Qi Pai）
 * QPS：每秒查询数（Queries Per Second）
 * QR：QR码（Quick Response code）
 * QROM：可见量子随机预言模型（Quantum-accessible Random Oracle Model）
