@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4152**条，词组**5137**条。 
+当前收录缩略词形**4154**条，词组**5138**条。 
 
 
 
@@ -471,6 +471,7 @@
 * CCC：中国强制认证（China Compulsory Certification）；NSA网络安全协作中心（Cybersecurity Collaboration Center）
 * CCDB：通用准则开发组（Common Criteria Development Board）
 * CCDC：美国陆军作战能力开发司令部（U.S. Army Combat Capabilities Development Command）
+* CCDCOE：协作网络防御卓越中心（Cooperative Cyber Defence Centre of Excellence）
 * CCDE：思科认证设计专家（Cisco Certified Design Expert）
 * CCE：通用配置枚举（Common Configuration Enumeration）
 * CCEVS：通用准则评价确认项目（Common Criteria Evaluation and Validation Scheme）
@@ -529,6 +530,7 @@
 * CDMA：码分多址（Code Division Multiple Access）
 * CDN：内容分发网络（Content Distribution Network）
 * CDP：潜在附带损害（Collateral Damage Potential）；客户数据平台（Customer Data Platform）；Cloudera数据平台（Cloudera Data Platform）；持续数据保护（Continuous Data Protection）
+* CDPA：美国弗吉尼亚州消费者数据保护法（Consumer Data Protection Act）
 * CDPSE：国际注册数据隐私专家认证（Certified Data Privacy Solutions Engineer）
 * CDR：话单记录（Call Detail Record）；云端检测与响应（Cloud Detection & Response）；内容拆解与重建（Content Disarm & Reconstruction）；关键设计审查（Critical Design Review）
 * CDRL：合同交付要求清单（Contract Delivery Requirements List）
@@ -3643,7 +3645,7 @@
 * SS7：7号信令系统（Signalling System No.7）
 * SSA：静态单赋值（Static Single Assignment）；系统安全保障（System Security Assurance）；行业主管部门（Sector-Specific Agency）；安全解决方案架构（Security Solution Architecture）；安全服务访问（Secure Service Access）；单一安全架构（Single Security Architecture）
 * SSAA：系统安全授权协议（Systems Security Authorization Agreement）
-* SSADM：结构化系统分析设计方法（Structured Systems Analysis and Design Method）；结构化系统分析与设计方法（Structured System Analysis & Design Method）
+* SSADM：结构化系统分析与设计方法（Structured System Analysis & Design Method）
 * SSC：安全服务容器（Secure Service Container）
 * SSCP：安全SCADA通信协议（Secure SCADA Communications Protocol）；系统安全认证从业者（Systems Security Certified Practitioner）
 * SSCS：网络安全滑动标尺（the Sliding Scale of Cyber Security）
