@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4154**条，词组**5138**条。 
+当前收录缩略词形**4198**条，词组**5188**条。 
 
 
 
@@ -50,7 +50,7 @@
 * ABS：电子防抱死刹车系统（Anti-lock Braking System）
 * AC：访问控制（Access Control）；上网行为管理（Access Control）；应用接入数据中心（Application Center）；攻击复杂度（Attack Complexity）；附加电路（Attachment Circuit）；鉴别码（Authenticated Code）；资产类别（Asset Class）
 * AC-RAM：鉴别码内存（Authenticated Code Random Access Memory）
-* ACC：应用指令中心（Application Command Center）；美国空战司令部（Air Combat Command）
+* ACC：应用指令中心（Application Command Center）；空中作战司令部（Air Combat Command）
 * ACC-RI：美国陆军采购司令部罗克岛（Army Contracting Command-Rock Island）
 * ACD：主动网络防御（Active Cyber Defense）
 * ACE：访问控制项（Access Control Entry）；空军空战演进（Air Combat Evolution）
@@ -61,7 +61,7 @@
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
-* ACO：认证密码偏移量（Authenticated Ciphering Offset）
+* ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）
 * ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
@@ -95,18 +95,24 @@
 * AES-CCM：AES CCM模态（Advanced Encryption Standard–Counter with CBC-MAC）
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
 * AES-NI：英特尔AES-NI指令集（AES-New Instructions）
+* AETC：美国空军教育和训练司令部（Air Education and Training Command）
 * AF：深信服下一代防火墙（猜测：Advanced Firewall）
 * AF/A2：美国空军情报局（U.S. Air Force Intelligence）
 * AFA：美国晶圆代工法案（American Foundries Act of 2020）
 * AFC：美国陆军未来司令部（Army Futures Command）
 * AFC4A：美国空军C4机构（Air Force C4 Agency）
 * AFCEA：美国武装部队通信与电子协会（Armed Forces Communications & Electronics Association）
+* AFDW：美国空军华盛顿军区（Air Force District of Washington）
+* AFGSC：美国空军全球打击司令部（Air Force Global Strike Command）
 * AFISRA：美国空军情报监视侦察局（Air Force Intelligence, Surveillance & Reconnaissance Agency）
 * AFIWC：美国空军信息战中心（Air Force Information Warfare Center）
 * AFLCMC：美国空军生命周期管理中心（Air Force Life Cycle Management Center）
+* AFMC：美国空军装备司令部（Air Force Materiel Command）
 * AFOSI：美国空军特别调查办公室（Air Force Office of Special Investigation）
+* AFOTEC：美国空军作战测试和评估中心（Air Force Operational Test & Evaluation Center）
 * AFP：反欺诈平台（Anti-Fraud Platfrom）
 * AFPD：美国空军政策指令（Air Force Policy Directive）
+* AFRC：美国空军预备役司令部（Air Force Reserve Command）
 * AFRL：美国空军研究实验室（Air Force Research Laboratory）
 * AFS：安德鲁文件系统（Andrew File System）
 * AFSOC：美国空军特种作战司令部（Air Force Special Operations Command）
@@ -156,6 +162,7 @@
 * ALU：算术逻辑单元（arithmetic-logic unit）；阿尔卡特-朗讯公司（Alcatel-Lucent）
 * AM：资产管理（Asset Management）；访问管理（Access Management）；资产移动性（Asset Mobility）
 * AMAC：高级恶意代码分析中心（Advanced Malware Analysis Center）
+* AMC：美国空军机动司令部（Air Mobility Command）
 * AMD：超微半导体公司（Advanced Micro Devices, Inc）
 * AMD-SP：AMD安全处理器（AMD Secure Processor）
 * AMF：接入移动性管理网元（Access & Mobility Management Function）
@@ -177,6 +184,8 @@
 * ANSSI：法国国家网络和信息安全局（法语：Agence Nationale de la Sécurité des Systèmes d'Information）
 * ANT：NSA先进网络技术武器（Advanced Network Technology）
 * AO：授权官（Authorizing Official）
+* AOC：美国空军运营中心（Air Operations Center）
+* AOC-WS：美国空军运营中心武器系统（Air Operations Center Weapon System）
 * AODR：授权官指定代表（Authorizing Official Designated Representative）
 * AOP：面向切面编程（Aspect-Oriented Programming）；面向代理编程（Agent-Oriented Programming）
 * AP：接入点（Access Point）；执行器轮廓（Actuator Profile）；分析处理（Analytical Processing）
@@ -244,7 +253,7 @@
 * ATH：高级威胁狩猎系统（Advanced Threat Hunting）
 * ATL：攻击威胁级别（Attack Threat Level）；ATLAS转换语言（ATLAS Transformation Language）
 * ATM：异步传输模式（Asynchronous Transfer Mode）；自动取款机（Automated Teller Machine）；攻击威胁监控（Attack Threat Monitoring）
-* ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）
+* ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）；空军任务条令（Air Tasking Order）
 * ATOS：活动层对象存储（Active Tier on Object Storage）
 * ATP：高级威胁防护（Advanced Threat Protection）
 * aTrust：深信服零信任访问控制系统（猜测：application Trust）
@@ -410,6 +419,7 @@
 * CACR：中国密码学会（Chinese Association for Cryptologic Research）
 * CAD：计算机辅助设计（Computer Aided Design）；网络分析与检测（Cyber Analytics & Detection）
 * CAE：首席审计官（Chief Audit Executive）
+* CAF：战斗机部队（Combat Air Forces）
 * CAGR：复合年增长率（Compound Annual Growth Rate）
 * CAI：宪制人工智能（Constitutional AI）
 * CAII：中国工业互联网研究院（Chinese Academy of Industrial Internet）
@@ -421,6 +431,7 @@
 * CAN：控制器局域网（Controller Area Network）
 * CANET：中国学术网（Chinese Academic Network）
 * CANON：DARPA网络之网络复杂分析项目（Complex Analytics of Network of Networks）
+* CAOC：联合空中作战中心（Combined Air Operations Center）
 * CAP：云接入点（Cloud Access Point）；组合确保包（Composed Assurance Packages）；纠正行动计划（Corrective Action Plan）；CMMC评估过程（CMMC Assessment Process）；CAP原理（Consistency, Availability & Partition tolerance）；认证授权专业人员（Certified Authorization Professional）
 * CAPEC：通用攻击模式枚举和分类（Common Attack Pattern Enumeration & Classification）
 * CAPEX：资本性支出（Capital Expenditure）
@@ -744,6 +755,7 @@
 * CogVul：认知漏洞（Cognitive Vulnerability）
 * COI：利益冲突（Conflict Of Interest）；利益共同体（Community of Interest）
 * COM：组件对象模型（Component Object Model）；模块化计算机架构（Computer-On-Module）
+* COMAFFOR：空军部队指挥官（Commander, Air Force Forces）
 * COMINT：通信情报（Communications Intelligence）
 * COMM：通信（Communication）
 * CompTIA：计算技术产业协会（Computing Technology Industry Association）
@@ -871,7 +883,7 @@
 * CSTC：密码行业标准化技术委员会（Cryptography Standardization Technical Committee）；中国软件评测中心（China Software Testing Center）
 * CSTIS：网络安全威胁和漏洞信息共享平台（Cyber Security Threat Information Sharing Platform）
 * CSTR：云安全技术要求（Cloud Security Technology Requirements）
-* CSU/DSU：通道服务单元／数据服务单元（Channel Service Unit/Data Service Unit）
+* CSU：通道服务单元（Channel Service Unit）
 * CSV：逗号分隔值（Comma-Separated Values）；网络安全验证（Cyber Security Validation）
 * CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）
 * CTA：认知任务分析（Cognitive Task Analysis）；消费者技术协会（Consumer Technology Association）
@@ -1124,6 +1136,8 @@
 * DOA：数字对象架构（Digital Object Architecture）
 * DoC：美国商务部（United States Department of Commerce）
 * DoD：美国国防部（Department of Defense）
+* DoDAAC：美国国防部活动地址代码（Department of Defense Activity Address Code）
+* DoDAAD：美国国防部活动地址目录（Department of Defense Activity Address Directory）
 * DoDAF：美国国防部架构框架（the Department of Defense Architecture Framework）
 * DoDD：美国国防部指令（Department of Defense Directive）
 * DoDI：美国国防部训令（Department of Defense Instruction）
@@ -1203,6 +1217,7 @@
 * DSSS：直接序列扩频（Direct Sequence Spread Spectrum）
 * DST：某CA机构（Digital Signature Trust）
 * DSTL：防务科技实验室（Defence Science & Technology Laboratory）
+* DSU：数据服务单元（Data Service Unit）
 * DSVPN：动态智能VPN（Dynamic Smart Virtual Private Network）
 * DT：定义TWORD（Define TWORD）
 * DT&E：研发测试与评价（Developmental Test & Evaluation）
@@ -1302,7 +1317,7 @@
 * EDW：企业数仓（Enterprise Data Warehouse）
 * EDX：某32位寄存器代号（Extended DX）
 * EE：数字证书终端实体（End Entity）；电子工程（Electronics Engineering）；电气工程（Electrical Engineering）
-* EEA：欧洲经济区（the European Economic Area）；电子电气架构（Electrical Electronic Architecture）
+* EEA：EPS加密算法（EPS Encryption Algorithm）；欧洲经济区（the European Economic Area）；电子电气架构（Electrical Electronic Architecture）
 * EEAS：欧洲对外行动署（European External Action Service）
 * EEC：欧洲经济共同体（European Economic Community）
 * EF：暴露因子（Exposure Factor）
@@ -1316,6 +1331,7 @@
 * EGP：外部网关协议（Exterior Gateway Protocol）
 * EHR：电子健康记录（Electronic Health Records）
 * EI：外部输入（External Input）；工程索引（Engineering Index）
+* EIA：EPS完整性算法（EPS Integrity Algorithm）
 * EIAM：员工身份和访问管理（Employee Identity Access Management）
 * EIEMA：企业信息环境任务领域（Enterprise Information Environment Mission Area）
 * EIF：外部接口文件（External Interface File）
@@ -1352,7 +1368,9 @@
 * EMSW：电磁频谱战（Electromagnetic Spectrum Warfare）
 * EMTD：集成式移动目标防御（Ensembles of Moving Target Defenses）
 * EN：欧洲标准（European Norm）
+* eNB：eNodeB基站（evolved Node B）
 * ENISA：欧洲网络与信息安全局（The European Union Agency for Cybersecurity）
+* eNodeB：eNodeB基站（evolved Node B）
 * ENT：软件许可模式（Entitlement Schema）
 * EO：行政令（Executive Order）
 * EO/IR：光电/红外（Electro-Optical/Infra-Red）
@@ -1824,7 +1842,7 @@
 * IAW：按照（In Accordance With）
 * IB：InfiniBand（InfiniBand）
 * IBB：初始引导块（Initial Boot Block）
-* IBC：基于身份的密码（Identity-Based Cryptography）；迭代块密码（Iterated Block Cipher）
+* IBC：迭代块密码（Iterated Block Cipher）；标识密码（Identity-Based Cryptography）
 * IBE：基于身份的加密（Identity-Based Encryption）
 * IBM：国际商业机器公司（International Business Machines Corporation）
 * IBoE：以太网上的InfiniBand（InfiniBand over Ethernet）
@@ -2095,6 +2113,7 @@
 * JADN：JSON抽象数据标记（JSON Abstract Data Notation）
 * JADO：联合全域作战（Joint All-Domain Operations）
 * JAIC：联合人工智能中心（Joint Artificial Intelligence Center）
+* JAOC：联合空中作战中心（Joint Air Operations Center）
 * JARM：JARM指纹探测（John, Andrew, RJ & Mike）
 * JCAP：联合通用访问平台（Joint Common Access Program）
 * JCC2：联合网络指挥控制（Joint Cyber Command & Control）
@@ -2109,6 +2128,8 @@
 * JDIICS：联合DII控制系统（Joint DII Control Systems）
 * JDWP：Java调试线协议（Java Debug Wire Protocol）
 * JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
+* JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
+* JFC：联合部队指挥官（Joint Force Commander）
 * JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
 * JFFS：日志快闪文件系统（Journaling Flash File System）
 * JFHQ：联合部队总部（JFHQ）
@@ -2289,6 +2310,7 @@
 * LTO：链接时优化（Link Time Optimization）
 * LUA：最小权限用户账户（Least-privileged User Account）
 * LUOV：UOV提升架构（Lifted Unbalanced Oil and Vinegar cryptosystem）
+* LVC：实时虚拟构造性（Live Virtual Constructive）
 * LWE：带误差的学习（Learning With Errors）
 * LWR：带舍入学习问题（Learning With Rounding）
 
@@ -2301,7 +2323,9 @@
 * MAC：介质访问控制（Media Access Control）；消息认证码（Message Authentication Code）；强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）
 * MAE：任务保障工程（Mission Assurance Engineering）
 * MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
+* MAF：机动飞行部队（Mobility Air Forces）
 * MAID：大规模非活动磁盘阵列（Massive Array Of Inactive Disk）
+* MAJCOM：大型空军司令部（Major Air Command）
 * MAM：移动应用管理（Mobile Application Management）；移动访问管理（Mobile Access Management）
 * MAN：城域网（Metropolitan Area Network）
 * MANET：移动自组织网络（Mobile Ad-hoc Network）
@@ -2858,9 +2882,11 @@
 * OT&E：运行测试与评估（Operational Test & Evaluation）
 * OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
 * OTE：不经意传输扩展（Oblivious Transfer Extension）
+* OTI：作战训练基础设施（Operational Training Infrastructure）
 * OTN：光传送网（Optical Transport Network）
 * OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
 * OTR：无记录消息协议（Off-the-Record messaging）
+* OTTI：作战测试和训练基础设施（Operational Test & Training Infrastructure）
 * OTX：开放威胁交换（Open Threat Exchange）
 * OU：组织单位（Organization Unit）
 * OUI：组织唯一标识符（Organizationally Unique Identifier）
@@ -2888,6 +2914,7 @@
 * PaaS：平台即服务（Platform As A Service）
 * PABX：专用自动小交换机（Private Automatic Branch eXchange）
 * PAC：权限属性证书（Privilege Attribute Certificate）；代理自动配置（Proxy Auto-Config）；态势属性收集（Posture Attribute Collection）；可编程自动化控制器（Programmable Automation Controller）；指针身份验证代码（Pointer Authentication Code）；大概率近似正确（Probably Approximately Correct）
+* PACAF：美国太平洋空军司令部（Pacific Air Forces）
 * PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
 * PAD：伪现攻击检测（Presentation Attack Detection）
 * PAG：特权访问治理（Privileged Access Governance）
@@ -3353,7 +3380,7 @@
 * SAFER：安全快速加密例程（Secure And Fast Encryption Routine）
 * SAG：服务账号治理（Service Account Governance）；安全应用网关（Secure Application Gateway）；安全接入网关（Secure Access Gateway）
 * SAL：安全分析和日志记录（Security Analytics & Logging）
-* SAM：账户安全管理（Account Security Management）；软件资产管理（Software Asset Management）；服务感知管理器（Service Aware Manager）
+* SAM：账户安全管理（Account Security Management）；软件资产管理（Software Asset Management）；服务感知管理器（Service Aware Manager）；SAM图像分割大模型（Segment Anything Model）
 * SAMAE：系统/采购任务保障工程（System/Acquisition Mission Assurance Engineering）
 * SAML：安全断言标记语言（Security Assertion Markup Language）
 * SAMM：软件保障成熟度模型（Software Assurance Maturity Model）
@@ -3387,7 +3414,7 @@
 * SCAI：安全、控制、警报和联锁（Safety, Controls, Alarms & Interlocks）
 * SCAO：SIPRNET连接批准办公室（SIPRNET Connection Approval Office）
 * SCAP：安全内容自动化协议（Security Content Automation Protocol）
-* SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）
+* SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）；美国空军空间系统司令部（Space Systems Command）
 * SCCA：安全云计算架构（Secure Cloud Computing Architecture）
 * SCCM：软件变更与配置管理（Software Change and Configuration Management）；系统中心配置管理器（System Center Configuration Manager）
 * SCCTC：国家密码管理局商用密码检测中心（Commercial Cryptography Testing Center of State Cryptography Administration）
@@ -3415,6 +3442,7 @@
 * SCWS：智能卡Web服务器（Smart Card Web Server）
 * SD：安全数字（Secure Digital）；安全域（Security Domain）；稳定扩散模型（Stable Diffusion）
 * SD-WAN：软件定义广域网（Software Defined Wide Area Network）
+* SDA：美国空军太空发展局（Space Development Agency）
 * SDDC：软件定义数据中心（Software-Defined Data Center）
 * SDE：软件开发环境（Software Development Environment）
 * SDEI：软件委托异常接口（Software Delegated Exception Interface）
@@ -3532,6 +3560,12 @@
 * SM-DP：订阅管理器数据准备模块（Subscription Manager Data Preparation）
 * SM-DS：订阅管理器发现服务模块（Subscription Manager Discovery Service）
 * SM-SR：订阅管理器安全路由模块（Subscription Manager Secure Routing）
+* SM1：SM1对称加密算法（Shang Mi 1）
+* SM2：SM2非对称加密算法（Shang Mi 2）
+* SM3：SM3消息摘要算法（Shang Mi 3）
+* SM4：SM4对称分组密码算法（Shang Mi 4）
+* SM7：SM7对称分组密码算法（Shang Mi 7）
+* SM9：SM9标识密码算法（Shang Mi 9）
 * SMAC：软件地址访问控制（Software Memory Access Control）
 * SMAP：监管态访问保护（Supervisor Mode Access Prevention）
 * SMB：服务器消息块协议（Server Message Block）；中小企业（Small to Medium-sized Business）；标准化管理领导组（Standardization Management Board）
@@ -3604,11 +3638,14 @@
 * SPI：串行外设接口（Serial Peripheral Interface）
 * SPICE：软件过程改进的能力和测定（Software Process Improvement and Capability dEtermination）
 * SPIFFE：针对每个人的安全生产身份框架（Secure Production Identity Framework for Everyone）
+* SPINS：特殊指示（Special Instructions）
 * SPIRE：SPIFFE运行时环境（SPIFFE Runtime Environment）
 * SPL：检索处理语言（Search Processing Language）
 * SPM：安全态势管理（Security Posture Management）；安全分区管理器（Secure Partition Manager）
 * SPML：服务配置标记语言（Service Provisioning Markup Language）
 * SPN：服务主体名称（Service Principal Name）
+* SPO：系统计划办公室（System Program Office）
+* SpOC：美国空军太空作战司令部（Space Operations Command）
 * SPOF：单点故障（Single Point of Failure）
 * SPP：美国“州合作伙伴计划”（State Partnership Program）
 * SPPN：JIE特种用途处理节点（Special Purpose Processing Node）
@@ -3683,6 +3720,7 @@
 * ST：服务票据（Service Ticket）；安全目标（Security Target）
 * STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）；潜伏威胁探针（Stealth Threat Analysis）；系统威胁评估（System Threat Assessment）
 * Standard：标准制定组织（Setting Organization）
+* STARCOM：美国空军太空训练和准备司令部（Space Training and Readiness Command）
 * STCU：安全充电计费控制单元（Secure Telematics Control Unit）
 * STD：互联网标准（Internet Standard）
 * STDM：统计时分多路复用（Statistical Time-Division Multiplexing）
@@ -3747,6 +3785,7 @@
 * TAC：跟踪区码（Tracking Area Code）；类型分配码（Type Allocation Code）；威胁分析中心（Threat Analysis Center）
 * TAC-D：绿盟网络高级威胁检测系统（Threat Analysis Center - Detection）
 * TACACS：终端访问控制器访问控制系统（Terminal Access Controller Access Control System）
+* TACS：剧场空中控制系统（Theater Air Control System）
 * TAEP：三元认证可扩展协议（Tri-element Authentication Extensible Protocol）
 * TAFIM：信息管理技术架构框架（Technical Architecture Framework for Information Management）
 * TAG：威胁分析团队（Threat Analysis Group）；技术咨询组（Technical Advisory Group）
@@ -4001,6 +4040,8 @@
 * URPF：单播逆向路径转发（Unicast Reverse Path Forwarding）
 * US2QC：DARPA待开发实用规模量子计算系统项目（Underexplored Systems for Utility-Scale Quantum Computing）
 * USAF：美国空军部（U.S. Department Air Force）
+* USAFA：美国空军学院（United States Air Force Academy）
+* USAFE：美国空军欧洲司令部（United States Air Forces in Europe）
 * USB：通用串行总线（Universal Serial Bus）
 * USC：美国法典（United States Code）
 * USCERT：美国计算机应急响应中心（United States Computer Emergency Readiness Team）
@@ -4013,7 +4054,9 @@
 * USGCB：美国政府配置基线（United States Government Configuration Baseline）
 * USIM：通用用户身份模块（Universal Subscriber Identity Module）
 * USL：统一系统语言（Universal systems language）
-* USN：更新序列号（Update Sequence Number）
+* USMC：美国海军陆战队（U.S. Marine Corps）
+* USMTF：美国标准消息文本格式（United States Message Text Format）
+* USN：更新序列号（Update Sequence Number）；美国海军（U.S. Navy）
 * USSTRATCOM：美军战略司令部（U.S. Strategic Command）
 * UTC：协调世界时（Coordinated Universal Time）
 * UTM：统一威胁管理（Unified Threat Management）
@@ -4262,6 +4305,7 @@
 * ZTMM：零信任成熟度模型（Zero Trust Maturity Model）
 * ZTNA：零信任网络访问（Zero Trust Network Access）
 * ZTP：零接触配置（Zero Touch Provisioning）
+* ZUC：祖冲之密码（Zu Chongzhi）
 
 
 ## 0-9
