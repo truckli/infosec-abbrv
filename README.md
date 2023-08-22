@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4198**条，词组**5188**条。 
+当前收录缩略词形**4199**条，词组**5189**条。 
 
 
 
@@ -1828,6 +1828,7 @@
 * IAL：身份确保级（Identity Assurance Level）
 * IAM：身份与访问管理（Identity & Access Management）
 * IANA：互联网数字分配机构（The Internet Assigned Numbers Authority）
+* IAP：互联网接入点（Internet Access Point）
 * IAPWG：信息保障政策工作组（Information Assurance Policy Working Group）
 * IARPA：美国情报高级研究计划局（Intelligence Advanced Research Projects Activity）
 * IASE：信息保障支持环境（Information Assurance Support Environment）
