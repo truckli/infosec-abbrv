@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4222**条，词组**5224**条。 
+当前收录缩略词形**4269**条，词组**5296**条。 
 
 
 
@@ -50,6 +50,7 @@
 * ABS：电子防抱死刹车系统（Anti-lock Braking System）
 * AC：访问控制（Access Control）；上网行为管理（Access Control）；应用接入数据中心（Application Center）；攻击复杂度（Attack Complexity）；附加电路（Attachment Circuit）；鉴别码（Authenticated Code）；资产类别（Asset Class）
 * AC-RAM：鉴别码内存（Authenticated Code Random Access Memory）
+* ACA：不良网络空间活动（Adverse Cyberspace Activities）
 * ACC：应用指令中心（Application Command Center）；空中作战司令部（Air Combat Command）
 * ACC-RI：美国陆军采购司令部罗克岛（Army Contracting Command-Rock Island）
 * ACD：主动网络防御（Active Cyber Defense）
@@ -76,6 +77,7 @@
 * ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
 * ADBOS：绿盟流量清洗业务运营系统（Anti Distributed Denial-of-Service Business Operation System）
 * ADC：应用交付控制器（Application Delivery Controller）
+* ADCON：行政控制权（Administrative Control）
 * ADconf：ADconf安全大会（Attack & Defense Conference）
 * ADCS：活动目录证书服务（Active Directory Certificate Service）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
@@ -102,8 +104,10 @@
 * AFC：美国陆军未来司令部（Army Futures Command）
 * AFC4A：美国空军C4机构（Air Force C4 Agency）
 * AFCEA：美国武装部队通信与电子协会（Armed Forces Communications & Electronics Association）
+* AFDP：美国空军条令出版物（Air Force Doctrine Publication）
 * AFDW：美国空军华盛顿军区（Air Force District of Washington）
 * AFGSC：美国空军全球打击司令部（Air Force Global Strike Command）
+* AFIN：美国空军信息网络（Air Force Information Network）
 * AFISRA：美国空军情报监视侦察局（Air Force Intelligence, Surveillance & Reconnaissance Agency）
 * AFIWC：美国空军信息战中心（Air Force Information Warfare Center）
 * AFLCMC：美国空军生命周期管理中心（Air Force Life Cycle Management Center）
@@ -176,6 +180,7 @@
 * ANAB：ANSI国家认可委员会（ANSI National Accreditation Board）
 * ANATEL：巴西国家电信管理局（葡萄牙语：Agência Nacional de Telecomunicações）
 * ANC：自适应网络控制（Adaptive Network Control）
+* ANG：美国空军国民警卫队（Air National Guard）
 * ANL：美国阿贡国家实验室（Argonne National Laboratory）
 * ANN：人工神经网络（Artificial Neural Network）；近似近邻（Approximate Nearest Neighbor）
 * ANS：美国国家标准（American National Standard）
@@ -184,7 +189,7 @@
 * ANSSI：法国国家网络和信息安全局（法语：Agence Nationale de la Sécurité des Systèmes d'Information）
 * ANT：NSA先进网络技术武器（Advanced Network Technology）
 * AO：授权官（Authorizing Official）
-* AOC：美国空军运营中心（Air Operations Center）
+* AOC：美国空军作战中心（Air Operations Center）
 * AOC-WS：美国空军运营中心武器系统（Air Operations Center Weapon System）
 * AODR：授权官指定代表（Authorizing Official Designated Representative）
 * AOP：面向切面编程（Aspect-Oriented Programming）；面向代理编程（Agent-Oriented Programming）
@@ -387,6 +392,7 @@
 * C&S：控制和状态（Control & Status）
 * C-CCSK：中国区云计算安全知识认证（China - Certificate of Cloud Security Knowledge）
 * C-CCSSP：中国区国际注册云安全系统认证专家（China - Certified Cloud Security Systems Professional）
+* C-OPE：网络空间行动环境准备（Cyberspace Operational Preparation of Environment）
 * C-SCRM：网络供应链风险管理（Cyber Supply Chain Risk Management）
 * C-SOC：定制化安全运营中心（Customized Security Operations Center）
 * C-V2X：蜂窝车联网（Cellular Vehicle-to-everything）
@@ -484,6 +490,7 @@
 * CCDC：美国陆军作战能力开发司令部（U.S. Army Combat Capabilities Development Command）
 * CCDCOE：协作网络防御卓越中心（Cooperative Cyber Defence Centre of Excellence）
 * CCDE：思科认证设计专家（Cisco Certified Design Expert）
+* CCDR：作战司令官（Combatant CommanDeR）
 * CCE：通用配置枚举（Common Configuration Enumeration）
 * CCEVS：通用准则评价确认项目（Common Criteria Evaluation and Validation Scheme）
 * CCF：中国计算机学会（China Computer Federation）；CAPIF 核心功能（CAPIF Core Function）
@@ -500,6 +507,7 @@
 * CCM：CBC-MAC计数器模态（Counter with Cipher block chaining Message authentication code）；通信协处理器模块（Communications Coprocessor Module）；云安全控制矩阵（Cloud Controls Matrix）
 * CCMB：通用准则维护组（Common Criteria Maintenance Board）
 * CCMD：作战司令部（Combatant Command）
+* CCMF：美军网络战斗任务部队（Cyber Combat Mission Force）
 * CCN：以内容为中心的网络（Content Centric Networking）；西班牙国家密码中心（西班牙语：Centro Criptológico Nacional）
 * CCNA：中国计算机大会（China National Computer Conference）；思科认证网络工程师（Cisco Certified Network Associate）
 * CCNP：思科认证网络专业人员（Cisco Certified Network Professional）
@@ -608,6 +616,7 @@
 * CHESS：DARPA人机协作探索软件安全项目（Computers & Humans Exploring Software Security）
 * CHIPS：美国创造有益激励生产半导体法案（Creating Helpful Incentives to Produce Semiconductors）
 * CI：关键基础设施（Critical Infrastructures）；反情报（Counter Intelligence）；配置项（Configuration Item）；基站小区标识（Cell Identifier）；持续集成（Continuous Integration）；融合基础设施（Converged Infrastructure）
+* CI/KR：关键基础设施与重点资源（Critical Infrastructure & Key Resources）
 * CIA：保密性、完整性和可用性（Confidentiality, Integrity & Availability）；美国中央情报局（Central Intelligence Agency）；刑侦分析（Criminal Investigative Analysis）
 * CiaB：CiaB解决方案（Cloud-in-a-Box）
 * CIAC：计算机事件咨询能力（Computer Incident Advisory Capability）
@@ -707,7 +716,7 @@
 * CMP：证书管理协议（Certificate Management Protocol）
 * CMS：密码消息语法（Cryptographic Message Syntax）；配置管理系统（Configuration Management System）；内容管理系统（Content Management System）；FireEye中央管理系统（Central Management System）
 * CMSS：云托管安全服务（Cloud Managed Security Service）
-* CMT：时序默克尔树（Chronological Merkle Tree）
+* CMT：时序默克尔树（Chronological Merkle Tree）；美军作战任务部队（Combat Mission Team）
 * CMU：卡耐基梅陇大学（Carnegie Mellon University）
 * CMVP：NIST密码模块验证项目（Cryptographic Module Validation Program）
 * CN：核心网（Core Network）；通用名（Common Name）
@@ -743,6 +752,7 @@
 * CNVD：国家信息安全漏洞共享平台（China National Vulnerability Database）
 * CNVDB：通用网络产品安全漏洞专业库（Common Network-product Vulnerabiliy DataBase）
 * CNW：CSIRT网络（CSIRT NetWork）
+* CO-IPE：网络空间行动综合规划单位（Cyberspace Operations Integrated Planning Element）
 * CoA：行动措施（Course of Action）
 * COBIT：信息与技术控制目标框架（Control Objectives for Information & related Technologies）
 * COBRA：网络行动广泛响应协议（Cyber Operations Broad Responsive Agreement）
@@ -782,6 +792,7 @@
 * CPB：单字节运算时间（Cycles Per Byte）
 * CPCE：指挥所计算环境（Command Post Computing Environment）
 * CPE：客户现场设备（Customer Premise Equipment）；通用平台枚举（Common Platform Enumeration）；持续专业教育（Continuous Professional Education）
+* CPF：网络保护部队（Cyber Protection Force）
 * CPI：代码指针完整性（Code-Pointer Integrity）；持续过程提升（Continuous Process Improvement）；关键程序信息（Critical Program Information）
 * CPL：请求特权等级（Current Privilege Level）
 * CPM：网络安全绩效管理（Cybersecurity Performance Management）；关键路径法（Critical Path Method）
@@ -831,12 +842,12 @@
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
 * CRTV：验证信任的核心根（Core Root of Trust for Verification）
 * CRUD：增删查改（Create, Retrieve, Update, Delete）
-* CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）；代码段寄存器（Code Segment）；网络安全（Cyber Security）
+* CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）；代码段寄存器（Code Segment）；网络安全（Cyber Security）；容器服务（Container Service）
 * CS&C：美国网络安全和通信办公室（Office of Cybersecurity and Communications）
 * CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）；网络安全通报（Cyber Security Advisory）；连接标准联盟（Connectivity Standards Alliance）
 * CSAAC：网络态势感知分析能力（Cyber Situational Awareness Analytic Capabilities）
 * CSAC：中国网络空间安全协会（Cyber Security Association of China）；CISA网络安全咨询委员会（Cyber Security Advisory Committee）
-* CSAF：通用安全通报框架（Common Security Advisory Framework）
+* CSAF：通用安全通报框架（Common Security Advisory Framework）；美国空军总参谋长（Chief of Staff of the Air Force）
 * CSAP：CompTIA安全分析从业人员认证（CompTIA Security Analytics Professional）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
 * CSC：美国网络日光室委员会（Cyberspace Solarium Commission）；云安全中心（Cloud Security Center）
@@ -902,7 +913,7 @@
 * CTL：通信技术实验室（Communication Technology Laboratory）
 * CTM：Thales密码信任管家（CipherTrust Manager）
 * CTN：电话通信网络（Commutated Telephone Network）；蜂窝电话网（Cellular Telephone Network）；核心传输网（Core Transmission Network）
-* CTO：首席技术官（Chief Technology Officer）
+* CTO：首席技术官（Chief Technology Officer）；网络任务单（Cyber Tasking Order）
 * CTQ：关键质量特性（Critical To Quality）
 * CTR：计数器工作模式（CounTeR operation mode）
 * CTSA：网络威胁易感性分析（Cyber Threat Susceptibility Analysis）
@@ -949,6 +960,7 @@
 * DAC：自主访问控制模型（Discretionary Access Control）
 * DACCA：决策分析以应对网络攻击（Decision Analysis to Counter Cyber Attacks）
 * DACL：自主访问控制列表（Discretionary Access Control List）
+* DACO：网络空间行动指挥权（Directive Authority For Cyberspace Operation）
 * DAD：冗余地址检测（Duplicate Address Detection）；规范化敏捷交付框架（Disciplined Agile Delivery）
 * DAFA：美国国防机构和外勤机构（Defense Agencies and Field Activities）
 * DAG：数据访问治理（Data Access Governance）；有向无环图（Directed Acyclic Graph）；美国司法部副部长（Deputy Attorney General）
@@ -995,7 +1007,9 @@
 * DCM：授权机器凭证（Delegated Machine Credential）
 * DCMA：美国国防合同管理局（Defense Contract Management Agency）
 * DCMO：副首席管理办公室（Deputy Chief Management Office）
-* DCO：防御性网络行动（Defensive Cyber Operation）；数据合规官（Data Compliance Officer）
+* DCO：数据合规官（Data Compliance Officer）；防御性网络作战（Defensive Cyber Operation）
+* DCO-IDM：防御性网络作战-内部防御性措施（Defensive Cyber Operation - Internal Defensive Measure）
+* DCO-RA：防御性网络作战-响应行动（Defensive Cyber Operation - Response Action）
 * DCODE：防御性网络行动研发环境（Defensive Cyber Operation Development Environment）
 * DCOM：分布式组件对象模型（Distributed Component Object Model）
 * DCOMP：防御性网络行动任务计划（Defensive Cyber Operations Mission Planning）
@@ -1300,7 +1314,7 @@
 * ECN：显式拥塞通知（Explicit Congestion Notification）；电子通信网（Electronic Communication Network）；边缘计算节点（Edge Compute Node）
 * ECP：加密控制协议（Encryption Control Protocol）
 * eCPRI：增强公共无线电接口（Enhanced Common Public Radio Interface）
-* ECS：应急通信系统（Emergency Communication System）；增强式网络安全服务（Enhanced Cybersecurity Services）；弹性容器服务（Elastic Container Service）
+* ECS：应急通信系统（Emergency Communication System）；增强式网络安全服务（Enhanced Cybersecurity Services）；弹性云服务（Elastic Container Service）
 * ECSO：欧洲网络安全组织（European Cyber Security Organisation）
 * ECU：电子控制单元（Electronic Control Unit）
 * ECX：某32位寄存器代号（Extended CX）
@@ -1367,7 +1381,7 @@
 * EMM：扩展度量模块（Extended Measurement Module）；移动安全管理系统（Enterprise Mobility Management）
 * EMNLP：自然语言处理的经验方法会议（Conference on Empirical Methods in Natural Language Processing）
 * EMP：电磁脉冲（Electromagnetic Pulse）
-* EMS：电磁敏感性（Electromagnetic Susceptibility）；应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）
+* EMS：应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）；电磁敏感性（Electromagnetic Susceptibility）；电磁频谱（Electromagnetic Spectrum）
 * EMSW：电磁频谱战（Electromagnetic Spectrum Warfare）
 * EMTD：集成式移动目标防御（Ensembles of Moving Target Defenses）
 * EN：欧洲标准（European Norm）
@@ -1460,6 +1474,7 @@
 * EWSN：国际嵌入式无线系统和网络会议（International Conference on Embedded Wireless Systems and Networks）
 * EX：FireEye邮件安全产品系列（Email security）
 * EXIN：国际信息科学考试学会（Exam Institute for Information Science）
+* EXORD：行政令（EXecute ORDer）
 * EXP：漏洞利用（Exploit）
 * EXT：EXT文件系统（Extended File System）
 
@@ -1634,6 +1649,7 @@
 * GDB：GNU调试器（GNU Debugger）
 * GDI：图形设备接口（Graphics Device Interface）
 * GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
+* GDN：全球风险阻断网络（Global Disruption Network）
 * GDOI：组解释域（Group Domain of Interpretation）
 * GDP：驻军防御性网络空间作战平台（Garrison Defensive Cyberspace Operations Platform）
 * GDPR：欧盟通用数据保护条例（General Data Protection Regulation）
@@ -1667,6 +1683,7 @@
 * GNN：图神经网络（Graph Neural Network）
 * GNSS：全球导航卫星系统（Global Navigation Satellite System）
 * GNU：GNU操作系统计划（GNU's Not Unix）
+* GoIP：基于互联网协议的信号传输（GSM over Internet Protocol）
 * GOPS：每秒十亿次运算数（Giga Operations Per Second）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
 * GOT：全局偏移表（Global Offset Table）
@@ -1719,6 +1736,7 @@
 * HA：高可用（High Availability）
 * HACCS：利用自主系统对抗网络对手项目（Harnessing Autonomy for Countering Cyberadversary Systems）
 * HACMS：DARPA高保障网络军事系统项目（High-Assurance Cyber Military Systems）
+* HAF：空军总部（Headquarters Air Force）
 * HAG：高保障卫士（High Assurance Guard）
 * HAL：硬件抽象层（Hardware Abstraction Layer）
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
@@ -1901,6 +1919,7 @@
 * IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
 * IDL：接口描述语言（Interface description language）
 * IdM：身份管理（Identity Management）
+* IDM：内部防御性措施（Internal Defensive Measure）
 * IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）
 * IDN：国际化域名（Internationalized Domain Name）
 * IDO：入侵检测本体（Intrusion Detection Ontology）
@@ -1911,7 +1930,7 @@
 * IDS：入侵检测系统（Intrusion Detection System）
 * IDT：国际标准等价引入（Identical）
 * IDV：智能桌面虚拟化（Intelligent Desktop Virtualization）
-* IE：信息企业（Information Enterprise）；信息元素（Information Element）
+* IE：信息企业（Information Enterprise）；信息元素（Information Element）；信息环境（Information Environment）
 * IEA：信息企业架构（Information Enterprise Architecture）
 * IEC：国际电工协会（International Electrotechnical Commission）
 * IED：智能电子设备（Intelligent Electronic Device）
@@ -2063,6 +2082,7 @@
 * ISPIM：IBM安全特权身份管理（IBM Security Privileged Identity Manager）
 * ISPL：EXIN信息服务采购管理认证项目（Information Service Procurement Management）
 * ISR：情报、监视、侦察（Intelligence, Surveillance, Reconnaissance）
+* ISRD：情报、监视、侦察部队（Intelligence, Surveillance & Reconnaissance Division）
 * ISRM：信息安全风险管理（Information Security Risk Management）
 * ISRMC：信息安全风险管理委员会（Information Security Risk Management Committee）
 * ISS：信息安全系统（Information Security System）；互联网安全系统公司（Internet Security Systems）；国际空间站（International Space Station）
@@ -2112,6 +2132,7 @@
 * IVP：完整性验证规程（Integrity Verification Procedure）
 * IVR：交互式语音应答（Interactive Voice Response）
 * IVRS：交互式语音应答系统（Interactive Voice Response System）
+* IW：信息战（Information Warfare）
 * IW-D：信息战-防御（Information Warfare – Defensive）
 * IWA：国际工作组协议（International Workshop Agreements）
 * IWG：跨机构工作组（Interagency Working Group）
@@ -2147,6 +2168,7 @@
 * JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
 * JFFS：日志快闪文件系统（Journaling Flash File System）
 * JFHQ：联合部队总部（JFHQ）
+* JFHQ-C：分管网络领域的联合部队总部（Joint Force Headquarters-Cyber）
 * JFHQ-DoDIN：国防部信息网络联合部队司令部（Joint Force Headquarters-Department of Defense Information Network）
 * JIC：英国联合情报委员会（Joint Intelligence Committee）
 * JIE：联合信息环境（Joint Information Environment）
@@ -2159,6 +2181,7 @@
 * JNDI：Java命名和目录接口（Java Naming and Directory Interface）
 * JOP：面向跳转编程（Jump Oriented Programming）
 * JOPES：联合作战计划与执行系统（Joint Operation Planning and Execution System）
+* JP：联合出版物（Joint Publication）
 * JPCERT/CC：日本计算机应急小组协调中心（Japan Computer Emergency Response Team Coordination Center）
 * JPEG：联合照片专家组（Joint Photographic Experts Group）
 * JPES：联合计划与执行服务（Joint Planning and Execution Services）
@@ -2225,6 +2248,7 @@
 * KPT：关键保护技术（Key Protection Technology）
 * KPTI：内核页表隔离（Kernel PageTable Isolation）
 * KQL：Kusto查询语言（Kusto Query Language）；Kibana查询语言（Kibana Query Language）；关键词查询语言（Keyword Query Language）
+* KR：重点资源（Key Resources）
 * KRACK：KRACK攻击（Key Reinstallation Attacks）
 * krCERT/CC：韩国计算机应急响应团队（Korea Computer Emergency Response Team/Coordination Center）
 * KRI：关键风险指标（Key Risk Indicator）
@@ -2233,6 +2257,7 @@
 * KSG：密钥流生成器（Key Stream Generator）
 * KSK：密钥签名密钥（Key-Signing Key）
 * KSPM：Kubernetes安全态势管理（Kubernetes Security Posture Management）
+* KT-C：网络空间关键地形（Key Terrain in Cyberspace）
 * KVM：基于内核的虚拟机（Kernel-based Virtual Machine）
 * KYC：实名身份认证（Know Your Customer）
 
@@ -2263,7 +2288,7 @@
 * LDDT：逻辑数据库设计技术（Logical Database Design Technique）
 * LDT：本地描述符表（Local Descriptor Table）
 * LDTR：本地描述符表寄存器（Local Descriptor Table Register）
-* LE：执法（Law Enforcement）
+* LE：执法（Law Enforcement）；低功耗（Low Energy）
 * LE/CI：执法与反情报（Law Enforcement & Counterintelligence）
 * LEA：执法机构（Law Enforcement Agency）
 * LEAF：执法访问区段（Law Enforcement Access Field）
@@ -2381,6 +2406,7 @@
 * MDO：多域作战（Multi-Domain Operation）
 * MDR：托管式检测与响应（Managed Detection & Response）
 * MDS：微架构数据采样（Microarchitectural Data Sampling）
+* MDT：任务防御部队（Mission Defense Team）
 * ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
 * MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
 * MEC：移动边缘计算（Mobile Edge Computing）
@@ -2448,12 +2474,13 @@
 * MODAF：英国国防部架构框架（British Ministry of Defence Architecture Framework）
 * ModelOps：模型运营（Model Operations）
 * MODEM：调制解调器（Modulator-Demodulator）
-* MOE：任务操作环境（Mission Operating Environment）
+* MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
 * MoE：专家混合模型（Mixture-of-Experts）
 * MOF：元对象工具（Meta-Object Facility）
 * MOIE：面向任务的调查与实验（Mission-Oriented Investigation & Experimentation）
 * MOK：设备所有者密钥（Machine Owner Key）
 * MOM：动机、机会和手段（Motive, Opportunity and Means）；面向消息的中间件（Message-Oriented Middleware）
+* MOP：绩效度量指标（Measures of Performance）
 * MOPS：每秒百万次运算数（Million Operations Per Second）
 * MORDA：面向任务的风险与设计分析（Mission Oriented Risk & Design Analysis）
 * MOSA：模块化开放系统方法（Modular Open Systems Approach）
@@ -2665,7 +2692,7 @@
 * NIS-CG：欧盟网络信息系统协作组（Network & Information Systems Cooperation Group）
 * NISCC：英国国家基础设施安全协调中心（National Infrastructure Security Coordination Centre）
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
-* NISP：美国国家工业安全计划（National Industrial Security Program）
+* NISP：美国国家工业安全计划（National Industrial Security Program）；国家信息安全水平证书（National Information Security Test Program）
 * NISPOM：国家工业安全计划操作手册（National Industrial Security Program Operating Manual）
 * NISS：绿盟综合安全系统（NSFOCUS Integrated Security System）
 * NIST：美国国家标准技术研究院（National Institute of Standards & Technology）
@@ -2677,7 +2704,9 @@
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
 * NMF：国家任务部队（National Mission Force）
-* NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）
+* NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）；美国国家军事战略（National Military Strategy）
+* NMS-CO：美国国家网络作战军事战略（National Military Strategy for Cyberspace Operations）
+* NMT：美军国家任务部队（National Mission Team）
 * NNI：网络到网络接口（Network-to-Network Interface）
 * NNM：Nessus网络监视器（Nessus Network Monitor）
 * NNTP：网络新闻传输协议（Network News Transport Protocol）
@@ -2693,6 +2722,7 @@
 * NPC：诺基亚策略控制器（Nokia Policy Controller）；NP完全问题（Non-deterministic Polynomial-Complete）；非玩家角色（Non-Player Character）
 * NPCI：印度国家支付公司（National Payments Corporation of India）
 * NPE：非人实体（Non-Person Entity）
+* NPF：网络协议指纹（Network Protocol Fingerprinting）
 * NPIVP：NIST个人身份验证确认项目（NIST Personal Identity Verification Validation Program）
 * npm：Node.js包管理器（Node Package Manager）
 * NPPD：美国CISA前身，原国家保护和计划司（National Protection and Programs Directorate）
@@ -2833,6 +2863,7 @@
 * OICI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
 * OID：对象标识符（Object Identifier）
 * OIDC：OpenID连接（OpenID Connect）
+* OIE：信息环境作战（Operations in the Information Environment）
 * OIG：监察长办公室（Office of the Inspector General）
 * OIS：互联网安全组织（Organization for Internet Safety）
 * OKF：开放知识基金会（Open Knowledge Foundation）
@@ -2875,6 +2906,7 @@
 * ORB：对象请求代理（Object Request Broker）
 * ORM：对象关系映射（Object Relational Mapping）
 * ORNL：美国橡树岭国家实验室（OakRidge National Laboratory）
+* ORW：打开，读，写（Open, Read & Write）
 * OS：操作系统（Operating System）；编排服务（Orchestration Services）
 * OSA：开放系统鉴别（Open System Authentication）
 * OSC：商业航天办公室（Office of Space Commercialization）
@@ -2902,6 +2934,7 @@
 * OTN：光传送网（Optical Transport Network）
 * OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
 * OTR：无记录消息协议（Off-the-Record messaging）
+* OTS：阿里云Table Store服务（Open Table Service）
 * OTTI：作战测试和训练基础设施（Operational Test & Training Infrastructure）
 * OTX：开放威胁交换（Open Threat Exchange）
 * OU：组织单位（Organization Unit）
@@ -2990,7 +3023,7 @@
 * PDF：可移植的文档格（Portable Document Format）
 * PDG：程序依赖图（Program Dependence Graph）
 * PdM：产品经理（Product Manager）
-* PDP：策略决策点（Policy Decision Point）；策略定义点（Policy Definition Point）
+* PDP：策略决策点（Policy Decision Point）；策略定义点（Policy Definition Point）；产品规划（ProDuct Planning）
 * PDR：防护、检测、响应（Protection, Detection & Response）；初步设计审查（Preliminary Design Review）
 * PDRR：防护、检测、响应、恢复（Protection,Detection,Reaction & Recovery）
 * PDS：策略决策服务（Policy Decision Service）
@@ -3009,6 +3042,7 @@
 * PEP：策略执行点（Policy Enforcement Point）
 * PEPS：被动进入被动启动（Passive Entry Passive Start）
 * PERA：Purdue企业参考体系结构（Purdue Enterprise Reference Architecture）
+* PERM：效能管理（PERformance Management）
 * PERT：计划评审技术（Program Evaluation & Review Technique）
 * PES：态势评价服务（Posture Evaluation Service）；DoDAF物理交换规范（Physical Exchange Specification）；IEEE电力与能源协会（IEEE Power & Energy Society）
 * PEST：宏观环境的分析（Politics, Economy, Society, Technology）
@@ -3038,12 +3072,13 @@
 * PIE：位置独立可执行文件（Position Independent Executable）
 * PIEE：采购综合企业环境（Procurement Integrated Enterprise Environment）
 * PIFS：PCF跨帧空间（Point Coordination Function Interframe Space）
-* PII：个人身份信息（Personally Identifiable Information）
+* PII：个人身份信息（Personally Identifiable Information）；过程改进基础设施（Process Improvement Infrastructure）
 * PIK：平台身份密钥（Platform Identity Key）
 * PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
 * PIN：个人标识码（Personal Identification Number）
 * PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
 * PIPA：个人信息保护法案（Personal Information Protection Act）
+* PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
 * PIPL：个人信息保护法（the Personal Information Protection Law）
 * PIR：隐私信息检索（Private Information Retrieval）
 * PIRT：有目的干扰响应团队（Purposeful Interference Response Team）
@@ -3119,6 +3154,7 @@
 * PPSM：端口、协议与服务管理（Ports, Protocols & Services Management）
 * PPT：人、流程、技术（People，Processes & Technology）
 * PPTP：点对点隧道协议（Point-to-Point Tunneling Protocol）
+* PQA：过程质量保证（Process Quality Assurance）
 * PQC：后量子密码术（Post-Quantum Cryptography）
 * PQKE：后量子密钥交换（Post-Quantum Key Exchange）
 * PR：所需权限（Privileges Required）；拉取请求（Pull Request）；PageRank网页分（PageRank）；公共关系（Public Relations）；保护（Protect）
@@ -3132,6 +3168,7 @@
 * PRINCE2：受控环境项目管理方法（PRojects IN Controlled Environments）
 * PRNG：伪随机数生成器（Pseudo-Random Number Generator）
 * PROC：规程（Procedure）
+* PROM：过程管理（PROcess Management）
 * PRoT：平台信任根（Platform Root of Trust）
 * PRP：伪随机排列（Pseudo Random Permutation）；策略取回点（Policy Retrieval Point）；并行冗余协议（Parallel Redundancy Protocol）
 * pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
@@ -3260,7 +3297,7 @@
 * RDN：相对可辨识名称（Relative Distinguished Name）
 * RDP：远程桌面协议（Remote Desktop Protocol）
 * RDR：风险详细记录（Risk detail records）
-* RDS：远程桌面服务（Remote Desktop Service）；远程桌面服务器（Remote Desktop Server）
+* RDS：远程桌面服务（Remote Desktop Service）；远程桌面服务器（Remote Desktop Server）；关系型数据库服务（Relational Database Service）
 * RDT&E：研究、开发、测试与评估（Research, Development, Test & Evaluation）
 * RDX：某64位寄存器代号（Register D eXtended）
 * RE：正则表达式（Regular Expressions）
@@ -3296,7 +3333,7 @@
 * RME：域管理扩展（Realm Management Extension）
 * RMF：风险管理框架（Risk Management Framework）
 * RML：鲁棒机器学习（Robust Machine Learning）
-* RMM：风险成熟度模型（Risk Maturity Model）；弹性管理模型（Resilience Management Model）
+* RMM：风险成熟度模型（Risk Maturity Model）；弹性管理模型（Resilience Management Model）；远程监控与管理（Remote Monitoring & Management）
 * RMON：远程网络监控（Remote Network Monitoring）
 * RMP：风险管理过程（Risk Management Process）
 * RMPF：远程内存保护功能（Remote Memory Protection Function）
@@ -3310,7 +3347,7 @@
 * RODC：只读域控（Read-Only Domain Controller）
 * ROE：交手规则（Rules of Engagement）
 * ROI：产投比（Return On Investment）
-* ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）
+* ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
 * ROP：面向返回编程（Return Oriented Programming）
 * ROSC：区域运营与安全中心（Regional Operations & Security Center）
 * ROSE：远程操作服务元素（Remote Operations Service Element）
@@ -3322,6 +3359,7 @@
 * RPL：请求特权等级（Requested Privilege Level）
 * RPM：远程患者监控（Remote Patient Monitoring）
 * RPO：恢复点目标（Recovery Point Objective）；CMMC注册从业机构（CMMC Registered Practitioner Organization）
+* RQE：需求工程（ReQuirement Engineering）
 * RR：DNS资源记录（Resource Records）
 * RRA：勒索软件战备评估（Ransomware Readiness Assessment）
 * RRAM：可变电阻式存储器（Resistive Random-Access Memory）
@@ -3367,6 +3405,8 @@
 * RVWP：勒索软件漏洞预警试点项目（Ransomware Vulnerability Warning Pilot）
 * RW：读写（Read/Write）
 * RWX：读/写/执行（Read/Write/Execute）
+* RX：接收端（Receive）
+* RXD：数据接收端（Receive Data）
 
 
 ## S
@@ -3426,13 +3466,13 @@
 * SBI：基于服务的接口（Service Based Interface）
 * SBOM：软件物料清单（Software Bill of Materials）
 * SBU：敏感非涉密（Sensitive But Unclassified）；乌克兰国家安全局（乌克兰语拉丁化：Sluzhba Bezpeky Ukrayiny）；战略业务单元（Strategic Business Unit）
-* SC：子委员会（subcommittee）；服务端证书（Server Certificate）；安全分类（Security Categorization）；系统与通信保护（System & Communications Protection）
+* SC：子委员会（subcommittee）；服务端证书（Server Certificate）；安全分类（Security Categorization）；系统与通信保护（System & Communications Protection）；服务连续性（Service Continuity）
 * SCA：软件成分分析（Software Composition Analysis）；侧信道攻击（Side Channel Attack）；国家密码管理局（State Cryptography Administration）；强客户身份验证（Strong Customer Authentication）
 * SCADA：工业用的数据采集与监控系统（Supervisory Control And Data Acquisition）
 * SCAI：安全、控制、警报和联锁（Safety, Controls, Alarms & Interlocks）
 * SCAO：SIPRNET连接批准办公室（SIPRNET Connection Approval Office）
 * SCAP：安全内容自动化协议（Security Content Automation Protocol）
-* SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）；美国空军空间系统司令部（Space Systems Command）
+* SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）；美国空军空间系统司令部（Space Systems Command）；密码服务部队（Service Cryptologic Component）；网空服务部队（Service Cyberspace Component）
 * SCCA：安全云计算架构（Secure Cloud Computing Architecture）
 * SCCM：软件变更与配置管理（Software Change and Configuration Management）；系统中心配置管理器（System Center Configuration Manager）
 * SCCTC：国家密码管理局商用密码检测中心（Commercial Cryptography Testing Center of State Cryptography Administration）
@@ -3458,7 +3498,7 @@
 * SCT：签名证书时间戳（Signed Certificate Timestamp）
 * SCuBA：安全云业务应用（Secure Cloud Business Applications）
 * SCWS：智能卡Web服务器（Smart Card Web Server）
-* SD：安全数字（Secure Digital）；安全域（Security Domain）；稳定扩散模型（Stable Diffusion）
+* SD：安全数字（Secure Digital）；安全域（Security Domain）；稳定扩散模型（Stable Diffusion）；服务交付（Service Delivery）
 * SD-WAN：软件定义广域网（Software Defined Wide Area Network）
 * SDA：美国空军太空发展局（Space Development Agency）
 * SDDC：软件定义数据中心（Software-Defined Data Center）
@@ -3488,6 +3528,7 @@
 * SEAL：微软简单加密算法库（Simple Encrypted Arithmetic Library）
 * SEC：美国证券交易委员会（United States Securities and Exchange Commission）
 * SECaaS：安全即服务（Security as a Service）
+* SECAF：美国空军部长（Secretary of the Air Force）
 * SecCM：安全配置管理（Security Configuration Management）
 * seccomp：Linux安全计算模态（secure computing）
 * SecL-DC：数据中心安全库（Security Libraries for Data Center）
@@ -3575,7 +3616,7 @@
 * SLSA：软件工件供应链级别（Supply chain Levels for Software Artifacts）
 * SLTPS：州、地方、部落和私营部门（State, Local, Tribal, and Private Sector）
 * SLTT：州、地方、部落及领地（State, Local, Tribal, and Territorial）
-* SM：商用密码（拼音：Shang Mi）；系统管理（Systems Management）；安全措施（Security Measure）
+* SM：商用密码（拼音：Shang Mi）；系统管理（Systems Management）；安全措施（Security Measure）；供方管理（Supplier Management）
 * SM-DP：订阅管理器数据准备模块（Subscription Manager Data Preparation）
 * SM-DS：订阅管理器发现服务模块（Subscription Manager Discovery Service）
 * SM-SR：订阅管理器安全路由模块（Subscription Manager Secure Routing）
@@ -3692,6 +3733,7 @@
 * SRMA：行业风险管理机构（Sector Risk Management Agencies）
 * SRMNI："安全与弹性移动网络基础设施"计划（Secure & Resilient Mobile Network Infrastructure）
 * SRO：STIX关系对象（STIX Relationship Object）
+* SROP：面向Sigreturn编程（Sigreturn Oriented Programming）
 * SRP：安全远程口令协议（Secure Remote Password）；安全响应平台（Security Response Platform）；软件限制策略（Software Restriction Policies）
 * SRS：安全评级服务（Security Rating Service）；软件需求规格（Software Requirement Specification）
 * SRT：服务器响应时间（Server Response Time）
@@ -3726,7 +3768,7 @@
 * SSO：单点登录（Single Sign On）
 * SSOIS：信息系统安全子系统（Security Subsystem Of Information System）
 * SSOR：记录源系统（Source System Of Records）
-* SSP：敏感安全参数（Sensitive Security Parameter）；安全支持提供方（Security Support Providers）；SSOIS安全策略（SSOIS Security Policy）；行业特定计划（Sector-Specific Plan）；系统安全计划（System Security Plan）；软件栈保护（Software Stack Proctection）；安全简单配对（Secure Simple Pairing）
+* SSP：敏感安全参数（Sensitive Security Parameter）；安全支持提供方（Security Support Providers）；SSOIS安全策略（SSOIS Security Policy）；行业特定计划（Sector-Specific Plan）；系统安全计划（System Security Plan）；软件栈保护（Software Stack Proctection）；安全简单配对（Secure Simple Pairing）；战略服务规划（Strategic Service Planning）
 * SSPI：安全支持提供方接口（Security Support Provider Interface）
 * SSPM：SaaS安全配置管理（SaaS Security Posture Management）
 * SSPP：变电站串行保护协议（Substation Serial Protection Protocol）
@@ -3754,9 +3796,9 @@
 * STIX：结构化威胁信息表达式（Structured Threat Information Expression）
 * STK：短期密钥（Short Term Key）
 * STO：隐匿式安全（Security Through Obscurity）
-* STP：生成树协议（Tree Spanning Protocol）；屏蔽双绞线（Shielded Twisted Pair）
+* STP：生成树协议（Tree Spanning Protocol）；屏蔽双绞线（Shielded Twisted Pair）；系统与工具规划（Systems & Tools Planning）
 * STRIDE：仿冒、篡改、抵赖、信息泄露、拒绝服务、提权（Spoofing, Tampering, Repudiation, Information disclosure, Denial of service & Elevation of privilege）
-* STS：安全令牌服务（Security Token Service）
+* STS：安全令牌服务（Security Token Service）；系统与工具支持（Systems & Tools Supporting）
 * STT：透明式安全（Security Through Transparency）；语音转文本（Speech-to-Text）
 * STUCCO：基于上下文观察关联的态势和威胁理解（Situation & Threat Understanding by Correlating Contextual Observations）
 * STUN：用于NAT的会话遍历实用程序（Session Traversal Utilities for NAT）
@@ -3773,6 +3815,7 @@
 * SV：安全漏洞（Security Vulnerability）；安全验证（Security Verification）；安全确认（Security Validation）；DoDAF系统视角（System Viewpoint）
 * SVC：交换式虚电路（Switched Virtual Circuit）
 * SVCD：超级视频光盘（Super Video CD）
+* SVCM：服务监控（SerViCe Monitoring）
 * SvcV：DoDAF服务视角（Services Viewpoint）
 * SVID：SPIFFE可验证身份文档（SPIFFE Verifiable Identity Document）
 * SVIP：硅谷创新计划（Silicon Valley Innovation Program）
@@ -3855,7 +3898,7 @@
 * TDSC：IEEE可靠性与安全计算期刊（IEEE Transactions on Dependable and Secure Computing）
 * TDT：威胁检测技术（Threat Detection Technology）
 * TDX：英特尔信任域扩展（Trust Domain Extensions）
-* TE：类型强制（Type Enforcement）
+* TE：类型强制（Type Enforcement）；测试（TEst）
 * TEB：线程环境块（Thread Environment Block）
 * TECHINT：科技情报（Technical Intelligence）
 * TEE：可信执行环境（Trusted Execution Environment）
@@ -3967,7 +4010,7 @@
 * TTA：TAXII传输代理（TAXII Transfer Agent）
 * TTC：美欧贸易与技术委员会（Transatlantic Trade and Technology Council）
 * TTE：时间触发以太网（Time Triggered Ethernet）
-* TTL：生存时间（Time To Live）
+* TTL：生存时间（Time To Live）；晶体管-晶体管逻辑电平（Transistor-Transistor Logic）
 * TTP：战术、技术和过程（Tactics, Techniques & Procedures）；可信第三方（Trusted Third Party）
 * TTS：文本转语音（Text-to-Speech）
 * TTX：桌面练习（TableTop eXercises）
@@ -3976,6 +4019,8 @@
 * TVF：表值函数（Table-Valued Function）
 * TVM：威胁和漏洞管理平台（Threat & Vulnerability Management）
 * TwC：微软可靠计算计划（Trustworthy Computing）
+* TX：发送端（Transmit）
+* TXD：数据发送端（Transmit Data）
 * TXT：可信执行技术（Trusted eXecution Technology）；DNS文本资源记录（text）
 
 
@@ -4078,6 +4123,7 @@
 * USMC：美国海军陆战队（U.S. Marine Corps）
 * USMTF：美国标准消息文本格式（United States Message Text Format）
 * USN：更新序列号（Update Sequence Number）；美国海军（U.S. Navy）
+* USSOCOM：美军特别行动司令部（US Special Operations Command）
 * USSTRATCOM：美军战略司令部（U.S. Strategic Command）
 * UTC：协调世界时（Coordinated Universal Time）
 * UTM：统一威胁管理（Unified Threat Management）
@@ -4258,6 +4304,7 @@
 * WRT：工作恢复时间（Work Recovery Time）
 * WS：WebSocket（WebSocket）；Web服务（Web Service）
 * WSDL：Web服务描述语言（Web Services Description Language）
+* WSGI：Web服务器网关接口（Web Server Gateway Interface）
 * WSL：Windows的Linux子系统（Windows Subsystem for Linux）
 * WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
 * WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
