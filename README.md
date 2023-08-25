@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4269**条，词组**5296**条。 
+当前收录缩略词形**4276**条，词组**5308**条。 
 
 
 
@@ -58,15 +58,16 @@
 * ACG：应用控制网关（Application Control Gateway）
 * ACI：航空网络计划（Aviation Cyber Initiative）；西点军校网络研究院（Army Cyber Institute at West Point）
 * ACID：原子性、一致性、隔离性、持久性（Atomicity, Consistency, Isolation & Durability）
-* ACK：确认标志（Acknowledge flag）
+* ACK：确认标志（Acknowledge flag）；阿里云容器服务Kubernetes版（Aliyun Container Service for Kubernetes）
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）
 * ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
+* ACR：阿里云容器镜像服务（Aliyun Container Registry Service）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
-* ACS：访问控制服务（Access Control Service）
+* ACS：访问控制服务（Access Control Service）；红帽Kubernetes高级集群安全（Advanced Cluster Security for Kubernetes）；阿里云容器服务（Aliyun Container Service）
 * ACSC：澳大利亚网络安全中心（Australian Cyber Security Centre）
 * ACSE：关联控制服务元素（Association Control Service Element）
 * ACT：美国技术咨询委员会（American Council for Technology）；应用网络技术（Applied Cyber Technologies）
@@ -75,6 +76,7 @@
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）；自动发现（Auto-Discovery）；架构与设计（Architecting & Designing）
 * ADAMS：DARPA多尺度异常检测项目（Anomaly Detection At Multiple Scales）
 * ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
+* ADB：阿里云AnalyticDB服务（Analytic DataBase）
 * ADBOS：绿盟流量清洗业务运营系统（Anti Distributed Denial-of-Service Business Operation System）
 * ADC：应用交付控制器（Application Delivery Controller）
 * ADCON：行政控制权（Administrative Control）
@@ -86,7 +88,7 @@
 * ADO：ActiveX数据对象（ActiveX Data Object）
 * ADP：自动数据处理（Automated Data Processing）
 * ADR：应用安全检测与响应（Application Detection & Response）
-* ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）
+* ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）；阿里云AnalyticDB服务旧称（Analytic Database Service）
 * ADS-M：抗DDoS系统管理器（Anti-DDoS System Manager）
 * ADSI：活动目录服务接口（Active Directory Services Interface）
 * AE：认证加密（Authenticated Encryption）
@@ -236,7 +238,7 @@
 * ASIM：高级安全信息模型（Advanced Security Information Model）
 * ASIMS：自动化安全事件测量系统（Automated Security Incident Measuring System）
 * ASLR：地址空间布局随机化（Address Space Layout Randomization）
-* ASM：攻击面管理（Attack Surface Management）
+* ASM：攻击面管理（Attack Surface Management）；阿里云服务网格（Aliyun Service Mesh）
 * ASML：ASML公司（Advanced Semiconductor Materials Lithography）
 * ASMS：高级卫星多媒体系统会议（Advanced Satellite Multimedia Systems Conference）
 * ASN：互联网自治域编号（Autonomous System Number）；抽象语法标记（Abstract Syntax Notation）
@@ -849,6 +851,7 @@
 * CSAC：中国网络空间安全协会（Cyber Security Association of China）；CISA网络安全咨询委员会（Cyber Security Advisory Committee）
 * CSAF：通用安全通报框架（Common Security Advisory Framework）；美国空军总参谋长（Chief of Staff of the Air Force）
 * CSAP：CompTIA安全分析从业人员认证（CompTIA Security Analytics Professional）
+* CSB：云服务总线（Cloud Service Bus）
 * CSBA：美国战略与预算评估中心（Center for Strategic and Budgetary Assessments）；亚马逊客户服务（Customer Service By Amazon）
 * CSC：美国网络日光室委员会（Cyberspace Solarium Commission）；云安全中心（Cloud Security Center）
 * CSCP：美国通信系统主任委员会（Communication System Committee of Principals）
@@ -1200,6 +1203,7 @@
 * DRAM：动态随机存取存储器（Dynamic Random-Access Memory）
 * DRBG：确定性随机比特生成器（Deterministic Random Bit Generator）
 * DRC：灾难恢复能力（Disaster Recovery Capability）
+* DRDS：阿里云分布式关系型数据库服务（Distribute Relational Database Service）
 * DREAD：损害、可复制性、可利用性、受影响用户、可发现性（Damage, Reproducibility, Exploitability, Affected users, Discoverability）
 * DREN：美国国防研究与工程网络（Defense Research & Engineering Network）
 * DRM：数字版权管理（Digital Rights Management）；派生关系映射（Derived Relationship Mappings）
@@ -1318,6 +1322,7 @@
 * ECSO：欧洲网络安全组织（European Cyber Security Organisation）
 * ECU：电子控制单元（Electronic Control Unit）
 * ECX：某32位寄存器代号（Extended CX）
+* EDAS：阿里云企业分布式应用服务（Enterprise Distributed Application Service）
 * EDC：企业数据中心（Enterprise Data Center）
 * EdDSA：爱德华曲线数字签名算法（Edwards-curve Digital Signature Algorithm）
 * EDG：工程开发组（Engineering Development Group）
@@ -1733,6 +1738,7 @@
 
 ## H
 
+* H3C：新华三集团（原：Huawei，3Com）
 * HA：高可用（High Availability）
 * HACCS：利用自主系统对抗网络对手项目（Harnessing Autonomy for Countering Cyberadversary Systems）
 * HACMS：DARPA高保障网络军事系统项目（High-Assurance Cyber Military Systems）
@@ -2849,6 +2855,7 @@
 * ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
 * ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
 * ODP：组织定义参数（Organization-Defined Parameter）
+* ODPS：阿里云MaxCompute服务旧称（Open Data Processing Service）
 * ODS：操作型数据存储（Operational Data Store）
 * OE：作战环境（Operational Environment）
 * OEM：原始设备生产商（Original Equipment Manufacturer）
@@ -2934,7 +2941,7 @@
 * OTN：光传送网（Optical Transport Network）
 * OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
 * OTR：无记录消息协议（Off-the-Record messaging）
-* OTS：阿里云Table Store服务（Open Table Service）
+* OTS：阿里云TableStore服务旧称（Open Table Service）
 * OTTI：作战测试和训练基础设施（Operational Test & Training Infrastructure）
 * OTX：开放威胁交换（Open Threat Exchange）
 * OU：组织单位（Organization Unit）
