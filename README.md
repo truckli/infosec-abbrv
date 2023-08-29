@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4276**条，词组**5308**条。 
+当前收录缩略词形**4287**条，词组**5323**条。 
 
 
 
@@ -65,7 +65,7 @@
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）
 * ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
-* ACR：阿里云容器镜像服务（Aliyun Container Registry Service）
+* ACR：阿里云容器镜像服务（Aliyun Container Registry Service）；阿里云容器镜像服务（Alibaba Cloud Container Registry Service）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
 * ACS：访问控制服务（Access Control Service）；红帽Kubernetes高级集群安全（Advanced Cluster Security for Kubernetes）；阿里云容器服务（Aliyun Container Service）
 * ACSC：澳大利亚网络安全中心（Australian Cyber Security Centre）
@@ -222,6 +222,7 @@
 * ARO：年度发生率（Annualized Rate of Occurrence）
 * ARP：地址解析协议（Address Resolution Protocol）
 * ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
+* ARR：年度经常性收入（Annual Recurring Revenue）
 * AS：互联网自治域（Autonomous System）；接入层（Access Stratum）
 * ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）
 * ASan：地址检查器（Address Sanitizer）
@@ -238,7 +239,7 @@
 * ASIM：高级安全信息模型（Advanced Security Information Model）
 * ASIMS：自动化安全事件测量系统（Automated Security Incident Measuring System）
 * ASLR：地址空间布局随机化（Address Space Layout Randomization）
-* ASM：攻击面管理（Attack Surface Management）；阿里云服务网格（Aliyun Service Mesh）
+* ASM：攻击面管理（Attack Surface Management）；阿里云服务网格（Aliyun Service Mesh）；阿里云服务网格（Alibaba Cloud Service Mesh）
 * ASML：ASML公司（Advanced Semiconductor Materials Lithography）
 * ASMS：高级卫星多媒体系统会议（Advanced Satellite Multimedia Systems Conference）
 * ASN：互联网自治域编号（Autonomous System Number）；抽象语法标记（Abstract Syntax Notation）
@@ -1274,6 +1275,7 @@
 * E-ISAC：电力信息共享和分析中心（Electricity Information Sharing and Analysis Center）
 * E-UTRAN：演进通用陆地无线接入网（Evolved Universal Terrestrial Radio Access Network）
 * E/W：东/西（East/West）
+* E2EE：端到端加密（End-to-End Encryption）
 * E3：拓线分析、信息富化和结果评价（Expansion, Enrichment & Evaluation）
 * E3A：美国爱因斯坦工程加速计划（EINSTEIN 3 Accelerated）
 * EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）；企业管理员（Enterprise Admin）
@@ -2556,6 +2558,7 @@
 * MTTR：平均恢复时间（Mean Time To Recovery）
 * MTU：最大传输单元（Maximum Transmission Unit）；主终端设备（Master Terminal Unit）
 * MUD：制造商使用描述（Manufacturer Usage Description）
+* MVA：托管脆弱性评估服务（Managed Vulnerability Assessment）
 * MVC：模型-视图-控制器（Model-View-Controller）
 * MVD：俄罗斯联邦内务部（俄语拉丁化：Ministerstvo vnutrennikh del）
 * MVM：可管理的漏洞管理服务（Managed Vulnerability Management）
@@ -2796,6 +2799,7 @@
 * NVDB：国家网络安全威胁和漏洞信息共享平台（National Vulnerability Database）
 * NVDIM：非易失性双列直插内存模块（Non-Volatile Dual In-Line Memory Module）
 * NVDIMM：非易失双列直插内存模块（DNon-Volatile Dual Inline Memory Module）
+* NVGRE：使用通用路由封装的网络虚拟化（Network Virtualization using Generic Routing Encapsulation）
 * NVLAP：NIST国家志愿实验室认可项目（National Voluntary Laboratory Accreditation Program）
 * NVM：网络可见性模块（Network Visibility Module）；非易失内存（Non-Volatile Memory）
 * NVMe：非易失性内存快速通道（Non-Volatile Memory Express）
@@ -3148,6 +3152,7 @@
 * PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）
 * PPA：保护轮廓确保（Protection Profile Assurance）
 * PPAKE：具有隐私保护性质的认证性密钥协商协议（Privacy-Preserving Authenticated Key Exchange）
+* PPAS：Postgres Plus高级服务器（Postgres Plus Advanced Server）
 * PPBE：规划，计划，预算和执行（Planning, Programming, Budgeting & Execution）
 * PPD：总统政策指令（Presidential Policy Directive）
 * PPDR：策略、防护、检测、响应（Policy, Protection, Detection, Response）
@@ -3694,6 +3699,9 @@
 * SPAN：交换机端口分析器（Switched Port Analyzer）
 * SPARC：SPARC处理器架构（Scalable Processor ARChitecture）
 * SPARQL：SPARQL协议与RDF查询语言（SPARQL Protocol And RDF Query Language）
+* SPB：最短路径桥接（Shortest Path Bridging）
+* SPBM：最短路径桥接 - MAC（Shortest Path Bridging - MAC）
+* SPBV：最短路径桥接 - VID（Shortest Path Bridging - VLAN ID）
 * SPC：PKCS#7证书格式（Software Publishing Certificate）；存储性能委员会（Storage Performance Council）
 * SPD：空间政策指令（Space Policy Directive）
 * SPDM：安全协议和数据模型（Security Protocol & Data Model）
@@ -3806,7 +3814,7 @@
 * STP：生成树协议（Tree Spanning Protocol）；屏蔽双绞线（Shielded Twisted Pair）；系统与工具规划（Systems & Tools Planning）
 * STRIDE：仿冒、篡改、抵赖、信息泄露、拒绝服务、提权（Spoofing, Tampering, Repudiation, Information disclosure, Denial of service & Elevation of privilege）
 * STS：安全令牌服务（Security Token Service）；系统与工具支持（Systems & Tools Supporting）
-* STT：透明式安全（Security Through Transparency）；语音转文本（Speech-to-Text）
+* STT：透明式安全（Security Through Transparency）；语音转文本（Speech-to-Text）；无状态传输隧道（Stateless Transport Tunnel）
 * STUCCO：基于上下文观察关联的态势和威胁理解（Situation & Threat Understanding by Correlating Contextual Observations）
 * STUN：用于NAT的会话遍历实用程序（Session Traversal Utilities for NAT）
 * STUNS：STUN over TLS（STUN over TLS）
@@ -3895,6 +3903,7 @@
 * TDA：威胁发现设备（Threat Detection Appliance）
 * TDD：TCM设备驱动（TCM Device Driver）；时分复用（Time Division Duplex）；测试驱动开发（Test-Driven Development）
 * TDDH：双子判定Diffie-Hellman问题（Twin Decisional Diffie-Hellman）
+* TDE：透明数据加密（Transparent Data Encryption）
 * TDM：时分复用（Time Division Multiplexing）
 * TDMA：时分多址（Time Division Multiple Access）
 * TDO：受信域对象（Trusted Domain Object）
@@ -3960,7 +3969,7 @@
 * TNC：可信网络连接（Trusted Network Connect）
 * TNE：可信网络环境（Trusted Network Environment）
 * TNGF：受信任的非3GPP网关功能（Trusted Non-3GPP Gateway Function）
-* TNI：可信计算机网络系统说明（Trusted Network Interpretation）
+* TNI：可信计算机网络系统说明（Trusted Network Interpretation）；租户网络识别符（Tenant Network Identifier）
 * TNIU：可信网络接口单元（Trusted Network Interface Unit）
 * TOB：技术监督委员会（Technical Oversight Board）
 * TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）
@@ -4298,6 +4307,7 @@
 * WITS：华盛顿跨机构电信系统（Washington Interagency Telecommunications System）
 * WKO：周知对象（Well-Known Object）
 * WLAN：无线局域网（Wireless Local Area Network）
+* WLC：最小连接数（Weighted Least Connections）
 * WMI：Windows管理规范（Windows Management Instrumentation）
 * WORM：一次写入多次读取（Write-Once, Read-Many）
 * WoT：Web物联网（Web of Things）
@@ -4308,6 +4318,7 @@
 * WPR：Windows性能记录器（Windows Performance Recorder）
 * WPS：Wifi保护设置（Wifi Protected Setup）
 * WRGRU：权缩门控循环单元（Weight Reduction Gated Recurrent Unit）
+* WRR：加权轮询（Weighted Round Robin）
 * WRT：工作恢复时间（Work Recovery Time）
 * WS：WebSocket（WebSocket）；Web服务（Web Service）
 * WSDL：Web服务描述语言（Web Services Description Language）
