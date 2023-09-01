@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4287**条，词组**5323**条。 
+当前收录缩略词形**4292**条，词组**5334**条。 
 
 
 
@@ -226,8 +226,9 @@
 * AS：互联网自治域（Autonomous System）；接入层（Access Stratum）
 * ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）
 * ASan：地址检查器（Address Sanitizer）
-* ASC：公认标准委员会（Accredited Standards Committee）
+* ASC：公认标准委员会（Accredited Standards Committee）；升序（ASCending）
 * ASCII：美国信息交换标准代码（American Standard Code for Information Interchange）
+* ASCM：飞天统一云管平台（Apsara Stack Cloud Management）
 * ASD：澳大利亚信号局（Australian Signals Directorate）；美国国防部助理部长（Assistant Secretary of Defense）
 * ASDSO：国家大坝安全官员协会（Association of State Dam Safety Officials）
 * ASE：IEEE/ACM国际自动化软件工程会议（IEEE/ACM International Conference Automated Software Engineering）
@@ -243,11 +244,12 @@
 * ASML：ASML公司（Advanced Semiconductor Materials Lithography）
 * ASMS：高级卫星多媒体系统会议（Advanced Satellite Multimedia Systems Conference）
 * ASN：互联网自治域编号（Autonomous System Number）；抽象语法标记（Abstract Syntax Notation）
+* ASO：阿里专有云运维管理平台（Apsara Stack Operations）；应用商店优化（App store Optimization）
 * ASOC：应用安全编排与关联（Application Security Orchestration & Correlation）
 * ASP：应用服务供应商（Application Service Provider）
 * ASPM：应用安全态势管理 （Application Security Posture Management）
 * ASPPS：账户服务支付服务提供商（Account Servicing Payment Service Providers）
-* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）
+* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）
 * ASSIST：自动化系统安全事件支持团队（Automated System Security Incident Support Team）
 * AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）
 * ASTaaS：应用安全测试即服务（Application Security Testing as a Service）
@@ -366,7 +368,7 @@
 * BPMN：业务流程建模与标注（Business Process Modeling Notation）
 * BPR：业务流程再造（Business Process Reengineering）
 * BPS：大容量电力系统（Bulk Power System）
-* BR：基本费率（Basic Rate）
+* BR：基本费率（Basic Rate）；备份与恢复（Backup & Recovery）
 * BRA：基线评估（Baseline Risk Assessment）
 * BSC：基站控制器（Base Station Controller）
 * BSD：伯克利软件套件（Berkeley Software Distribution）
@@ -816,7 +818,7 @@
 * CPU：中央处理器（Central Processing Unit）
 * CQRS：命令查询职责分离（Command Query Responsibility Segregation）
 * CQS：命令查询分离（Command and Query Separation）
-* CR：网络韧性（Cyber Resiliency）
+* CR：网络韧性（Cyber Resiliency）；网络恢复（Cyber Recovery）
 * CRA：代码重用攻击（Code Reuse Attack）
 * CRADA：合作研发协议（Cooperative Research & Development Agreement）
 * CRAMM：中央计算和电信机构风险分析与管理方法（Central computing & telecommunications agency Risk Analysis and Management Method）
@@ -1033,6 +1035,7 @@
 * DDL：数据定义语言（Data Definition Language）
 * DDM：动态数据脱敏（Dynamic Data Masking）
 * DDN：数字数据网络（Digital Data Network）
+* DDNS：域名动态解析（Dynamic Domain Name System）
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
 * DDPE：Dell数据保护加密（Dell Data Protection Encryption）
 * DDR：数据检测与响应（Data Detection & Response）
@@ -1052,6 +1055,7 @@
 * DePIN：去中心化物理基础设施网络（Decentralized Physical Infrastructure Networks）
 * DER：可辨别编码规则（Distinguished Encoding Rules）；分布式能源资源（Distributed Energy Resources）
 * DES：数据加密标准算法（Data Encryption Standard）；国防飞地服务（Defense Enclave Services）；数据安全交换系统（Data Exchange System）
+* DESC：降序（DESCending）
 * DET：数据元素类型（Data Element Types）
 * DEVCOM：美国陆军作战能力开发司令部（U.S. Army Combat Capabilities Development Command）
 * DevOps：研发-运维（Development-Operations）
@@ -1296,7 +1300,7 @@
 * eBPF：扩展式伯克利包过滤器（extended Berkeley Packet Filter）
 * EBS：弹性块存储（Elastic Block Store）
 * EBX：某32位寄存器代号（Extended BX）
-* EC：边缘计算（Edge Computing）
+* EC：边缘计算（Edge Computing）；纠删码（Erasure Coding）
 * EC2：弹性计算云（Elastic Compute Cloud）
 * EC3：欧洲网络犯罪中心（European Cyber Crime Centre）
 * ECA：外部证书授权机构（External Certificate Authority）；欧洲审计院（European Court of Auditors）
@@ -2900,6 +2904,7 @@
 * OOA：面向对象分析（Object-Oriented Analysis）
 * OOAD：面向对象分析与设计（Object-Oriented Analysis & Design）
 * OOB：带外（Out-Of-Band）
+* OOBM：带外管理（Out-Of-Band Management）
 * OOD：面向对象设计（Object-Oriented Design）
 * OODA：观察、知悉、决策、行动循环（Observe, Orient, Decide, Act）
 * OOM：内存不足（Out Of Memory）；面向对象建模（Object-Oriented Modeling）
