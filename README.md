@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4292**条，词组**5334**条。 
+当前收录缩略词形**4294**条，词组**5336**条。 
 
 
 
@@ -2556,8 +2556,10 @@
 * MTIPS：托管式可信IP服务（Managed Trusted Internet Protocol Services）
 * mTLS：多传输层安全（Mutual Transport Layer Security）
 * MTO：最大可容许中断（Maximum Tolerable Outage）
+* MTTC：平均遏制时间（Mean Time To Contain）
 * MTTD：平均检测时间（Mean Time to Detect）
 * MTTF：平均失败间隔（Mean Time to Failure）
+* MTTI：平均识别时间（Mean Time To Identify）
 * MTTK：平均知悉时间（Mean Time to Know）
 * MTTR：平均恢复时间（Mean Time To Recovery）
 * MTU：最大传输单元（Maximum Transmission Unit）；主终端设备（Master Terminal Unit）
