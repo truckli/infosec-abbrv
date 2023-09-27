@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4294**条，词组**5336**条。 
+当前收录缩略词形**4316**条，词组**5361**条。 
 
 
 
@@ -359,6 +359,7 @@
 * BOSS：业务运营支撑系统（Business & Operation Support System）
 * Botnet：僵尸网络（Robot Network）
 * BP：基本实践（Base Practice）；反向传播（Back Propagation）；基指针寄存器（Base Pointer）
+* BPC：业务过程攻击（Business Process Compromise）
 * BPCS：基本过程控制系统（Basic Process Control System）
 * BPD：业务流程图（Business Process Diagram）
 * BPDU：桥协议数据单元（Bridge Protocol Data Unit）
@@ -377,6 +378,7 @@
 * BSoD：蓝屏死机（Blue Screen of Death）
 * BSP：主板支持包（Board Support Package）
 * BSS：未初始化数据块（Block Started by Symbol）
+* BSSN：印尼国家网络与密码局（印尼语：Badan Siber dan Sandi Negara）
 * BST：二叉查找树（Binary Search Tree）
 * BTC：比特币（Bitcoin）
 * BTI：分行目标识别（Branch Target Identification）
@@ -615,6 +617,7 @@
 * CGI： 通用网关接口（Common Gateway Interface）；美国海岸警卫队调查处（Coast Guard Investigative Service）
 * CGRC：治理，风险管理与合规职业认证（Certified Governance, Risk & Compliance）
 * CGS：社区黄金标准框架（Community Gold Standard）
+* CGTN：中国国际电视台（China Global Television Network）
 * CHAP：挑战握手鉴别协议（Challenge-Handshake Authentication Protocol）
 * CHASE：DARPA大规模网络狩猎项目（Cyber-Hunting at Scale）
 * CHERI：功能硬件增强 RISC 指令（Capability Hardware Enhanced RISC Instructions）
@@ -847,6 +850,7 @@
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
 * CRTV：验证信任的核心根（Core Root of Trust for Verification）
 * CRUD：增删查改（Create, Retrieve, Update, Delete）
+* CRWD：CrowdStrike公司（CrowdStrike）
 * CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）；代码段寄存器（Code Segment）；网络安全（Cyber Security）；容器服务（Container Service）
 * CS&C：美国网络安全和通信办公室（Office of Cybersecurity and Communications）
 * CSA：网络态势感知（Cyber Situation Awareness）；云安全联盟（Cloud Security Alliance）；新加坡网络安全局（Cyber Security Agency）；网络安全通报（Cyber Security Advisory）；连接标准联盟（Connectivity Standards Alliance）
@@ -881,6 +885,7 @@
 * CSMS：智能制造系统的网络安全（Cybersecurity for Smart Manufacturing Systems）；网络安全管理系统（Cyber Security Management System）
 * CSNET：计算机科学网（Computer Science Network）
 * CSO：首席安全官（Chief Security Officer）；首席战略官（Chief Strategy Officer）；首席问题官（Chief Solution Officer）；美国网络空间安全办公室（Cyberspace Security Office）；GCHQ复合信号组织（Composite Signals Organisation）
+* CSOC：网络安全运营中心（Cybersecurity Operations Center）
 * CSP：内容安全策略（Content Security Policy）；云服务提供商（Cloud Service Provider）；关键安全参数（Critical Security Parameter）；加密服务供应程序（Cryptographic Service Provider）；凭证服务提供者（Credential Service Provider）；CCF计算机软件能力认证（Certified Software Professional）；SNAP从业人员认证（Certified SNAP Practitioner）
 * CSPEC：公安部信息安全等级保护评估中心（MPS Information Classified Protection Evaluation Center）
 * CSPM：云安全策略管理（Cloud Security Policy Management）；云安全态势管理（Cloud Security Posture Management）
@@ -1378,6 +1383,7 @@
 * EKU：增强型密钥使用（Enhanced Key Usage）；扩展/增强密钥用法（Extended/Enhanced Key Usage）
 * EL：实体链接（Entity Linking）；工程实验室（Engineering Laboratory）；异常级别（Exception Level）
 * ELAM：早期启动防恶意软件技术（Early-Lunch Anti-Malware）
+* ELD：电子记录设备（Electronic Logging Device）
 * ELF：可执行与可链接格式（Executable and Linkable Format）
 * ELINT：电子情报（Electronic Intelligence）
 * ELK：ELK工具（Elasticsearch, Logstash & Kibana）
@@ -1516,6 +1522,7 @@
 * FCG：函数调用图（Function Call Graph）
 * FCI：联邦合同信息（Federal Contract Information）
 * FCIP：光纤通道互联协议（Fibre Channel over Internet Protocol）
+* FCIS：FreeBuf网络安全创新大会（FreeBuf Cyber security Innovation Summit）
 * FCoE：光纤通道以太网（Fibre Channel over Ethernet）
 * FDA：食品和药品管理局（Food & Drug Administration）
 * FDAU：飞行数据采集单元（Flight-Data Acquisition Unit）
@@ -1542,7 +1549,7 @@
 * FICAM：联邦身份、凭证与访问管理（Federal Identity, Credential, and Access Management）
 * FICIC：关键基础设施网络安全提升框架（Framework for Improving Critical Infrastructure Cybersecurity）
 * FIdM：联邦式身份管理（Federated Identity Management）
-* FIDO：快速在线身份认证（Fast IDentity Online）；U2F快速在线识别通用第二要素（U2F Fast Identity Online Universal 2nd Factor）
+* FIDO：快速在线身份认证（Fast IDentity Online）
 * FIFO：先入先出（First In, First Out）
 * FILO：先入后出（First In, Last Out）
 * FIM：文件完整性监控（File Integrity Monitoring）
@@ -1668,6 +1675,7 @@
 * GDT：全局描述符表（Global Descriptor Table）
 * GDTR：全局描述符表寄存器（Global Descriptor Table Register）
 * GE：千兆以太网（Gigabit Ethernet）
+* GEO：地理位置（Geography）
 * GEOINT：地理空间情报（Geospatial Intelligence）
 * GETVPN：组加密传输VPN（Group Encrypted Transport VPN）
 * GF：攻防（拼音：Gong Fang）
@@ -1703,6 +1711,7 @@
 * GP：组策略（Group Policy）；通用实践（Generic Practice）
 * GPF：一般保护错误（General Protection Fault）
 * GPFS：通用并行文件系统（General Parallel File System）
+* GPG：GNU隐私卫士（GNU Privacy Guard）
 * GPGPU：GPU通用计算（General-Purpose Computing On Graphics Processing Units）
 * GPL：GNU通用公共许可协议（General Public License）
 * GPMC：组策略管理控制台（Group Policy Management Console）
@@ -1731,6 +1740,7 @@
 * GTI：全球威胁情报（Global Threat Intelligence）
 * GTP：GPRS隧道协议（GPRS Tunnelling Protocol）
 * GTP-U：GPRS隧道协议用户（GPRS Tunneling Protocol User）
+* GTX：吉比特是收发器（Gigabit Transceiver）；英伟达GTX显卡（Giga Texel Shader eXtreme）
 * GUA：全局单播地址（Global Unicast Address）
 * GUAC：谷歌工件分析图（Graph for Understanding Artifact）
 * GUI：图形用户界面（Graphical User Interface）
@@ -1970,6 +1980,7 @@
 * IIOP：互联网ORB间通信协议（Internet InterORB Protocol）
 * IIoT：工业物联网（Industrial IoT）
 * IIS：某Web服务器软件（Internet Information Services）
+* IISS：国际战略研究所（International Institute for Strategic Studies）
 * IKE：网际密钥交换（Internet Key Exchange）
 * IL：完整性级别（Integrity Level）；影响级别（Impact Level）
 * ILAC：国际实验室认可合作组织（International Laboratory Accreditation Cooperation）
@@ -2110,6 +2121,8 @@
 * IT：信息技术（Information Technology）
 * ITA：IT架构（IT Architecture）；美国国际贸易署（International Trade Administration）
 * ITAF：IT确保框架（IT Assurance Framework）
+* ITAI：信息技术应用创新（Information Technology Application Innovation）
+* ITAIP：信息技术应用创新专业人员（Information Technology Application Innovation Professional）
 * ITAM：信息技术资产管理（Information Technology Asset Management）
 * ITAR：国际武器交易管制（International Traffic in Arms Regulation）
 * ITDG：IT需求治理（IT Demand Governance）
@@ -2359,6 +2372,7 @@
 * LTKUP：长期密钥更新程序（Long Term Key Update Procedures）
 * LTM：本地流量管理器（Local Traffic Manager）
 * LTO：链接时优化（Link Time Optimization）
+* LTS：长期支持（Long-Term Support）
 * LUA：最小权限用户账户（Least-privileged User Account）
 * LUOV：UOV提升架构（Lifted Unbalanced Oil and Vinegar cryptosystem）
 * LVC：实时虚拟构造性（Live Virtual Constructive）
@@ -2452,6 +2466,7 @@
 * MIM：机器身份管理（Machine Identity Management）
 * MIME：多功能互联网邮件扩展（Multipurpose Internet Mail Extensions）
 * MINC：任务集成式网络控制项目（Mission-Integrated Network Control）
+* MINTIC：哥伦比亚信息和通信技术部（西班牙语：Ministerio de Tecnologías de la Información y las Comunicaciones）
 * MIPS：一种精简指令集架构（Microprocessor without Interlocked Pipeline Stages）
 * MIS：管理信息系统（Management Information System）
 * MISC：杂项（Miscellaneous）
@@ -2528,6 +2543,7 @@
 * MSB：最高有效位（Most Significant Bit）
 * mSCP：macOS安全合规项目（macOS Security Compliance Project）
 * MSDT：微软支持诊断工具（Microsoft Support Diagnostic Tool）
+* MSE：微服务引擎（Microservices Engine）
 * MSF：一款渗透测试工具（MetaSploit Framework）
 * MSFT：微软公司（MicroSoFT corporation）
 * MSG：微分段（Micro-Segmentation）；消息（message）
@@ -3567,7 +3583,7 @@
 * SEV-ES：具有加密状态的安全加密虚拟化（Secured Encrypted Virtualization with Encrypted State）
 * SEV-SNP：使用安全嵌套分页的安全加密虚拟化（Secured Encrypted Virtualization with Secured Nested Paging）
 * SF：安全功能（Security Function）
-* SFA：销售能力自动化（Sales Force Automation）
+* SFA：智能手机指纹认证（Smartphone Fingerprint Authentication）；销售能力自动化（Sales Force Automation）
 * SFF：小型机箱委员会（Small Form Factor committee）
 * SFI：软件故障隔离（Software Fault Isolation）
 * SFP：安全功能策略（Security Function Policy）；简单功能点（Simple Function Point）；小型可热插拔光收发一体模块（Small Form-factor Pluggsable）
@@ -3631,7 +3647,7 @@
 * SLG：销售主导型增长（Sales-Led Growth）
 * SLIP：串行线路网际协议（Serial Line Internet Protocol）
 * SLO：服务等级目标（Service Level Objective）
-* SLS：单级安全体（Single Level Secure）
+* SLS：单级安全体（Single Level Secure）；阿里云日志服务（Simple Log Service）
 * SLSA：软件工件供应链级别（Supply chain Levels for Software Artifacts）
 * SLTPS：州、地方、部落和私营部门（State, Local, Tribal, and Private Sector）
 * SLTT：州、地方、部落及领地（State, Local, Tribal, and Territorial）
@@ -3717,7 +3733,7 @@
 * SPEKE：简单口令指数密钥交换（Simple Password Exponential Key Exchange）
 * SpEL：Spring表达式语言（Spring Expression Language）
 * SPF：发送方策略框架（Sender Policy Framework）；最短路径优先（Shortest Path First）
-* SPI：串行外设接口（Serial Peripheral Interface）
+* SPI：串行外设接口（Serial Peripheral Interface）；状态包检测（Stateful Packet Inspection）
 * SPICE：软件过程改进的能力和测定（Software Process Improvement and Capability dEtermination）
 * SPIFFE：针对每个人的安全生产身份框架（Secure Production Identity Framework for Everyone）
 * SPINS：特殊指示（Special Instructions）
@@ -4059,6 +4075,7 @@
 * UARC：大学附属研究中心（University Affiliated Research Center）
 * UAS：用户代理服务器（User Agent Server）；无人机系统（Unmanned AeriaI System）
 * UAV：无人航空载具（Unmanned Aerial Vehicle）
+* UBA：用户行为分析（User Behavior Analytics）
 * UBB：通用基板（Universal Baseboard）
 * UC：通用可组装性（Universal Composability）
 * UCAO：美国非机密连接批准办公室（Unclassified Connection Approval Office）
@@ -4290,6 +4307,7 @@
 * WAR：WAR文件（Web Application Resource）
 * WASI：WebAssembly系统接口（WebAssembly System Interface）
 * WASM：WebAssembly（WebAssembly）
+* WASS：Web应用安全扫描器（Web Application Security Scanner）
 * WAVM：WebAssembly虚拟机（WebAssembly Virtual Machine）
 * WBEM：基于Web的企业管理（Web-Based Enterprise Management）
 * WBS：工作分解结构（Work Breakdown Structure）
@@ -4307,9 +4325,11 @@
 * WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
 * WGN：高斯白噪声（White Gaussian Noise）
 * WIC：世界互联网大会（World Internet Conference）
+* WIDPS：无线入侵检测和防御系统（Wireless Intrusion Detection & Prevention System）
 * WIDS：无线入侵检测系统（Wireless IDS）
 * WIF：Windows身份基础框架（Windows Identity Foundation）
 * WINS：世界核安全研究所（World Institute of Nuclear Security）
+* WIPS：无线入侵防御系统（Wireless Intrusion Prevention System）
 * WiSec：ACM无线和移动网络安全隐私研讨会（ACM Conference on Security and Privacy in Wireless and Mobile Networks）
 * WITS：华盛顿跨机构电信系统（Washington Interagency Telecommunications System）
 * WKO：周知对象（Well-Known Object）
@@ -4372,6 +4392,7 @@
 * XSL：可扩展样式表语言（Extensible Style sheet Language）
 * XSLT：可扩展样式表转换语言（Extensible Stylesheet Language Transformation）
 * XSPM：扩展式安全态势管理（Extended Security Posture Management）
+* XSRF：跨站请求伪造（Cross-Site Request Forgery）
 * XSS：跨站点脚本（Cross Site Scripting）
 * XTI：扩展的威胁情报（Extended Threat Intelligence）
 * XTS：XEX密文窃取式修正密码本模式（XEX Based Tweaked Codebook Mode with Ciphertext Stealing）
@@ -4383,6 +4404,7 @@
 * YAML：YAML序列化格式（YAML Ain't Markup Language）
 * YANG：YANG数据建模语言（Yet Another Next Generation）
 * YARA：YARA规则语言（Yet Another Ridiculous Acronym）
+* YOLO：持续改进（You Only Live Once）
 
 
 ## Z
