@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4398**条，词组**5466**条。 
+当前收录缩略词形**4407**条，词组**5480**条。 
 
 
 
@@ -227,7 +227,7 @@
 * ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
 * ARR：年度经常性收入（Annual Recurring Revenue）
 * AS：互联网自治域（Autonomous System）；接入层（Access Stratum）；鉴别服务器（Authentication Server）
-* ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）
+* ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）；思科自适应安全设备（Adaptive Security Applicance）
 * ASan：地址检查器（Address Sanitizer）
 * ASC：公认标准委员会（Accredited Standards Committee）；升序（ASCending）
 * ASCA：自动化安全控制评估（Automated security control assessment）
@@ -415,7 +415,7 @@
 * C2：指挥和控制（Command & Control）
 * C2C：用户对用户（Consumer to Consumer）；合规连接（Comply to Connect）
 * C2M2：网络安全能力成熟度（Cybersecurity Capability Maturity Model）
-* C2W：指挥与控制战（Command & Control Warfare）
+* C2W：指挥与控制战争（Command & Control Warfare）
 * C3：指挥、控制、通信（Command, Control, Communication）
 * C3I：指挥、控制、通信与情报（C3 & Intelligence）
 * C3M：计算认知模型（Computational Cognitive Model）
@@ -503,6 +503,7 @@
 * CCAC：云计算顾问委员会（Cloud Computing Advisory Council）
 * CCAIA：中国网络安全产业联盟（China Cyberspace Affairs Industry Association）
 * CCC：中国强制认证（China Compulsory Certification）；NSA网络安全协作中心（Cybersecurity Collaboration Center）
+* CCD：隐蔽、掩护和欺骗（Concealment, Cover & Deception）
 * CCDB：通用准则开发组（Common Criteria Development Board）
 * CCDC：美国陆军作战能力开发司令部（U.S. Army Combat Capabilities Development Command）
 * CCDCOE：协作网络防御卓越中心（Cooperative Cyber Defence Centre of Excellence）
@@ -1348,7 +1349,7 @@
 * ECE：电子通信工程（Electronics & Communication Engineering）；欧洲经济委员会（European Economic Commission）
 * ECH：加密客户端问候（Encrypted Client Hello）
 * ECIES：基于椭圆曲线的集成加密方案（Elliptic Curve Integrated Encryption Scheme）
-* ECM：端点配置管理器（Endpoint Configuration Manager）；企业内容管理（Enterprise Content Management）
+* ECM：端点配置管理器（Endpoint Configuration Manager）；企业内容管理（Enterprise Content Management）；军士社区经理（Enlisted Community Manager）
 * ECMA：欧洲计算机制造商协会（European Computer Manufacturers Association）
 * ECMP：等价路由（Equal-Cost Multi-Path Routing）
 * ECMQV：椭圆曲线MQV协议（Elliptic Curve Menezes-Qu-Vanstone）
@@ -1628,7 +1629,7 @@
 * FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
 * FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
 * FREAK：FREAK攻击（Factoring RSA Export Keys）
-* FRR：错误拒绝率（False Rejection Rate）
+* FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）
 * FRS：文件复制服务（File Replication Service）
 * FRU：现场调换单元（Field Replacement Unit）
 * FS：额外段寄存器（F extra Segment）
@@ -2204,6 +2205,7 @@
 * IW：信息战（Information Warfare）
 * IW-D：信息战-防御（Information Warfare – Defensive）
 * IWA：国际工作组协议（International Workshop Agreements）
+* IWC：信息站部门（Information Warfare Community）
 * IWG：跨机构工作组（Interagency Working Group）
 
 
@@ -2248,6 +2250,7 @@
 * JMN：JIE管理网络（Joint Information Environment Management Network）
 * JMS：联合管理系统（Joint Management. System）
 * JNDI：Java命名和目录接口（Java Naming and Directory Interface）
+* JOC：联合作战概念（Joint Operating Concept）
 * JOP：面向跳转编程（Jump Oriented Programming）
 * JOPES：联合作战计划与执行系统（Joint Operation Planning and Execution System）
 * JP：联合出版物（Joint Publication）
@@ -2370,6 +2373,7 @@
 * LEAP：轻量级可扩展认证协议（Lightweight Extensible Authentication Protocol）
 * LEEF：日志事件扩展格式（Log Event Extended Format）
 * LEO：低地球轨道（Low Earth Orbit）
+* LFA：无环备选通道（Loop Free Alternate）
 * LFI：本地文件包含（Local File Inclusion）
 * LFSR：线性反馈移位寄存器（Linear Feedback Shift Register）
 * LFT：环形容错协议（Loop Fault Tolerance）
@@ -2705,7 +2709,7 @@
 * NCP：网络控制协议（Network Control Protocol）；netlink连接器进程（netlink Connector Process）；美国国家清单检查计划（National Checklist Program）；NSX容器插件（NSX Container Plugin）
 * NCPS：国家网络安全保护系统（National Cybersecurity Protection System）
 * NCR：美国国家网络靶场（National Cyber Range）
-* NCS：国家通信系统（National Communication System）；诺基亚容器服务（Nokia Container Services）
+* NCS：国家通信系统（National Communication System）；诺基亚容器服务（Nokia Container Services）；国家密码学学校（National Cryptologic School）
 * NCSA：国家网络安全联盟（National Cyber Security Alliance）
 * NCSAM：美国国家网络安全意识月（National Cybersecurity Awareness Month）
 * NCSC：国家网络安全中心（National Cyber Security Centre）；国家反情报与安全中心（National Counterintelligence and Security Center）；国家网络安全协调员（National Cyber Security Coordinator）；国家计算机安全中心（National Computer Security Center）
@@ -3184,6 +3188,7 @@
 * PITAC：美国总统信息技术咨询委员会（the President's Information Technology Advisory Committee）
 * PIV：个人信息验证（Personal Identity Verification）
 * PIV-I：个人身份验证互操作（Personal Identity Verification-Interoperable）
+* PIX：思科私网交换设备（Private Internet eXchange）
 * PJL：打印机作业语言（Printer Job Language）
 * PK：端口敲门（Port Knocking）；平台密钥（Platform Key）；飞腾-麒麟生态体系（Phytium-Kylin）
 * PKC：公钥密码学（Public Key Cryptography）
@@ -3288,6 +3293,7 @@
 * PSS：过程安全关闭（Process Safety Shutdown）
 * PST：配置服务目标（Provisioning Service Target）
 * PSTN：公共交换电话网络（Public Switched Telephone Network）
+* PSYOPS：心理战（Psychological Operations）
 * PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）
 * PTaaS：渗透测试即服务（Penetration Testing as a Service）
 * PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）
@@ -3428,9 +3434,11 @@
 * RISC：精简指令集计算机（Reduced Instruction Set Computer）
 * RK：根密钥（Root Key）
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
+* RLFA：远程无环备选通道（Remote Loop Free Alternate）
 * RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
 * RLWR：环上舍入学习（Ring Learning With Rounding）
 * RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）
+* RMA：军事事务革命（Revolution in Military Affairs）
 * RMC：风险管理委员会（Risk management council）
 * RME：域管理扩展（Realm Management Extension）
 * RMF：风险管理框架（Risk Management Framework）
@@ -3815,7 +3823,7 @@
 * SPL：检索处理语言（Search Processing Language）
 * SPM：安全态势管理（Security Posture Management）；安全分区管理器（Secure Partition Manager）
 * SPML：服务配置标记语言（Service Provisioning Markup Language）
-* SPN：服务主体名称（Service Principal Name）
+* SPN：服务主体名称（Service Principal Name）；切片分组网络（Slicing Packet Network）
 * SPO：系统计划办公室（System Program Office）
 * SpOC：美国空军太空作战司令部（Space Operations Command）
 * SPOF：单点故障（Single Point of Failure）
@@ -4014,6 +4022,7 @@
 * TDX：英特尔信任域扩展（Trust Domain Extensions）
 * TE：类型强制（Type Enforcement）；测试（TEst）
 * TEB：线程环境块（Thread Environment Block）
+* TECHAD：技术顾问（Technical Advisor）
 * TECHINT：科技情报（Technical Intelligence）
 * TEE：可信执行环境（Trusted Execution Environment）
 * TEMPEST：瞬间电磁脉冲辐射监视技术（Transient Electromagnetic Pulse Emanation Surveillance Technology）
