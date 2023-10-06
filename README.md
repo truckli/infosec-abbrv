@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4407**条，词组**5480**条。 
+当前收录缩略词形**4424**条，词组**5500**条。 
 
 
 
@@ -254,6 +254,7 @@
 * ASPM：应用安全态势管理 （Application Security Posture Management）
 * ASPPS：账户服务支付服务提供商（Account Servicing Payment Service Providers）
 * ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）
+* ASRC：阿里安全响应中心（Alibaba Security Response Center）
 * ASSIST：自动化系统安全事件支持团队（Automated System Security Incident Support Team）
 * AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）
 * ASTaaS：应用安全测试即服务（Application Security Testing as a Service）
@@ -384,6 +385,7 @@
 * BSIMM：构建安全的成熟度模型（Building Security In Maturity Model）
 * BSoD：蓝屏死机（Blue Screen of Death）
 * BSP：主板支持包（Board Support Package）
+* BSRC：百度安全应急响应中心（Baidu Security Response Center）
 * BSS：未初始化数据块（Block Started by Symbol）；基本服务集（Basic Service Set）
 * BSSID：基本服务集标识符（Basic Service Set Identifier）
 * BSSN：印尼国家网络与密码局（印尼语：Badan Siber dan Sandi Negara）
@@ -769,6 +771,7 @@
 * CNP：云原生平台（Cloud Native Platform）；云原生处理器（Cloud Native Processor）；控制网协议（Control Network Protocol）；RoCE拥塞通知包（Congestion Notification Packet）
 * CNRI：美国国家研究推进机构（Corporation for National Research Initiatives）
 * CNSP：云原生容器安全产品（Cloud-Native Security Platform）
+* CNSRC：菜鸟安全应急响应中心（Cai Niao Security Response Center）
 * CNSS：美国国家安全系统委员会（Committee on National Security Systems）
 * CNSSI：美国国家安全系统委员会指示（Committee on National Security Systems Instruction）
 * CNSSP：国家安全系统委员会出版物（Committee on National Security Systems Publication）
@@ -1001,7 +1004,7 @@
 * DAR：决策分析和解决（Decision Analysis & Resolution）
 * DARPA：美国国防先进研究计划局（Defense Advanced Research Projects Agency）
 * DART：微软检测响应（Microsoft Detection and Response Team）
-* DAS：数据库审计系统（Database Audit System）
+* DAS：数据库审计系统（Database Audit System）；安恒公司（DAS-Security）
 * DAS-FW：数据库防火墙（Database Audit System Firewall）
 * DASD：直接访问存储设备（Direct Access Storage Device）；美国国防部副助理部长（Deputy Assistant Secretary of Defense）
 * DASP：数字应用安全平台（Digital Application Security Platform）
@@ -1263,7 +1266,7 @@
 * DSO：动态共享对象（Dynamic Shared Objects）；数据安全官（Data Security Officer）；DARPA国防科学办公室（Defense Sciences Office）；敏捷安全（DevSecOps）
 * DSP：数据安全保护（Data Security Protection）；数据安全平台（Data Security Platform）；数据协作平台（Data Sharing Platform）；数据服务平台（Data Service Platform）；数字信号处理（Digital Signal Processing）
 * DSPM：数据安全态势管理（Data Security Posture Management）
-* DSRC：专用短程通信（Dedicated Short Range Communication）
+* DSRC：专用短程通信（Dedicated Short Range Communication）；滴滴出行安全应急响应中心（DiDi Security Response Center）
 * DSS：数字签名标准（Digital Signature Standard）；决策支持系统（Decision Support Systems）；数字供应链安全大会（Digital Supply chain Security conference）
 * DSSA：分布式系统安全架构（Distributed System Security Architecture）
 * DSSS：直接序列扩频（Direct Sequence Spread Spectrum）
@@ -1499,6 +1502,7 @@
 * ETAPWG：教育、培训、意识和专业化工作组（Education, Training, Awareness & Professionalization Working Group）
 * ETC：电子不停车收费系统（Electronic Toll Collection）
 * ETH：以太币（Ether）；苏黎世联邦理工学院（德语：Eidgenössische Technische Hochschule Zürich）；以太网（ethernet）
+* ETI：面向互联网（Exposed to Internet）
 * ETL：抽取、转换、加载（Extract-Transform-Load）；事件跟踪日志（Event Trace Log）
 * EtM：加密后MAC（Encrypt-then-MAC）
 * ETSI：欧洲电信标准协会（European Telecommunications Standards Institute）
@@ -1801,6 +1805,7 @@
 * HAL：硬件抽象层（Hardware Abstraction Layer）
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
 * HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
+* HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
 * HBS：基于硬件的安全（Hardware-Based Security）
 * HBSS：基于主机的安全系统（Host-Based Security System）
 * HC3：卫生部门网络安全协调中心（Health Sector Cybersecurity Coordination Center）
@@ -2265,6 +2270,7 @@
 * JSA：Juniper安全分析（Juniper Secure Analytics）；JavaScript安全分析（JavaScript Security Analytics）
 * JSC：联合频谱中心（Joint Spectrum Center）
 * JSON：JavaScript对象标记语言（JavaScript Object Notation）
+* JSRC：京东安全应急响应中心（JD Security Response Center）
 * JSS：JWT签名服务（JWT Signing Service）
 * JTAG：联合测试行动组协议（Joint Test Action Group）
 * JTC：联合技术委员会（Joint Technical Committee）
@@ -2333,9 +2339,11 @@
 * KSPM：Kubernetes安全态势管理（Kubernetes Security Posture Management）
 * KT-C：网络空间关键地形（Key Terrain in Cyberspace）
 * KVM：基于内核的虚拟机（Kernel-based Virtual Machine）
+* KwaiSRC：快手安全应急响应中心（Kuai Security Response Center）
 * KYB：客户业务识别（Know Your Business）
 * KYC：客户识别（Know Your Customer）
 * KYCC：二级客户识别（Know Your Customer's Customer）
+* KYSRC：金山云安全应急响应中心（KSYUN Security Response Center）
 
 
 ## L
@@ -2530,6 +2538,7 @@
 * MISI：马里兰创新与安全研究所（Maryland Innovation and Security Institute）
 * MISO：联合军事信息支援作战（Military Information Support Operations）
 * MISP：恶意软件信息共享平台（Malware Information Sharing Platform）
+* MiSRC：小米安全中心（Mi Security Response Center）
 * MITA：医学成像与技术联盟（Medical Imaging & Technology Alliance）
 * MitM：中间人攻击（Man-in-the-Middle）
 * MIVD：荷兰军事情报安全局（荷兰语：Militaire Inlichtingen- en Veiligheidsdienst）
@@ -2632,6 +2641,7 @@
 * MTIPS：托管式可信IP服务（Managed Trusted Internet Protocol Services）
 * mTLS：多传输层安全（Mutual Transport Layer Security）
 * MTO：最大可容许中断（Maximum Tolerable Outage）
+* MTSRC：美团安全应急响应中心（Mei Tuan Security Response Center）
 * MTTC：平均遏制时间（Mean Time To Contain）
 * MTTD：平均检测时间（Mean Time to Detect）
 * MTTF：平均失败间隔（Mean Time to Failure）
@@ -2837,7 +2847,7 @@
 * NSAC：英国国家安全咨询中心（National Security Advisory Centre）
 * NSATP：注册网络安全测评专业人员（Certified Cybersecurity Assessment Professional）
 * NSB：国家标准化团体（National Standards Body）；美国国家科学理事会（National Science Board）；美国FBI国家安全处（National Security Branch）
-* NSC：网络交换板（Network Switch Cards）；美国国家安全委员会（National Security Council）
+* NSC：网络交换板（Network Switch Cards）；美国国家安全委员会（National Security Council）；网易安全中心（Netease Security Center）
 * NSD：美国司法部国家安全司（National Security Division）
 * NSEC：美国国家安全工程中心（National Security Engineering Center）
 * NSF：美国国家科学基金会（National Science Foundation）
@@ -2981,6 +2991,7 @@
 * ONF：开放网络基金会（Open Networking Foundation）
 * ONG：石油天然气行业（Oil & Natural Gas）
 * ONI：美国海军情报室（Office of Naval Intelligence）
+* ONNX：ONNX模型格式（Open Neural Network eXchange）
 * ONSI：美国缉毒局国家安全情报办公室（Office of National Security Intelligence）
 * OOA：面向对象分析（Object-Oriented Analysis）
 * OOAD：面向对象分析与设计（Object-Oriented Analysis & Design）
@@ -3667,6 +3678,7 @@
 * SFI：软件故障隔离（Software Fault Isolation）
 * SFP：安全功能策略（Security Function Policy）；简单功能点（Simple Function Point）；小型可热插拔光收发一体模块（Small Form-factor Pluggsable）
 * SFR：安全功能需求（Security Function Requirement）
+* SFSRC：顺丰安全应急响应中心（Shunfeng Security Response Center）
 * SFTP：SSH文件传输协议（SSH File Transfer Protocol）
 * SG：安全网关（Security Gateway）；子工作组（Sub Groups）；研究组（Study Group）
 * SGCC：智能电网网络安全委员会（Smart Grid Cybersecurity Committee）
@@ -3894,6 +3906,7 @@
 * SSPP：变电站串行保护协议（Substation Serial Protection Protocol）
 * SSPR：自助密码重置（Self-Service Password Reset）；单点登录密码重置（Single Sign-On Password Reset）
 * SSR：系统安全就绪（System Security Readiness）
+* SSRC：深信服安全应急响应中心（Sangfor Security Response Center）
 * SSRF：服务端请求伪造（Server-Side Request Forgery）
 * SSSD：系统安全服务守护进程（System Security Services Daemon）
 * SSTI：服务器端模板注入攻击（Server-Side Template Injection）
@@ -4124,6 +4137,7 @@
 * TSN：可信系统与网络（Trusted Systems & Networks）；过渡安全网络（Transition Security Network）
 * TSNE：t分布随机邻域嵌入（t-Distributed Stochastic Neighbor Embedding）
 * TSP：TCM服务提供者（TCM Service Provider）；TSS服务提供层（TSS Service Provider）；时间戳协议（Time Stamp Protocol）；电信服务优先级（Telecommunications Service Priority）；汽车远程服务提供商（Telematics Service Provider）
+* TSRC：腾讯安全应急响应中心（Tencent Security Response Center）
 * TSS：可信软件栈（TCG Software Stack）；时间戳服务（Time Stamp Service）；任务状态段（Task State Segment）
 * TST：时间戳令牌（Time Stamp Token）
 * TSU：技术支持小组（Technical Support Unit）
@@ -4365,6 +4379,7 @@
 * VSAN：虚拟存储区域网络（Virtual Storage Area Network）
 * VSI：虚拟存储集成商（Virtual Storage Integrator）
 * VSOC：汽车安全运营中心（Vehicle Security Operations Center）
+* VSRC：唯品会安全应急响应中心（VIP Security Respnse Center）
 * VSS：来访用户服务器（Visitor Subscriber Server）
 * VT：某威胁样本分析网站（VirusTotal）；虚拟化技术（Virtualization Technology）
 * VT-x：Intel虚拟化技术（Virtualization Technology for x86）
@@ -4525,6 +4540,7 @@
 * 2FA：双因素认证（Two Factor Authentication）
 * 2G：面向政府（To Government）；第二代移动通信（2nd Generation）
 * 2SV：两步验证（Two-Step Verification）
+* 360SRC：360安全应急响应中心（360 Security Respnse Center）
 * 3A：3A公有云（Aliyun，AWS & Azure）
 * 3C：中国强制认证（China Compulsory Certification）
 * 3DES：三重DES（Triple DES）
@@ -4540,4 +4556,5 @@
 * 5GSC：5G独立安全类别（5G Standalone Security Category）
 * 5W1H：六何分析法（Where，When，Who，What，Why，How）
 * 6G：第六代移动通信（6th Generation）
+* 71SRC：爱奇艺安全应急响应中心（iQIYI Security Response Center）
 * 8DPSK：8相位差分相移键控（8 Phase Differential Phase Shift Keying）
