@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4424**条，词组**5500**条。 
+当前收录缩略词形**4426**条，词组**5502**条。 
 
 
 
@@ -336,6 +336,7 @@
 * BES：散装电力系统（Bulk Electric System）
 * BFA：暴力破解攻击（Brute Force Attacking）
 * BFD：双向转发侦测（Bidirectional Forwarding Detection）
+* BFE：基础过滤引擎（Base Filtering Engine）
 * BFS：广度优先搜索（Breadth-First Search）
 * BFT：拜占庭容错问题（Byzantine Fault Tolerance）
 * BGAN：宽带全球区域网络（Broadband Global Area Network）
@@ -4423,6 +4424,7 @@
 * WF：派拓云端病毒防护服务（WildFire）
 * WfMS：工作流管理系统（Workflow Management System）
 * WFN：规范化名称（Well-Formed Names）
+* WFP：Windows过滤平台（Windows Filtering Platform）
 * WG：工作组（Working Group）
 * WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
 * WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
