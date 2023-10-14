@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4477**条，词组**5578**条。 
+当前收录缩略词形**4479**条，词组**5580**条。 
 
 
 
@@ -2406,6 +2406,7 @@
 * LEAP：轻量级可扩展认证协议（Lightweight Extensible Authentication Protocol）
 * LEEF：日志事件扩展格式（Log Event Extended Format）
 * LEO：低地球轨道（Low Earth Orbit）
+* LER：MPLS标签边缘路由器（Label Edge Router）
 * LFA：无环备选通道（Loop Free Alternate）
 * LFI：本地文件包含（Local File Inclusion）
 * LFSR：线性反馈移位寄存器（Linear Feedback Shift Register）
@@ -2455,6 +2456,7 @@
 * LSN：日志序列号（Log Sequence Number）
 * LSP：MPLS标签交换路径（Label Switched Path）
 * LSPP：标记安全保护轮廓（Labeled Security Protection Profile）
+* LSR：MPLS标签交换路由器（Label Switch Router）
 * LSTM：长短期记忆（Long Short-Term Memory）
 * LSW：阿里云综合接入交换机（integrated access SWitch,原LVS SWitch）
 * LTE：3G移动网长期演进技术（Long Term Evolution）
