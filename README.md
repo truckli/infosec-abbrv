@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4426**条，词组**5502**条。 
+当前收录缩略词形**4477**条，词组**5578**条。 
 
 
 
@@ -46,6 +46,7 @@
 * ABC：敏捷商业协会（Agile Business Consortium）
 * ABI：基于活动的情报（Activity-Based Intelligence）；应用二进制接口（Application Binary Interface）
 * ABIS：自动生物特征识别系统（Automated Biometric Identification System）
+* ABM：阿里私有云大数据管理器（Apsara Big Data Manager）
 * ABMS：先进战斗管理系统（Advanced Battle Management System）
 * ABNT：巴西国家标准化组织（葡萄牙语：Associação Brasileira de Normas Técnicas）
 * ABS：电子防抱死刹车系统（Anti-lock Braking System）
@@ -116,6 +117,7 @@
 * AFIWC：美国空军信息战中心（Air Force Information Warfare Center）
 * AFLCMC：美国空军生命周期管理中心（Air Force Life Cycle Management Center）
 * AFMC：美国空军装备司令部（Air Force Materiel Command）
+* AFN：反欺诈网络（Anti-Fraud Network）
 * AFOSI：美国空军特别调查办公室（Air Force Office of Special Investigation）
 * AFOTEC：美国空军作战测试和评估中心（Air Force Operational Test & Evaluation Center）
 * AFP：反欺诈平台（Anti-Fraud Platfrom）
@@ -127,11 +129,13 @@
 * AFWIC：美国空军作战一体化中心（Air Force Warfighting Integration Capability）
 * AG：接入网关（Access Gateway）；美国司法部部长（Attorney General）
 * AGA：美国天然气协会（American Gas Association）
+* AGG：MPLS汇聚层设备（AGGregation）
 * AGI：通用人工智能（Artificial General Intelligence）
 * AGM：隶属图模型（Affiliation Graph Model）
 * AGP：加速图形端口（Accelerated Graphics Port）
 * AH：认证头部（Authentication Header）；接受主机（Accept Host）
 * AHA：美国医院协会（American Hospital Association）
+* AHAS：应用高可用服务（Application High Availability Service）
 * AI：人工智能（Artificial Intelligence）
 * AICA：自主智能网络防御代理（Autonomous Intelligent Cyber Defense Agent）
 * AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
@@ -161,7 +165,7 @@
 * AKC：非对称密钥加密（Asymmetric Key Cryptography）
 * AKE：鉴别密钥交换（Authenticated Key Exchange）
 * AKM：鉴别与密钥管理（Authentication & Key Management）
-* ALB：应用负载均衡器（Application Load Balancer）
+* ALB：应用程序负载均衡器（Application Load Balancer）
 * ALE：年化损失预期（Annualized Loss Expectancy）
 * ALFA：授权策略简易语言（Abbreviated Language For Authorization）
 * ALM/PLM：应用生命周期管理/产品生命周期管理（Application Lifecycle Management/Product Lifecycle Management）
@@ -261,6 +265,7 @@
 * ASTARTE："快速战术执行的空域全感知"（Airspace Total Awareness for Rapid Tactical Execution）
 * ASTO：应用安全测试编排（Application Security Testing Orchestration）
 * ASV：PCI认可扫描供应商（Approved Scanning Vendor for PCI）
+* ASW：阿里云接入层交换机（Access SWitch）
 * AT：意识与培训（Awareness & Training）
 * ATA：ATA接口（Advanced Technology Attachment）
 * ATAPI：ATA 数据包接口（ATA Packet Interface）
@@ -287,6 +292,7 @@
 * AVIEN：防病毒信息交换网络（Antivirus Information Exchange Network）
 * AVP：属性值对（Attribute-Value Pair）
 * AVPTCC：计算机病毒防治产品检验中心（Anti-Virus Products Testing and Certification Center）
+* AVS：阿里云虚拟交换机（Aliyun Virtual Switch）；应用虚拟交换机（Application Virtual Switch）；阿里专有云虚拟交换机（Apsara Virtual Switch）
 * AVX：高级向量扩展（Advanced Vector Extensions）
 * AWARE：机构级自适应风险枚举（Agency-Wide Adaptive Risk Enumeration）
 * AWGN：加性高斯白噪声（Additive White Gaussian Noise）
@@ -468,7 +474,7 @@
 * CARET：网络分析知识库探索工具（Cyber Analytic Repository Exploration Tool）
 * CARO：计算机反病毒研究组织（Computer Anti-virus Researchers Organization）
 * CARTA：持续自适应风险与信任评估（Continuous Adaptive Risk & Trust Assessment）
-* CAS：集中式认证服务（Central Authentication Service）；持续应用安全（Continuous Application Security）；中国科学院（Chinese Academy of Sciences）；中国标准化协会（China Association for Standardization）
+* CAS：集中式认证服务（Central Authentication Service）；持续应用安全（Continuous Application Security）；中国科学院（Chinese Academy of Sciences）；中国标准化协会（China Association for Standardization）；客户接入服务器（Client Access Server）
 * CASB：云接入安全代理（Cloud Access Security Broker）
 * CASCO：ISO合格评定委员会（ISO Committee on Conformity Assessment）
 * CASD：控制机构安全域（Controlling Authority Security Domain）
@@ -520,6 +526,7 @@
 * CCIA：中国网络安全产业联盟（China Cybersecurity Industry Alliance）
 * CCID：中国电子信息产业发展研究院（China Center for Information Industry Development）
 * CCIE：思科认证网络专家（Cisco Certified Internetwork Expert）
+* CCIP：跨链互操作性协议（Cross-Chain Interoperability Protocol）
 * CCIPS：美国司法部刑事司计算机犯罪和知识产权处（Computer Crime and Intellectual Property Section）
 * CCIR：国际无线电咨委会（法语：Comité Consultatif International pour la Radio）；指挥官关键情报需求（Commander's Critical Information Requirements）
 * CCITT：国际电报电话咨委会（法语：Comité Consultatif International Téléphonique et Télégraphique）
@@ -584,7 +591,7 @@
 * CDSS：云提供的安全服务（Cloud-Delivered Security Service）
 * CDT：网络数字孪生（Cyber Digital Twin）
 * CDWG：反虚假信息军事演习（Countering Disinformation Wargame）
-* CE：网络窃取（Cyber Exploitation）；欧洲合格标志（法语：Conformité Européene）；计算机工程（Computer Engineering）；客户支持部门（Customer Engineering）；客户支持工程师（Customer Engineer）
+* CE：网络窃取（Cyber Exploitation）；欧洲合格标志（法语：Conformité Européene）；计算机工程（Computer Engineering）；客户支持部门（Customer Engineering）；客户支持工程师（Customer Engineer）；MPLS客户边缘（Customer Edge）
 * CEATI：网络安全威胁情报生态联盟（Cybersecurity Ecology Alliance of Threat Intelligence）
 * CECPQ：综合椭圆曲线抗量子协议（Combined Elliptic-Curve and Post-Quantum）
 * CECPQ2：组合椭圆曲线和后量子密钥交换（Combined Elliptic Curve and Post-Quantum Key Exchange）
@@ -633,6 +640,7 @@
 * CGC：DARPA网络安全挑战赛（Cyber Grand Challenge）
 * CGDCC：政务计算机终端核心配置（Chinese Government Desktop Core Configuration）
 * CGI： 通用网关接口（Common Gateway Interface）；美国海岸警卫队调查处（Coast Guard Investigative Service）
+* CGNAT：运营商级网络地址转换（Carrier-Grade NAT）
 * CGRC：治理，风险管理与合规职业认证（Certified Governance, Risk & Compliance）
 * CGS：社区黄金标准框架（Community Gold Standard）
 * CGTN：中国国际电视台（China Global Television Network）
@@ -711,10 +719,12 @@
 * CJEU：欧洲联盟法院（Court of Justice of the European Union）
 * CK：ClickHouse数据库（ClickHouse）；Cohn-Kanade数据集（Cohn-Kanade）；列键（Column Key）
 * CKG：网络安全知识图谱（Cybersecurity Knowledge Graph）
+* CLB：传统型负载均衡CLB（Classic Load Balancer）
 * CLFS：通用日志文件系统（Common Log File System）
 * CLG：社区主导型增长（Community-Led Growth）
 * CLI：命令行界面（Command-Line Interface）；通用语言基础设施（Common Language Infrastructure）
 * CLOB：字符大对象（Character Large Object）
+* CLOS：CLOS数据中心网络架构（以研究人员Charles Clos命名）
 * CloudSPF：云安全策略框架（Cloud Security Policy Framework）
 * CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer）
 * CLS：无证书签名（Certificateless Signature）；CEE日志语法（CEE Log Syntax）；承包商后勤支持（Contractor Logistics Support）
@@ -860,7 +870,7 @@
 * CRQ：网络风险量化（Cyber Risk Quantification）
 * CRR：网络韧性评估（Cyber Resilience Review）
 * CRRA：网络风险补救分析（Cyber Risk Remediation Analysis）
-* CRS：美国国会调查局（Congress Research Service）；协作机器人系统（Collaborative Robotics System）
+* CRS：协作机器人系统（Collaborative Robotics System）；共同随机字符串（Common Random String）；美国国会调查局（Congress Research Service）
 * CRSA：CREST注册安全分析师（CREST Registered Security Analyst）
 * CRSM：网络空间资源测绘（Cyberspace Resource Surveying & Mapping）
 * CRSRA：商业遥感监管事务（Commercial Remote Sensing Regulatory Affairs）
@@ -889,6 +899,7 @@
 * CSET：CISA网络安全评估工具（Cyber Security Evaluation Tool）；美国网络空间安全与新兴技术局（Cybersecurity & Emerging Technologies）
 * CSF：网络安全框架（Cybersecurity Framework）
 * CSFLE：客户端字段级加密（Client-Side Field Level Encryption）
+* CSG：MPLS基站侧网关（Cell Site Gateway）
 * cSHAKE：可定制SHAKE函数（customizable SHAKE）
 * CSI：计算机安全研究所（Computer Security Institute）
 * CSIA：网络安全和信息保障（Cyber Security & Information Assurance）
@@ -909,7 +920,7 @@
 * CSPEC：公安部信息安全等级保护评估中心（MPS Information Classified Protection Evaluation Center）
 * CSPM：云安全策略管理（Cloud Security Policy Management）；云安全态势管理（Cloud Security Posture Management）
 * CSPRNG：密码学安全的伪随机数生成器（Cryptographically Secure Pseudo-Random Number Generator）
-* CSR：凭证签发请求（Certificate Signing Request）；控制状态寄存器（Control and Status Register）
+* CSR：凭证签发请求（Certificate Signing Request）；控制状态寄存器（Control & Status Register）；思科云服务路由器（Cloud Services Router）；MPLS基站侧路由器（Cell Site Router）
 * CSRB：美国网络安全审查委员会（Cyber Safety Review Board）
 * CSRC：计算机安全资源中心（Computer Security Resource Center）
 * CSRF：跨站请求伪造（Cross Site Request Forgery）
@@ -928,6 +939,7 @@
 * CSTR：云安全技术要求（Cloud Security Technology Requirements）
 * CSU：通道服务单元（Channel Service Unit）
 * CSV：逗号分隔值（Comma-Separated Values）；网络安全验证（Cyber Security Validation）
+* CSW：阿里云内网接入交换机（Customer access SWitch）
 * CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）
 * CTA：认知任务分析（Cognitive Task Analysis）；消费者技术协会（Consumer Technology Association）
 * CTAP：客户端认证器协议（Client to Authenticator Protocol）
@@ -1073,6 +1085,7 @@
 * DEA：美国缉毒局（United States Drug Enforcement Administration）
 * DEC：DEC公司（Digital Equipment Corporation）
 * DECC：国防企业计算中心（Defense Enterprise Computing Centers）
+* DECO：去中心化预言协议（DECentralized Oracle）
 * DECT：数码增强无绳电话（Digital Enhanced Cordless Telecommunications）
 * DEE：Dell加密企业版（Dell Encryption Enterprise）
 * DEFCON：DEFCON黑客年会（DEFCON Hacking Conference）；防御就绪条件（Defense Readiness Condition）
@@ -1156,6 +1169,7 @@
 * DLR：分布式逻辑路由器（Distributed Logical Router）
 * DLT：分布式账本技术（Distributed Ledger Technology）
 * DLV：DNSSEC旁路确认（DNSSEC Lookaside Validation）
+* DLWE：带错决策学习（Decisional Learning With Errors）
 * DM：桌面管理（Desktop Management）；数据集市（Data Mart）；检测模型（Detection Model）；目录管理器（Directory Manager）
 * DM2：DoDAF元模型（DoDAF Meta-Model）
 * DMA：直接存储器访问（Direct Memory Access）；动态恶意软件分析（Dynamic Malware Analysis）
@@ -1169,7 +1183,7 @@
 * DMN：决策模型和标记（Decision Model and Notation）
 * DMP：数据管理平台（Data Management Platform）
 * DMR：数码移动无线电（Digital Mobile Radio）
-* DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）；数据脱敏系统（Data Masking System）；驾驶员监控系统（Driver Monitor System）
+* DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）；数据脱敏系统（Data Masking System）；驾驶员监控系统（Driver Monitor System）；阿里云数据管理服务（Data Management Service）
 * DMSP：汽车联网数字化和出行服务提供商（Digital & Mobility Service Provider）
 * DMZ：隔离区（Demilitarized Zone）
 * DN：可分辨名称（Distinguished Name）；域名（Domain Name）
@@ -1208,6 +1222,7 @@
 * DOIP：数字对象接口协议（Digital Object Interface Protocol）
 * DoJ：美国司法部（Department of Justice）
 * DoN：美国海军部（Department of the Navy）
+* DON：去中心化预言机网络（Decentralized Oracle Network）
 * DONA：多纳基金会（DONA Foundation）
 * DOP：面向数据编程攻击（Data Oriented Programming）
 * DoS：拒绝服务攻击（Denial of Service）
@@ -1275,6 +1290,7 @@
 * DSTL：防务科技实验室（Defence Science & Technology Laboratory）
 * DSU：数据服务单元（Data Service Unit）
 * DSVPN：动态智能VPN（Dynamic Smart Virtual Private Network）
+* DSW：阿里云分布层交换机（Distribution SWitch）
 * DT：定义TWORD（Define TWORD）
 * DT&E：研发测试与评价（Developmental Test & Evaluation）
 * DTA：数据传输协议（Data Transfer Agreement）
@@ -1331,12 +1347,13 @@
 * EAX：EAX密码模态（Encrypt-then-Authenticate-then-Translate）；某32位寄存器代号（Extended AX）
 * EBA：端点行为分析（Endpoint Behavioral Analytics）；欧洲银行管理局（European Banking Authority）
 * EBCDIM：扩展二进制编码十进制交换模式（Extended Binary-Coded Decimal Interchange Mode）
+* eBGP：外部边界网关协议（external Border Gateway Protocol）
 * EBOM：工程物料清单（Engineering Bill of Materials）
 * EBP：某32位寄存器代号（Extended BP）
 * eBPF：扩展式伯克利包过滤器（extended Berkeley Packet Filter）
 * EBS：弹性块存储（Elastic Block Store）
 * EBX：某32位寄存器代号（Extended BX）
-* EC：边缘计算（Edge Computing）；纠删码（Erasure Coding）
+* EC：边缘计算（Edge Computing）；纠删码（Erasure Coding）；阿里云高速通道（Express Connect）
 * EC2：弹性计算云（Elastic Compute Cloud）
 * EC3：欧洲网络犯罪中心（European Cyber Crime Centre）
 * ECA：外部证书授权机构（External Certificate Authority）；欧洲审计院（European Court of Auditors）
@@ -1403,7 +1420,7 @@
 * EIGRP：增强内部网关路由协议（Enhanced Interior Gateway Routing Protocol）
 * EILP：显式指令级并行（Explicit Instruction Level Parallelism）
 * eIM：eSIM物联网远程管理器（eSIM IoT Remote Manager）
-* EIP：某32位寄存器代号（Extended IP）；以太坊改进文档（Ethereum Improvement Proposal）
+* EIP：某32位寄存器代号（Extended IP）；以太坊改进文档（Ethereum Improvement Proposal）；弹性公网IP（Elastic IP）
 * EIS：主管信息系统（Executive Information System）；企业基础设施解决方案（Enterprise Infrastructure Solutions）；企业信息系统（Enterprise Information System）
 * EISA：互联网暴露面分析（Exposed Internet Surface Analysis）
 * EITDR：企业信息技术数据库存储库（Enterprise Information Technology Database Repository）
@@ -1436,6 +1453,7 @@
 * EMTD：集成式移动目标防御（Ensembles of Moving Target Defenses）
 * EN：欧洲标准（European Norm）
 * eNB：eNodeB基站（evolved Node B）
+* ENI：弹性网络接口（Elastic Network Interfaces）
 * ENISA：欧洲网络与信息安全局（The European Union Agency for Cybersecurity）
 * eNodeB：eNodeB基站（evolved Node B）
 * ENT：软件许可模式（Entitlement Schema）
@@ -1495,7 +1513,7 @@
 * ESP：封装安全载荷（Encapsulate Security Payload）；企业安全计划（Enterprise-wide Security Program）；EFI系统分区（EFI System Partition）；事件流处理（Event Stream Processing）；某32位寄存器代号（Extended SP）；企业安全平台（Enterprise Security Platform）；估算和计划（EStimating & Planning）
 * ESP-L：企业授权管理系统（Enterprise Security Platform - Login）
 * ESPC：绿盟企业安全中心（Enterprise Security Planning Customer）
-* ESS：主管支持系统（Executive Support System）；终端安全管理系统（Endpoint Security System）；扩展服务集（Extended Service Set）
+* ESS：主管支持系统（Executive Support System）；终端安全管理系统（Endpoint Security System）；扩展服务集（Extended Service Set）；阿里云弹性伸缩服务（auto scaling，原称Elastic Scaling Service）
 * ESSA：增强共享式态势感知（Enhanced Shared Situational Awareness）
 * EST：安全传输登记（Enrollment over Secure Transport）
 * eSVN：嵌入式 UICC 规范版本号（embedded UICC Specification Version Number）
@@ -1571,7 +1589,7 @@
 * FDR：飞行数据记录器（Flight Data Recorder）
 * FDT：全双工吞吐量（Full Duplex Throughput）
 * FDX：金融数据交换（Financial Data Exchange）
-* FEC：前向纠错（Forward Error Correction）
+* FEC：前向纠错（Forward Error Correction）；MPLS转发等价类（Forward Equivalence Class）
 * FedRAMP：美国联邦风险与授权管理计划（Federal Risk and Authorization Management Program）
 * FEMA：联邦应急管理局（Federal Emergency Management Agency）
 * FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
@@ -1647,9 +1665,9 @@
 * FSMO：灵活单主操作（Flexible Single Master Operation）
 * FSO：俄罗斯联邦保护局（俄语拉丁化：Federalnaya sluzhba okhrany）
 * FSR：反馈移位寄存器（Feedback Shift Register）
-* FSS：金融服务部门（Financial Services Sector）
+* FSS：金融服务部门（Financial Services Sector）；公允排序服务（Fair Sequencing Services）
 * FT：故障容差（Fault Tolerance）
-* FTA：联邦交通管理局（Federal Transit Administration）
+* FTA：故障树分析（Fault Tree Analysis）；美国联邦交通管理局（Federal Transit Administration）
 * FTC：美国联邦贸易委员会（Federal Trade Commission）
 * FTD：火力威胁防御（Firepower Threat Defense）
 * FTE：全职人力工时（Full-Time Equivalents）
@@ -1774,10 +1792,11 @@
 * GS：额外段寄存器（G extra Segment）
 * GSA：美国联邦总务署（General Services Administration）
 * GSII：政府服务信息基础设施（Government Services Information Infrastructure）
-* GSLB：全局负载均衡（Global Server Load Balancing）
+* GSLB：全局负载均衡（Global Server Load Balancing）；全局负载均衡器（Global Server Load Balancer）
 * GSM：全球移动通讯系统（Global System for Mobile Communications）
 * GSMA：GSM协会（GSM Association）
 * GSN：GPRS支撑节点（GPRS Support Node）
+* GSW：Gentry-Sahai-Waters方案（Gentry-Sahai-Waters）
 * GTC：通用令牌卡（Generic Token Card）
 * GTI：全球威胁情报（Global Threat Intelligence）
 * GTK：组临时密钥（Group Temporal Key）
@@ -1806,6 +1825,7 @@
 * HAL：硬件抽象层（Hardware Abstraction Layer）
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
 * HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
+* HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
 * HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
 * HBS：基于硬件的安全（Hardware-Based Security）
 * HBSS：基于主机的安全系统（Host-Based Security System）
@@ -1942,12 +1962,14 @@
 * IBB：初始引导块（Initial Boot Block）
 * IBC：迭代块密码（Iterated Block Cipher）；标识密码（Identity-Based Cryptography）
 * IBE：基于身份的加密（Identity-Based Encryption）
+* iBGP：内部边界网关协议（internal Border Gateway Protocol）
 * IBM：国际商业机器公司（International Business Machines Corporation）
 * IBoE：以太网上的InfiniBand（InfiniBand over Ethernet）
 * IBOM：基础设施物料清单（Infrastructure Bill of Materials）
 * iBPMS：智能业务流程管理套件（intelligent Business Process Management Suite）
 * IBSS：独立基本服务集（Independent Basic Service Set）
 * IC：集成电路（Integrated Circuit）；情报界（Intelligence Community）
+* IC3：加密货币与合约计划（Initiative for CryptoCurrency and Contract）
 * ICA：中国兵器工业计算机应用技术研究所（Institute for Computer Application）；中级证书颁发机构（Intermediate Certificate Authority）
 * ICAM：身份、凭证与访问管理（Identity, Credential, and Access Management）；集成计算机辅助制造（Integrated Computer-Aided Manufacturing）
 * ICANN：互联网名称与数字地址分配机构（The Internet Corporation for Assigned Names and Numbers）
@@ -2077,7 +2099,7 @@
 * IOTA：IOTA加密币（希腊字母：Ι）
 * IoV：车联网（Internet of Vehicles）
 * IOV：I/O虚拟化（I/O Virtualization）
-* IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）
+* IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）；交互式证明（Interactive Proof）
 * IP-PBX：专用分组交换机（IP Private Branch eXchange）
 * IPA：身份、策略与审计（Identity, Policy & Audit）；物联网配置文件助理（IoT Profile Assistant）；智能流程自动化（Intelligent Process Automation）；日本IT处理推进机构（Information-technology Promotion Agency）
 * IPAA：国际隐私保护专业人员协会（International Association of Privacy Professionals）
@@ -2169,6 +2191,7 @@
 * ISTQB：国际软件测试资格委员会（International Software Testing Qualifications Board）
 * ISU：爱达荷州立大学（Idaho State University）
 * ISV：独立软件供应商（Independent Software Vendor）
+* ISW：阿里云外网接入交换机（Inter-connect SWitch）
 * IT：信息技术（Information Technology）
 * ITA：IT架构（IT Architecture）；美国国际贸易署（International Trade Administration）
 * ITAF：IT确保框架（IT Assurance Framework）
@@ -2372,6 +2395,7 @@
 * LCP：链路控制协议（Link Control Protocol）；发射控制策略（Launch Control Policy）
 * LCSA：伦敦通信安全局（London Communications Security Agency）
 * LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）
+* LDC：逻辑数据中心（Logical Data Center）
 * LDDT：逻辑数据库设计技术（Logical Database Design Technique）
 * LDT：本地描述符表（Local Descriptor Table）
 * LDTR：本地描述符表寄存器（Local Descriptor Table Register）
@@ -2429,8 +2453,10 @@
 * LSDB：链路状态数据库（Link-State Database）
 * LSM：Linux安全模块（Linux Security Module）
 * LSN：日志序列号（Log Sequence Number）
+* LSP：MPLS标签交换路径（Label Switched Path）
 * LSPP：标记安全保护轮廓（Labeled Security Protection Profile）
 * LSTM：长短期记忆（Long Short-Term Memory）
+* LSW：阿里云综合接入交换机（integrated access SWitch,原LVS SWitch）
 * LTE：3G移动网长期演进技术（Long Term Evolution）
 * LTK：长期密钥（Long-Term Key）
 * LTKUP：长期密钥更新程序（Long Term Key Update Procedures）
@@ -2440,6 +2466,7 @@
 * LUA：最小权限用户账户（Least-privileged User Account）
 * LUOV：UOV提升架构（Lifted Unbalanced Oil and Vinegar cryptosystem）
 * LVC：实时虚拟构造性（Live Virtual Constructive）
+* LVS：LVS负载均衡器（Linux Virtual Server）
 * LWE：带误差的学习（Learning With Errors）
 * LWR：带舍入学习问题（Learning With Rounding）
 
@@ -2510,6 +2537,7 @@
 * MEMS：微机电系统（Microelectromechanical Systems）
 * MES：制造执行系统（Manufacturing Execution System）；管理登记服务（Management Enrollment Service）；移动端点安全（Mobile Endpoint Security）
 * MFA：多因素认证（Multi-Factor Authentication）
+* MFHE：多密钥全同态加密（Multi-key FHE）
 * MFL：最大可预见损失（Maximum foreseeable loss）
 * MFLOP：每秒百万浮点运算数（Mega FLoating-point Operations Per Second）
 * MFR：托管文件复制（Managed File Replication）
@@ -2584,6 +2612,7 @@
 * MOTW：Web标记（Mark-of-the-Web）
 * MOU：谅解备忘录（Memorandum of Understanding）
 * MPA：多主管理员（Multi-Primary Administrator）
+* MPC：多方安全计算（Multi-Party Computation）
 * MPDRR：管理、保护、检测、响应和恢复（Management，Protection，Detection，Reaction & Recovery）
 * MPE：任务伙伴环境（Mission Partner Environment）
 * MPEG：动态图片专家组（Motion Picture Experts Group）
@@ -2616,6 +2645,7 @@
 * MSF：一款渗透测试工具（MetaSploit Framework）
 * MSFT：微软公司（MicroSoFT corporation）
 * MSG：微分段（Micro-Segmentation）；消息（message）
+* MSHA：阿里云多活容灾产品（Multi-Site High Availability）
 * MSIS：信息安全理学硕士（Master of Science in Information Security）；模块短整数方案（Module Short Integer Solution）
 * MSISDN：移动订户国际订户目录号（Mobile Subscriber International Subscriber Directory Number）
 * MSISE：信息安全工程理学硕士（Master of Science in Information Security Engineering）
@@ -2804,6 +2834,7 @@
 * NITRD：美国网络信息技术研发计划（Network and Information Technology Research & Development）
 * NITS：全国信息技术标准化技术委员会（China National Information Technology Standardization Network）
 * NITSC：国家信息技术安全研究中心（National Research Center for Information Technology Security）
+* NLB：网络负载均衡器（Network Load Balancer）
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
 * NMF：国家任务部队（National Mission Force）
@@ -2861,6 +2892,7 @@
 * NSPD：美国国家安全总统令（National Security Presidential Directive）
 * NSPM：网络安全策略管理（Network Security Policy Management）
 * NSS：国家安全系统（National Security System）；名字服务切换器（Name Service Switch）
+* NSSA：网络安全态势感知（Network Security Situation Awareness）
 * NSSAAF：特定于网卡的身份验证和授权功能（Network Slice Specific Authentication & Authorization Function）
 * NSSF：网络切割选择功能（Network Slice Selection Function）
 * NSSTEC：国家保密科技测评中心（National Secrecy Science and Technology Evaluation Center）
@@ -2920,6 +2952,7 @@
 * OAMPT：操作、管理、维护、供应、调试（Operations, Administration， Maintenance， Provisioning & Troubleshooting）
 * OASD：美国国防部助理部长办公室（Office of the Assistant Secretary of Defense）
 * OASIS：结构化信息标准促进组织（Organization for the Advancement of Structured Information Standards）
+* OASW：带外接入交换机（Out-of-band Access SWitch）
 * OATH：开放认证计划（Initiative for Open Authentication）
 * OAuth：开放授权协议（Open Authentication）
 * OB：开放银行（Open Banking）
@@ -2939,7 +2972,7 @@
 * OCL：对象约束语言（Object Constraint Language）
 * OCO：攻击性网络行动（Offensive Cyber Operation）
 * OCP：开放计算项目（Open Compute Project）；OpenShift容器平台（OpenShift Container Platform）
-* OCR：光学字符识别（Optical Character Recognition）
+* OCR：光学字符识别（Optical Character Recognition）；链下报告（Off-Chain Reporting）
 * OCRM：网络安全和IT风险管理办公室（Office of Cybersecurity & IT Risk Management）
 * OCS：网络安全办公室（Office of CyberSecurity）
 * OCSF：开源网络安全架构框架（Open Cybersecurity Schema Framework）
@@ -2986,6 +3019,7 @@
 * OMB：美国行政管理和预算办公室（Office of Management and Budget）
 * OMC：运营维护中心（Operation & Maintenance Center）
 * OMG：对象管理组织（Object Management Group）
+* OMR：带外核心交换机（Out-of-band Management Router）
 * OMS：乘客监控系统（Occupancy Monitoring System）
 * ONC：国家协调员办公室（Office of the National Coordinator）
 * ONCD：美国国家网络总监办公室（Office of the National Cyber Director）
@@ -3009,7 +3043,7 @@
 * OpenSSF：开源安全基金会（Open Source Security Foundation）
 * OPM：美国人事管理办公室（United States Office of Personnel Management）
 * OPRF：不经意伪随机函数（Oblivious Pseudo Random Function）
-* OPS：开放式可插拔规范（Open Pluggable Specification）；每秒运算次数（Operations Per Second）
+* OPS：开放式可插拔规范（Open Pluggable Specification）；每秒运算次数（Operations Per Second）；运维（OPerationS）；阿里云OPS模块（OPerationS module）
 * OPS-5G：开放、可编程、安全的5G（Open Programmable Secure 5G）
 * OPSEC：行动安全（Operational Security）
 * ORB：对象请求代理（Object Request Broker）
@@ -3037,6 +3071,7 @@
 * OSSTMM：开源安全测试方法手册（Open Source Security Testing Methodology Manual）
 * OSTA：光存储技术协会（Optical Storage Technology Association）
 * OSTP：白宫科技政策办公室（Office of Science and Technology Policy）
+* OSW：带外汇聚交换机（Out-of-band SWitch）
 * OT：运营技术（Operational Technology）；不经意传输（Oblivious Transfer）；其他交易（Other Transaction）；组织级培训（Organizational Training）
 * OT&E：运行测试与评估（Operational Test & Evaluation）
 * OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
@@ -3078,6 +3113,7 @@
 * PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
 * PAD：伪现攻击检测（Presentation Attack Detection）
 * PAG：特权访问治理（Privileged Access Governance）
+* PAI：机器学习平台（Platform of Artificial Intelligence）
 * PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
 * PaLM：PaLM模型（Pre-trained Language Model）
 * PALMA：组合分析机器（Portfolio Analysis Machine）
@@ -3140,7 +3176,7 @@
 * PDRR：防护、检测、响应、恢复（Protection,Detection,Reaction & Recovery）
 * PDS：策略决策服务（Policy Decision Service）
 * PDU：协议数据单元（Protocol Data Unit）；电源分配单元（Power Distribution Unit）
-* PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；提供商边缘（Provider Edge）；策略引擎（Policy Engine）；处理器元件（Processor Element）；物理与环境保护（Physical & Environmental Protection）
+* PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；策略引擎（Policy Engine）；处理器元件（Processor Element）；物理与环境保护（Physical & Environmental Protection）；MPLS提供商边缘（Provider Edge）
 * PEAP：保护性可扩展认证协议（Protective Extensible Authentication Protocol）；受保护的可扩展认证协议（Protected Extensible Authentication Protocol）
 * PEB：进程环境块（Process Environment Block）
 * PEC：隐私计算（Privacy Enhancing Computing）
@@ -3172,6 +3208,7 @@
 * PHI：个人健康信息（Personal Health Information）；健康信息保护（Protected Health Information）
 * PHM4S：智能制造中可靠操作的预测和健康管理（Predictive and Health Management for Reliable Operations in Smart Manufacturing）
 * PHMSA：美国管道和危险品安全管理局（Pipeline & Hazardous Materials Safety Administration）
+* PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
 * PHY：物理层（Physical Layer）
 * PI：个人信息（Personal Information）；流程信息（Process Information）
 * PIA：隐私影响评估（Privacy Impact Assessment）
@@ -3471,6 +3508,7 @@
 * ROI：产投比（Return On Investment）
 * ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
 * ROP：面向返回编程（Return Oriented Programming）
+* ROS：阿里云资源编排服务（Resource Orchestration Service）
 * ROSC：区域运营与安全中心（Regional Operations & Security Center）
 * ROSE：远程操作服务元素（Remote Operations Service Element）
 * RoT：信任根（Root of Trust）
@@ -3628,6 +3666,7 @@
 * SDA：美国空军太空发展局（Space Development Agency）
 * SDDC：软件定义数据中心（Software-Defined Data Center）
 * SDDL：安全描述符定义语言（Security Descriptor Definition Language）
+* SDDP：敏感数据发现与保护（Sensitive Data Discovery & Protection）
 * SDE：软件开发环境（Software Development Environment）
 * SDEI：软件委托异常接口（Software Delegated Exception Interface）
 * SDG：合成数据生成（Synthetic Data Generation）
@@ -3715,7 +3754,7 @@
 * SIM：用户身份模块（Subscriber Identity Module）；安全信息管理（Security Information Management）
 * SIMD：单指令多数据流技术（Single Instruction Multiple Data）
 * SINIT：安全初始化验证代码模块（Secure Initialization Authenticated Code Module）
-* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）；安全感知平台（Security Intelligence Platform）；系统完整性保护（System Integrity Protection）
+* SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）；安全感知平台（Security Intelligence Platform）；系统完整性保护（System Integrity Protection）；流式交互证明（streaming interactive proof）
 * SiP：系统级封装（System in Package）；硅提供商（Silicon Provider）
 * SIPOC：供应商、输入、处理、输出和客户（Suppliers, Inputs, Process, Outputs & Customers）
 * SIPRNet：机密IP路由网（Secret Internet Protocol Router Network）
@@ -3759,7 +3798,7 @@
 * SMAP：监管态访问保护（Supervisor Mode Access Prevention）
 * SMB：服务器消息块协议（Server Message Block）；中小企业（Small to Medium-sized Business）；标准化管理领导组（Standardization Management Board）
 * SMBus：系统管理总线（System Management Bus）
-* SMC：思科Stealthwatch管理控制台（Stealthwatch Management Console）；安全监控呼叫（Secure Monitor Call）
+* SMC：思科Stealthwatch管理控制台（Stealthwatch Management Console）；安全监控呼叫（Secure Monitor Call）；安全多方计算（Secure Multi-party Computation）
 * SME：中小企业（Small and Medium Enterprise）；领域专家（Subject Matter Expert）；安全内存加密（Secure Memory Encryption）
 * SMEP：监管态执行保护（Supervisor Mode Execution Prevention）
 * SMF：会话管理功能（Session Management Function）
@@ -3862,7 +3901,7 @@
 * SRES：签名响应（Signed Response）
 * SRI：SRI国际公司（Stanford Research Institute）
 * SRK：存储根密钥（Storage Root Key）
-* SRM：安全风险管理（Security Risk Management）；站点恢复管理器（Site Recovery Manager）
+* SRM：安全风险管理（Security Risk Management）；站点恢复管理器（Site Recovery Manager）；供应商关系管理（Supplier Relationship Management）
 * SRMA：行业风险管理机构（Sector Risk Management Agencies）
 * SRMNI："安全与弹性移动网络基础设施"计划（Secure & Resilient Mobile Network Infrastructure）
 * SRO：STIX关系对象（STIX Relationship Object）
@@ -4028,9 +4067,9 @@
 * TDMA：时分多址（Time Division Multiple Access）
 * TDO：受信域对象（Trusted Domain Object）
 * TDoS：电话拒绝服务（Telephony Denial of Service）
-* TDP：威胁感知平台（Threat Detection Platform）
+* TDP：威胁感知平台（Threat Detection Platform）；散热设计功耗（Thermal Design Power）
 * TDR：威胁检测与响应（Threat Detection & Response）
-* TDS：交易型数据存储（Transaction Data Store）
+* TDS：交易型数据存储（Transaction Data Store）；威胁检测服务器（Threat Detection Service）
 * TDSC：IEEE可靠性与安全计算期刊（IEEE Transactions on Dependable and Secure Computing）
 * TDT：威胁检测技术（Threat Detection Technology）
 * TDX：英特尔信任域扩展（Trust Domain Extensions）
@@ -4187,6 +4226,7 @@
 * UCMJ：美国军事法典统一法典（Uniform Code of Military Justice）
 * UCO：统一安全本体（Unified Cybersecurity Ontology）
 * UCP：统一指挥计划（Unified Command Plan）
+* uCPE：通用客户现场设备（universal Customer Premises Equipment）
 * UCR：统一功能要求（Unified Capabilities Requirements）
 * UCS：统一计算系统（Unified Computing System）
 * UCSB：加利福尼亚大学圣巴巴拉分校（University of California, Santa Barbara）
@@ -4302,12 +4342,15 @@
 * VB：Visual Basic语言（Visual Basic）
 * VBA：VB宏语言（Visual Basic for Applications）
 * VBOS：VBOS计划（Vulnerabilities Below The Operating System）
+* VBR：虚拟边界路由器（Virtual Border Router）
 * VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
 * VCD：视频光盘（Video CD）
 * VCF：VMware云基础（VMware Cloud Foundation）
 * VCN：虚拟云网络（Virtual Cloud Network）
+* vCPE：虚拟化客户现场设备（virtual Customer Premise Equipment）
 * VCR：录像机（Video Cassette Recorder）
 * vCS：vCenter服务器（vCenter Server）
+* vCSR：虚拟基站侧路由器（virtual Cell Site Router）
 * VCU：整车控制器（Vehicle Control Unit）
 * VDB：漏洞库（Vulnerability Database）
 * VDC：虚拟数据中心（Virtual Data Center）；视频显示控制器（Video Display Controler）
@@ -4355,10 +4398,12 @@
 * VOC：客户发声（Voice Of the Customer）
 * VOI：虚拟操作系统设施（Virtual OS Infrastructure）
 * VoIP：IP语音承载（Voice-over-IP）
+* VOLE：向量模糊线性评估（Vector Oblivious Linear Evaluation）
 * VoLTE：LTE语音承载（Voice-over-LTE）
 * VP：副总裁（Vice President）
 * VPAM：厂商特权访问管理（Vendor Privileged Access Management）
 * VPC：虚拟私有云（Virtual Private Cloud）
+* vPE：虚拟提供商边缘（virtual Provider Edge）
 * VPLS：虚拟专用局域网服务（Virtual Private LAN Service）
 * VPN：虚拟专用网络（Virtual Private Network）
 * VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
@@ -4379,7 +4424,9 @@
 * VSAM：虚拟存储访问方法（Virtual Storage Access Method）
 * VSAN：虚拟存储区域网络（Virtual Storage Area Network）
 * VSI：虚拟存储集成商（Virtual Storage Integrator）
+* VSM：向量空间模型（Vector Space Model）
 * VSOC：汽车安全运营中心（Vehicle Security Operations Center）
+* VSR：虚拟服务路由器（Virtual Service Router）
 * VSRC：唯品会安全应急响应中心（VIP Security Respnse Center）
 * VSS：来访用户服务器（Visitor Subscriber Server）
 * VT：某威胁样本分析网站（VirusTotal）；虚拟化技术（Virtualization Technology）
@@ -4484,6 +4531,7 @@
 * XEdDSA：XEdDSA算法（X Edwards-curve DSA）
 * XEX：异或、加密再异或运算（Xor-Encrypt-Xor）
 * XFF：X-Forwarded-For首部行（X-Forwarded-For）
+* XGW：阿里云洛神网关服务器（eXtendable GateWay）
 * XHR：XMLHttpRequest（XMLHttpRequest）
 * XMI：XML元数据交换（XML Metadata Interchange）
 * XML：可扩展标记语言（Extensible Markup Language）
@@ -4521,6 +4569,8 @@
 * ZDA：零日攻击（Zero-Day Attack）
 * ZDI：某国际软件漏洞计划（Zero Day Initiative）
 * ZK：零知识（Zero Knowledge）
+* ZK-SNARK：零知识简洁非交互知识证明（Zero-Knowledge Succinct Non-Interactive Argument of Knowledge）
+* ZK-STARK：零知识可扩展透明知识证明（Zero-Knowledge Scalable Transparent Argument of Knowledge）
 * ZKP：零知识证明（Zero-Knowledge Proof）
 * ZSK：区域签名密钥（Zone-Signing Key）
 * ZSO：零登录（Zero Sign-On）
@@ -4558,5 +4608,6 @@
 * 5GSC：5G独立安全类别（5G Standalone Security Category）
 * 5W1H：六何分析法（Where，When，Who，What，Why，How）
 * 6G：第六代移动通信（6th Generation）
+* 6M：人员、机器、原料、方法、环境和测量（Manpower, Method, Machine, Material, Milieu & Measurement）
 * 71SRC：爱奇艺安全应急响应中心（iQIYI Security Response Center）
 * 8DPSK：8相位差分相移键控（8 Phase Differential Phase Shift Keying）
