@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4479**条，词组**5580**条。 
+当前收录缩略词形**4483**条，词组**5585**条。 
 
 
 
@@ -295,6 +295,7 @@
 * AVS：阿里云虚拟交换机（Aliyun Virtual Switch）；应用虚拟交换机（Application Virtual Switch）；阿里专有云虚拟交换机（Apsara Virtual Switch）
 * AVX：高级向量扩展（Advanced Vector Extensions）
 * AWARE：机构级自适应风险枚举（Agency-Wide Adaptive Risk Enumeration）
+* AWD：AWD网络安全赛制（Attack With Defense）
 * AWGN：加性高斯白噪声（Additive White Gaussian Noise）
 * AWS：亚马逊云服务（Amazon Web Services）
 * AWWA：美国自来水厂协会（American Water Works Association）
@@ -1796,6 +1797,7 @@
 * GSM：全球移动通讯系统（Global System for Mobile Communications）
 * GSMA：GSM协会（GSM Association）
 * GSN：GPRS支撑节点（GPRS Support Node）
+* GSOC：全球安全运营中心（Global Security Operations Center）
 * GSW：Gentry-Sahai-Waters方案（Gentry-Sahai-Waters）
 * GTC：通用令牌卡（Generic Token Card）
 * GTI：全球威胁情报（Global Threat Intelligence）
@@ -2287,6 +2289,7 @@
 * JPEG：联合照片专家组（Joint Photographic Experts Group）
 * JPES：联合计划与执行服务（Joint Planning and Execution Services）
 * JPO-STC：特殊技术反制联合计划办公室（Joint Program Office for Special Technical Countermeasures）
+* JRASP：Java应用自我保护系统（Java Runtime Application Self-Protection）
 * JRE：Java运行时环境（Java Runtime Environment）
 * JRSS：联合区域安全栈（Joint Regional Security Stack）
 * JRTF：联合勒索软件特别工作组（Joint Ransomware Task Force）
@@ -3919,7 +3922,7 @@
 * SSAA：系统安全授权协议（Systems Security Authorization Agreement）
 * SSADM：结构化系统分析与设计方法（Structured System Analysis & Design Method）
 * SSAE：审计鉴证准则（Statement on Standards for Attestation Engagements）
-* SSC：安全服务容器（Secure Service Container）
+* SSC：安全服务容器（Secure Service Container）；SSC网络安全大会（CloverSec Security Conference）
 * SSCP：安全SCADA通信协议（Secure SCADA Communications Protocol）；系统安全认证从业者（Systems Security Certified Practitioner）
 * SSCS：网络安全滑动标尺（the Sliding Scale of Cyber Security）
 * SSCT：国家资助的网络威胁（State Sponsored Cyber Threat）
@@ -4526,6 +4529,7 @@
 * XC：信创（拼音：Xin Chuang）
 * XCCDF：可扩展配置检查表描述格式（The eXtensible Configuration Checklist Description Format）
 * XCEP：X.509证书登记策略协议（X.509 Certificate Enrollment Policy Protocol）
+* XCTF：XCTF国际网络攻防联赛（X, Capture The Flag）
 * XD：不可执行位（eXecute Disable bit）
 * XD3：极端分布拒绝服务防御项目（Extreme Distributed Denial of Service Defense）
 * XDP：快速数据路径（eXpress Data Path）
