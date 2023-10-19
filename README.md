@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4488**条，词组**5591**条。 
+当前收录缩略词形**4491**条，词组**5595**条。 
 
 
 
@@ -703,6 +703,8 @@
 * CISM：信息安全管理师（Certified Information Security Manager）
 * CISO：注册信息安全管理员（Certified Information Security Officer）；首席信息安全官（Chief Information Security Officer）
 * CISP：注册信息安全专业人员（Certified Information Security Professional）
+* CISP-IRE：CISP应急响应工程师（Certified Information Security Professional - Incident Response Engineer）
+* CISP-IRS：CISP应急响应工程师（Certified Information Security Professional - Incident Response Specialist）
 * CISPA：德国亥姆霍兹信息安全中心（Center for IT-Security, Privacy and Accountability）
 * CISQ：信息与软件质量联盟（Consortium for Information & Software Quality）
 * CISR：网络信息安全研究会议（Cyber & Information Security Research conference）
@@ -2130,6 +2132,7 @@
 * IPX：网际分组交换协议（Internetwork Packet Exchange）
 * IR：事件响应（Incident Response）；情报需求（Intelligence Requirement）；信息检索（Information Retrieval）；中间代码（Intermediate Representation）；跨机构报告（Interagency Report）；内部报告（Internal Report）；身份根（Identity Root）
 * IRC：互联网中继聊天（Internet Relay Chat）
+* IRE：应急响应工程师（Incident Response Engineer）
 * IRET：中断返回（Interrupt Return）
 * IRK：身份解析密钥（Identity Resolving Key）
 * IRM：内联参考监视器（Inlined Reference Monitor）；集成风险管理（Integrated Risk Management）；内部风险管理（Insider Risk Management）
@@ -2137,7 +2140,7 @@
 * IRP：事件响应平台（Incident Response Platform）；事件响应计划（Incident Response Plan）
 * IRPF：基础设施韧性规划框架（Infrastructure Resilience Planning Framework）
 * IRQ：中断请求（Interrupt Request）
-* IRS：入侵响应系统（Intrusion Response Systems）；美国国税局（Internal Revenue Service）
+* IRS：入侵响应系统（Intrusion Response Systems）；应急响应工程师（Incident Response Specialist）；美国国税局（Internal Revenue Service）
 * IRT：事件响应小组（Incident Response Team）
 * IRTF：互联网研究任务组（Internet Research Task Force）
 * IS：信息系统（Information System）；国际标准（International Standard）
