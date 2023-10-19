@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4483**条，词组**5585**条。 
+当前收录缩略词形**4488**条，词组**5591**条。 
 
 
 
@@ -485,6 +485,7 @@
 * CAVP：NIST密码算法验证项目（Cryptographic Algorithm Validation Program）
 * CB：认证机构（Certification Body）
 * CBA：基于组件的架构（Component-Based Architecture）
+* CBaaS：云密码业务服务（Cryptography Business as a Service）
 * CBAC：基于主张的访问控制（Claims-Based Access Control）；基于上下文的访问控制（Context-Based Access Control）
 * CBAM：Cloudband应用程序管理器（Nokia Cloudband Application Manager）
 * CBC：密文块链接模态（Cipher Block Chaining）
@@ -627,6 +628,7 @@
 * CF：Cloudflare公司（Cloudflare）；CF卡（Compact Flash）；列族（Column Family）
 * CFA：特许金融分析师（Chartered Financial Analyst）
 * CFAA：美国计算机欺诈与滥用法案（Computer Fraud and Abuse Act）
+* CFaaS：云密码功能服务（Cryptography Function as a Service）
 * CFATS：化学设施反恐标准（Chemical Facility Anti-Terrorism Standards）
 * CFB：密文反馈模态（Cipher Feedback）
 * CFCA：中国金融认证中心（China Financial Certification Authority）
@@ -853,6 +855,7 @@
 * CQS：命令查询分离（Command and Query Separation）
 * CR：网络韧性（Cyber Resiliency）；网络恢复（Cyber Recovery）
 * CRA：代码重用攻击（Code Reuse Attack）
+* CRaaS：云密码资源服务（Cryptography Resource as a Service）
 * CRADA：合作研发协议（Cooperative Research & Development Agreement）
 * CRAMM：中央计算和电信机构风险分析与管理方法（Central computing & telecommunications agency Risk Analysis and Management Method）
 * CRASH：弹性自适应安全主机重设计计划（Clean-Slate Design of Resilient, Adaptive, Secure Hosts）
@@ -1566,7 +1569,7 @@
 * FAT：文件分配表（File Allocation Table）
 * FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
 * FBI：美国联邦调查局（Federal Bureau of Investigation）
-* FC：加拿大金融部（法语：Ministère des Finances Canada）
+* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）
 * FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * FC2：联邦式指挥与控制（Federated Command & Control）
 * FCA：英国金融行为管理局（Financial Conduct Authority）
@@ -2668,6 +2671,7 @@
 * MSTP：多业务传输平台（Multi-Service Transport Platform）
 * MSV：Mandiant安全验证（Mandiant Security Validation）
 * MT：机床（Machine Tool）
+* MTA：邮件转发代理（Mail Transfer Agent）
 * MTBF：平均故障间隔（Mean Time Between Failures）
 * MTC：移动威胁目录（Mobile Threat Catalogue）
 * MTD：移动目标防御（Moving Target Defense）；最大允许中断时间（Maximum Tolerable Downtime）；移动威胁防御（Mobile Threat Defense）
@@ -3548,9 +3552,10 @@
 * RSU：路侧单元（Road Side Unit）
 * RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）
 * RT&E：研究、测试与评估（Research, Test & Evaluation）
-* RTC：实时通信（Real-time Communication）
+* RTC：实时音视频技术（Real-Time Communication）
 * RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
 * RTCP：RTP控制协议（RTP Control Protocol）
+* RTE：实时互联网大会（Real-Time 、Engagement）
 * RTG：研究任务组（Research Task Group）
 * RTM：可信度量根（Root of Trust for Measurement）
 * RTMP：实时消息协议（Real-Time Messaging Protocol）
