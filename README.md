@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4491**条，词组**5595**条。 
+当前收录缩略词形**4495**条，词组**5600**条。 
 
 
 
@@ -1042,6 +1042,7 @@
 * DBTF：开发先于事实（Development Before the Fact）
 * DC：域控制器（Domain Controller）；主数据中心（Data Center）；DEFCON黑客年会（DEFCON Hacking Conference）
 * DC3：美国国防部网络犯罪中心（the Department of Defense Cyber Crime Center）
+* DCA：数据中心联盟（Data Center Alliance）
 * DCAP：以数据为中心的审计和保护（Data Centric Audit and Protection）
 * DCB：数据中心桥接（Data Center Bridging）
 * DCBDA：防御性网络战损评估（Defensive Cyber Battle Damage Assessment）
@@ -1767,7 +1768,7 @@
 * GNSS：全球导航卫星系统（Global Navigation Satellite System）
 * GNU：GNU操作系统计划（GNU's Not Unix）
 * GoIP：基于互联网协议的信号传输（GSM over Internet Protocol）
-* GOPS：每秒十亿次运算数（Giga Operations Per Second）
+* GOPS：每秒十亿次运算数（Giga Operations Per Second）；全球运维大会（Global OPs Summit）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
 * GOT：全局偏移表（Global Offset Table）
 * GOTS：政用现货（Government Off-The-Shelf）
@@ -1830,6 +1831,7 @@
 * HAF：空军总部（Headquarters Air Force）
 * HAG：高保障卫士（High Assurance Guard）
 * HAL：硬件抽象层（Hardware Abstraction Layer）
+* HAR：HAR文件格式（HTTP Archive）
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
 * HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
 * HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
@@ -3048,6 +3050,7 @@
 * OODA：观察、知悉、决策、行动循环（Observe, Orient, Decide, Act）
 * OOM：内存不足（Out Of Memory）；面向对象建模（Object-Oriented Modeling）
 * OOP：面向对象编程（Object-Oriented Programming）
+* OOPSA：开放运维联盟（Open OPeraionS Alliance）
 * OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
 * OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
@@ -3108,6 +3111,7 @@
 * OWA：Outlook Web应用（Outlook Web App）
 * OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
 * OWL：Web本体语言（Web Ontology Language）
+* OWS：开放Web运维管理系统（Open Web System Administration）
 * OXC：光交叉连接（Optical Cross Connect）
 
 
