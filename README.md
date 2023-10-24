@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4495**条，词组**5600**条。 
+当前收录缩略词形**4499**条，词组**5612**条。 
 
 
 
@@ -257,7 +257,7 @@
 * ASP：应用服务供应商（Application Service Provider）
 * ASPM：应用安全态势管理 （Application Security Posture Management）
 * ASPPS：账户服务支付服务提供商（Account Servicing Payment Service Providers）
-* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）
+* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）；聚合服务路由（Aggregated Services Router）
 * ASRC：阿里安全响应中心（Alibaba Security Response Center）
 * ASSIST：自动化系统安全事件支持团队（Automated System Security Incident Support Team）
 * AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）
@@ -791,6 +791,7 @@
 * CNSS：美国国家安全系统委员会（Committee on National Security Systems）
 * CNSSI：美国国家安全系统委员会指示（Committee on National Security Systems Instruction）
 * CNSSP：国家安全系统委员会出版物（Committee on National Security Systems Publication）
+* CNTD：中国网络安全威胁情报共享平台（ChiNa Threaten Database）
 * CNVD：国家信息安全漏洞共享平台（China National Vulnerability Database）
 * CNVDB：通用网络产品安全漏洞专业库（Common Network-product Vulnerabiliy DataBase）
 * CNW：CSIRT网络（CSIRT NetWork）
@@ -958,7 +959,7 @@
 * CTID：威胁知情防御中心（Center for Threat-Informed Defense）
 * CTIIC：美国网络威胁情报整合中心（the Cyber Threat Intelligence Integration Center）
 * CTIO：网络威胁情报本体（Cyber Threat Intelligence Ontology）
-* CTL：通信技术实验室（Communication Technology Laboratory）
+* CTL：ENISA网络安全威胁形势工作组（Cybersecurity Threat Landscapes）；NIST通信技术实验室（Communication Technology Laboratory）
 * CTM：Thales密码信任管家（CipherTrust Manager）
 * CTN：电话通信网络（Commutated Telephone Network）；蜂窝电话网（Cellular Telephone Network）；核心传输网（Core Transmission Network）
 * CTO：首席技术官（Chief Technology Officer）；网络任务单（Cyber Tasking Order）
@@ -1743,6 +1744,7 @@
 * GEOINT：地理空间情报（Geospatial Intelligence）
 * GETVPN：组加密传输VPN（Group Encrypted Transport VPN）
 * GF：攻防（拼音：Gong Fang）
+* GFE：谷歌前端服务（Google Front End）
 * GFS：全局文件系统（Global File System）；谷歌文件系统（Google File System）
 * GFSK：高斯频移键控（Gaussian Frequency-Shift Keying）
 * GGE：联合国政府专家组（Group of Governmental Experts）
@@ -2711,6 +2713,7 @@
 * N/A：不适用（Not Applicable）
 * N/S：北/南（North/South）
 * N3IWF：Non-3GPP互通功能（Non-3GPP Inter-Working Function）
+* NA：邻居通告消息（Neighbor Advertisement）
 * NAB：国家认可委员会（National Accreditation Board）
 * NAC：网络准入控制（Network Access control）
 * NACHA：美国国家自动化清算所协会（National Automated Clearing House Association）
@@ -2887,7 +2890,7 @@
 * NRO：美国国家侦察局（National Reconnaissance Office）
 * NRP：美国国家应急预案（National Response Plan）
 * NRT：非实时（Non-Real-Time）
-* NS：名字服务器（Name Server）
+* NS：名字服务器（Name Server）；邻居请求消息（Neighbor Solicitation）
 * NS/EP：美国国家安全与应急准备（National Security & Emergency Preparedness）
 * NSA：美国国家安全局（National Security Agency）；5G非独立组网（Non-Standalone）
 * NSAC：英国国家安全咨询中心（National Security Advisory Centre）
@@ -3425,7 +3428,7 @@
 * R&D：研究&开发（Research & Development）
 * R/W：读写（Read/Write）
 * R1CS：一阶约束系统（Rank-1 Constraint System）
-* RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）；接收端地址（Receiver Address）
+* RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）；接收端地址（Receiver Address）；路由通告（Router Advertisement）；路由聚合（Route Aggregation）
 * RaaS：勒索软件即服务（Ransomware as a Service）
 * RAB：快速应用程序构建模式（Rapid Application Building）
 * RACE：针对每个人的弹性匿名通信（Resilient Anonymous Communication for Everyone）
@@ -3536,13 +3539,13 @@
 * RPM：远程患者监控（Remote Patient Monitoring）
 * RPO：恢复点目标（Recovery Point Objective）；CMMC注册从业机构（CMMC Registered Practitioner Organization）
 * RQE：需求工程（ReQuirement Engineering）
-* RR：DNS资源记录（Resource Records）
+* RR：DNS资源记录（Resource Records）；路由重定向消息（Redirect）
 * RRA：勒索软件战备评估（Ransomware Readiness Assessment）
 * RRAM：可变电阻式存储器（Resistive Random-Access Memory）
 * RRC：无线资源控制器（Radio Resource Controller）
 * RRH：远程无线头端（Remote Radio Head）
 * RRL：响应速率限制（Response Rate Limiting）
-* RS：推荐系统（Recommender System）
+* RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
 * RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
 * RSAC：RSA会议（RSA Conference）
 * RSAES：RSA加密体制（Rivest–Shamir–Adleman Encryption System）
@@ -3626,7 +3629,7 @@
 * SANS：SANS研究所（SysAdmin, Audit, Network & Security）
 * SAP：安全分析平台（Security Analytics Platform）；思爱普公司（德语：Systeme, Anwendungen und Produkte in der Datenverarbeitung）；特别访问计划（Special Access Program）
 * SAPM：共享账户密码管理（Shared Account Password Management）
-* SAR：安全保障需求（Security Assurance Requirement）；安全评估报告（Security Assessment Report）
+* SAR：安全保障需求（Security Assurance Requirement）；安全评估报告（Security Assessment Report）；合成孔径雷达（Synthetic Aperture Radar）
 * SARD：软件保障参考数据集（Software Assurance Reference Dataset）
 * SAS：串行连接SCSI（Serial Attached SCSI）；安全审计系统（Security Auditing System）
 * SAS-W：上网行为管理系统（NSFOCUS Security Audit System for Web）
@@ -3864,6 +3867,7 @@
 * SORM：俄罗斯行动调查工作系统（俄语拉丁化：Sistema operativno-razyisknyh meropriyatiy）
 * SORN：记录系统通告（System Of Records Notice）
 * SOSA：传感器开放系统架构（Sensor Open System Architecture）
+* SOSINT：社交开源情报（Social Open-Source INTelligence）
 * SoT：可信系统（System of Trust）
 * SOTA：软件在线升级（Software Over-The-Air）；当前领先水准（State Of The Art）
 * SOW：工作说明书（Statement of Work）
