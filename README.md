@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4499**条，词组**5612**条。 
+当前收录缩略词形**4514**条，词组**5634**条。 
 
 
 
@@ -183,6 +183,7 @@
 * AMITT：对手虚假信息与影响战技术框架（Adversarial Misinformation and Influence Tactics & Techniques）
 * AML：反洗钱（Anti-Money Laundering）
 * AMP：备用MAC/PHY（Alternate MAC/PHY）；DARPA可靠微补丁项目（Assured Micropatching）；高级恶意软件保护（Advanced Malware Protection）
+* AMQP：高级消息队列协议（Advanced Message Queuing Protocol）
 * AMSI：反恶意软件扫描接口（Anti-Malware Scan Interface）
 * AMT：Intel主动管理技术（Active Management Technology）
 * AMWA：大都会水务局协会（Association of Metropolitan Water Agencies）
@@ -451,6 +452,7 @@
 * CACR：中国密码学会（Chinese Association for Cryptologic Research）
 * CAD：计算机辅助设计（Computer Aided Design）；网络分析与检测（Cyber Analytics & Detection）
 * CAE：首席审计官（Chief Audit Executive）
+* CAEP：持续访问评估协议（Continuous Access Evaluation Protocol）
 * CAF：战斗机部队（Combat Air Forces）
 * CAGR：复合年增长率（Compound Annual Growth Rate）
 * CAI：宪制人工智能（Constitutional AI）
@@ -571,6 +573,7 @@
 * CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）；美国国防部首席数字和人工智能办公室（Chief Digital & Artificial Intelligence Office）
 * CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）；网络安全防御社区（Cybersecurity Defense Community）；座舱域控制器（Cockpit Domain Controller）
 * CDD：码分复用（Code Division Duplexing）
+* CDDI：铜线分布式数据接口（Copper Distributed Data Interface）
 * CDES：跨域企业级服务（Cross Domain Enterprise Service）
 * CDET：通用词典和事件表达式分类（Common Dictionary & Event Expression Taxonomy）
 * CDF：美国关键国防设施（Critical Defense Facility）；累积分布函数（Cumulative Distribution Function）
@@ -842,6 +845,7 @@
 * CPNI：英国国家基础设施保护中心（Centre for the Protection of National Infrastructure）
 * CPO：首席隐私官（Chief Privacy Officer）
 * CPOID：证书策略对象标识符（Certificate Policy Object Identifier）
+* CPOS：光纤通道同步接口（Channelized Packet over SONET）
 * CPR：Check Point研究所（Check Point Research）
 * CPRA：加州隐私权法案（California Privacy Rights Act）
 * CPRI：公共无线电接口（Common Public Radio Interface）
@@ -874,7 +878,8 @@
 * CRM：客户关系管理（Customer Relationship Management）
 * CRP：容量需求计划（Capacity Requirements Planning）
 * CRPG：社区韧性规划指南（Community Resilience Planning Guide）
-* CRQ：网络风险量化（Cyber Risk Quantification）
+* CRQ：网络风险量化（Cyber Risk Quantification）；网络韧性指数（Cybersecurity Resilience Quotient）
+* CRQM：网络风险量化（Cyber Risk Quantification Model）
 * CRR：网络韧性评估（Cyber Resilience Review）
 * CRRA：网络风险补救分析（Cyber Risk Remediation Analysis）
 * CRS：协作机器人系统（Collaborative Robotics System）；共同随机字符串（Common Random String）；美国国会调查局（Congress Research Service）
@@ -886,6 +891,7 @@
 * CRTM：可信度量根的核心（Core Root of Trust for Measurement）
 * CRTV：验证信任的核心根（Core Root of Trust for Verification）
 * CRUD：增删查改（Create, Retrieve, Update, Delete）
+* CRUSH：Ceph可扩展哈希下的受控复制（Controlled Replication Under Scalable Hashing）
 * CRWD：CrowdStrike公司（CrowdStrike）
 * CS：某渗透工具（Cobalt Strike）；某安全厂商（CrowdStrike）；电路交换（Circuit Switching）；计算机科学（Computer Science）；代码段寄存器（Code Segment）；网络安全（Cyber Security）；容器服务（Container Service）
 * CS&C：美国网络安全和通信办公室（Office of Cybersecurity and Communications）
@@ -947,6 +953,7 @@
 * CSU：通道服务单元（Channel Service Unit）
 * CSV：逗号分隔值（Comma-Separated Values）；网络安全验证（Cyber Security Validation）
 * CSW：阿里云内网接入交换机（Customer access SWitch）
+* CSWP：NIST网络安全白皮书（CyberSecurity White Paper）
 * CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）
 * CTA：认知任务分析（Cognitive Task Analysis）；消费者技术协会（Consumer Technology Association）
 * CTAP：客户端认证器协议（Client to Authenticator Protocol）
@@ -1413,6 +1420,7 @@
 * EFI：可扩展固件接口（Extensible Firmware Interface）
 * EFLAGS：某32位寄存器代号（Extended FLAGS）
 * EFOIA：电子信息自由法案（Electronic Freedom of Information Act）
+* EFS：Windows加密文件系统（Encrypted File System）
 * EFT：电子资金转账（Electronic Funds Transfer）
 * EFTA：欧洲自由贸易联盟（European Free Trade Association）
 * EGC：欧洲政府网络应急小组（the European Government CSIRT Group）
@@ -1420,7 +1428,7 @@
 * EGP：外部网关协议（Exterior Gateway Protocol）
 * EHR：电子健康记录（Electronic Health Records）
 * EI：外部输入（External Input）；工程索引（Engineering Index）
-* EIA：EPS完整性算法（EPS Integrity Algorithm）
+* EIA：EPS完整性算法（EPS Integrity Algorithm）；美国电子工业协会（Electronic Industries Association）
 * EIAM：员工身份和访问管理（Employee Identity Access Management）
 * EIEMA：企业信息环境任务领域（Enterprise Information Environment Mission Area）
 * EIF：外部接口文件（External Interface File）
@@ -1723,6 +1731,7 @@
 * GCCS：全球指挥控制系统（Global Command & Control System）
 * GCHQ：英国政府通信总部（Government Communications Head Quarters）
 * GCIP：GIAC关键基础设施保护（GIAC Critical Infrastructure Protection）
+* GCKMS：谷歌云原生密钥管理服务（Google Cloud Key Management Service）
 * GCM：伽罗瓦计数器模式（Galois/Counter Mode）
 * GCN：图卷积网络（Graph Convolutional Network）
 * GCP：谷歌云平台（Google Cloud Platform）
@@ -2217,6 +2226,8 @@
 * ITF：集成测试设施（Integrated Test Facility）
 * ITG：IT治理（IT Governance）
 * ITGI：IT治理研究所（IT Governance Institute）
+* ITI：美国信息技术产业理事会（Information Technology Industry Council）
+* ITIF：美国信息技术与创新基金会（Information Technology and Innovation Foundation）
 * ITIL：IT基础构架库（Information Technology Infrastructure Library）
 * ITL：信息技术实验室（Information Technology Laboratory）
 * ITM：内部威胁管理（Internal Threat Management）；智能流量管理（Intelligent Traffic Management）
@@ -2492,6 +2503,7 @@
 * MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）
 * MaaS：恶意程序即服务（Malware as a Service）；模型即服务（Model as a Service）
 * MAC：强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）；媒体访问控制（Media Access Control）；消息认证码（Message Authentication Code）
+* MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
 * MAE：任务保障工程（Mission Assurance Engineering）
 * MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
 * MAF：机动飞行部队（Mobility Air Forces）
@@ -3074,7 +3086,7 @@
 * OSCAL：开放安全控制评价语言（Open Security Controls Assessment Language）
 * OSCD：开放安全协作发展计划（Open Security Collaborative Development）
 * OSCP：进攻性安全职业认证（Offensive Security Certified Professional）
-* OSD：美国国防部办公室（Office of the Secretary of Defense）
+* OSD：对象存储设备（Object Storage Device）；美国国防部办公室（Office of the Secretary of Defense）
 * OSD/JS：美国国防部办公室/联合参谋部（Office of the Secretary of Defense/Joint Staff）
 * OSF：开放软件基金会（Open Software Foundation）
 * OSI：开放式系统互联模型（Open System Interconnection）
@@ -3245,7 +3257,7 @@
 * PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
 * PIN：个人标识码（Personal Identification Number）
 * PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
-* PIPA：个人信息保护法案（Personal Information Protection Act）
+* PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
 * PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
 * PIPL：个人信息保护法（the Personal Information Protection Law）
 * PIR：隐私信息检索（Private Information Retrieval）
@@ -3304,7 +3316,7 @@
 * POODLE：贵宾犬漏洞（Padding Oracle On Downgraded Legacy Encryption）
 * POP：邮件协议版本（Post Office Protocol）；接入点（Point of Presense）
 * PoPW：物理工作量证明（Proof of Physical Work）
-* POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）
+* POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）；基于SDH的分组协议（Packet over SDH）
 * POSIX：可移植操作系统接口（Portable Operating System Interface）
 * POTS：普通老式电话服务（Plain Old Telephone Service）
 * POTUS：美国总统（President Of The United States）
@@ -3499,7 +3511,7 @@
 * RID：相对标识（Relative Identifier）
 * RIN：规章识别号（Regulation Identifier Numbers）
 * RIP：路由信息协议（Routing Information Protocol）；某64位寄存器代号（Register Instruction Pointer）
-* RISC：精简指令集计算机（Reduced Instruction Set Computer）
+* RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
 * RK：根密钥（Root Key）
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
 * RLFA：远程无环备选通道（Remote Loop Free Alternate）
@@ -3862,6 +3874,7 @@
 * SONET：同步光纤网络（Synchronous Optical Network）
 * SOP：标准操作规程（Standard Operation Procedure）；同源策略（Same-Origin Policy）
 * SoP：SoP电路（System on Package）
+* SOPA：美国打击在线盗版法案（Stop Online Piracy Act）
 * SOPO：安全运维处理本体（Secure Operations and Processes Ontology）
 * SOR：记录系统（System Of Records）
 * SORM：俄罗斯行动调查工作系统（俄语拉丁化：Sistema operativno-razyisknyh meropriyatiy）
@@ -3945,7 +3958,7 @@
 * SSD：固态硬盘（Solid State Drive）；系统序列图（System Sequence Diagram）
 * SSDF：安全软件开发框架（Secure Software Development Framework）
 * SSDP：简单服务发现协议（Simple Service Discovery Protocol）
-* SSE：安全服务边缘（Security Service Edge）；系统安全工程（System Security Engineering）；流式SIMD扩展（Streaming SIMD Extensions）；服务端加密（Server-Side Encryption）
+* SSE：安全服务边缘（Security Service Edge）；系统安全工程（System Security Engineering）；流式SIMD扩展（Streaming SIMD Extensions）；服务端加密（Server-Side Encryption）；OpenID共享信号与事态框架（Shared Signals & Events）
 * SSE-C：客户自备密钥服务端加密（Server-Side Encryption with Customer Provided Keys）
 * SSE-KMS：KMS管理密钥服务端加密（Server-Side Encryption with KMS Managed Keys）
 * SSE-S3：S3管理密钥服务端加密（Server-Side Encryption with S3 Managed Keys）
@@ -4118,6 +4131,7 @@
 * TH：威胁狩猎（Threat Hunting）
 * THP：威胁狩猎过程（Threat Hunting Process）；威胁狩猎平台（Threat Hunting Platform）；威胁狩猎专家（Threat Hunting Professional）；透明巨页（Transparent Huge Page）
 * TI：表指示符（Table Indicator）
+* TIA：美国电信工业协会（Telecommunications Industry Association）
 * TIARA：威胁识别分析与风险评估（Threat Identification, Analysis & Risk Assessment）
 * TIB：标记信息库（Tag Information Base）
 * TIBER-EU：欧洲威胁情报道德红队框架（European framework for Threat Intelligence-Based Ethical Red-teaming）
@@ -4453,6 +4467,7 @@
 * VT：某威胁样本分析网站（VirusTotal）；虚拟化技术（Virtualization Technology）
 * VT-x：Intel虚拟化技术（Virtualization Technology for x86）
 * VTEP：VXLAN隧道端点（VXLAN Tunnel Endpoint）
+* VTI：VirusTotal情报（VirusTotal Intelligence）
 * VTS：船舶交通管理系统（Vessel Traffic System）；IEEE车辆技术协会（IEEE Vehicular Technology Society）
 * VTV：虚表核实（VTable Verification）
 * VUM：vSphere更新管理器（vSphere Update Manager）
