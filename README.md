@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4514**条，词组**5634**条。 
+当前收录缩略词形**4521**条，词组**5648**条。 
 
 
 
@@ -77,6 +77,7 @@
 * ACyD：网络防御分析（Analytics for Cyber Defense）；自主网络防御（Autonomous Cyber Defense）
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）；自动发现（Auto-Discovery）；架构与设计（Architecting & Designing）
 * ADA：艾达数字币（Cardano）
+* ADAM：活动目录应用模式（Active Directory Application Mode）
 * ADAMS：DARPA多尺度异常检测项目（Anomaly Detection At Multiple Scales）
 * ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
 * ADB：阿里云AnalyticDB服务（Analytic DataBase）
@@ -85,6 +86,7 @@
 * ADCON：行政控制权（Administrative Control）
 * ADconf：ADconf安全大会（Attack & Defense Conference）
 * ADCS：活动目录证书服务（Active Directory Certificate Service）
+* ADDS：活动目录域服务（Active Directory Domain Service）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
@@ -1275,13 +1277,13 @@
 * DRP：数字风险保护（Digital Risk Protection）；灾难恢复计划（Disaster Recovery Plan）
 * DRPS：数字风险保护服务（Digital Risk Protection Service）
 * DRTM：动态可信度量根（Dynamic Root of Trust for Measurement）
-* DS：发现服务（Discovery Service）；目录服务（Directory Service）；数据段寄存器（Data Segment）；分发系统（Distribution System）
+* DS：发现服务（Discovery Service）；目录服务（Directory Service）；数据段寄存器（Data Segment）；分发系统（Distribution System）；域服务（Domain Service）
 * DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）；数据安全评估师（Data Security Assessor）；数据安全协议（Data Security Agreement）；数据共享协议（Data Sharing Agreement）
 * DSAA：DECT标准认证算法（DECT Standard Authentication Algorithm）
 * DSaaS：数据安全即服务（Data Security as a Service）
 * DSAWG：美国国防IA安全认证工作组（Defense IA Security Accreditation Working Group）
 * DSbD：数字安全设计计划（Digital Security by Design）
-* DSC：国防供应链（Defense Supply Chain）；DECT标准密码（DECT Standard Cipher）；数字供应链（Digital Supply Chain）
+* DSC：国防供应链（Defense Supply Chain）；DECT标准密码（DECT Standard Cipher）；数字供应链（Digital Supply Chain）；数据安全中心（Data Security Center）；数据安全共同体计划（Data Security Community）
 * DSCS：DCO补充性系统套件（Defensive Cyberspace Operations Suite of Complementary Systems）
 * DSD：美国国防部常务副部长（Deputy Secretary of Defense）
 * DSDM：动态系统开发方法（Dynamic Systems Development Method）
@@ -2421,6 +2423,7 @@
 * LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）
 * LDC：逻辑数据中心（Logical Data Center）
 * LDDT：逻辑数据库设计技术（Logical Database Design Technique）
+* LDS：轻量域服务（Lightweight Domain Service）
 * LDT：本地描述符表（Local Descriptor Table）
 * LDTR：本地描述符表寄存器（Local Descriptor Table Register）
 * LE：执法（Law Enforcement）；低功耗（Low Energy）
@@ -2551,7 +2554,7 @@
 * MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
 * MDO：多域作战（Multi-Domain Operation）
 * MDR：托管式检测与响应（Managed Detection & Response）
-* MDS：微架构数据采样（Microarchitectural Data Sampling）
+* MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
 * MDT：任务防御部队（Mission Defense Team）
 * ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
 * MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
@@ -2936,6 +2939,7 @@
 * NSX-V：用于vSphere的NSX（NSX for vSphere）
 * NTA：网络流量分析（Network Traffic Analysis）
 * NTCTF：NAS/CSS网络空间威胁框架（NSA/CSS Technical Cyber Threat Framework）
+* NTDS：Windows NT目录服务（New Technology Directory Services Directory）
 * NTFS：Windows NT文件系统（New Technology File System）
 * NTI：绿盟威胁情报（NSFOCUS Threat Intelligence）
 * NTIA：美国国家电信和信息管理局（National Telecommunications and Information Administration）
@@ -3039,7 +3043,7 @@
 * OKR：目标与关键成果法（Objectives and Key Results）
 * OKS：不经意关键词检索（Oblivious Keyword Search）
 * OLAP：联机分析处理（Online Analytical Processing）
-* OLE：对象链接与嵌入技术（Object Linking and Embedding）
+* OLE：对象链接与嵌入技术（Object Linking and Embedding）；不经意线性计算（Oblivious Linear Function Evaluation）
 * OLIR：在线信息参考（On-Line Informative Reference）
 * OLTP：联机事务处理（Online Transaction Processing）
 * OLWE：顺序LWE（Order LWE）
@@ -3086,7 +3090,7 @@
 * OSCAL：开放安全控制评价语言（Open Security Controls Assessment Language）
 * OSCD：开放安全协作发展计划（Open Security Collaborative Development）
 * OSCP：进攻性安全职业认证（Offensive Security Certified Professional）
-* OSD：对象存储设备（Object Storage Device）；美国国防部办公室（Office of the Secretary of Defense）
+* OSD：对象存储设备（Object Storage Device）；美国国防部办公室（Office of the Secretary of Defense）；Ceph对象存储守护进程（Object Storage Daemon）
 * OSD/JS：美国国防部办公室/联合参谋部（Office of the Secretary of Defense/Joint Staff）
 * OSF：开放软件基金会（Open Software Foundation）
 * OSI：开放式系统互联模型（Open System Interconnection）
@@ -3232,6 +3236,7 @@
 * PFR：平台固件弹性（Platform Firmware Resilience）
 * PFS：完美前向保密（Perfect Forward Secrecy）
 * PFX：PKCS12#文件格式（Personal Exchange Format）
+* PG：Ceph放置组（Placement Group）
 * PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
 * PGT：代理授权票据（Proxy Granting Ticket）
 * PHA：过程危害分析（Process Hazard Analysis）
@@ -3242,7 +3247,7 @@
 * PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
 * PHY：物理层（Physical Layer）
 * PI：个人信息（Personal Information）；流程信息（Process Information）
-* PIA：隐私影响评估（Privacy Impact Assessment）
+* PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）
 * PIAB：总统情报咨询委员会（President's Intelligence Advisory Board）
 * PIC：位置独立代码（Position Independent Code）
 * PICERL：准备、识别、控制、根除、恢复、教训（Prepare, Identify, Contain, Eradicate, Recover, Lessons Learned）
@@ -3263,6 +3268,7 @@
 * PIR：隐私信息检索（Private Information Retrieval）
 * PIRT：有目的干扰响应团队（Purposeful Interference Response Team）
 * PISA：独立于协议的交换机架构（Protocol Independent Switch Architecture）
+* PISIA：个人信息安全影响评估（Personal Information Security Impact Assessment）
 * PISP：支付启动服务提供商（Payment Initiation Service Provider）
 * PIT：传输中的保护（Protection in Transit）
 * PITAC：美国总统信息技术咨询委员会（the President's Information Technology Advisory Committee）
@@ -3448,6 +3454,7 @@
 * RAD：快速应用程序开发模式（Rapid Application Development）
 * RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
 * RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
+* RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
 * RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
 * RAII：资源获取即初始化（Resource Acquisition Is Initialization）
 * RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
