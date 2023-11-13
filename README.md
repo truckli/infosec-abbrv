@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4568**条，词组**5727**条。 
+当前收录缩略词形**4586**条，词组**5754**条。 
 
 
 
@@ -152,7 +152,7 @@
 * AIMEE：紧急执行的人工智能缓解（Artificial Intelligence Mitigation for Emergency Execution）
 * AIMS：自动化基础设施管理系统（Automated Infrastructure Management System）
 * AIO：多合一（All-In-One）；异步输入输出（Asynchronous Input/Output）
-* AIOPS：智能运维（Artificial Intelligence for IT operations）
+* AIOPS：智能运维（Artificial Intelligence for IT OPerationS）
 * AIOS：WordPress AIOS插件（All-in-One Security）
 * AIoT：人工智能物联网（Artificial Intelligence for the Internet of Things）
 * AIP：攻击拦截点（Attack Interdiction Point）
@@ -225,12 +225,15 @@
 * APT：高级持久威胁（Advanced Persistent Threat）
 * APTS：应用性能追踪服务（Application Performance Tracing Service）
 * APWG：反网络钓鱼工作组（Anti-Phishing Working Group）
+* AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）
 * ARA-M：访问规则应用程序 - 主（Access Rule Application - Master）
 * ARC：澳大利亚研究委员会（Australian Research Council）
 * ARCYBER：美国陆军网络司令部（Army Cyber Command）
+* ARIMA：自回归集成移动平均模型（AutoRegressive Integrated Moving Average）
 * ARIN：美洲互联网号码注册管理机构（American Registry for Internet Numbers）
 * ARL：美国陆军研究实验室（DEVCOM Army Research Laboratory）
 * ARM：高级精简指令集机器（Advanced RISC Machines）
+* ARMA：自回归移动平均模型（AutoRegressive Moving Average）
 * ARO：年度发生率（Annualized Rate of Occurrence）
 * ARP：地址解析协议（Address Resolution Protocol）
 * ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
@@ -516,7 +519,7 @@
 * CBS：云备份（Cloud Backup Service）
 * CBTC：CB测试证书（Certification Body Test Certificates）
 * CBTL：CB测试实验室（Certification Body Testing Laboratory）
-* CC：信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）；CC网络安全从业认证（Certified in Cybersecurity）；CC网络攻击（Challenge Collapsar）
+* CC：信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）；CC网络安全从业认证（Certified in Cybersecurity）；CC网络攻击（Challenge Collapsar）；关键能力（Critical Capacities）
 * CC-BY：知识共享许可——署名（Creative Commons Attribution）
 * CC-NC：知识共享许可——非商业性使用（Creative Commons Non-Commercial）
 * CC-ND：知识共享许可——禁止演绎（Creative Commons No Derivatives）
@@ -854,6 +857,7 @@
 * CPB：单字节运算时间（Cycles Per Byte）
 * CPC：云专线（Cloud Pravite Connect）
 * CPCE：指挥所计算环境（Command Post Computing Environment）
+* CPDA：认证数据分析师（Certified Professional Data Analyst）
 * CPE：客户现场设备（Customer Premise Equipment）；通用平台枚举（Common Platform Enumeration）；持续专业教育（Continuous Professional Education）
 * CPF：网络保护部队（Cyber Protection Force）
 * CPI：代码指针完整性（Code-Pointer Integrity）；持续过程提升（Continuous Process Improvement）；关键程序信息（Critical Program Information）
@@ -1112,7 +1116,7 @@
 * DDNS：域名动态解析（Dynamic Domain Name System）
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
 * DDPE：Dell数据保护加密（Dell Data Protection Encryption）
-* DDR：数据检测与响应（Data Detection & Response）
+* DDR：数据安全威胁检测和响应技术（Data Detection and Response）
 * DDS-M：可部署防御性网络空间行动系统-标准组件（Deployable Defensive Cyberspace – Modular）
 * DDVE：数据域虚拟版（Data Domain Virtual Edition）
 * DE：数字实体（Digital Entity）
@@ -1581,6 +1585,7 @@
 * EVPN：以太网VPN（Ethernet VPN）
 * eVRF：可扩展可视性面参考框架（extensible Visibility Reference Framework）
 * EW：电子战（Electronic Warfare）
+* EWMA：指数加权移动平均（Exponentially Weighted Moving Average）
 * EWS：微软EWS服务（Exchange Web Services）
 * EWSN：国际嵌入式无线系统和网络会议（International Conference on Embedded Wireless Systems and Networks）
 * EX：FireEye邮件安全产品系列（Email security）
@@ -1738,6 +1743,7 @@
 * GAO：美国政府问责办公室（Government Accountability Office）
 * GAPP：公认隐私准则（Generally Accepted Privacy Principles）
 * GAPS：物理安全保证体系结构（Guaranteed Architecture for Physical Security）
+* GARCH：广义自回归条件异方差模型（Generalized AutoRegressive Conditional Heteroskedasticity）
 * GARD：AI抗欺骗鲁棒性确保项目（Guaranteeing AI Robustness to Deception）
 * GAT：图注意力网络（Graph Attention Network）
 * GB：国家标准（拼音：Guo Biao）；千兆字节（Gigabyte）
@@ -1793,6 +1799,7 @@
 * GIN：全球情报网（Global Intelligence Network）
 * GIOP：通用对象请求代理间通信协议（General Inter-ORB Protocol）
 * GKH：已知白主机（Good Known Host）
+* GLS：广义最小二乘法（Generalized Least Squares）
 * GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
@@ -1830,7 +1837,7 @@
 * gRPC：gRPC框架（gRPC Remote Procedure Calls）
 * GRR：谷歌快速响应（Google Rapid Response）
 * GRS：一般记录时间表（General Records Schedule）
-* GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）
+* GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）；门控循环单元模型（Gated Recurrent Unit）
 * GRUB：GNU启动管理器（GRand Unified Bootloader）
 * GS：额外段寄存器（G extra Segment）
 * GSA：美国联邦总务署（General Services Administration）
@@ -2381,7 +2388,7 @@
 * KCon：KCon安全大会（Knownsec Conference）
 * KDC：密钥分发中心（Key Distribute Center）
 * KDD：数据库中的知识发现（Knowledge Discovery in Database）
-* KDE：KDE桌面环境（K Desktop Environment）
+* KDE：KDE桌面环境（K Desktop Environment）；核密度估计（kernel density estimation）
 * KDF：密钥导出函数（Key Derivation Function）
 * KDM：键依赖消息（Key Dependent Message）；KDE显示管理器（KDE Display Manager）
 * KEK：密钥加密密钥（Key Encryption Key）；密钥交换密钥（Key Exchange）
@@ -2437,6 +2444,7 @@
 * LADS：利用模拟域实现安全性（Leveraging the Analog Domain for Security）
 * LAG：链路聚合组（Link Aggregation Group）
 * LaMDA：LaMDA模型（Language Models for Dialog Applications）
+* LAMP：Linux＋Apache＋MySQL＋PHP（Linux＋Apache＋MySQL＋PHP）
 * LAN：局域网（Local Area Network）
 * LANL：美国洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）
 * LAPS：Windows LAPS密码管理工具（Local Administrator Password Solution）
@@ -2535,7 +2543,7 @@
 ## M
 
 * M2M：机器间通信（Machine-to-Machine）
-* MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）
+* MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）；移动平均模型（Moving Average）
 * MaaS：恶意程序即服务（Malware as a Service）；模型即服务（Model as a Service）
 * MAC：强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）；媒体访问控制（Media Access Control）；消息认证码（Message Authentication Code）
 * MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
@@ -2591,6 +2599,7 @@
 * ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
 * MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
 * MEC：移动边缘计算（Mobile Edge Computing）
+* MECE：无重复无遗漏法则（Mutually Exclusive Collectively Exhaustive）
 * MECR：多边出口控制机制（Multilateral Export Control Regime）
 * MEF：美国海军陆战队远征部队（Marine Expeditionary Force）
 * MeitY：印度电子和信息技术部（Ministry of Electronics and Information Technology）
@@ -2748,6 +2757,7 @@
 * MUD：制造商使用描述（Manufacturer Usage Description）
 * MVA：托管脆弱性评估服务（Managed Vulnerability Assessment）
 * MVC：模型-视图-控制器（Model-View-Controller）
+* MVCC：多版本并发控制（Multi-Version Concurrency Control）
 * MVD：俄罗斯联邦内务部（俄语拉丁化：Ministerstvo vnutrennikh del）
 * MVM：可管理的漏洞管理服务（Managed Vulnerability Management）
 * MVP：最简可行产品（Minimal Viable Product）；最具价值专家（Most Valuable Professional）
@@ -3080,6 +3090,7 @@
 * OLAP：联机分析处理（Online Analytical Processing）
 * OLE：对象链接与嵌入技术（Object Linking and Embedding）；不经意线性计算（Oblivious Linear Function Evaluation）
 * OLIR：在线信息参考（On-Line Informative Reference）
+* OLS：普通最小二乘法（Ordinary Least Squares）
 * OLTP：联机事务处理（Online Transaction Processing）
 * OLWE：顺序LWE（Order LWE）
 * OM：编排管理（Orchestration Management）
@@ -3518,7 +3529,7 @@
 * RBVM：基于风险的漏洞管理（Risk-Based Vulnerability Management）
 * RBX：某64位寄存器代号（Register B eXtended）
 * RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）
-* RCA：根源分析（Root Cause Analysis）
+* RCA：根因分析（Root Cause Analysis）
 * RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
 * RCO：快速能力办公室（Rapid Capabilities Office）
 * RCX：某64位寄存器代号（Register C eXtended）
@@ -3597,6 +3608,7 @@
 * RPL：请求特权等级（Requested Privilege Level）
 * RPM：远程患者监控（Remote Patient Monitoring）
 * RPO：恢复点目标（Recovery Point Objective）；CMMC注册从业机构（CMMC Registered Practitioner Organization）
+* RPS：每秒请求数（Requests per second）
 * RQE：需求工程（ReQuirement Engineering）
 * RR：DNS资源记录（Resource Records）；路由重定向消息（Redirect）
 * RRA：勒索软件战备评估（Ransomware Readiness Assessment）
@@ -3619,11 +3631,12 @@
 * RSSI：接收信号强度指示（Received Signal Strength Indication）
 * RST：连接重置（Reset The Connection）
 * RSU：路侧单元（Road Side Unit）
-* RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）
+* RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）；响应时间（Response Time）
 * RT&E：研究、测试与评估（Research, Test & Evaluation）
 * RTC：实时音视频技术（Real-Time Communication）
 * RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
 * RTCP：RTP控制协议（RTP Control Protocol）
+* RTD：往返延迟（Round-Trip Delay）
 * RTE：实时互联网大会（Real-Time 、Engagement）
 * RTG：研究任务组（Research Task Group）
 * RTM：可信度量根（Root of Trust for Measurement）
@@ -3716,7 +3729,7 @@
 * SCAP：安全内容自动化协议（Security Content Automation Protocol）
 * SCC：标准合同条款（Standard Contractual Clause）；行业协调理事会（Sector Coordinating Council）；细分行业协调委员会（Subsector Coordinating Council）；美国空军空间系统司令部（Space Systems Command）；密码服务部队（Service Cryptologic Component）；网空服务部队（Service Cyberspace Component）
 * SCCA：安全云计算架构（Secure Cloud Computing Architecture）
-* SCCM：软件变更与配置管理（Software Change and Configuration Management）；系统中心配置管理器（System Center Configuration Manager）
+* SCCM：软件变更与配置管理（Software Change and Configuration Management）；微软系统中心配置管理器（System Center Configuration Manager）
 * SCCTC：国家密码管理局商用密码检测中心（Commercial Cryptography Testing Center of State Cryptography Administration）
 * SCCVI：安全配置合规验证计划（Secure Configuration Compliance Validation Initiative）
 * SCE：安全计算环境（Secure Computing Environment）；安全混沌工程（Security Chaos Engineering）；卓越安全中心（Security Center of Excellence）；安全配置编辑器（Security Configuration Editor）
@@ -3729,6 +3742,7 @@
 * SCIM：跨域身份管理系统（System for Cross-Domain Identity Management）
 * SCM：安全配置管理（Security Configuration Management）；供应链管理（Supply Chain Management）；软件配置管理（Software Configuration Management）；源码配置管理（Source Configuration Management）；源码管理（Source Code Management）
 * SCO：STIX网络可观察对象（STIX Cyber-observable Object）；美国国防部战略能力办公室（Strategic Capabilities Office）
+* SCOM：微软系统中心运维管理器（System Center Operations Manager）
 * SCONE：安全容器环境（Secure CONtainer Environment）
 * SCP：服务控制策略（Service Control Policy）；安全复制协议（Secure Copy Protocol）
 * SCRI：安全合规修复计划（Secure Compliance Remediation Initiative）
@@ -3736,6 +3750,7 @@
 * SCRTM：测量信任的静态核心根（Static Core Root of Trust for Measurement）
 * SCS：影子调用栈（Shadow Call Stack）；供应链安全（Supply Chain Security）；安装配置软件（Setup and Configuration Software）
 * SCSI：小型计算机系统接口（Small Computer System Interface）
+* SCSM：微软系统中心服务管理器（System Center Service Manager）
 * SCSSI：法国中央信息系统安全局（法语：Service Central de la Sécurité des Systèmes d'Informations）
 * SCT：签名证书时间戳（Signed Certificate Timestamp）
 * SCuBA：安全云业务应用（Secure Cloud Business Applications）
@@ -4053,6 +4068,7 @@
 * STIP：科学和技术信息计划（Scientific and Technical Information Program）
 * STIX：结构化威胁信息表达式（Structured Threat Information Expression）
 * STK：短期密钥（Short Term Key）
+* STL：使用Loess的季节性和趋势分解（Seasonal and Trend decomposition using Loess）；C++标准模板库（Standard Template Library）
 * STO：隐匿式安全（Security Through Obscurity）
 * STP：生成树协议（Tree Spanning Protocol）；屏蔽双绞线（Shielded Twisted Pair）；系统与工具规划（Systems & Tools Planning）
 * STRIDE：仿冒、篡改、抵赖、信息泄露、拒绝服务、提权（Spoofing, Tampering, Repudiation, Information disclosure, Denial of service & Elevation of privilege）
@@ -4220,7 +4236,7 @@
 * TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）
 * TOE：评价对象（Target Of Evaluation）
 * TOGAF：开放组架构框架（The Open Group Architecture Framework）
-* TOPS：每秒万亿次运算数（Tera Operations Per Second）
+* TOPS：每秒万亿次运算数（Tera Operations Per Second）；TOPS原则（Targeted, Over-arching, Powerful & Supportable）
 * TOR：洋葱路由（The Onion Router）；架顶（Top-of-Rack）
 * TOS：可信操作系统（Trusted Operating System）
 * TOTP：动态口令（Time-based One-Time Password）
@@ -4685,7 +4701,7 @@
 * 2SV：两步验证（Two-Step Verification）
 * 360SRC：360安全应急响应中心（360 Security Respnse Center）
 * 3A：3A公有云（Aliyun，AWS & Azure）
-* 3C：中国强制认证（China Compulsory Certification）
+* 3C：中国强制认证（China Compulsory Certification）；公司、顾客、竞争对手分析模型（Company, Customer & Competitor）
 * 3DES：三重DES（Triple DES）
 * 3DH：三路DH协议（Triple Diffie-Hellman）
 * 3G：第三代移动通信（3rd Generation）
@@ -4693,11 +4709,13 @@
 * 3W：人力、场所和负荷（Workforce, Workplace & Workloads）
 * 4A：认证、授权、账号、审计（Authentication, Authorization, Account & Audit）
 * 4G：第四代移动通信（4th Generation）
+* 4P：产品、价格、渠道、营销分析模型（Product, Price, Place & Promotion）
 * 5A：账户、认证、授权、审计和访问控制（Account, Authentication, Authorization, Audit & Access Control）
 * 5G：第五代移动通信（5th Generation）
 * 5GC：5G核心（5G Core）
 * 5GSC：5G独立安全类别（5G Standalone Security Category）
 * 5W1H：六何分析法（Where，When，Who，What，Why，How）
+* 5W2H：七何分析法（Where，When，Who，What，Why，How, How much）
 * 6G：第六代移动通信（6th Generation）
 * 6M：人员、机器、原料、方法、环境和测量（Manpower, Method, Machine, Material, Milieu & Measurement）
 * 71SRC：爱奇艺安全应急响应中心（iQIYI Security Response Center）
