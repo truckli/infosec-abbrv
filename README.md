@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4586**条，词组**5754**条。 
+当前收录缩略词形**4589**条，词组**5757**条。 
 
 
 
@@ -2119,6 +2119,7 @@
 * ILTK：中长期密钥（Intermediate Long Term Key）
 * IMA：完整性测量体系结构（Integrity Measurement Architecture）
 * IMAP：互联网邮件访问协议（Internet Mail Access Protocol）
+* IMC：身份管理中心（Identity Management Center）
 * IMDS：Azure实例元数据服务（Instance Metadata Service）
 * IMEI：国际移动设备标识（International Mobile Equipment Identity）
 * IMG：镜像文件格式（IMaGe）
@@ -3506,6 +3507,7 @@
 * RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
 * RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
 * RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
+* RAG：检索增强生成（Retrieval-Augmented Generation）
 * RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
 * RAII：资源获取即初始化（Resource Acquisition Is Initialization）
 * RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
@@ -4491,6 +4493,7 @@
 * VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
 * VMID：虚拟机标识符（Virtual Machine Identifier）
 * VMM：虚拟机监控器（Virtual Machine Monitor）
+* VMP：VMProtect软件保护技术（VMProtect）
 * VMS：脆弱性管理系统（Vulnerability Management System）
 * VMT：虚拟方法表（Virtual Method Table）
 * VMX：虚拟机扩展（Virtual Machine Extensions）
