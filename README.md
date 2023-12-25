@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4589**条，词组**5757**条。 
+当前收录缩略词形**4605**条，词组**5775**条。 
 
 
 
@@ -73,6 +73,7 @@
 * ACSC：澳大利亚网络安全中心（Australian Cyber Security Centre）
 * ACSE：关联控制服务元素（Association Control Service Element）
 * ACT：美国技术咨询委员会（American Council for Technology）；应用网络技术（Applied Cyber Technologies）
+* ACTI：亚马逊网络威胁情报中心（Amazon Cyber Threat Intelligence）
 * ACTION：基于代理的网络威胁情报与运营（Agent-based Cyber Threat Intelligence and Operation）
 * ACyD：网络防御分析（Analytics for Cyber Defense）；自主网络防御（Autonomous Cyber Defense）
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）；自动发现（Auto-Discovery）；架构与设计（Architecting & Designing）
@@ -87,6 +88,7 @@
 * ADconf：ADconf安全大会（Attack & Defense Conference）
 * ADCS：活动目录证书服务（Active Directory Certificate Service）
 * ADDS：活动目录域服务（Active Directory Domain Service）
+* ADE：美国国土安全部采购决策节点（Acquisition Decision Event）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
@@ -96,7 +98,7 @@
 * ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）；阿里云AnalyticDB服务旧称（Analytic Database Service）
 * ADS-M：抗DDoS系统管理器（Anti-DDoS System Manager）
 * ADSI：活动目录服务接口（Active Directory Services Interface）
-* AE：认证加密（Authenticated Encryption）
+* AE：认证加密（Authenticated Encryption）；分析环境（Analytic Environment）
 * AEAD：关联数据的认证加密（Authenticated Encryption with Associated Data）
 * AEB：自动紧急制动系统（Automatic Emergency Braking）
 * AEP：敌手模拟计划（Adversary Emulation Plan）；高级端点防护（Advanced Endpoint Protection）；英特尔Optane存储产品原名（Apache Pass）
@@ -466,6 +468,7 @@
 * CAC：国家互联网信息办公室（Cyberspace Administration of China）；通用访问卡（Common Access Card）；用户获取成本（Customer Acquisition Cost）
 * CACR：中国密码学会（Chinese Association for Cryptologic Research）
 * CAD：计算机辅助设计（Computer Aided Design）；网络分析与检测（Cyber Analytics & Detection）
+* CADS：美国网络分析与数据系统（Cyber Analytics & Data System）
 * CAE：首席审计官（Chief Audit Executive）
 * CAEP：持续访问评估协议（Continuous Access Evaluation Protocol）
 * CAF：战斗机部队（Combat Air Forces）
@@ -1151,7 +1154,7 @@
 * DFW：分布式防火墙（Distributed Firewall）
 * DGA：域名生成自动化（Domain Generation Automation）
 * DGPC：针对隐私、保密和合规性的数据治理框架（Data Governance for Privacy, Confidentiality and Compliance）
-* DGX：英伟达DGX计算机（Deep Learning Supercomputer）
+* DGX：英伟达DGX产品系列（Data center Gpu eXtend）
 * DH：DH协议（Diffi-Hellman）
 * DHCP：动态主机配置协议（Dynamic Host Configuration Protocol）
 * DHD：双主设备（Dual Home Device）
@@ -1451,6 +1454,7 @@
 * EGIT：企业信息与技术治理（Enterprise Governance of Information and Technology）
 * EGP：外部网关协议（Exterior Gateway Protocol）
 * EGS：GPU云服务器（Elastic GPU Server）
+* EGX：英伟达EGX产品系列（Edge Gpu eXtend）
 * EHR：电子健康记录（Electronic Health Records）
 * EI：外部输入（External Input）；工程索引（Engineering Index）
 * EIA：EPS完整性算法（EPS Integrity Algorithm）；美国电子工业协会（Electronic Industries Association）
@@ -1635,6 +1639,8 @@
 * FDR：飞行数据记录器（Flight Data Recorder）
 * FDT：全双工吞吐量（Full Duplex Throughput）
 * FDX：金融数据交换（Financial Data Exchange）
+* FEA：联邦企业架构（Federal Enterprise Architecture）
+* FEAF：联邦企业架构框架（Federal Enterprise Architecture Framework）
 * FEC：前向纠错（Forward Error Correction）；MPLS转发等价类（Forward Equivalence Class）
 * FedRAMP：美国联邦风险与授权管理计划（Federal Risk and Authorization Management Program）
 * FEMA：联邦应急管理局（Federal Emergency Management Agency）
@@ -1682,6 +1688,7 @@
 * FOA：野战行动机构（Field Operating Agency）
 * FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
 * FOAF：人际关系本体模型（Friend Of A Friend）
+* FOC：全面运行能力（Full Operating Capability）
 * FOIA：信息自由法案（Freedom of Information Act）
 * FOMO：害怕错过（Fear of Missing Out）
 * FOSS：自由开源软件（Free & Open Source Software）
@@ -1800,6 +1807,7 @@
 * GIOP：通用对象请求代理间通信协议（General Inter-ORB Protocol）
 * GKH：已知白主机（Good Known Host）
 * GLS：广义最小二乘法（Generalized Least Squares）
+* GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
 * GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
@@ -1853,7 +1861,7 @@
 * GTK：组临时密钥（Group Temporal Key）
 * GTP：GPRS隧道协议（GPRS Tunnelling Protocol）
 * GTP-U：GPRS隧道协议用户（GPRS Tunneling Protocol User）
-* GTX：吉比特是收发器（Gigabit Transceiver）；英伟达GTX显卡（Giga Texel Shader eXtreme）
+* GTX：吉比特是收发器（Gigabit Transceiver）；英伟达GTX系列（Giga Texel Shader eXtreme）
 * GUA：全局单播地址（Global Unicast Address）
 * GUAC：谷歌工件分析图（Graph for Understanding Artifact）
 * GUI：图形用户界面（Graphical User Interface）
@@ -1908,6 +1916,7 @@
 * HFE：隐域方程（Hidden Field Equations）
 * HFO：前出狩猎行动（Hunt Forward Operation）
 * HGS：主机卫士系统（Host Guardian System）
+* HGX：英伟达HGX产品系列（HPC Gpu eXtend）
 * HHS：健康与公共事业局（Health & Human Services）
 * HIDS：主机入侵检测系统（Host Intrusion Detection System）
 * HIPAA：美国健康保险便携性和责任法案（Health Insurance Portability & Accountability Act）
@@ -2318,6 +2327,7 @@
 * JCCC：联合通信控制中心（Joint Communications Control Center）
 * JCCM：欧盟刑事司法合作（Judicial Cooperation in Criminal Matters）
 * JCDC：联合网络防御协作（Joint Cyber Defense Collaborative）
+* JCE：联合协作环境（Joint Collaborative Environment）
 * JCIDS：联合能力整合与发展系统（Joint Capabilities Integration & Development System）
 * JCS：美国国防部参谋长联席会议（Joint Chiefs of Staff）
 * JCWA：联合网络作战架构（Joint Cyber Warfighting Architecture）
@@ -2377,6 +2387,7 @@
 ## K
 
 * K8S：Kubernetes容器管理工具（Kubernetes）
+* KADM：Kerberos管理服务器（Kerberos Administration Server）
 * KASLR：内核态地址空间布局随机化（kernel Address Space Layout Randomization）
 * KB：知识库（Knowledge Base）
 * KBA：基于知识的鉴别（Knowledge-Based Authentication）
@@ -2387,7 +2398,7 @@
 * KBV：基于知识的验证（Knowledge-Based Verification）
 * KCM：密钥缓存管理（Key Cache Management）；杀伤链模型（Kill Chain Model）
 * KCon：KCon安全大会（Knownsec Conference）
-* KDC：密钥分发中心（Key Distribute Center）
+* KDC：密钥分发中心（Key Distribute Center）；Kerberos域名控制器（Kerberos Domain Controller）
 * KDD：数据库中的知识发现（Knowledge Discovery in Database）
 * KDE：KDE桌面环境（K Desktop Environment）；核密度估计（kernel density estimation）
 * KDF：密钥导出函数（Key Derivation Function）
@@ -2506,6 +2517,7 @@
 * LOLDriver：离地驱动程序（Living Off The Land Driver）
 * LOP：局部作战图（Local Operational Picture）
 * LoRa：远距离无线电（Long Range Radio）
+* LoRA：低秩适应微调技术（Low-Rank Adaptation）
 * LOS：视线传播（Line-Of-Sight propagation）
 * LotL：离地攻击（Living off the Land）
 * LPA：本地个人资料助手（Local Profile Assistant）
@@ -2734,6 +2746,7 @@
 * MSS：托管式安全服务（Managed Security Services）；国家安全部（Ministry of State Security）
 * MSSP：托管式安全服务提供商（Managed Security Services Provider）
 * MSSQL：微软SQLServer数据库（Microsoft SQL Server）
+* MSTIC：微软威胁情报中心（Microsoft Threat Intelligence Center）
 * MSTP：多业务传输平台（Multi-Service Transport Platform）
 * MSV：Mandiant安全验证（Mandiant Security Validation）
 * MT：机床（Machine Tool）
@@ -3265,6 +3278,7 @@
 * PEC：隐私计算（Privacy Enhancing Computing）
 * PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
 * PEF：保护执行设施（Protected Execution Facility）
+* PEFT：参数高效微调（Parameter-Efficient Fine-Tuning）
 * PEI：永久设备标识符（Permanent Equipment Identifier）
 * PEK：平台加密密钥（Platform Encryption Key）
 * PEM：隐私增强邮件（Privacy Enhanced Mail）
@@ -3338,6 +3352,7 @@
 * PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
 * PLC：可编程逻辑控制器（Programmable Logic Controller）
 * PLG：产品主导型增长（Product-Led Growth）
+* PLM：预训练语言模型（Pre-trained Language Model）
 * PLMN：公共陆地移动通信网（Public Land Mobile Network）
 * PLoP：程序模式语言（Pattern Languages of Programs）
 * PLT：规程链接表（Procedure Linkage Table）
@@ -3651,6 +3666,7 @@
 * RTSP：实时流协议（Real Time Streaming Protocol）
 * RTT：往返时间（Round Trip Time）
 * RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
+* RTX：英伟达RTX系列（Ray Tracing Texel eXtreme）
 * RU：无线电单元（Radio Unit）
 * RU-CERT：俄罗斯计算机应急响应团队（Russian Computer Emergency Response Team）
 * RuBAC：基于规则的访问控制（Rule-Based Access Control）
