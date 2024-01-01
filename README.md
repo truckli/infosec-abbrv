@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4605**条，词组**5775**条。 
+当前收录缩略词形**4623**条，词组**5794**条。 
 
 
 
@@ -392,6 +392,7 @@
 * BOSS：业务运营支撑系统（Business & Operation Support System）
 * Botnet：僵尸网络（Robot Network）
 * BP：基本实践（Base Practice）；反向传播（Back Propagation）；基指针寄存器（Base Pointer）
+* BP16：谷歌半精度浮点数（Brain Float 16-bit, BF16）
 * BPC：业务过程攻击（Business Process Compromise）
 * BPCS：基本过程控制系统（Basic Process Control System）
 * BPD：业务流程图（Business Process Diagram）
@@ -854,6 +855,8 @@
 * COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
 * COTS：商用现货（Commercial Off-The-Shelf）
+* CoW：晶片堆叠技术（Chip-on-Wafer）
+* CoWoS：台积电CoWoS芯片封装技术（Chip on Wafer on Substrate）
 * CP：应急计划（Contingency Planning）；证书策略（Certificate Policy）；复制（copy）；密码处理器（cryptographic Processor）；中央处理器（Central Processor）；彩票（拼音：Cai Piao）
 * CPA：选择明文攻击（Chosen-Plaintext Attack）；注册会计师（Certified Public Accountant）；单次获客成本（Cost Per Acquisition）；商用产品确保（Commercial Product Assurance）
 * CPACF：IBM中央处理器辅助密码功能（CP Assist for Cryptographic Function）
@@ -1180,6 +1183,7 @@
 * DID：去中心化身份标识（Decentralized Identifier）；分布式数字身份（Distributed Identifier）
 * DiD：纵深防御（Defense in Depth）
 * DIDS：分布式入侵检测系统（Distributed Intrusions Detection System）
+* DIE：分布式、不可变、短暂原则（Distributed, Immutable, Ephemeral）
 * DIEA：美国国防部信息体系架构（DoD Information Enterprise Architecture）
 * DII：国防信息基础设施（Defense Information Infrastructure）
 * DIKM：数据-信息-知识-智慧模型（Data-Information-Knowledge-Wisdom）
@@ -1694,7 +1698,12 @@
 * FOSS：自由开源软件（Free & Open Source Software）
 * FOTA：固件在线升级（Firmware Over-The-Air）
 * FOUO：仅供官方使用（For Official Use Only）
-* FP：误报（False Positive）
+* FP：误报（False Positive）；浮点数值（Floating Point）
+* FP16：半精度浮点数（Floating Point 16-bit）
+* FP32：单精度浮点数（Floating Point 32-bit）
+* FP4：四位精度浮点数（Floating Point 4-bit）
+* FP64：双精度浮点数（Floating Point 64-bit）
+* FP8：八位精度浮点数（Floating Point 8-bit）
 * FPA：功能点分析（Function Point Analysis）
 * FPE：格式保留加密（Format-Preserving Encryption）
 * FPGA：现场可编程门阵列（Field-Programmable Gate Array）
@@ -2080,6 +2089,7 @@
 * IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）
 * IDN：国际化域名（Internationalized Domain Name）
 * IDO：入侵检测本体（Intrusion Detection Ontology）
+* IDOR：不安全直接对象引用（Insecure Direct Object References）
 * IDOV：识别、设计、优化、验证（Identify, Design, Optimize & Verify）
 * IdP：身份提供服务（Identity Provider）
 * IDPS：入侵检测和防御系统（Intrusion Detection & Prevention System）
@@ -2150,6 +2160,9 @@
 * INR：美国国务院情报研究署（Bureau of Intelligence and Research）
 * INSCOM：美国陆军情报和安全司令部（United States Army Intelligence & Security Command）
 * INSP：工业网络安全监测预警管理平台（Industrial Network Security Platform）
+* INT：固定点数值（INTeger）
+* INT4：四位固定点数值（INTeger 4-bit）
+* INT8：八位固定点数值（INTeger 8-bit）
 * IO：输入输出（Input/Output）；认知影响行动（Influence Operations）
 * IoA：攻击标示（Indicator of Attack）
 * IoB：行为标示（Indicator of Behavior）
@@ -2878,6 +2891,7 @@
 * NESDIS：国家环境卫星、数据和信息服务（National Environmental Satellite, Data & Information Service）
 * NET：网络设备技术（Network Equipment Technology）
 * NF：网络功能（Network Function）；网络防火墙（Network Firewall）；绿盟防火墙（Nsfocus Firewall）
+* NF4：NF4精度浮点数（4-bit Normal Float）
 * NFA：非确定性有限自动机（Nondeterministic Finite Automata）
 * NFC：近距离无线通信（Near Field Communication）
 * NFS：网络文件系统（Network File System）；网络文件共享（Network File Share）
@@ -2889,6 +2903,7 @@
 * NGAF：下一代应用防火墙（Next Gen Application Firewall）
 * NGAP：下一代应用协议（Next Generation Application Protocol）
 * NGAV：下一代反病毒（Next-Generation Anti-Virus）
+* NGC：英伟达GPU云（Nvidia GPU Cloud）
 * NGCV：下一代作战车辆（Next Generation Combat Vehicle）
 * NGFW：下一代防火墙（Next-Generation Firewall）
 * NGIDS：下一代入侵检测系统（Next-Generation IDS）
@@ -4203,6 +4218,7 @@
 * TETRAPOL：地面公共安全地面集群无线电（Terrestrial Trunked Radio for Policing）
 * TEVV：测试、评估、验证和确认（Testing, Evaluation, Verification & Validation）
 * TF-A：可信固件A（Trusted Firmware-A）
+* TF32：英伟达Tensor单精度浮点数（Tensor Float 32-bit）
 * TFA：双因素认证（Two Factor Authentication）
 * TFI：美国财政部暴恐及金融情报办公室（Office of Terrorism and Financial Intelligence）
 * TFLOPS：每秒万亿次浮点运算数（Tera Floating-point Operations Per Second）
@@ -4293,6 +4309,7 @@
 * TSI：可信服务标识（Trusted Service Identity）
 * TSIG：交易签名（Transaction Signature）
 * TSM：TCM服务模块（TCM Service Module）
+* TSMC：台积电（Taiwan Semiconductor Manufacturing Company Limited）
 * TSME：透明内存加密（Transparent Memory Encryption）
 * TSN：可信系统与网络（Trusted Systems & Networks）；过渡安全网络（Transition Security Network）
 * TSNE：t分布随机邻域嵌入（t-Distributed Stochastic Neighbor Embedding）
@@ -4616,6 +4633,7 @@
 * WMI：Windows管理规范（Windows Management Instrumentation）
 * WMM：Wi-Fi多媒体（Wi-Fi Multimedia）
 * WORM：一次写入多次读取（Write-Once, Read-Many）
+* WoS：芯片基板堆叠技术（Wafer-on-Substrate）
 * WoT：Web物联网（Web of Things）
 * WPA：Wi-Fi安全存取协议（Wi-Fi Protected Access）
 * WPAN：个人无线网络（Wireless Personal Area Network）
