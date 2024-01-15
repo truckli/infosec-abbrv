@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4623**条，词组**5794**条。 
+当前收录缩略词形**4636**条，词组**5814**条。 
 
 
 
@@ -301,6 +301,7 @@
 * AV：反病毒软件（Anti-Virus）；攻击载体（Attack Vector）；DoDAF全景视角（All Viewpoint）
 * AVC：应用漏洞关联（Application Vulnerability Correlation）
 * AVIEN：防病毒信息交换网络（Antivirus Information Exchange Network）
+* AVISPA：互联网安全协议和应用验证工具（Automated Validation of Internet Security Protocols and Applications）
 * AVP：属性值对（Attribute-Value Pair）
 * AVPTCC：计算机病毒防治产品检验中心（Anti-Virus Products Testing and Certification Center）
 * AVS：阿里云虚拟交换机（Aliyun Virtual Switch）；应用虚拟交换机（Application Virtual Switch）；阿里专有云虚拟交换机（Apsara Virtual Switch）
@@ -324,7 +325,7 @@
 * BAD：不良行为异常检测（Behavioral Anomaly Detection）
 * BAE：BAE系统公司（缩写起源：British AErospace）；百度应用引擎（Baidu App Engine）
 * BAH：博思艾伦公司（Booz Allen Hamilton）
-* BAN：体域网（Body Area Network）
+* BAN：体域网（Body Area Network）；贝尔斯-阿巴迪-尼德汉逻辑（Burrows–Abadi–Needham）
 * BART：双向自回归Transformer模型（Bidirectional and Auto-Regressive Transformers）
 * BAS：入侵与攻击模拟（Breach and Attack Simulation）；楼宇自动化系统（Building Automation System）
 * BAT：蓝牙地址追踪（Bluetooth Address Tracking）
@@ -483,6 +484,7 @@
 * CAMEL：网络攻击方法穷举列表（Cyber Attack Methodology Exhaustive List）
 * CAN：控制器局域网（Controller Area Network）
 * CANET：中国学术网（Chinese Academic Network）
+* CANN：华为异构计算架构（Compute Architecture for Neural Networks）
 * CANON：DARPA网络之网络复杂分析项目（Complex Analytics of Network of Networks）
 * CAOC：联合空中作战中心（Combined Air Operations Center）
 * CAP：云接入点（Cloud Access Point）；组合确保包（Composed Assurance Packages）；纠正行动计划（Corrective Action Plan）；CMMC评估过程（CMMC Assessment Process）；CAP原理（Consistency, Availability & Partition tolerance）；认证授权专业人员（Certified Authorization Professional）
@@ -1283,7 +1285,7 @@
 * DPKI：分布式PKI（Distributed PKI）
 * DPL：描述符特权等级（Descriptor Privilege Level）
 * DPMA：数据处理管理协会（Data Processing Management Association）
-* DPO：数据保护官（Data Protection Officer）
+* DPO：数据保护官（Data Protection Officer）；直接偏好优化（Direct Preference Optimization）
 * DPOS：代理持有量证明（Delegated Proof of Stake）
 * DPRC：美国数据保护审查法院（Data Protection Review Court）
 * DPRIVE：虚拟环境中的数据保护项目（Data Protection in Virtual Environments）
@@ -1834,6 +1836,7 @@
 * GOTS：政用现货（Government Off-The-Shelf）
 * GOV：组织治理（GOVernance）
 * GP：组策略（Group Policy）；通用实践（Generic Practice）
+* GPC：图像处理群技术（Graphics Processing Cluster）
 * GPF：一般保护错误（General Protection Fault）
 * GPFS：通用并行文件系统（General Parallel File System）
 * GPG：GNU隐私卫士（GNU Privacy Guard）
@@ -1895,6 +1898,7 @@
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
 * HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
 * HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
+* HBM2：HBM2内存工艺（High Bandwidth Memory 2）
 * HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
 * HBS：基于硬件的安全（Hardware-Based Security）
 * HBSS：基于主机的安全系统（Host-Based Security System）
@@ -2505,6 +2509,7 @@
 * LFT：环形容错协议（Loop Fault Tolerance）
 * LH：六合赌博（拼音：Liu He）
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
+* LIMA：浅层对齐假说（Less Is More for Alignment）
 * LIN：局域网互联网络（Local Interconnect Network）
 * LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
 * LLB：链路负载均衡（Link Load Balancing）
@@ -2651,7 +2656,7 @@
 * MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）；消息完整性码（Message Integrity Code）
 * MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
 * MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
-* MIG：美国海军陆战队远征部队信息大队（MEF Information Group）
+* MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
 * MIIT：工业和信息化部（Ministry of Industry and Information Technology）
 * MILDEC：军事欺骗（Military Deception）
 * MILS：多独立安全级架构（Multiple Independent Levels of Security）
@@ -2730,6 +2735,7 @@
 * MQV：MQV协议（Menezes-Qu-Vanstone）
 * MRA：互认协议（Mutual Recognition Agreement）
 * MRC：面向任务的韧性云（Mission-oriented Resilient Clouds）
+* MRES：多接收方加密方案（Multi-Recipient Encryption Scheme）
 * MRP：物料资源计划（Materials Resource Planning）
 * MRTI：机读情报（Machine-Readable Threat Intelligence）
 * MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
@@ -3417,6 +3423,7 @@
 * PPDRR：策略、防护、检测、响应和恢复（Policy, Protection, Detection, Response, Recovery）
 * PPE：管道执行投毒（Poisoned Pipeline Execution）
 * PPL：轻量级受保护进程（Protected Process Light）
+* PPO：近端策略优化（Proximal Policy Optimization）
 * PPP：点对点协议（Point-to-Point Protocol）；公私合作（Public-Private Partnerships）；程序保护计划（Program Protection Planning）
 * PPPoE：以太网点对点协议（Point-to-Point Protocol over Ethernet）
 * PPS：互联网协议套件及相关端口（Internet Protocol Suite & Associated Ports）
@@ -3537,6 +3544,7 @@
 * RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
 * RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
 * RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
+* RAFT：奖励排名微调（Reward rAnked Fine Tuning）
 * RAG：检索增强生成（Retrieval-Augmented Generation）
 * RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
 * RAII：资源获取即初始化（Resource Acquisition Is Initialization）
@@ -3604,10 +3612,11 @@
 * RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
 * RK：根密钥（Root Key）
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
+* RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
 * RLFA：远程无环备选通道（Remote Loop Free Alternate）
 * RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
 * RLWR：环上舍入学习（Ring Learning With Rounding）
-* RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）
+* RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
 * RMA：军事事务革命（Revolution in Military Affairs）
 * RMC：风险管理委员会（Risk management council）
 * RME：域管理扩展（Realm Management Extension）
@@ -3647,6 +3656,7 @@
 * RRAM：可变电阻式存储器（Resistive Random-Access Memory）
 * RRC：无线资源控制器（Radio Resource Controller）
 * RRH：远程无线头端（Remote Radio Head）
+* RRHF：人类反馈排名响应（Rank Response from Human Feedback）
 * RRL：响应速率限制（Response Rate Limiting）
 * RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
 * RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
@@ -3882,6 +3892,7 @@
 * SIKE：超奇异同源性密钥交换（Supersingular Isogeny Key Exchange）
 * SIM：用户身份模块（Subscriber Identity Module）；安全信息管理（Security Information Management）
 * SIMD：单指令多数据流技术（Single Instruction Multiple Data）
+* SIMT：单指令多线程技术（Single Instruction Multiple Thread）
 * SINIT：安全初始化验证代码模块（Secure Initialization Authenticated Code Module）
 * SIP：会话发起协议（Session Initiation Protocol）；源IP（Source IP）；安全测量平台（Security Instrumentation Platform）；安全感知平台（Security Intelligence Platform）；系统完整性保护（System Integrity Protection）；流式交互证明（streaming interactive proof）
 * SiP：系统级封装（System in Package）；硅提供商（Silicon Provider）
@@ -3913,7 +3924,7 @@
 * SLSA：软件工件供应链级别（Supply chain Levels for Software Artifacts）
 * SLTPS：州、地方、部落和私营部门（State, Local, Tribal, and Private Sector）
 * SLTT：州、地方、部落及领地（State, Local, Tribal, and Territorial）
-* SM：商用密码（拼音：Shang Mi）；系统管理（Systems Management）；安全措施（Security Measure）；供方管理（Supplier Management）
+* SM：商用密码（拼音：Shang Mi）；系统管理（Systems Management）；安全措施（Security Measure）；供方管理（Supplier Management）；流式多处理器技术（Streaming Multiprocessor）
 * SM-DP：订阅管理器数据准备模块（Subscription Manager Data Preparation）
 * SM-DS：订阅管理器发现服务模块（Subscription Manager Discovery Service）
 * SM-SR：订阅管理器安全路由模块（Subscription Manager Secure Routing）
@@ -4140,6 +4151,7 @@
 * SWORD：有符号字（Signed Word）
 * SWOT：优势、弱点、机会和威胁（Strength-Weakness-Opportunity-Threat）
 * SWT：简单Web令牌（Simple Web Token）
+* SXM：英伟达SXM插座架构（Server PCI Express Module）
 * SYN：同步标识（Synchronization flag）
 * SysCon：IEEE国际系统学会议（IEEE International Systems Conference）
 * SYSLOG：系统日志（System Log）
@@ -4160,6 +4172,7 @@
 * TAFIM：信息管理技术架构框架（Technical Architecture Framework for Information Management）
 * TAG：威胁分析团队（Threat Analysis Group）；技术咨询组（Technical Advisory Group）
 * TAO：美国国家安全局特定入侵行动办公室（Tailored Access Operations）
+* TAP：三因子认证协议（Three-Factor Authentication Protocol）
 * TARA：威胁评估与修复分析（Threat Assessment & Remediation Analysis）；车联网威胁分析与风险评估（Threat Analysis & Risk Assessment）
 * TARCES：战术和远程C5I边缘系统（Tactical and Remote C5I Edge System）
 * TAS：诺基亚电信应用服务器（Telecom Application Server）；威胁分析系统（Threat Analysis System）
@@ -4249,7 +4262,7 @@
 * TLB：旁路快表缓冲（Translation Lookaside Buffer）
 * TLCP：传输层密码协议（Transport Layer Cryptographic Protocol）
 * TLD：顶级域名（Top Level Domain）
-* TLP：信息交通灯协议（Traffic Light Protocol）
+* TLP：信息交通灯协议（Traffic Light Protocol）；线程级并行（Thread Level Parallelism）
 * TLS：传输层安全（Transport Layer Security）
 * TLSP：传输层安全协议（Transport Layer Security Protocol）
 * TLV：标签、长度、值（Tag-Length-Value）
@@ -4277,7 +4290,7 @@
 * TOU：使用时间（Time-Of-Use）
 * TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）
 * TPA：第三方认证（Third Party Authentication）
-* TPC：第三方组件（Third-Party Component）
+* TPC：第三方组件（Third-Party Component）；纹理处理器群（Texture Processing Cluster）
 * TPCM：可信平台控制模块（Trusted Platform Control Module）
 * TPI：双人完整性（Two-Person Integrity）
 * TPL：追踪保护名单（Tracking Protection List）
