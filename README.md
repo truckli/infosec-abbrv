@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4636**条，词组**5814**条。 
+当前收录缩略词形**4645**条，词组**5829**条。 
 
 
 
@@ -370,6 +370,7 @@
 * BiLSTM：双向长短时记忆网络（BiDirectional LSTM）
 * BIOS：基本输入输出系统（Basic Input Output System）
 * BIS：美国工业与安全局（Bureau of Industry and Security）
+* BLAS：线性代数计算库（Basic Linear Algebra Subprograms）
 * BLB：百度负载均衡（Baidu Load Balance）
 * BLE：低功耗蓝牙（Bluetooth Low Energy）
 * BLF：BLF文件格式（Binary Log File）
@@ -1123,6 +1124,7 @@
 * DDN：数字数据网络（Digital Data Network）
 * DDNS：域名动态解析（Dynamic Domain Name System）
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
+* DDP：分布式数据并行（Distributed Data Parallelism）
 * DDPE：Dell数据保护加密（Dell Data Protection Encryption）
 * DDR：数据安全威胁检测和响应技术（Data Detection and Response）
 * DDS-M：可部署防御性网络空间行动系统-标准组件（Deployable Defensive Cyberspace – Modular）
@@ -1276,7 +1278,7 @@
 * DOS：DOS操作系统（Disk Operating System）
 * DoT：DNS-over-TLS（DNS over TLS）；美国运输部（Department of Transportation）
 * DOT&E：运行测试与评估主任（Director, Operational Test & Evaluation）
-* DP：差分隐私（Differential Privacy）
+* DP：差分隐私（Differential Privacy）；数据并行（Data Parallelism）
 * DPA：差分能量分析（Differential Power Analysis）；数据处理协议（Data Process Agreement）；数据保护机构（Data Protection Agency）；数字流程自动化（Digital Process Automation）
 * DPCMP：委托的个人资料内容管理平台（Delegated Profile Content Management Platform）
 * DPDK：数据面开发套件（Data Plane Development Kit）
@@ -1309,7 +1311,7 @@
 * DRPS：数字风险保护服务（Digital Risk Protection Service）
 * DRTM：动态可信度量根（Dynamic Root of Trust for Measurement）
 * DS：发现服务（Discovery Service）；目录服务（Directory Service）；数据段寄存器（Data Segment）；分发系统（Distribution System）；域服务（Domain Service）
-* DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）；数据安全评估师（Data Security Assessor）；数据安全协议（Data Security Agreement）；数据共享协议（Data Sharing Agreement）
+* DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）；数据安全评估师（Data Security Assessor）；数据安全协议（Data Security Agreement）；数据共享协议（Data Sharing Agreement）；专用处理器架构（Domain Specific Architecture）
 * DSAA：DECT标准认证算法（DECT Standard Authentication Algorithm）
 * DSaaS：数据安全即服务（Data Security as a Service）
 * DSAWG：美国国防IA安全认证工作组（Defense IA Security Accreditation Working Group）
@@ -1621,7 +1623,7 @@
 * FAT：文件分配表（File Allocation Table）
 * FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
 * FBI：美国联邦调查局（Federal Bureau of Investigation）
-* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）
+* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）
 * FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * FC2：联邦式指挥与控制（Federated Command & Control）
 * FCA：英国金融行为管理局（Financial Conduct Authority）
@@ -1652,6 +1654,7 @@
 * FEMA：联邦应急管理局（Federal Emergency Management Agency）
 * FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
 * FFI：外部功能接口（Foreign Function Interface）
+* FFN：前馈神经网络（Feed-Forward Networks）
 * FFRDC：美国联资研发中心（Federally Funded Research & Development Center）
 * FGS：火和燃气系统（Fire & Gas Systems）
 * FHE：全同态加密（Fully Homomorphic Encryption）
@@ -1898,6 +1901,7 @@
 * HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
 * HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
 * HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
+* HBM：高带宽内存（High-Bandwidth Memory）
 * HBM2：HBM2内存工艺（High Bandwidth Memory 2）
 * HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
 * HBS：基于硬件的安全（Hardware-Based Security）
@@ -1951,6 +1955,7 @@
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
 * HOV：高乘载车道（High-Occupancy Vehicle lane）
+* HP：混合并行（Hybrid Parallelism）
 * HPC：高性能计算（High-Performance Computing）；硬件性能计数器（Hardware Performance Counter）
 * HPE：惠普公司（Hewlett Packard Enterprise）
 * HPH：医疗和公共卫生（Healthcare & Public Health）
@@ -2041,6 +2046,7 @@
 * IBE：基于身份的加密（Identity-Based Encryption）
 * iBGP：内部边界网关协议（internal Border Gateway Protocol）
 * IBM：国际商业机器公司（International Business Machines Corporation）
+* iBMC：华为智能基板管理系统（Intelligence Baseboard Management Controller）
 * IBoE：以太网上的InfiniBand（InfiniBand over Ethernet）
 * IBOM：基础设施物料清单（Infrastructure Bill of Materials）
 * iBPMS：智能业务流程管理套件（intelligent Business Process Management Suite）
@@ -2714,6 +2720,7 @@
 * MOTS：军用现货（Military Off-The-Shelf）
 * MOTW：Web标记（Mark-of-the-Web）
 * MOU：谅解备忘录（Memorandum of Understanding）
+* MP：模型并行（Model Parallelism）
 * MPA：多主管理员（Multi-Primary Administrator）
 * MPC：多方安全计算（Multi-Party Computation）
 * MPDRR：管理、保护、检测、响应和恢复（Management，Protection，Detection，Reaction & Recovery）
@@ -2952,6 +2959,7 @@
 * NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）；美国国家军事战略（National Military Strategy）
 * NMS-CO：美国国家网络作战军事战略（National Military Strategy for Cyberspace Operations）
 * NMT：美军国家任务部队（National Mission Team）
+* NN：神经网络（Neural Network）
 * NNI：网络到网络接口（Network-to-Network Interface）
 * NNM：Nessus网络监视器（Nessus Network Monitor）
 * NNTP：网络新闻传输协议（Network News Transport Protocol）
@@ -3413,7 +3421,7 @@
 * POTUS：美国总统（President Of The United States）
 * POU：项目组织单元（Program Organizational Unit）
 * PoW：工作量证明（Proof of Work）
-* PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）
+* PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）；流水线并行（Pipeline Parallelism）
 * PPA：保护轮廓确保（Protection Profile Assurance）
 * PPAKE：具有隐私保护性质的认证性密钥协商协议（Privacy-Preserving Authenticated Key Exchange）
 * PPAS：Postgres Plus高级服务器（Postgres Plus Advanced Server）
@@ -3450,7 +3458,7 @@
 * PRP：伪随机排列（Pseudo Random Permutation）；策略取回点（Policy Retrieval Point）；并行冗余协议（Parallel Redundancy Protocol）
 * pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
 * PRS：策略检索服务（Policy Retrieval Service）
-* PS：分组交换（Packet Switching）；受保护存储（Protected Storage）
+* PS：分组交换（Packet Switching）；受保护存储（Protected Storage）；参数服务器（Parameter Server）
 * PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）
 * PSB：AMD平台安全启动（Platform Secure Boot）
 * PSC：平台服务控制器（Platform Services Controller）
@@ -4288,7 +4296,7 @@
 * TOS：可信操作系统（Trusted Operating System）
 * TOTP：动态口令（Time-based One-Time Password）
 * TOU：使用时间（Time-Of-Use）
-* TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）
+* TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）；张量并行（Tensor Parallelism）
 * TPA：第三方认证（Third Party Authentication）
 * TPC：第三方组件（Third-Party Component）；纹理处理器群（Texture Processing Cluster）
 * TPCM：可信平台控制模块（Trusted Platform Control Module）
@@ -4725,6 +4733,7 @@
 * ZCAIA：中关村网络安全产业联盟（Zhongguancun Cyberspace Affairs Industry Association）
 * ZDA：零日攻击（Zero-Day Attack）
 * ZDI：某国际软件漏洞计划（Zero Day Initiative）
+* ZeRO：零冗余优化器（Zero Redundancy Optimizer）
 * ZK：零知识（Zero Knowledge）
 * ZK-SNARK：零知识简洁非交互知识证明（Zero-Knowledge Succinct Non-Interactive Argument of Knowledge）
 * ZK-STARK：零知识可扩展透明知识证明（Zero-Knowledge Scalable Transparent Argument of Knowledge）
