@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4645**条，词组**5829**条。 
+当前收录缩略词形**4648**条，词组**5836**条。 
 
 
 
@@ -526,7 +526,7 @@
 * CBS：云备份（Cloud Backup Service）
 * CBTC：CB测试证书（Certification Body Test Certificates）
 * CBTL：CB测试实验室（Certification Body Testing Laboratory）
-* CC：信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）；CC网络安全从业认证（Certified in Cybersecurity）；CC网络攻击（Challenge Collapsar）；关键能力（Critical Capacities）
+* CC：信息技术安全评价通用准则（Common Criteria for Information Technology Security Evaluation）；机密计算（Confidential Computing）；隐秘信道（Covert Channel）；客户端证书（Client Certificate）；抄送（Carbon Copy）；知识共享许可协议（Creative Commons）；CC网络安全从业认证（Certified in Cybersecurity）；CC网络攻击（Challenge Collapsar）；关键能力（Critical Capacities）；集合通信（Collective Communication）
 * CC-BY：知识共享许可——署名（Creative Commons Attribution）
 * CC-NC：知识共享许可——非商业性使用（Creative Commons Non-Commercial）
 * CC-ND：知识共享许可——禁止演绎（Creative Commons No Derivatives）
@@ -587,7 +587,7 @@
 * CCTA：英国中央计算机和通信局（Central Computer and Telecommunications Agency）
 * CCTC：商用密码检测中心（Commercial Cryptography Testing Center）
 * CCTV：闭路电视（Closed Circuit Television）；中国中央电视台（China Central Television）
-* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）；后果驱动（Consequence-Driven）；光盘（Compact Disc）
+* CD：持续交付（Continuous Delivery）；委员会草案（Committee Draft）；后果驱动（Consequence-Driven）；光盘（Compact Disc）；对比散度（Contrastive Divergence）
 * CD-i：交互式光盘（Compact Disc-Interactive）
 * CD-R：可录制光盘（Recordable Compact Discs）
 * CD-ROM：只读光盘（Compact Disc Read-Only Memory）
@@ -1077,6 +1077,7 @@
 * DBI：动态二进制插桩（Dynamic Binary Instrumentation）
 * dBm：参考毫瓦分贝（Decibels referenced to one milliwatt）
 * DBMS：数据库管理系统（DataBase Management System）
+* DBN：深度信任网络（Deep Belief Network）
 * DBS：数据窃取模拟（Data Breach Simulation）
 * DBSCAN：噪声应用密度空间聚类算法（Density-Based Spatial Clustering of Applications with Noise）
 * DBTF：开发先于事实（Development Before the Fact）
@@ -1623,7 +1624,7 @@
 * FAT：文件分配表（File Allocation Table）
 * FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
 * FBI：美国联邦调查局（Federal Bureau of Investigation）
-* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）
+* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）；函数调用（Function Call）
 * FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * FC2：联邦式指挥与控制（Federated Command & Control）
 * FCA：英国金融行为管理局（Financial Conduct Authority）
@@ -2953,6 +2954,7 @@
 * NITS：全国信息技术标准化技术委员会（China National Information Technology Standardization Network）
 * NITSC：国家信息技术安全研究中心（National Research Center for Information Technology Security）
 * NLB：网络负载均衡器（Network Load Balancer）
+* NLG：自然语言生成（Natural Language Generation）
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
 * NMF：国家任务部队（National Mission Force）
@@ -3573,6 +3575,7 @@
 * RBD：RADOS块设备（RADOS Block Device）
 * RBG：随机位生成器（Random Bit Generator）
 * RBI：远程浏览器隔离（Remote Browser Isolation）；印度储备银行（Reserve Bank of India）
+* RBM：受限玻尔兹曼机（Restricted Boltzmann Machine）
 * RBP：某64位寄存器代号（Register Base Pointer）
 * RBVM：基于风险的漏洞管理（Risk-Based Vulnerability Management）
 * RBX：某64位寄存器代号（Register B eXtended）
@@ -3737,7 +3740,7 @@
 * SACMAT：ACM访问控制模型与技术研讨会（ACM Symposium on Access Control Models and Technologies）
 * SAD：系统分析与设计（System Analysis & Design）
 * SADT：结构化分析与设计技术（Structured analysis and design technique）
-* SAE：系统架构演进（System Architecture Evolution）；SAE国际工程协会（旧称：Society of Automotive Engineers）；新浪云应用平台（Sina App Engine）
+* SAE：系统架构演进（System Architecture Evolution）；SAE国际工程协会（旧称：Society of Automotive Engineers）；新浪云应用平台（Sina App Engine）；堆栈自编码器（Stacked Autoencoders）
 * SAF：MITRE安全自动化框架（Security Automation Framework）
 * SAFe：规模化敏捷框架（Scaled Agile Framework）
 * SAFECode：卓越代码软件保障论坛（Software Assurance Forum for Excellence in Code）
