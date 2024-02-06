@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4648**条，词组**5836**条。 
+当前收录缩略词形**4651**条，词组**5839**条。 
 
 
 
@@ -1821,6 +1821,7 @@
 * GIN：全球情报网（Global Intelligence Network）
 * GIOP：通用对象请求代理间通信协议（General Inter-ORB Protocol）
 * GKH：已知白主机（Good Known Host）
+* GLOO：通用轻量级面向对象通信库（General Lightweight Object-Oriented Utilities）
 * GLS：广义最小二乘法（Generalized Least Squares）
 * GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
 * GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
@@ -2853,6 +2854,7 @@
 * NCC：国家协调中心（National Coordination Center）；国家网络安全中心（The National Cybersecurity Center）
 * NCCC：国家网络协调中心（National Cyber Coordination Centre）
 * NCCIC：国家网络和通信集成中心（National Cybersecurity and Communications Integration Center）
+* NCCL：英伟达网络通信软件包（NVIDIA Collective Communications Library）
 * NCCM：网络配置和变更管理（Network Configuration & Change Management）
 * NCCoE：美国国家网络安全卓越中心（National Cybersecurity Center of Excellence）
 * NCCOSC：美国海军指挥控制与海洋侦察中心（Naval Command, Control & Ocean Surveillance Center）
@@ -4310,6 +4312,7 @@
 * TPP：第三方支付服务提供商（Third-Party Payment Services Provider）
 * TPRM：第三方风险管理（Third-Party Risk Management）
 * TPS：每秒交易数（Transactions Per Second）
+* TPU：张量处理单元（Tensor Processing Unit）
 * TQM：全面质量管理（Total Quality Management）
 * TR：技术报告（Technical Report）；任务寄存器（Task Register）
 * TRA：技术参考架构（Technical Reference Architecture）
