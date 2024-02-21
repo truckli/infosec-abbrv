@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4651**条，词组**5839**条。 
+当前收录缩略词形**4671**条，词组**5864**条。 
 
 
 
@@ -64,7 +64,7 @@
 * ACL：访问控制表（Access Control List）
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
-* ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）
+* ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）；蚁群优化（Ant Colony Optimization）
 * ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACR：阿里云容器镜像服务（Aliyun Container Registry Service）；阿里云容器镜像服务（Alibaba Cloud Container Registry Service）
@@ -399,6 +399,7 @@
 * BPCS：基本过程控制系统（Basic Process Control System）
 * BPD：业务流程图（Business Process Diagram）
 * BPDU：桥协议数据单元（Bridge Protocol Data Unit）
+* BPE：字节对编码（Byte Pair Encoding）
 * BPF：伯克利包过滤器（Berkeley Packet Filter）
 * BPGL：最佳实践指南库（Best Practice Guide Library）
 * BPM：业务流程管理（Business Process Management）
@@ -520,6 +521,7 @@
 * CBK：通用知识体系（Common Body of Knowledge）
 * CBM：组件化业务模型（Component Business Model）
 * CBOR：简明二进制对象表示（Concise Binary Object Representation）
+* CBOW：连续词袋模型（Continuous Bag-of-Words Model）
 * CBP：美国海关与边境保护局（U.S. Customs and Border Protection）
 * CBPR：跨境隐私规则（Cross-Border Privacy Rules）
 * CBRAM：导电桥接随机存取内存（Conductive-Bridging RAM）
@@ -1025,6 +1027,7 @@
 * CWC：卡特维根计数器（Carter–Wegman+CTR）
 * CWE：公共弱点枚举（Common Weakness Enumeration）
 * CWPP：云工作负载安全防护平台（Cloud Workload Protection Platform）
+* CWS：中文分词任务（Chinese Word Segmentation）
 * CX：某寄存器代号（C eXtended）
 * CyBDAT：网络战损评估工具（Cyber Battle Damage Assessment Tool）
 * CYBINT：网络情报（Cyber Intelligence）
@@ -1127,7 +1130,7 @@
 * DDoS：分布式拒绝服务攻击（Distributed Denial of Service）
 * DDP：分布式数据并行（Distributed Data Parallelism）
 * DDPE：Dell数据保护加密（Dell Data Protection Encryption）
-* DDR：数据安全威胁检测和响应技术（Data Detection and Response）
+* DDR：数据安全威胁检测和响应技术（Data Detection and Response）；双倍速率同步动态随机存取存储器（Double Data Rate SDRAM）
 * DDS-M：可部署防御性网络空间行动系统-标准组件（Deployable Defensive Cyberspace – Modular）
 * DDVE：数据域虚拟版（Data Domain Virtual Edition）
 * DE：数字实体（Digital Entity）
@@ -1491,6 +1494,7 @@
 * ELF：可执行与可链接格式（Executable and Linkable Format）
 * ELINT：电子情报（Electronic Intelligence）
 * ELK：ELK工具（Elasticsearch, Logstash & Kibana）
+* ELMo：语言模型嵌入技术（Embeddings from Language Models）
 * EM：电磁（Electromagnetic）；暴露面管理（Exposure Management）；EM算法（Expectation–Maximization）
 * eMASS：企业任务保障支持服务（Enterprise Mission Assurance Support Service）
 * eMBB：增强移动宽带（Enhanced Mobile Broadband）
@@ -1688,6 +1692,7 @@
 * FLOPS：每秒浮点运算数（Floating-point Operations Per Second）
 * FM：故障管理（Fault Management）
 * FM&A：取证与恶意代码分析（Forensics & Malware Analysis）
+* FMA：混合浮点运算（Fused Multiply-Add）
 * FMC：Firepower管理中心（Firepower Management Center ）
 * FMCSA：联邦汽车运输安全管理局（Federal Motor Carrier Safety Administration）
 * FMEA：失效模式和影响分析（Failure Modes & Effect Analysis）
@@ -1695,7 +1700,7 @@
 * FN：漏报（False Negative）
 * FNPS：美国联邦网络防护服务（Federal Network Protection Service）
 * FNR：美国联邦网络弹性计划（Federal Network Resilience）
-* FOA：野战行动机构（Field Operating Agency）
+* FOA：野战行动机构（Field Operating Agency）；果蝇优化算法（Fruit Fly Optimization Algorithm）
 * FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
 * FOAF：人际关系本体模型（Friend Of A Friend）
 * FOC：全面运行能力（Full Operating Capability）
@@ -1726,6 +1731,7 @@
 * FS：额外段寄存器（F extra Segment）
 * FS-ISAC：金融服务信息共享与分析中心（Financial Services Information Sharing & Analysis Center）
 * FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
+* FSDP：全分片数据并行（Fully Sharded Data Parallel）
 * FSF：自由软件基金会（Free Software Foundation）
 * FSL：设施安全等级（Facility Security Level）
 * FSLS：活跃时间窗口（First Seen & Last Seen）
@@ -1792,6 +1798,7 @@
 * GCSB：新西兰政府通信安全局（Government Communications Security Bureau）
 * GCSS：全球作战支援系统（Global Combat Support System）
 * GDB：GNU调试器（GNU Debugger）
+* GDDR：显存（Graphics Double Data Rate）
 * GDI：图形设备接口（Graphics Device Interface）
 * GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
 * GDN：全球风险阻断网络（Global Disruption Network）
@@ -1820,8 +1827,10 @@
 * GIG：全球信息栅格（Global Information Grid）
 * GIN：全球情报网（Global Intelligence Network）
 * GIOP：通用对象请求代理间通信协议（General Inter-ORB Protocol）
+* GKE：谷歌Kubernetes引擎（Google Kubernetes Engine）
 * GKH：已知白主机（Good Known Host）
 * GLOO：通用轻量级面向对象通信库（General Lightweight Object-Oriented Utilities）
+* GloVe：词表示全局向量（Global Vectors for Word Representation）
 * GLS：广义最小二乘法（Generalized Least Squares）
 * GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
 * GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
@@ -1886,6 +1895,7 @@
 * GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * GVLK：微软通用卷授权密钥（Generic Volume License Key）
 * GW：网关（Gateway）
+* GWN：网关节点（Gateway Node）
 * GZ：GZIP压缩格式（GNU ZIP）
 * GZIP：GZIP压缩格式（GNU ZIP）
 
@@ -2665,6 +2675,7 @@
 * MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
 * MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
 * MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
+* MII：DeepSpeed-MII库（Model Implementations for Inference）
 * MIIT：工业和信息化部（Ministry of Industry and Information Technology）
 * MILDEC：军事欺骗（Military Deception）
 * MILS：多独立安全级架构（Multiple Independent Levels of Security）
@@ -2687,6 +2698,7 @@
 * ML：机器学习（Machine Learning）；度量日志（Measurement Log）
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）
+* MLM：掩码语言模型（Masked Language Model）
 * MLOps：机器学习运营（Machine Learning Operations）
 * MLP：多层感知机（Multi-Layer Perceptron）
 * MLS：多级安全（Multi-Level Security）；多级安全体（Multi-Level Secure）
@@ -3011,7 +3023,7 @@
 * NSL：绿盟安全实验室（NSFOCUS Security Lab）
 * NSM：网络安全监控（Network Security Monitoring）；网络安全管理器（Network Security Manager）
 * NSOC：NSA国家安全行动中心（National Security Operation Center）
-* NSP：网络服务提供商（Network Service Provider）；网络服务平台（Network Services Platform）
+* NSP：网络服务提供商（Network Service Provider）；网络服务平台（Network Services Platform）；下一个句子预测（Next Sentence Prediction）
 * NSPD：美国国家安全总统令（National Security Presidential Directive）
 * NSPM：网络安全策略管理（Network Security Policy Management）
 * NSS：国家安全系统（National Security System）；名字服务切换器（Name Service Switch）；GSM网络交换子系统（Network Switching Subsystem）
@@ -3163,6 +3175,7 @@
 * OOM：内存不足（Out Of Memory）；面向对象建模（Object-Oriented Modeling）
 * OOP：面向对象编程（Object-Oriented Programming）
 * OOPSA：开放运维联盟（Open OPeraionS Alliance）
+* OOV：未登录词（Out-Of-Vocabulary）
 * OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
 * OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
@@ -3473,6 +3486,7 @@
 * PSK：预享密钥（Pre-Shared Key）
 * PSM：特权会话管理（Privileged Session Management）
 * PSN：公共交换网络（Public Switched Network）
+* PSO：粒子群优化（Particle Swarm Optimization）
 * PSP：公开安全参数（Public Security Parameter）；配置服务提供商（Provisioning Service Provider）；某游戏机产品（PlayStation Portable）；平台安全处理器（Platform Security Processor）
 * PSS：过程安全关闭（Process Safety Shutdown）
 * PST：配置服务目标（Provisioning Service Target）
@@ -3525,6 +3539,7 @@
 * QES：QNAP企业存储产品（QNAP Enterprise Storage）
 * QFD：质量功能展开（Quality Function Deployment）
 * QKD：量子密钥分发（Quantum Key Distribution）
+* QLoRA：量化低秩适配器微调法（Quantized Low Rank Adapters）
 * QMC：奎因－麦克拉斯基算法（Quine–McCluskey）
 * QMS：质量管理系统（Quality management system）
 * QNAP：某存储设备公司（QNAP Systems, Inc.）
@@ -3643,6 +3658,7 @@
 * RNG：随机数发生器（Random Number Generator）
 * RNN：循环神经网络（Recurrent Neural Network）
 * ROADM：可重构光分插复用器（Reconfigurable Optical Add/Drop Multiplexer）
+* RoBERTa：RoBERTa模型（A Robustly Optimized BERT Pretraining Approach）
 * ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
 * RoCE：RDMA以太网（RDMA over Converged Ethernet）
 * rodata：只读数据段（read-only data segment）
@@ -3830,6 +3846,7 @@
 * SDO：STIX域对象（STIX Domain Object）；标准开发组织（Standard Development Organization）
 * SDOC：供应商符合性声明（Supplier's Declaration of Conformity）
 * SDP：软件定义边界（Software Defined Perimeter）；安全交付平台（Secure Delivery Platform）；会话描述协议（Session Description Protocol）
+* SDRAM：同步动态随机存取存储器（Synchronous Dynamic Random Access Memory）
 * SDS：软件定义安全（Software Defined Security）；软件定义存储（Software Defined Storage）
 * SDU：服务数据单元（Service Data Unit）
 * SDWORD：有符号双字（Signed Doubleword）
@@ -3873,6 +3890,7 @@
 * SFTP：SSH文件传输协议（SSH File Transfer Protocol）
 * SG：安全网关（Security Gateway）；子工作组（Sub Groups）；研究组（Study Group）
 * SGCC：智能电网网络安全委员会（Smart Grid Cybersecurity Committee）
+* SGD：随机梯度下降（Stochastic Gradient Descent）
 * SGID：SGID（Set Group ID）
 * SGIP：NIST智能电网互操作面板（Smart Grid Interoperability Panel）
 * SGML：标准通用标记语言（Standard Generalized Markup Language）
@@ -4073,7 +4091,7 @@
 * SSAA：系统安全授权协议（Systems Security Authorization Agreement）
 * SSADM：结构化系统分析与设计方法（Structured System Analysis & Design Method）
 * SSAE：审计鉴证准则（Statement on Standards for Attestation Engagements）
-* SSC：安全服务容器（Secure Service Container）；SSC网络安全大会（CloverSec Security Conference）
+* SSC：安全服务容器（Secure Service Container）；SSC网络安全大会（CloverSec Security Conference）；单句文本分类（Single Sentence Classification）
 * SSCP：安全SCADA通信协议（Secure SCADA Communications Protocol）；系统安全认证从业者（Systems Security Certified Practitioner）
 * SSCS：网络安全滑动标尺（the Sliding Scale of Cyber Security）
 * SSCT：国家资助的网络威胁（State Sponsored Cyber Threat）
@@ -4423,6 +4441,7 @@
 * UK：用户类密钥（User Key）
 * UKAS：英国国家认可局（United Kingdom Accreditation Service）
 * UKRI：英国国家研究与创新署（UK Research and Innovation）
+* UMA：统一内存架构（Unified Memory Architecture）
 * UMD：马里兰大学（University of Maryland）
 * UMDF：用户态驱动框架（User-Mode Driver Framework）
 * UMDS：更新管理器下载服务（Update Manager Download Service）
@@ -4675,6 +4694,7 @@
 * WSDL：Web服务描述语言（Web Services Description Language）
 * WSGI：Web服务器网关接口（Web Server Gateway Interface）
 * WSL：Windows的Linux子系统（Windows Subsystem for Linux）
+* WSN：无线传感网络（Wireless Sensor Network）
 * WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
 * WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
 * WSUS：Windows服务更新服务（Windows Server Update Service）
