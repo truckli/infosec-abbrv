@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4671**条，词组**5864**条。 
+当前收录缩略词形**4672**条，词组**5865**条。 
 
 
 
@@ -4171,6 +4171,7 @@
 * SVM：支持向量机（Support Vector Machine）；安全虚拟机（Secure Virtual Machine）
 * SVP：最短向量问题（Shortest vector problem）
 * SVR：俄罗斯联邦对外情报局（俄语拉丁化：Sluzhba Vneshney razvedki Rossiyskoy Federatsii）
+* SVS：服务价值系统（Service Value System）
 * SW：ARM安全系统区域（Secure World）；软件（SoftWare）
 * SwA：软件保障（Software Assurance）
 * SWaP：尺寸、重量和功率（Size, Weight & Power）
