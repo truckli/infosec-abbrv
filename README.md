@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4672**条，词组**5865**条。 
+当前收录缩略词形**4680**条，词组**5878**条。 
 
 
 
@@ -726,7 +726,7 @@
 * CIRCLS：综合计算和学习科学研究中心（The Center for Integrative Research in Computing and Learning Sciences）
 * CIRP：网络事件应急预案（Cyber Incident Response Plan）
 * CIRT：计算机事件应急响应小组（Computer Incident Response Team）
-* CIS：全面内网安全（Comprehensive Intranet Security）；互联网安全中心（Center for Internet Security）；计算机信息系统（Computer Information System）
+* CIS：全面内网安全（Comprehensive Intranet Security）；互联网安全中心（Center for Internet Security）；计算机信息系统（Computer Information System）；临床信息系统（Clinical Information System）
 * CISA：认证信息系统审核员（Certified Information Systems Auditor）；美国网络安全与基础设施安全局（Cybersecurity & Infrastructure Security Agency）；网络安全信息共享法案（Cybersecurity Information Sharing Act）
 * CISAW：信息安全保障人员认证（Certified Information Security Assurance Worker）
 * CISCP：网络信息分享协作计划（Cyber Information Sharing and Collaboration Program）
@@ -828,6 +828,7 @@
 * CNW：CSIRT网络（CSIRT NetWork）
 * CO-IPE：网络空间行动综合规划单位（Cyberspace Operations Integrated Planning Element）
 * CoA：行动措施（Course of Action）
+* COA：已知密文攻击（Ciphertext-Only Attack）
 * COBIT：信息与技术控制目标框架（Control Objectives for Information & related Technologies）
 * COBRA：网络行动广泛响应协议（Cyber Operations Broad Responsive Agreement）
 * COCOM：作战司令部（Combatant Command）
@@ -987,7 +988,7 @@
 * CSV：逗号分隔值（Comma-Separated Values）；网络安全验证（Cyber Security Validation）
 * CSW：阿里云内网接入交换机（Customer access SWitch）
 * CSWP：NIST网络安全白皮书（CyberSecurity White Paper）
-* CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）
+* CT：证书透明度（Certificate Transparency）；反恐（Counterterrorism）；密码技术员（Cryptologic Technician）；密文（Ciphertext）
 * CTA：认知任务分析（Cognitive Task Analysis）；消费者技术协会（Consumer Technology Association）
 * CTAP：客户端认证器协议（Client to Authenticator Protocol）
 * CTE：CipherTrust透明加密（CipherTrust Transparent Encryption）
@@ -1506,6 +1507,7 @@
 * EMM：扩展度量模块（Extended Measurement Module）；移动安全管理系统（Enterprise Mobility Management）；演进分组系统移动性管理（EPS Mobility Management）
 * EMNLP：自然语言处理的经验方法会议（Conference on Empirical Methods in Natural Language Processing）
 * EMP：电磁脉冲（Electromagnetic Pulse）
+* EMR：电子病历（EMR,Electronic Medical Record）
 * EMS：应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）；电磁敏感性（Electromagnetic Susceptibility）；电磁频谱（Electromagnetic Spectrum）
 * EMSK：扩展主会话密钥（Extended Master Session Key）
 * EMSW：电磁频谱战（Electromagnetic Spectrum Warfare）
@@ -1951,7 +1953,7 @@
 * HIPAA：美国健康保险便携性和责任法案（Health Insurance Portability & Accountability Act）
 * HIPERLAN：高性能无线局域网（High Performance Radio Local Area Network）
 * HIPS：主机入侵预防系统（Host Intrusion Prevention System）
-* HIS：健康信息系统（Health Information System）
+* HIS：健康信息系统（Health Information System）；医院信息管理系统（Hospital Information System）
 * HITB：HITB安全大会（Hack In The Box）
 * HITECH：卫生信息技术促进经济和临床健康法案（Health Information Technology for Economic & Clinical Health Act）
 * HITL：人机回环（Human-In-The-Loop）
@@ -1975,6 +1977,7 @@
 * HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
 * HR：人力资源（Human Resources）
 * HRoT：可信硬件根（Hardware Root of Trust）
+* HRP：医院资源管理系统（Hospital Resource Planning）
 * HRU：哈里森-鲁佐-厄尔曼模型（Harrison-Ruzzo-Ullman）
 * HS：高速（High Speed）
 * HSA：山石安全审计平台（Hillstone Security Audit）
@@ -2529,6 +2532,7 @@
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
 * LIMA：浅层对齐假说（Less Is More for Alignment）
 * LIN：局域网互联网络（Local Interconnect Network）
+* LIS：实验室信息管理系统（Laboratory Information Management System）
 * LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
 * LLB：链路负载均衡（Link Load Balancing）
 * LLC：逻辑链路控制（Logical Link Control）
@@ -2691,7 +2695,7 @@
 * MISP：恶意软件信息共享平台（Malware Information Sharing Platform）
 * MiSRC：小米安全中心（Mi Security Response Center）
 * MITA：医学成像与技术联盟（Medical Imaging & Technology Alliance）
-* MitM：中间人攻击（Man-in-the-Middle）
+* MITM：中间人攻击（Man-in-the-Middle）
 * MIVD：荷兰军事情报安全局（荷兰语：Militaire Inlichtingen- en Veiligheidsdienst）
 * MJ：Midjourney制图工具（Midjourney）
 * MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
@@ -2984,6 +2988,7 @@
 * NOFORN：禁发外国（Not Releasable to Foreign Nationals）
 * NOOP：无操作（No Operation Performed）
 * NOP：无操作（No Operation Performed）
+* NOR：或非运算（Not OR）
 * NORS：网络故障报告系统（Network Outage Reporting System）
 * NOSC：网络操作安全中心（Network Operation Security Center）
 * NoSQL：非关系型数据库（Not only SQL）
@@ -3492,7 +3497,7 @@
 * PST：配置服务目标（Provisioning Service Target）
 * PSTN：公共交换电话网络（Public Switched Telephone Network）
 * PSYOPS：心理战（Psychological Operations）
-* PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）
+* PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）；明文（Plaintext）
 * PTaaS：渗透测试即服务（Penetration Testing as a Service）
 * PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）
 * PTES：渗透测试执行标准（Penetration Testing Execution Standard）
@@ -3637,6 +3642,7 @@
 * RID：相对标识（Relative Identifier）
 * RIN：规章识别号（Regulation Identifier Numbers）
 * RIP：路由信息协议（Routing Information Protocol）；某64位寄存器代号（Register Instruction Pointer）
+* RIS：放射科信息系统（Radiology Information System）
 * RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
 * RK：根密钥（Root Key）
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
@@ -3866,7 +3872,7 @@
 * SecL-DC：数据中心安全库（Security Libraries for Data Center）
 * SED：自加密硬盘（Self-Encrypting Drive）
 * SEG：安全电子邮件网关（Secure Email Gateway）；安全网关（SEcurity Gateway）；安全专家组（Security Experts Group）；MITRE系统工程指南（Systems Engineering Guide）
-* SEH：结构化异常处理（Structured Exception Handling）
+* SEH：结构化异常处理（Structured Exception Handling）；简易高效哈希（Simple Efficient Hashing）
 * SEHOP：SEH重写保护（Structured Exception Handling Overwrite Protection）
 * SEI：软件工程研究所（Software Engineering Institute）
 * SEL：安全异常级别（Secure Exception Level）
@@ -3970,6 +3976,7 @@
 * SMB：服务器消息块协议（Server Message Block）；中小企业（Small to Medium-sized Business）；标准化管理领导组（Standardization Management Board）
 * SMBus：系统管理总线（System Management Bus）
 * SMC：思科Stealthwatch管理控制台（Stealthwatch Management Console）；安全监控呼叫（Secure Monitor Call）；安全多方计算（Secure Multi-party Computation）
+* SMDH：安全修改的Diffie-Hellman（Secure Modified Diffie-Hellman）
 * SME：中小企业（Small and Medium Enterprise）；领域专家（Subject Matter Expert）；安全内存加密（Secure Memory Encryption）
 * SMEP：监管态执行保护（Supervisor Mode Execution Prevention）
 * SMF：会话管理功能（Session Management Function）
@@ -4732,6 +4739,7 @@
 * XMSS：可扩展Merkle签名体制（eXtended Merkle Signature Scheme）
 * XMSSMT：多树XMSS（Multi-tree XMSS）
 * XN：不可执行位（eXecute Never bit）
+* XNOR：异或非运算（Exclusive Not OR）
 * XOF：可扩展输出函数（eXtendable-Output Function）
 * XOR：异或（eXclusive-OR）
 * XP：极限编程（Extreme Programming）
