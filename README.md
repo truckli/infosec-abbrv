@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4680**条，词组**5878**条。 
+当前收录缩略词形**4683**条，词组**5881**条。 
 
 
 
@@ -860,6 +860,7 @@
 * COS：片内操作系统（Chip Operating System）；云编排服务（Cloud Orchestration Service）
 * COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
+* CoT-SC：自我一致性思维链（Self-Consistency with Chain of Thought）
 * COTS：商用现货（Commercial Off-The-Shelf）
 * CoW：晶片堆叠技术（Chip-on-Wafer）
 * CoWoS：台积电CoWoS芯片封装技术（Chip on Wafer on Substrate）
@@ -1849,6 +1850,7 @@
 * GOPS：每秒十亿次运算数（Giga Operations Per Second）；全球运维大会（Global OPs Summit）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
 * GOT：全局偏移表（Global Offset Table）
+* GoT：大模型思维图（Graph of Thought）
 * GOTS：政用现货（Government Off-The-Shelf）
 * GOV：组织治理（GOVernance）
 * GP：组策略（Group Policy）；通用实践（Generic Practice）
@@ -4325,6 +4327,7 @@
 * TOPS：每秒万亿次运算数（Tera Operations Per Second）；TOPS原则（Targeted, Over-arching, Powerful & Supportable）
 * TOR：洋葱路由（The Onion Router）；架顶（Top-of-Rack）
 * TOS：可信操作系统（Trusted Operating System）
+* ToT：大模型思维树（Tree of Thought）
 * TOTP：动态口令（Time-based One-Time Password）
 * TOU：使用时间（Time-Of-Use）
 * TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）；张量并行（Tensor Parallelism）
