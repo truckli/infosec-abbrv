@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4683**条，词组**5881**条。 
+当前收录缩略词形**4684**条，词组**5882**条。 
 
 
 
@@ -3769,6 +3769,7 @@
 * SAE：系统架构演进（System Architecture Evolution）；SAE国际工程协会（旧称：Society of Automotive Engineers）；新浪云应用平台（Sina App Engine）；堆栈自编码器（Stacked Autoencoders）
 * SAF：MITRE安全自动化框架（Security Automation Framework）
 * SAFe：规模化敏捷框架（Scaled Agile Framework）
+* SAFE：思科万能防护框架（Secure Architecture For Everyone）
 * SAFECode：卓越代码软件保障论坛（Software Assurance Forum for Excellence in Code）
 * SAFER：安全快速加密例程（Secure And Fast Encryption Routine）
 * SAG：服务账号治理（Service Account Governance）；安全应用网关（Secure Application Gateway）；安全接入网关（Secure Access Gateway）
