@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4686**条，词组**5885**条。 
+收录缩略词形**4690**条，词组**5889**条，更新时间2025-03-01 21:14:44。 
 
 
 
@@ -146,7 +146,7 @@
 * AIDM：应用与基础设施依赖映射（Application And Infrastructure Dependency Mapping）
 * AIE：DARPA人工智能勘探计划（AI Exploration）
 * AIGA：人工智能生成行动（AI Generated Actions）
-* AIGC：人工智能生成内容（AI Generated Content）
+* AIGC：人工智能生成内容（AI-Generated Content）
 * AIGS：人工智能生成软件（AI Generated Softwares）
 * AIIA：中国人工智能产业发展联盟（Artificial Intelligence Industry Alliance）
 * AIK：作证身份密钥（Attestation Identity Key）；自动化安装工具包（Automated Installation Kit）
@@ -759,6 +759,7 @@
 * CLFS：通用日志文件系统（Common Log File System）
 * CLG：社区主导型增长（Community-Led Growth）
 * CLI：命令行界面（Command-Line Interface）；通用语言基础设施（Common Language Infrastructure）
+* CLIP：对比语言-图像预训练（Contrastive Language-Image Pretraining）
 * CLOB：字符大对象（Character Large Object）
 * CLOS：CLOS数据中心网络架构（以研究人员Charles Clos命名）
 * CloudSPF：云安全策略框架（Cloud Security Policy Framework）
@@ -860,6 +861,7 @@
 * COS：片内操作系统（Chip Operating System）；云编排服务（Cloud Orchestration Service）
 * COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
+* COT：思维链（Chain of Thought）
 * CoT-SC：自我一致性思维链（Self-Consistency with Chain of Thought）
 * COTS：商用现货（Commercial Off-The-Shelf）
 * CoW：晶片堆叠技术（Chip-on-Wafer）
@@ -1312,7 +1314,6 @@
 * DREAD：损害、可复制性、可利用性、受影响用户、可发现性（Damage, Reproducibility, Exploitability, Affected users, Discoverability）
 * DREN：美国国防研究与工程网络（Defense Research & Engineering Network）
 * DRM：数字版权管理（Digital Rights Management）；派生关系映射（Derived Relationship Mappings）
-* DROP：阅读理解数据集（Diverse Reading Comprehension）
 * DROWN：DROWN攻击（Decrypting RSA with Obsolete and Weakened eNcryption）
 * DRP：数字风险保护（Digital Risk Protection）；灾难恢复计划（Disaster Recovery Plan）
 * DRPS：数字风险保护服务（Digital Risk Protection Service）
@@ -1850,7 +1851,7 @@
 * GoIP：基于互联网协议的信号传输（GSM over Internet Protocol）
 * GOPS：每秒十亿次运算数（Giga Operations Per Second）；全球运维大会（Global OPs Summit）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
-* GOT：全局偏移表（Global Offset Table）
+* GOT：全局偏移表（Global Offset Table）；思维图（Graph of Thought）
 * GoT：大模型思维图（Graph of Thought）
 * GOTS：政用现货（Government Off-The-Shelf）
 * GOV：组织治理（GOVernance）
@@ -1883,7 +1884,6 @@
 * GSII：政府服务信息基础设施（Government Services Information Infrastructure）
 * GSLB：全局负载均衡（Global Server Load Balancing）；全局负载均衡器（Global Server Load Balancer）
 * GSM：全球移动通讯系统（Global System for Mobile Communications）
-* GSM8K：小学数学应用题数据集（Grade School Math 8K）
 * GSMA：GSM协会（GSM Association）
 * GSN：GPRS支撑节点（GPRS Support Node）
 * GSOC：全球安全运营中心（Global Security Operations Center）
@@ -2538,6 +2538,7 @@
 * LIN：局域网互联网络（Local Interconnect Network）
 * LIS：实验室信息管理系统（Laboratory Information Management System）
 * LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
+* LLaMA：大型语言模型（Large Language Model Meta AI）
 * LLB：链路负载均衡（Link Load Balancing）
 * LLC：逻辑链路控制（Logical Link Control）
 * LLDP：链路层发现协议（Link Layer Discovery Protocol）
@@ -2561,7 +2562,7 @@
 * LOLDriver：离地驱动程序（Living Off The Land Driver）
 * LOP：局部作战图（Local Operational Picture）
 * LoRa：远距离无线电（Long Range Radio）
-* LoRA：低秩适应微调技术（Low-Rank Adaptation）
+* LoRA：低秩适应（Low-Rank Adaptation）
 * LOS：视线传播（Line-Of-Sight propagation）
 * LotL：离地攻击（Living off the Land）
 * LPA：本地个人资料助手（Local Profile Assistant）
@@ -2614,6 +2615,7 @@
 * MANET：移动自组织网络（Mobile Ad-hoc Network）
 * MAPP：微软主动防护计划（Microsoft Active Protection Program）
 * MARAD：海事管理局（Maritime Administration）
+* MAS：多智能体系统（Multi-Agent System）
 * MASM：微软汇编器（Microsoft Assembler）
 * MAST：移动应用安全测试（Mobile Application Security Testing）
 * MAU：月均活跃用户数量（Monthly Active User）
@@ -2706,6 +2708,7 @@
 * ML：机器学习（Machine Learning）；度量日志（Measurement Log）
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）
+* MLLM：多模态大语言模型（Multimodal Large Language Model）
 * MLM：掩码语言模型（Masked Language Model）
 * MLOps：机器学习运营（Machine Learning Operations）
 * MLP：多层感知机（Multi-Layer Perceptron）
@@ -2721,7 +2724,6 @@
 * MNS：大规模通知系统（Mass Notification System）；消息通知服务（Message Notification Service）
 * MO：惯用手法（Modus Operandi）
 * MOB：受管对象浏览器（Managed Object Browser）
-* MoBA：MoonshotAI 稀疏注意力框架（MoonshotAI Block Attention）
 * MOBI：移动开放区块链倡议（Mobility Open Blockchain Initiative）；MOBI文件格式（Mobipocket eBook format）
 * MOC：任务运行中心（Mission Operations Center）
 * MOD：国际标准修改后引入（Modified）；国防部（Ministry of Defence）
@@ -2730,7 +2732,7 @@
 * ModelOps：模型运营（Model Operations）
 * MODEM：调制解调器（Modulator-Demodulator）
 * MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
-* MoE：专家混合模型（Mixture-of-Experts）
+* MoE：混合专家系统（Mixture of Experts）
 * MOF：元对象工具（Meta-Object Facility）
 * MOIE：面向任务的调查与实验（Mission-Oriented Investigation & Experimentation）
 * MOK：设备所有者密钥（Machine Owner Key）
@@ -3020,7 +3022,7 @@
 * NRT：非实时（Non-Real-Time）
 * NS：名字服务器（Name Server）；邻居请求消息（Neighbor Solicitation）
 * NS/EP：美国国家安全与应急准备（National Security & Emergency Preparedness）
-* NSA：美国国家安全局（National Security Agency）；5G非独立组网（Non-Standalone）；DeepSeek 稀疏注意力框架（Dynamic Sparse Attention）
+* NSA：美国国家安全局（National Security Agency）；5G非独立组网（Non-Standalone）
 * NSAC：英国国家安全咨询中心（National Security Advisory Centre）
 * NSATP：注册网络安全测评专业人员（Certified Cybersecurity Assessment Professional）
 * NSB：国家标准化团体（National Standards Body）；美国国家科学理事会（National Science Board）；美国FBI国家安全处（National Security Branch）
@@ -3653,7 +3655,7 @@
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
 * RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
 * RLFA：远程无环备选通道（Remote Loop Free Alternate）
-* RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
+* RLHF：人类反馈强化学习（Reinforcement Learning from Human Feedback）
 * RLWR：环上舍入学习（Ring Learning With Rounding）
 * RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
 * RMA：军事事务革命（Revolution in Military Affairs）
@@ -4331,6 +4333,7 @@
 * TOR：洋葱路由（The Onion Router）；架顶（Top-of-Rack）
 * TOS：可信操作系统（Trusted Operating System）
 * ToT：大模型思维树（Tree of Thought）
+* TOT：思维树（Tree of Thought）
 * TOTP：动态口令（Time-based One-Time Password）
 * TOU：使用时间（Time-Of-Use）
 * TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）；张量并行（Tensor Parallelism）
@@ -4386,7 +4389,7 @@
 * TTL：生存时间（Time To Live）；晶体管-晶体管逻辑电平（Transistor-Transistor Logic）
 * TTLS：隧道传输层安全（Tunneled Transport Layer Security）
 * TTP：战术、技术和过程（Tactics, Techniques & Procedures）；可信第三方（Trusted Third Party）
-* TTS：文本转语音（Text-to-Speech）
+* TTS：文本到语音（Text To Speech）
 * TTX：桌面练习（TableTop eXercises）
 * TUP：用户在场测试（Test of User Presence）
 * TURN：通过NAT中继遍历（Traversal Using Relays around NAT）
@@ -4581,6 +4584,7 @@
 * vLB：虚拟负载均衡器（Virtual Load Balancer）
 * VLB：Valiant负载均衡（Valiant Load Balancing）
 * VLIW：超长指令字处理器架构（Very Long Instruction Word）
+* VLM：视觉语言模型（Vision-Language Model）
 * VLR：GSM访客位置寄存器（Visitor Location Register）
 * VLTi：虚拟链路隧道互连（Virtual Link Tunnel Interconnect）
 * VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
