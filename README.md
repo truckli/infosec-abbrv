@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-收录缩略词形**4690**条，词组**5889**条，更新时间2025-03-01 21:14:44。 
+收录缩略词形**4696**条，词组**5895**条，更新时间2025-03-01 21:14:44。 
 
 
 
@@ -1531,6 +1531,7 @@
 * EPC：演进分组核心网（Evolved Packet Core）
 * ePDG：LTE演进分组数据网关（Evolved Packet Data Gateway）
 * ePHI：电子保护健康信息（Electronic Protected Health Information）
+* EPLB：专家并行负载均衡器（Expert Parallel Load Balancer）
 * EPM：终端权限管理（Endpoint Privilege Management）
 * EPO：入口点混淆（Entry Point Obfuscation）
 * EPP：端点保护平台（Endpoint Protection Platform）；企业边界保护（Enterprise Perimeter Protection）
@@ -1875,6 +1876,7 @@
 * GRID：GIAC响应和工业防御（GIAC Response & Industrial Defense）
 * GRO：通用接收卸载（Generic Receive Offload）
 * gRPC：gRPC框架（gRPC Remote Procedure Calls）
+* GRPO：组相对策略优化算法（Group Relative Policy Optimization）
 * GRR：谷歌快速响应（Google Rapid Response）
 * GRS：一般记录时间表（General Records Schedule）
 * GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）；门控循环单元模型（Gated Recurrent Unit）
@@ -2706,6 +2708,7 @@
 * MJ：Midjourney制图工具（Midjourney）
 * MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
 * ML：机器学习（Machine Learning）；度量日志（Measurement Log）
+* MLA：多头潜在注意力机制（Multi-Head Latent Attention Mechanism）
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）
 * MLLM：多模态大语言模型（Multimodal Large Language Model）
@@ -3573,6 +3576,7 @@
 
 * R&D：研究&开发（Research & Development）
 * R/W：读写（Read/Write）
+* R1：DeepSeek版本R1（Reason 1）
 * R1CS：一阶约束系统（Rank-1 Constraint System）
 * RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）；接收端地址（Receiver Address）；路由通告（Router Advertisement）；路由聚合（Route Aggregation）
 * RaaS：勒索软件即服务（Ransomware as a Service）
@@ -4533,6 +4537,7 @@
 * V2R：车路通信（Vehicle-to-Road）
 * V2V：车间通信（Vehicle-to-Vehicle）
 * V2X：车物通信（Vehicle-to-Everything）
+* V3：DeepSeek版本3（Version 3）
 * VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
 * VAAP：漏洞与评估计划（Vulnerability & Assessment Program）
 * VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
@@ -4808,6 +4813,7 @@
 * 3C：中国强制认证（China Compulsory Certification）；公司、顾客、竞争对手分析模型（Company, Customer & Competitor）
 * 3DES：三重DES（Triple DES）
 * 3DH：三路DH协议（Triple Diffie-Hellman）
+* 3FS：DeepSeek萤火虫文件系统（Fire-Flyer File System）
 * 3G：第三代移动通信（3rd Generation）
 * 3GPP：第三代合作伙伴计划（3rd Generation Partnership Project）
 * 3W：人力、场所和负荷（Workforce, Workplace & Workloads）
