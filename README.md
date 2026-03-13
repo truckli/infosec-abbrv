@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-收录缩略词形**4684**条，词组**5883**条，更新时间2025-03-03 11:22:23。 
+当前收录缩略词形**4686**条，词组**5885**条。 
 
 
 
@@ -2605,6 +2605,7 @@
 * MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
 * MAE：任务保障工程（Mission Assurance Engineering）
 * MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
+* MAESTRO：多智能体环境、安全、威胁风险和结果（Multi-Agent Environment, Security, Threat, Risk, and Outcome）
 * MAF：机动飞行部队（Mobility Air Forces）
 * MAID：大规模非活动磁盘阵列（Massive Array Of Inactive Disk）
 * MAJCOM：大型空军司令部（Major Air Command）
@@ -3276,6 +3277,7 @@
 * Parsec：平台安全抽象（Platform AbstRaction for SECurity）
 * PAS：公开可用规范（Publicly Available Specifications）；部分属性集（Partial Attribute Set）；物理地址空间（Physical Address Space）
 * PASM：特权账户和会话管理（Privileged Account & Session Management）
+* PASTA：攻击模拟与威胁分析过程框架（Process for Attack Simulation and Threat Analysis）
 * PAT：端口地址转换（Port Address Translation）
 * PAWSS：绿盟网站安全监测服务（NSFOCUS WebSafe Service）
 * PB：剧本（Play Book）
