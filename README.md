@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4686**条，词组**5885**条。 
+当前收录缩略词形**4688**条，词组**5887**条。 
 
 
 
@@ -2535,6 +2535,7 @@
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
 * LIMA：浅层对齐假说（Less Is More for Alignment）
 * LIN：局域网互联网络（Local Interconnect Network）
+* LINDDUN：可关联、可识别、不可否认、可检测、信息泄露、未察觉、不合规隐私威胁模型（Linkability, Identifiability, Non-repudiation, Detectability, Disclosure of information, Unawareness, Non-compliance）
 * LIS：实验室信息管理系统（Laboratory Information Management System）
 * LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
 * LLB：链路负载均衡（Link Load Balancing）
@@ -4536,6 +4537,7 @@
 * VAM：虚拟账号管理（Virtual Account Management）
 * VANET：车载自组织网络（Vehicular Ad-hoc Network）
 * VAS：虚拟地址空间（Virtual Address Space）
+* VAST：可视化、敏捷、简洁威胁建模（Visual, Agile, and Simple Threat Modeling）
 * VAV：变风量（Variable Air Volume）
 * VB：Visual Basic语言（Visual Basic）
 * VBA：VB宏语言（Visual Basic for Applications）
