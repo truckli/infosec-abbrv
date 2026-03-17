@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4688**条，词组**5887**条。 
+当前收录缩略词形**4697**条，词组**5897**条。 
 
 
 
@@ -31,6 +31,7 @@
 ## A
 
 * A&A：评估与授权（Assessment & Authorization）；认证与授权（ Authentication & Authorization）
+* A2A：智能体对智能体（Agent-to-Agent）
 * A2AD：反介入／区域拒止（Anti-Access & Area Denial）
 * AAA：认证、授权与核查（Authentication, Authorization & Accounting）
 * AAAA：认证、授权、审计与核查（Authentication, Authorization, Auditing & Accounting）；DNS IPv6地址资源记录（Address × 4）
@@ -163,6 +164,7 @@
 * AISS：DARPA安全硅自动实现项目（Automatic Implementation of Secure Silicon）
 * AiTM：中间人攻击（Adversary-in-The-Middle）
 * AIVD：荷兰情报安全总局（荷兰语：Algemene Inlichtingen en Veiligheidsdienst）
+* AIVSS：人工智能漏洞评分系统（Artificial Intelligence Vulnerability Scoring System）
 * AIxCC：人工智能网络挑战赛（AI Cyber Challenge）
 * AJAX：异步JavaScript和XML（Asynchronous Javascript And XML）
 * AK：访问密钥（Access Key）
@@ -252,6 +254,7 @@
 * ASE：IEEE/ACM国际自动化软件工程会议（IEEE/ACM International Conference Automated Software Engineering）
 * aSecPaaS：应用安全平台即服务（application Security PaaS）
 * ASG：应用安全网关（Application Security Gateway）
+* ASI：超级人工智能（Artificial Superintelligence）
 * ASIACCS：ACM信息、计算机与通信安全研讨会（ACM Symposium on Information, Computer and Communications Security）
 * ASIC：专用集成电路（Application Specific Integrated Circuit）
 * ASID：地址空间ID（Address Space ID）
@@ -1011,6 +1014,7 @@
 * CTSRD：“值得信赖的清洁安全研发”计划（Clean Slate Trustworthy Secure Research and Development）
 * CTTL：中国泰尔实验室（China Telecommunication Technology Labs）
 * CU：中央单元（Central Unit）
+* CUA：计算机使用智能体（Computer-Using Agent）
 * CUDA：统一计算设备架构（Compute Unified Device Architecture）
 * CUI：控制的非机密信息（Controlled Unclassified Information）
 * CV：计算机视觉（Computer Vision）；网络安全验证（Cybersecurity Validation）；个人简历（Curriculum Vitae）；DoDAF能力视角（Capability Viewpoint）
@@ -1813,7 +1817,7 @@
 * GDT：全局描述符表（Global Descriptor Table）
 * GDTR：全局描述符表寄存器（Global Descriptor Table Register）
 * GE：千兆以太网（Gigabit Ethernet）
-* GEO：地理位置（Geography）
+* GEO：地理位置（Geography）；全名生成式引擎优化（Generative Engine Optimization）
 * GEOINT：地理空间情报（Geospatial Intelligence）
 * GETVPN：组加密传输VPN（Group Encrypted Transport VPN）
 * GF：攻防（拼音：Gong Fang）
@@ -2479,6 +2483,7 @@
 * KSK：密钥签名密钥（Key-Signing Key）
 * KSPM：Kubernetes安全态势管理（Kubernetes Security Posture Management）
 * KT-C：网络空间关键地形（Key Terrain in Cyberspace）
+* KTO：知识蒸馏优化（Knowledge Distillation Optimization）
 * KVM：基于内核的虚拟机（Kernel-based Virtual Machine）
 * KwaiSRC：快手安全应急响应中心（Kuai Security Response Center）
 * KYB：客户业务识别（Know Your Business）
@@ -2637,6 +2642,7 @@
 * MCM：多芯片模块（Multi-Chip Module）；多云管理（Multicloud Management）
 * MCN：多频道网络（Multi-Channel Network）
 * MCO：恶意软件分类本体（Malware Classification Ontology）
+* MCP：模型上下文协议（Model Context Protocol）
 * MCS：多类别安全（Multi Categories Security）
 * MCU：微控制器单元（Micro-Controller Unit）
 * MCWL：美国海军陆战队作战实验室（Marine Corps Warfighting Laboratory）
@@ -3627,6 +3633,7 @@
 * RDX：某64位寄存器代号（Register D eXtended）
 * RE：正则表达式（Regular Expressions）
 * RE&CT：RE&CT事件响应技术枚举项目（Response Actions）
+* ReAct：推理与行动（Reasoning + Acting）
 * RED：欺骗逆向工程（Reverse Engineering Deception）
 * REE：富执行环境（Rich Execution Environment）
 * RELRO：重定位只读（Relocation Read-Only）
@@ -3962,6 +3969,7 @@
 * SLES：SUSE Linux企业服务器（SUSE Linux Enterprise Server）
 * SLG：销售主导型增长（Sales-Led Growth）
 * SLIP：串行线路网际协议（Serial Line Internet Protocol）
+* SLM：小语言模型（Small Language Model）
 * SLO：服务等级目标（Service Level Objective）
 * SLS：单级安全体（Single Level Secure）；阿里云日志服务（Simple Log Service）
 * SLSA：软件工件供应链级别（Supply chain Levels for Software Artifacts）
@@ -4583,6 +4591,7 @@
 * vLB：虚拟负载均衡器（Virtual Load Balancer）
 * VLB：Valiant负载均衡（Valiant Load Balancing）
 * VLIW：超长指令字处理器架构（Very Long Instruction Word）
+* VLM：视觉语言模型（Vision-Language Model）
 * VLR：GSM访客位置寄存器（Visitor Location Register）
 * VLTi：虚拟链路隧道互连（Virtual Link Tunnel Interconnect）
 * VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
