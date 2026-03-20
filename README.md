@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4697**条，词组**5897**条。 
+当前收录缩略词形**4698**条，词组**5899**条。 
 
 
 
@@ -66,7 +66,7 @@
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）；蚁群优化（Ant Colony Optimization）
-* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）
+* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）；智能体控制协议（Agent Control Protocol）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACR：阿里云容器镜像服务（Aliyun Container Registry Service）；阿里云容器镜像服务（Alibaba Cloud Container Registry Service）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
@@ -861,6 +861,7 @@
 * CORPINT：竞争情报（Corporate Intelligence）
 * CORS：跨域资源共享（Cross-Origin Resource Sharing）
 * COS：片内操作系统（Chip Operating System）；云编排服务（Cloud Orchestration Service）
+* CoSAI：安全人工智能联盟（Coalition for Secure AI）
 * COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
 * CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
 * CoT-SC：自我一致性思维链（Self-Consistency with Chain of Thought）
