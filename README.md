@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4698**条，词组**5899**条。 
+当前收录缩略词形**4699**条，词组**5900**条。 
 
 
 
@@ -373,6 +373,7 @@
 * BiLSTM：双向长短时记忆网络（BiDirectional LSTM）
 * BIOS：基本输入输出系统（Basic Input Output System）
 * BIS：美国工业与安全局（Bureau of Industry and Security）
+* BITS：后台智能传输服务（Background Intelligent Transfer Service）；业务信息安全（Business Information Technology Security）
 * BLAS：线性代数计算库（Basic Linear Algebra Subprograms）
 * BLB：百度负载均衡（Baidu Load Balance）
 * BLE：低功耗蓝牙（Bluetooth Low Energy）
