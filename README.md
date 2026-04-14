@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4699**条，词组**5900**条。 
+当前收录缩略词形**4700**条，词组**5902**条。 
 
 
 
@@ -2000,6 +2000,7 @@
 * HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
 * HSSI：高速串行接口（High-Speed Serial Interface）
 * HSTS：HTTP严格传输安全（HTTP Strict Transport Security）
+* HTA：HTML应用程序（HTML Application）
 * HTAP：混合事务/分析处理（Hybrid Transactional/Analytical Processing）
 * HTBC：HyTrust边界控制（HyTrust BoundaryControl）
 * HTCA：HyTrust云顾问（HyTrust CloudAdvisor）
