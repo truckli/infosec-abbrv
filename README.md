@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4700**条，词组**5902**条。 
+当前收录缩略词形**4701**条，词组**5904**条。 
 
 
 
@@ -1016,7 +1016,7 @@
 * CTSRD：“值得信赖的清洁安全研发”计划（Clean Slate Trustworthy Secure Research and Development）
 * CTTL：中国泰尔实验室（China Telecommunication Technology Labs）
 * CU：中央单元（Central Unit）
-* CUA：计算机使用智能体（Computer-Using Agent）
+* CUA：计算机使用代理（Computer Use Agent）
 * CUDA：统一计算设备架构（Compute Unified Device Architecture）
 * CUI：控制的非机密信息（Controlled Unclassified Information）
 * CV：计算机视觉（Computer Vision）；网络安全验证（Cybersecurity Validation）；个人简历（Curriculum Vitae）；DoDAF能力视角（Capability Viewpoint）
@@ -2461,6 +2461,7 @@
 * KGQA：知识图谱问答（Knowledge Graph Question Answering）
 * KHAPE：密钥隐藏非对称PAKE（Key-Hiding Asymmetric PAKE）
 * KiB：1024字节（Kili Bytes）
+* KICS：基础设施即代码安全扫描工具（Keeping Infrastructure as Code Secure）
 * KISA：韩国互联网振兴院（Korea Internet & Security Agency）
 * KL：KL散度（Kullback–Leibler）
 * KM：知识管理（Knowledge Management）
@@ -4097,7 +4098,7 @@
 * SRCNN：超分辨率卷积神经网络（Super-Resolution Convolutional Neural Network）
 * SRE：站点可靠性工程（Site Reliability Engineering）
 * SRES：GSM签名响应（Signed Response）
-* SRI：SRI国际公司（Stanford Research Institute）
+* SRI：SRI国际公司（Stanford Research Institute）；子资源完整性（Subresource Integrity）
 * SRK：存储根密钥（Storage Root Key）
 * SRM：安全风险管理（Security Risk Management）；站点恢复管理器（Site Recovery Manager）；供应商关系管理（Supplier Relationship Management）
 * SRMA：行业风险管理机构（Sector Risk Management Agencies）
