@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4701**条，词组**5904**条。 
+当前收录缩略词形**4702**条，词组**5905**条。 
 
 
 
@@ -108,6 +108,7 @@
 * AES-CMAC：AES CMAC模态（Advanced Encryption Standard Cipher based Message Authentication Code）
 * AES-NI：英特尔AES-NI指令集（AES-New Instructions）
 * AETC：美国空军教育和训练司令部（Air Education and Training Command）
+* AEV：对抗性暴露验证（Adversarial Exposure Verification）
 * AF：深信服下一代防火墙（猜测：Advanced Firewall）
 * AF/A2：美国空军情报局（U.S. Air Force Intelligence）
 * AFA：美国晶圆代工法案（American Foundries Act of 2020）
