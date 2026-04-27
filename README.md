@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4702**条，词组**5905**条。 
+当前收录缩略词形**4703**条，词组**5906**条。 
 
 
 
@@ -4622,6 +4622,7 @@
 * vPE：虚拟提供商边缘（virtual Provider Edge）
 * VPLS：虚拟专用局域网服务（Virtual Private LAN Service）
 * VPN：虚拟专用网络（Virtual Private Network）
+* VPR：漏洞优先级评级（Vulnerability Priority Rating）
 * VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
 * VQA：视觉问答（Visual Question & Answering）
 * VQL：Velociraptor查询语言（Velociraptor Query Language）
