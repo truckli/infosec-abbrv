@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4703**条，词组**5906**条。 
+当前收录缩略词形**4704**条，词组**5907**条。 
 
 
 
@@ -3164,6 +3164,7 @@
 * OIE：信息环境作战（Operations in the Information Environment）
 * OIG：监察长办公室（Office of the Inspector General）
 * OIS：互联网安全组织（Organization for Internet Safety）
+* OISP：美国对外投资安全计划（Outbound Investment Security Program）
 * OKF：开放知识基金会（Open Knowledge Foundation）
 * OKR：目标与关键成果法（Objectives and Key Results）
 * OKS：不经意关键词检索（Oblivious Keyword Search）
