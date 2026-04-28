@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4704**条，词组**5907**条。 
+当前收录缩略词形**4705**条，词组**5908**条。 
 
 
 
@@ -42,6 +42,7 @@
 * AAL：应用许可列表（Application Allowlisting）；认证器保障级别（Authenticator Assurance Level）；美国陆军应用实验室（Army Applications Laboratory）
 * AAPM：应用到应用口令管理（Application-to-Application Password Management）
 * AAR：复盘报告（After Action Report）
+* AATAM：智能体应用威胁分析模型（Agent Application Threat Analysis Model）
 * AB：认可机构（Accreditation Body）
 * ABAC：基于属性的访问控制（Attribute-Based Access Control）
 * ABC：敏捷商业协会（Agile Business Consortium）
