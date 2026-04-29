@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4705**条，词组**5908**条。 
+当前收录缩略词形**4705**条，词组**5909**条。 
 
 
 
@@ -228,7 +228,7 @@
 * APNs：苹果推送通知服务（Apple Push Notification service）
 * APPA：美国公共权力协会（American Public Power Association）
 * APS：自动保护开关（Automatic Protection Switching）
-* APT：高级持久威胁（Advanced Persistent Threat）
+* APT：高级持久威胁（Advanced Persistent Threat）；亚太电信组织（Asia-Pacific Telecommunity）
 * APTS：应用性能追踪服务（Application Performance Tracing Service）
 * APWG：反网络钓鱼工作组（Anti-Phishing Working Group）
 * AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）
