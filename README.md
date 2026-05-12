@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4707**条，词组**5911**条。 
+当前收录缩略词形**4707**条，词组**5912**条。 
 
 
 
@@ -1657,7 +1657,7 @@
 * FDAU：飞行数据采集单元（Flight-Data Acquisition Unit）
 * FDD：频分复用（Frequency-Division Duplexing）
 * FDDI：光纤分布式数据接口（Fiber Distributed Data Interface）
-* FDE：全盘加密（Full Disk Encryption）
+* FDE：全盘加密（Full Disk Encryption）；前线部署工程师（Forward Deployed Engineer）
 * FDIS：国际标准最终草案（Final Draft International Standard）
 * FDM：频分多路复用（Frequency-Division Multiplexing）
 * FDR：飞行数据记录器（Flight Data Recorder）
