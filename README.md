@@ -3269,7 +3269,7 @@
 * P2P：对等网络（Peer-to-Peer）
 * P2V：行人车辆通信（Pedestrian-to-Vehicle）
 * P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
-* P7B：PKCS#7证书格式（PKCS#7 Format）
+* P7B：PKCS#7格式文件扩展名（PKCS#7 Format File Extension）
 * PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）；策略管理（Policy Administration）
 * PaaS：平台即服务（Platform As A Service）
 * PABX：专用自动小交换机（Private Automatic Branch eXchange）
