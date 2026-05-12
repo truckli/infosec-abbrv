@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4706**条，词组**5910**条。 
+当前收录缩略词形**4707**条，词组**5911**条。 
 
 
 
@@ -2399,6 +2399,7 @@
 * JISEC：日本IT安全评价及认证制度（Japan IT Security Evaluation & Certification）
 * JIT：即时编译（Just-In-Time）
 * JIWG：联合IA行动工作组（Joint IA Operations Working Group）
+* JKS：Java密钥库（Java KeyStore）
 * JMN：JIE管理网络（Joint Information Environment Management Network）
 * JMS：联合管理系统（Joint Management. System）
 * JMX：Java管理扩展（Java Management Extensions）
