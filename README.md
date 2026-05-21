@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4707**条，词组**5912**条。 
+当前收录缩略词形**4718**条，词组**5926**条。 
 
 
 
@@ -83,7 +83,7 @@
 * ADAM：活动目录应用模式（Active Directory Application Mode）
 * ADAMS：DARPA多尺度异常检测项目（Anomaly Detection At Multiple Scales）
 * ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
-* ADB：阿里云AnalyticDB服务（Analytic DataBase）
+* ADB：阿里云AnalyticDB服务（Analytic DataBase）；Android调试桥（Android Debug Bridge）
 * ADBOS：绿盟流量清洗业务运营系统（Anti Distributed Denial-of-Service Business Operation System）
 * ADC：应用交付控制器（Application Delivery Controller）
 * ADCON：行政控制权（Administrative Control）
@@ -162,6 +162,7 @@
 * AIoT：人工智能物联网（Artificial Intelligence for the Internet of Things）
 * AIP：攻击拦截点（Attack Interdiction Point）
 * AIS：自动标示共享（Automated Indicator Sharing）；自动化信息系统（Automated Information System）；船载自动识别系统（Automatic Identification System）
+* AISI：英国人工智能安全研究所（AI Security Institute）
 * AISP：帐户信息服务提供商（Account Information Service Provider）
 * AISS：DARPA安全硅自动实现项目（Automatic Implementation of Secure Silicon）
 * AiTM：中间人攻击（Adversary-in-The-Middle）
@@ -395,7 +396,7 @@
 * BOD：约束性行动指令（Binding Operational Directives）；董事会（Board of Directors）
 * BoF：话题兴趣组（Birds of a Feather）
 * BOLA：无效的对象级授权（Broken Object Level Authorization）
-* BOM：字节序标记（Byte Order Mark）；物料清单（Bill of Materials）
+* BOM：字节序标记（Byte Order Mark）；物料清单（Bill of Materials）；浏览器对象模型（Browser Object Model）
 * BOS：百度智能云对象存储（Baidu Object Storage）
 * BOSS：业务运营支撑系统（Business & Operation Support System）
 * Botnet：僵尸网络（Robot Network）
@@ -902,7 +903,7 @@
 * CQRS：命令查询职责分离（Command Query Responsibility Segregation）
 * CQS：命令查询分离（Command and Query Separation）
 * CR：网络韧性（Cyber Resiliency）；网络恢复（Cyber Recovery）
-* CRA：代码重用攻击（Code Reuse Attack）
+* CRA：代码重用攻击（Code Reuse Attack）；网络弹性法案（Network Resilience Act）
 * CRaaS：云密码资源服务（Cryptography Resource as a Service）
 * CRADA：合作研发协议（Cooperative Research & Development Agreement）
 * CRAMM：中央计算和电信机构风险分析与管理方法（Central computing & telecommunications agency Risk Analysis and Management Method）
@@ -1157,6 +1158,7 @@
 * DEPA：数字经济伙伴关系协定（Digital Economy Partnership Agreement）；数据授权和保护体系结构（Data Empowerment & Protection Architecture）
 * DePIN：去中心化物理基础设施网络（Decentralized Physical Infrastructure Networks）
 * DER：可辨别编码规则（Distinguished Encoding Rules）；分布式能源资源（Distributed Energy Resources）
+* DERP：指定加密数据包中继（Designated Encrypted Relay for Packets）
 * DES：数据加密标准算法（Data Encryption Standard）；国防飞地服务（Defense Enclave Services）；数据安全交换系统（Data Exchange System）
 * DESC：降序（DESCending）
 * DET：数据元素类型（Data Element Types）
@@ -2386,6 +2388,7 @@
 * JDIICS：联合DII控制系统（Joint DII Control Systems）
 * JDWP：Java调试线协议（Java Debug Wire Protocol）
 * JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
+* JEPA：联合嵌入预测架构（Joint Embedding Predictive Architecture）
 * JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
 * JFC：联合部队指挥官（Joint Force Commander）
 * JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
@@ -3865,6 +3868,7 @@
 * SDEI：软件委托异常接口（Software Delegated Exception Interface）
 * SDG：合成数据生成（Synthetic Data Generation）
 * SDH：同步数字层级（Synchronous Digital Hierarchy）
+* SDI：系统部署映像（System Deployment Image）
 * SDK：软件开发工具包（Software Development Kit）
 * SDL：安全开发生命周期（Security Development Lifecycle）
 * SDLC：系统开发生命周期（System Development Life Cycle）；同步数据链路控制（Synchronous Data Link Control）
@@ -4343,6 +4347,7 @@
 * TNIU：可信网络接口单元（Trusted Network Interface Unit）
 * TOB：技术监督委员会（Technical Oversight Board）
 * TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）
+* TOCTOU：检查时代到使用时代的漏洞（Time-of-Check to Time-of-Use）
 * TOE：评价对象（Target Of Evaluation）
 * TOGAF：开放组架构框架（The Open Group Architecture Framework）
 * TOPS：每秒万亿次运算数（Tera Operations Per Second）；TOPS原则（Targeted, Over-arching, Powerful & Supportable）
@@ -4690,6 +4695,7 @@
 * WDF：Windows驱动框架（Windows Driver Frameworks）；Windows防御防火墙（Windows Defender Firewall）
 * WDM：波分复用（Wavelength Division Multiplexing）
 * WDS：无线分发系统（Wireless Distribution System）；网站防篡改服务（Web Defense Service）
+* WebDAV：Web分布式创作与版本控制（Web-based Distributed Authoring and Versioning）
 * WEP：有线等效加密（Wired Equivalent Privacy）
 * WF：派拓云端病毒防护服务（WildFire）
 * WfMS：工作流管理系统（Workflow Management System）
@@ -4703,6 +4709,8 @@
 * WIDPS：无线入侵检测和防御系统（Wireless Intrusion Detection & Prevention System）
 * WIDS：无线入侵检测系统（Wireless IDS）
 * WIF：Windows身份基础框架（Windows Identity Foundation）
+* WIM：Windows映像格式（Windows Imaging Format）
+* WinRE：Windows恢复环境（Windows Recovery Environment）
 * WINS：世界核安全研究所（World Institute of Nuclear Security）
 * WIPS：无线入侵防御系统（Wireless Intrusion Prevention System）
 * WiSec：ACM无线和移动网络安全隐私研讨会（ACM Conference on Security and Privacy in Wireless and Mobile Networks）
@@ -4716,6 +4724,7 @@
 * WORM：一次写入多次读取（Write-Once, Read-Many）
 * WoS：芯片基板堆叠技术（Wafer-on-Substrate）
 * WoT：Web物联网（Web of Things）
+* WOW：64位Windows运行在64位Windows上（Windows on Windows）
 * WPA：Wi-Fi安全存取协议（Wi-Fi Protected Access）
 * WPAN：个人无线网络（Wireless Personal Area Network）
 * WPDRRC：预警、防护、检测、响应、恢复、反击（Protection,Detection,Reaction ， Recovery & Counterattack）
@@ -4728,6 +4737,7 @@
 * WS：WebSocket（WebSocket）；Web服务（Web Service）
 * WSDL：Web服务描述语言（Web Services Description Language）
 * WSGI：Web服务器网关接口（Web Server Gateway Interface）
+* WSH：Windows脚本宿主（Windows Script Host）
 * WSL：Windows的Linux子系统（Windows Subsystem for Linux）
 * WSN：无线传感网络（Wireless Sensor Network）
 * WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
@@ -4745,6 +4755,7 @@
 * XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
 * XAI：可解释人工智能（eXplainable Artificial Intelligence）
 * XAUTH：可扩展认证（Extended Authentication）
+* XBOW：安全基准测试公司（XBOW）
 * XBT：比特币（Bitcoin）
 * XC：信创（拼音：Xin Chuang）
 * XCCDF：可扩展配置检查表描述格式（The eXtensible Configuration Checklist Description Format）
