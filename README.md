@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4718**条，词组**5926**条。 
+当前收录缩略词形**4719**条，词组**5928**条。 
 
 
 
@@ -892,10 +892,10 @@
 * CPRA：加州隐私权法案（California Privacy Rights Act）
 * CPRI：公共无线电接口（Common Public Radio Interface）
 * CPRNG：密码学安全伪随机数生成器（Cryptographically secure Pseudo-Random Number Generator）
-* CPS：代码指针分离（Code-Pointer Seperation）；赛博物理系统（Cyber-Physical System）；续体传入风格（Continuation-Passing Style）；网络平台与系统（Cyber Platforms & Systems）；证书实际声明（Certification Practice Statement）；云物理主机（Cloud Physical Server）
+* CPS：代码指针分离（Code-Pointer Seperation）；续体传入风格（Continuation-Passing Style）；网络平台与系统（Cyber Platforms & Systems）；证书实际声明（Certification Practice Statement）；云物理主机（Cloud Physical Server）；信息物理系统（Cyber-Physical System）
 * CPSO：首席产品安全官（Chief Product Security Officer）
 * CPSR：程序状态寄存器（Current Program Status Register）
-* CPSS：赛博物理系统安全（Cyber-Physical System Security）
+* CPSS：赛博物理系统安全（Cyber-Physical System Security）；信息物理社会系统（Cyber-Physical-Social Systems）
 * CPT：网络保护团队（Cyber Protection Team）
 * CPTED：基于环境设计的犯罪预防（Crime Prevention Through Environmental Design）
 * CPTPP：全面与进步跨太平洋伙伴关系协定（Comprehensive and Progressive agreement for Trans-Pacific Partnership）
@@ -4173,6 +4173,7 @@
 * STEM：科学、技术、工程和数学（Science, Technology, Engineering & Math）
 * STG：STG公司（Symphony Technology Group）
 * STI：科学技术信息（Scientific & Technical Information）
+* STIB：美国科学、技术和创新委员会（Science, Technology and Innovation Board）
 * STIG：DISA安全技术实施指南（Security Technical Implementation Guide）
 * STIP：科学和技术信息计划（Scientific and Technical Information Program）
 * STIX：结构化威胁信息表达式（Structured Threat Information Expression）
