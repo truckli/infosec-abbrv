@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4719**条，词组**5928**条。 
+当前收录缩略词形**4727**条，词组**5936**条。 
 
 
 
@@ -235,6 +235,7 @@
 * AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）
 * ARA-M：访问规则应用程序 - 主（Access Rule Application - Master）
 * ARC：澳大利亚研究委员会（Australian Research Council）
+* ARCP：攻击收益-成本模型（Attack Return Cost Profit）
 * ARCYBER：美国陆军网络司令部（Army Cyber Command）
 * ARIMA：自回归集成移动平均模型（AutoRegressive Integrated Moving Average）
 * ARIN：美洲互联网号码注册管理机构（American Registry for Internet Numbers）
@@ -435,8 +436,10 @@
 * BUP：基本统一过程（Basic Unified Process）
 * BVS：安全配置核查系统（Benchmark Verification System）
 * BX：某寄存器代号（B eXtended）
+* BYOAI：自带杀毒安装程序（Bring Your Own AV Installer）
 * BYOD：用户自带设备（Bring Your Own Device）
 * BYOE：企业自助使用（Bring Your Own Enterprise）
+* BYOI：自带安装程序（Bring Your Own Installer）
 * BYOVD：自带脆弱驱动程序（Bring Your Own Vulnerable Driver）
 
 
@@ -2699,6 +2702,7 @@
 * MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）；消息完整性码（Message Integrity Code）
 * MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
 * MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
+* MIE：内存完整性强制执行（Memory Integrity Enforcement）
 * MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
 * MII：DeepSpeed-MII库（Model Implementations for Inference）
 * MIIT：工业和信息化部（Ministry of Industry and Information Technology）
@@ -3243,7 +3247,9 @@
 * OT&E：运行测试与评估（Operational Test & Evaluation）
 * OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
 * OTE：不经意传输扩展（Oblivious Transfer Extension）
+* OTel：OpenTelemetry（OpenTelemetry）
 * OTI：作战训练基础设施（Operational Training Infrastructure）
+* OTLP：OpenTelemetry协议（OpenTelemetry Protocol）
 * OTN：光传送网（Optical Transport Network）
 * OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
 * OTR：无记录消息协议（Off-the-Record messaging）
@@ -3271,6 +3277,7 @@
 
 * P2DR：策略、防护、检测和响应（Policy, Protection, Detection & Response）
 * P2P：对等网络（Peer-to-Peer）
+* P2SP：点对服务器和点（Peer to Server\&Peer）
 * P2V：行人车辆通信（Pedestrian-to-Vehicle）
 * P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
 * P7B：PKCS#7格式文件扩展名（PKCS#7 Format File Extension）
@@ -4736,6 +4743,7 @@
 * WRR：加权轮询（Weighted Round Robin）
 * WRT：工作恢复时间（Work Recovery Time）
 * WS：WebSocket（WebSocket）；Web服务（Web Service）
+* WSC：Windows安全中心（Windows Security Center）
 * WSDL：Web服务描述语言（Web Services Description Language）
 * WSGI：Web服务器网关接口（Web Server Gateway Interface）
 * WSH：Windows脚本宿主（Windows Script Host）
