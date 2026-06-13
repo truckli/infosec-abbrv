@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4727**条，词组**5936**条。 
+当前收录缩略词形**4732**条，词组**5942**条。 
 
 
 
@@ -374,6 +374,7 @@
 * BHO：浏览器助手工具（Browser Helper Object）
 * BI：商业智能（Business Intelligence）；构建与集成（Building & Integration）
 * BIA：业务影响分析（Business Impact Analysis）
+* BIKE：比特翻转密钥封装（Bit-flipping Key Encapsulation）
 * BiLSTM：双向长短时记忆网络（BiDirectional LSTM）
 * BIOS：基本输入输出系统（Basic Input Output System）
 * BIS：美国工业与安全局（Bureau of Industry and Security）
@@ -1991,6 +1992,7 @@
 * HPH：医疗和公共卫生（Healthcare & Public Health）
 * HPS：蜜罐系统（Honey Pot System）
 * HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
+* HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
 * HR：人力资源（Human Resources）
 * HRoT：可信硬件根（Hardware Root of Trust）
 * HRP：医院资源管理系统（Hospital Resource Planning）
@@ -2725,6 +2727,7 @@
 * MJ：Midjourney制图工具（Midjourney）
 * MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
 * ML：机器学习（Machine Learning）；度量日志（Measurement Log）
+* ML-KEM：模格密钥封装机制（Module-Lattice Key Encapsulation Mechanism）
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）
 * MLM：掩码语言模型（Masked Language Model）
@@ -3207,6 +3210,7 @@
 * OOP：面向对象编程（Object-Oriented Programming）
 * OOPSA：开放运维联盟（Open OPeraionS Alliance）
 * OOV：未登录词（Out-Of-Vocabulary）
+* OP：OpenID提供者（OpenID Provider）
 * OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
 * OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
@@ -3423,6 +3427,7 @@
 * PJL：打印机作业语言（Printer Job Language）
 * PK：端口敲门（Port Knocking）；平台密钥（Platform Key）；飞腾-麒麟生态体系（Phytium-Kylin）
 * PKC：公钥密码学（Public Key Cryptography）
+* PKCE：代码交换证明密钥（Proof Key for Code Exchange）
 * PKCS：公钥加密标准（Public Key Cryptography Standards）
 * PKE：公钥加密（Public-Key Encryption）；公钥使能（Public Key Enabling）
 * PKG：私钥生成器（Private Key Generator）
@@ -4066,7 +4071,7 @@
 * SOW：工作说明书（Statement of Work）
 * SOX：美国萨班斯法案（Sarbanes-OXley act）
 * SP：服务提供者（Service Provider）；统计抽样（Statistical Sampling）；安全处理器（Secure Processor）；IEEE安全和隐私研讨会（IEEE Symposium on Security & Privacy）；NIST特别出版物（Special Publication）
-* SPA：单包授权（Single Packet Authorization）；安全态势评估（Security Posture Assessment）；简单能量分析攻击（Simple Power Analysis）；微软安全口令鉴别协议（Secure Password Authentication）；安全私有接入（Secure Private Access）；深信服安全专家分析服务（猜测：Security Professional Analysis）
+* SPA：单包授权（Single Packet Authorization）；安全态势评估（Security Posture Assessment）；简单能量分析攻击（Simple Power Analysis）；微软安全口令鉴别协议（Secure Password Authentication）；安全私有接入（Secure Private Access）；深信服安全专家分析服务（猜测：Security Professional Analysis）；单页应用（Single Page Application）
 * SPAN：交换机端口分析器（Switched Port Analyzer）
 * SPARC：SPARC处理器架构（Scalable Processor ARChitecture）
 * SPARQL：SPARQL协议与RDF查询语言（SPARQL Protocol And RDF Query Language）
