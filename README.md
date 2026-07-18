@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4732**条，词组**5942**条。 
+当前收录缩略词形**4733**条，词组**5943**条。 
 
 
 
@@ -1982,6 +1982,7 @@
 * HMEE：硬件中介执行隔离区（Hardware Mediated Execution Enclave）
 * HMI：人机界面（Human Machine Interface）
 * HMQV：哈希MQV协议（Hashed Menezes-Qu-Vanstone）
+* HNDL:先囤积后解密（Harvest Now, Decrypt Later） STAC：顺序工具攻击链（Sequential Tool Attack Chain）
 * HNT：氦币（Helium Network Token）
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
