@@ -1982,7 +1982,8 @@
 * HMEE：硬件中介执行隔离区（Hardware Mediated Execution Enclave）
 * HMI：人机界面（Human Machine Interface）
 * HMQV：哈希MQV协议（Hashed Menezes-Qu-Vanstone）
-* HNDL:先囤积后解密（Harvest Now, Decrypt Later） STAC：顺序工具攻击链（Sequential Tool Attack Chain）
+* HNDL：先囤积后解密（Harvest Now, Decrypt Later）
+* STAC：顺序工具攻击链（Sequential Tool Attack Chain）
 * HNT：氦币（Helium Network Token）
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
