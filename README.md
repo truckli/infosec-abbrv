@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4733**条，词组**5943**条。 
+当前收录缩略词形**4734**条，词组**5945**条。 
 
 
 
@@ -1983,7 +1983,6 @@
 * HMI：人机界面（Human Machine Interface）
 * HMQV：哈希MQV协议（Hashed Menezes-Qu-Vanstone）
 * HNDL：先囤积后解密（Harvest Now, Decrypt Later）
-* STAC：顺序工具攻击链（Sequential Tool Attack Chain）
 * HNT：氦币（Helium Network Token）
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
@@ -3619,7 +3618,7 @@
 * RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
 * RAII：资源获取即初始化（Resource Acquisition Is Initialization）
 * RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
-* RAM：远程应用程序管理（Remote Application Management）；随机访问内存（Random Access Memory）；责任分配矩阵（Responsibility Assignment Matrix）
+* RAM：阿里云访问控制产品（Resource Access Management）；责任分配矩阵（Responsibility Assignment Matrix）；远程应用程序管理（Remote Application Management）；随机访问内存（Random Access Memory）
 * RAMBO：面向任务保障与业务目标的弹性架构（Resilient Architecture for Mission Assurance & Business Objectives）
 * RAN：无线接入网（Radio Access Network）
 * Rand：随机数（Random Number）
@@ -4177,6 +4176,7 @@
 * ST：服务票据（Service Ticket）；安全目标（Security Target）
 * ST&E：安全测试与评估（Security Test & Evaluation）
 * STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）；潜伏威胁探针（Stealth Threat Analysis）；系统威胁评估（System Threat Assessment）；站点（Station）
+* STAC：顺序工具攻击链（Sequential Tool Attack Chain）
 * Standard：标准制定组织（Setting Organization）
 * STARCOM：美国空军太空训练和准备司令部（Space Training and Readiness Command）
 * STCU：安全充电计费控制单元（Secure Telematics Control Unit）
