@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4734**条，词组**5945**条。 
+当前收录缩略词形**4735**条，词组**5946**条。 
 
 
 
@@ -990,6 +990,7 @@
 * CSRR：网络安全风险注册（Cyber Security Risk Register）
 * CSRSS：Windows客户端/服务端运行时子系统（Client/Server Runtime Subsystem）
 * CSS：层叠样式表（Cascading Style Sheets）；美国中央安全署（Central Security Service）
+* CSSH:中国安全外壳协议（Chinese Secure Shell） KEX:密钥交换（Key Exchange） HMAC-SM3:基于SM3的哈希消息认证码（Hash-based Message Authentication Code with SM3） Z_A:SM2签名预处理杂凑值（签名者身份标识哈希） MPINT:多精度整数编码（Multiple Precision Integer） SSH_MSG_：SSH协议控制消息前缀（SSH Message）
 * CSSLP：认证安全软件生命周期从业人员（Certified Secure Software Lifecycle Professional）
 * CSSO：计算机系统安全官员（Computer Systems Security Officers）
 * CSSP：控制系统安全计划（Control System Security Program）；网络安全服务供应商（Cybersecurity Service Provider）；网络空间安全仿真平台（Cyberspace Security Simulation Platform）；云安全服务提供商（Cloud Security Service Provider）
