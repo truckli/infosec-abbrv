@@ -9,10 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4734**条，词组**5946**条。 
-
-
-
+当前收录缩略词形**4737**条，词组**5950**条。 
 
 ## 参考链接
 
@@ -24,9 +21,6 @@
 * [The Free Dictionary](https://acronyms.thefreedictionary.com/)：类似的通用缩略词网站
 * [NIST IR7581《系统与网络安全缩略词》](https://nvlpubs.nist.gov/nistpubs/Legacy/IR/nistir7581.pdf)：约1000个网络安全缩略词，本项目已吸收
 * [美军网络缩略词列表](https://public.cyber.mil/acronyms/) : 美国DoD约300个网络安全类缩略词，本项目已吸收
-
-
-
 
 ## A
 
@@ -321,7 +315,6 @@
 * AX：某寄存器代号（A eXtended）；FireEye恶意程序分析产品系列（猜测：Application content security）；应用交付产品系列（Application series）
 * AXDR：安恒AiLPHA高级威胁检测与分析系统（AiLPHA eXtended Detection & Response）
 
-
 ## B
 
 * B/P/C/S：军事基地、哨所、营地或工作站（Base/Post/Camp/Station）
@@ -442,7 +435,6 @@
 * BYOE：企业自助使用（Bring Your Own Enterprise）
 * BYOI：自带安装程序（Bring Your Own Installer）
 * BYOVD：自带脆弱驱动程序（Bring Your Own Vulnerable Driver）
-
 
 ## C
 
@@ -1052,7 +1044,6 @@
 * CyphiD：基于网络心理学的防御（Cyberpsychology-informed Defense）
 * CyTRICS：弹性工业控制系统网络测试（Cyber Testing for Resilient Industrial Control Systems）
 
-
 ## D
 
 * D&A：数据与分析（Data & Analytics）
@@ -1388,7 +1379,6 @@
 * DXGI：DirectX图形基础设施（DirectX Graphics Infrastructure）
 * DXL：数据交换层（Data Exchange Layer）
 
-
 ## E
 
 * E&M：加密并MAC（Encrypt-and-MAC）
@@ -1628,7 +1618,6 @@
 * EXP：漏洞利用（Exploit）
 * EXT：EXT文件系统（Extended File System）
 
-
 ## F
 
 * F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
@@ -1778,7 +1767,6 @@
 * FX：FireEye文件内容安全产品系列（猜测：File security）
 * FY：财年（Fiscal Year）
 
-
 ## G
 
 * G-2：美国陆军情报局（Intelligence G-2）
@@ -1918,7 +1906,6 @@
 * GZ：GZIP压缩格式（GNU ZIP）
 * GZIP：GZIP压缩格式（GNU ZIP）
 
-
 ## H
 
 * H3C：新华三集团（原：Huawei，3Com）
@@ -2032,7 +2019,6 @@
 * HWASan：硬件辅助地址检查器（Hardware-assisted Address Sanitizer）
 * HX：FireEye端点安全产品系列（猜测：Host security）
 * HYP：虚拟机监控器（hypervisor）
-
 
 ## I
 
@@ -2367,7 +2353,6 @@
 * IWC：信息站部门（Information Warfare Community）
 * IWG：跨机构工作组（Interagency Working Group）
 
-
 ## J
 
 * J-CSIP：日本网络信息共享倡议（Japan Cybersecurity Information Sharing Partnership）
@@ -2443,7 +2428,6 @@
 * JWID：联合战士互操作性演示（Joint Warrior Interoperability Demonstration）
 * JWT：JSON Web令牌（JSON Web Token）
 
-
 ## K
 
 * K8S：Kubernetes容器管理工具（Kubernetes）
@@ -2506,7 +2490,6 @@
 * KYC：客户识别（Know Your Customer）
 * KYCC：二级客户识别（Know Your Customer's Customer）
 * KYSRC：金山云安全应急响应中心（KSYUN Security Response Center）
-
 
 ## L
 
@@ -2616,7 +2599,6 @@
 * LVS：LVS负载均衡器（Linux Virtual Server）
 * LWE：带误差的学习（Learning With Errors）
 * LWR：带舍入学习问题（Learning With Rounding）
-
 
 ## M
 
@@ -2851,7 +2833,6 @@
 * MVX：FireEye多向量执行引擎（Multi-Vector Virtual Execution）
 * mW：毫瓦（Milliwatt）
 * MX：邮件交换（Mail Exchange）
-
 
 ## N
 
@@ -3108,7 +3089,6 @@
 * NXD：不可执行数据（Non-Executable Data）
 * NZCV：条件标志寄存器（Negative, Zero, Carry, oVerflow）
 
-
 ## O
 
 * O&M：运维（Operation and Maintenance）
@@ -3276,7 +3256,6 @@
 * OWL：Web本体语言（Web Ontology Language）
 * OWS：开放Web运维管理系统（Open Web System Administration）
 * OXC：光交叉连接（Optical Cross Connect）
-
 
 ## P
 
@@ -3563,7 +3542,6 @@
 * PXE：预引导执行环境（Preboot Execution Environment）
 * PXN：特权态禁止执行（Privileged eXucute Never）
 
-
 ## Q
 
 * QA：质量保证（Quality Assurance）
@@ -3597,7 +3575,6 @@
 * QVM：奇虎支持向量机（Qihoo Support Vector Machine）
 * QVT：查询/视图/转换（Query/View/Transformation）
 * QWORD：八字节字（Quadword）
-
 
 ## R
 
@@ -3778,7 +3755,6 @@
 * RWX：读/写/执行（Read/Write/Execute）
 * RX：接收端（Receive）
 * RXD：数据接收端（Receive Data）
-
 
 ## S
 
@@ -4239,7 +4215,6 @@
 * SysML：系统建模语言（Systems Modeling Language）
 * SZTP：安全零接触配置（Secure Zero Touch Provisioning）
 
-
 ## T
 
 * T-BOX：远程信息处理器（Telematics BOX）
@@ -4435,7 +4410,6 @@
 * TXD：数据发送端（Transmit Data）
 * TXT：可信执行技术（Trusted eXecution Technology）；DNS文本资源记录（text）
 
-
 ## U
 
 * U/C：效费比（Utility to Cost）
@@ -4552,7 +4526,6 @@
 * UWB：超宽带（Ultrawideband）
 * UX：用户体验（User eXperience）
 * UXN：非特权态禁止执行（Unprivileged eXucute Never）
-
 
 ## V
 
@@ -4682,7 +4655,6 @@
 * VXEdDSA：可验证XEdDSA（Verifiable X Edwards-curve DSA）
 * VXLAN：虚拟扩展局域网（Virtual Extensible Local Area Network）
 
-
 ## W
 
 * W3C：万维网联盟（World Wide Web Consortium）
@@ -4764,7 +4736,6 @@
 * WWAN：无线广域网（Wireless Wide Area Network）
 * WWW：万维网（World Wide Web）
 
-
 ## X
 
 * X3DH：扩展式三路DH协议（Extended Triple Diffie-Hellman）
@@ -4808,14 +4779,12 @@
 * XTS：XEX密文窃取式修正密码本模式（XEX Based Tweaked Codebook Mode with Ciphertext Stealing）
 * XXE：XML外部实体注入攻击（XML External Entity）
 
-
 ## Y
 
 * YAML：YAML序列化格式（YAML Ain't Markup Language）
 * YANG：YANG数据建模语言（Yet Another Next Generation）
 * YARA：YARA规则语言（Yet Another Ridiculous Acronym）
 * YOLO：持续改进（You Only Live Once）
-
 
 ## Z
 
@@ -4837,7 +4806,6 @@
 * ZTNA：零信任网络访问（Zero Trust Network Access）
 * ZTP：零接触配置（Zero Touch Provisioning）
 * ZUC：祖冲之密码（Zu Chongzhi）
-
 
 ## 0-9
 
@@ -4868,3 +4836,7 @@
 * 6M：人员、机器、原料、方法、环境和测量（Manpower, Method, Machine, Material, Milieu & Measurement）
 * 71SRC：爱奇艺安全应急响应中心（iQIYI Security Response Center）
 * 8DPSK：8相位差分相移键控（8 Phase Differential Phase Shift Keying）
+
+## 词表索引
+
+[A](A.md) [B](B.md) [C](C.md) [D](D.md) [E](E.md) [F](F.md) [G](G.md) [H](H.md) [I](I.md) [J](J.md) [K](K.md) [L](L.md) [M](M.md) [N](N.md) [O](O.md) [P](P.md) [Q](Q.md) [R](R.md) [S](S.md) [T](T.md) [U](U.md) [V](V.md) [W](W.md) [X](X.md) [Y](Y.md) [Z](Z.md) [0-9](0-9.md)

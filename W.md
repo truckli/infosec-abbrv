@@ -7,6 +7,7 @@
 * WaaS：Windows即服务（Windows as a Service）
 * WAD：WardenSwap数字币（WardenSwap）
 * WAF：Web应用防火墙（Web Application Firewall）
+* WAIC：世界人工智能大会（World Artificial Intelligence Conference）
 * WAM：Web访问管理（Web Access Management）
 * WAN：广域网（Wide Area Network）
 * WANET：无线自组织网络（Wireless Ad-hoc NETwork）
