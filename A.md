@@ -115,6 +115,7 @@
 * AHAS：应用高可用服务（Application High Availability Service）
 * AI：人工智能（Artificial Intelligence）
 * AICA：自主智能网络防御代理（Autonomous Intelligent Cyber Defense Agent）
+* AICM：AI控制矩阵（AI Control Matrix）
 * AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
 * AIDM：应用与基础设施依赖映射（Application And Infrastructure Dependency Mapping）
 * AIE：DARPA人工智能勘探计划（AI Exploration）
@@ -133,6 +134,7 @@
 * AIP：攻击拦截点（Attack Interdiction Point）
 * AIS：自动标示共享（Automated Indicator Sharing）；自动化信息系统（Automated Information System）；船载自动识别系统（Automatic Identification System）
 * AISI：英国人工智能安全研究所（AI Security Institute）
+* AISMM：AI安全成熟度模型（AI Security Maturity Model）
 * AISP：帐户信息服务提供商（Account Information Service Provider）
 * AISS：DARPA安全硅自动实现项目（Automatic Implementation of Secure Silicon）
 * AiTM：中间人攻击（Adversary-in-The-Middle）
