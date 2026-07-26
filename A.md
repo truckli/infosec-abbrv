@@ -259,6 +259,7 @@
 * ATA：ATA接口（Advanced Technology Attachment）
 * ATAPI：ATA 数据包接口（ATA Packet Interface）
 * ATC：ATC威胁覆盖项目（Atomic Threat Coverage）
+* ATF：智能体信任框架（Agentic Trust Framework）
 * ATH：高级威胁狩猎系统（Advanced Threat Hunting）
 * ATIM：通告流量标示消息（Announcement Traffic Indication Message）
 * ATL：攻击威胁级别（Attack Threat Level）；ATLAS转换语言（ATLAS Transformation Language）
