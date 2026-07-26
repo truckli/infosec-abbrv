@@ -4,6 +4,7 @@
 * MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）；移动平均模型（Moving Average）
 * MaaS：恶意程序即服务（Malware as a Service）；模型即服务（Model as a Service）
 * MAC：强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）；媒体访问控制（Media Access Control）；消息认证码（Message Authentication Code）
+* MACAW：托管认证上下文感知工作流（Managed Authenticated Context-Aware Workflows）
 * MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
 * MAE：任务保障工程（Mission Assurance Engineering）
 * MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
@@ -14,6 +15,7 @@
 * MAM：移动应用管理（Mobile Application Management）；移动访问管理（Mobile Access Management）
 * MAN：城域网（Metropolitan Area Network）
 * MANET：移动自组织网络（Mobile Ad-hoc Network）
+* MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
 * MAPP：微软主动防护计划（Microsoft Active Protection Program）
 * MARAD：海事管理局（Maritime Administration）
 * MASM：微软汇编器（Microsoft Assembler）

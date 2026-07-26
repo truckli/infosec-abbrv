@@ -47,6 +47,7 @@
 * ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
 * ODP：组织定义参数（Organization-Defined Parameter）
 * ODPS：阿里云MaxCompute服务旧称（Open Data Processing Service）
+* ODRL：开放数字权利语言（Open Digital Rights Language）
 * ODS：操作型数据存储（Operational Data Store）
 * OE：作战环境（Operational Environment）
 * OEB：OEB文件格式（Open Ebook Format）
@@ -105,6 +106,7 @@
 * OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
 * OPE：不经意多项式评估（Oblivious Polynomial Evaluation）
+* OpenFGA：开放细粒度授权（Open Fine-Grained Authorization）
 * OpenSSF：开源安全基金会（Open Source Security Foundation）
 * OPM：美国人事管理办公室（United States Office of Personnel Management）
 * OPRF：不经意伪随机函数（Oblivious Pseudo Random Function）
