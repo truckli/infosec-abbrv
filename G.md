@@ -88,6 +88,7 @@
 * GOTS：政用现货（Government Off-The-Shelf）
 * GOV：组织治理（GOVernance）
 * GP：组策略（Group Policy）；通用实践（Generic Practice）
+* GPAI：通用人工智能模型（General-Purpose AI model）
 * GPC：图像处理群技术（Graphics Processing Cluster）
 * GPF：一般保护错误（General Protection Fault）
 * GPFS：通用并行文件系统（General Parallel File System）
