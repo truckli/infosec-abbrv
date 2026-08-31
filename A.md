@@ -118,6 +118,7 @@
 * AICM：AI控制矩阵（AI Control Matrix）
 * AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
 * AIDM：应用与基础设施依赖映射（Application And Infrastructure Dependency Mapping）
+* AIDR：AI 检测与响应（AI Detection and Response）
 * AIE：DARPA人工智能勘探计划（AI Exploration）
 * AIGA：人工智能生成行动（AI Generated Actions）
 * AIGC：人工智能生成内容（AI Generated Content）
