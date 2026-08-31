@@ -169,7 +169,7 @@
 * CDF：美国关键国防设施（Critical Defense Facility）；累积分布函数（Cumulative Distribution Function）
 * CDGA：数据治理工程师（Certified Data Governance Associate）
 * CDGP：数据治理专家（Certified Data Governance Professional）
-* CDH：Cloudera Hadoop发行版（Cloudera's Distribution including Apache Hadoop）；计算Diffie-Hellman问题（Computational Diffie-Hellman）
+* CDH：Cloudera Hadoop发行版（Cloudera's Distribution including Apache Hadoop）；计算Diffie-Hellman问题（Computational Diffie-Hellman）；收敛式绕路劫持（Convergent Detour Hijacking）
 * CDI：客户数据集成（Customer Data Integration）；上下文和依赖注入（Contexts and Dependency Injection）；受约数据项（Constrained Data Item）；受控国防信息（Controlled Defense Information）
 * CDM：公共数据模型（Common Data Model）；持续诊断与缓解项目（Continuous Diagnostics & Mitigation）；副本数据管理（Copy Data Management）；客户数据管理（Customer Data Management）
 * CDMA：码分多址（Code Division Multiple Access）
