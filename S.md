@@ -204,6 +204,7 @@
 * SK：隔离内核（Separation Kernel）；秘密密钥（Secret Key）；安全内核（Secure Kernel）
 * SKA：共享密钥鉴别（Shared Key Authentication）
 * SKC：对称密钥加密（Symmetric Key Cryptography）；安全密钥缓存（Secure Key Caching）
+* SKD：赛可达（赛可达实验室，非英文缩写，「赛可达」拼音首音节S-K-D拉丁化代号，对外品牌名SKD Labs）
 * SKEME：安全密钥交换机制（Secure Key Exchange MEchanism）
 * SLA：服务等级协议（Service Level Agreement）
 * SLAAC：无状态地址自动配置（Stateless Address Auto-Configuration）
