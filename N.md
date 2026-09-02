@@ -138,6 +138,7 @@
 * NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * NISP：美国国家工业安全计划（National Industrial Security Program）；国家信息安全水平证书（National Information Security Test Program）
 * NISPOM：国家工业安全计划操作手册（National Industrial Security Program Operating Manual）
+* NISQ：含噪声中等规模量子（Noisy Intermediate-Scale Quantum）
 * NISS：绿盟综合安全系统（NSFOCUS Integrated Security System）
 * NIST：美国国家标准技术研究所（National Institute of Standards and Technology）
 * NISTIR：NIST跨机构报告（NIST Interagency Report）；NIST内部报告（NIST Internal Report）

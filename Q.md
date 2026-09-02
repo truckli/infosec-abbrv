@@ -14,6 +14,7 @@
 * QEMU：QEMU虚拟化技术（Quick EMUlator）
 * QES：QNAP企业存储产品（QNAP Enterprise Storage）
 * QFD：质量功能展开（Quality Function Deployment）
+* QFT：量子傅里叶变换（Quantum Fourier Transform）
 * QKD：量子密钥分发（Quantum Key Distribution）
 * QLoRA：量化低秩适配器微调法（Quantized Low Rank Adapters）
 * QMC：奎因－麦克拉斯基算法（Quine–McCluskey）

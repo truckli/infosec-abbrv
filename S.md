@@ -213,6 +213,7 @@
 * SLE：单次损失预期（Single Loss Expectancy）
 * SLES：SUSE Linux企业服务器（SUSE Linux Enterprise Server）
 * SLG：销售主导型增长（Sales-Led Growth）
+* SLH-DSA：无状态哈希基数字签名算法（Stateless Hash-Based Digital Signature Algorithm）
 * SLIP：串行线路网际协议（Serial Line Internet Protocol）
 * SLM：小语言模型（Small Language Model）
 * SLO：服务等级目标（Service Level Objective）

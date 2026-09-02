@@ -110,6 +110,7 @@
 * MJ：Midjourney制图工具（Midjourney）
 * MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
 * ML：机器学习（Machine Learning）；度量日志（Measurement Log）
+* ML-DSA：模格数字签名算法（Module-Lattice Digital Signature Algorithm）
 * ML-KEM：模格密钥封装机制（Module-Lattice Key Encapsulation Mechanism）
 * MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * MLE：测量发射环境（Measured Launch Environment）

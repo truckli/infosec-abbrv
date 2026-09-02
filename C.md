@@ -85,6 +85,7 @@
 * CBI：云浏览器隔离（Cloud Browser Isolation）；主张式身份（Claims-Based Identity）
 * CBK：通用知识体系（Common Body of Knowledge）
 * CBM：组件化业务模型（Component Business Model）
+* CBOM：密码物料清单（Cryptography Bill of Materials）
 * CBOR：简明二进制对象表示（Concise Binary Object Representation）
 * CBOW：连续词袋模型（Continuous Bag-of-Words Model）
 * CBP：美国海关与边境保护局（U.S. Customs and Border Protection）
@@ -382,6 +383,7 @@
 * CNO：计算机网络行动（Computer Network Operation）
 * CNP：云原生平台（Cloud Native Platform）；云原生处理器（Cloud Native Processor）；控制网协议（Control Network Protocol）；RoCE拥塞通知包（Congestion Notification Packet）
 * CNRI：美国国家研究推进机构（Corporation for National Research Initiatives）
+* CNSA：商用国家安全算法套件（Commercial National Security Algorithm）
 * CNSP：云原生容器安全产品（Cloud-Native Security Platform）
 * CNSRC：菜鸟安全应急响应中心（Cai Niao Security Response Center）
 * CNSS：美国国家安全系统委员会（Committee on National Security Systems）
