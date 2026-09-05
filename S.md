@@ -74,7 +74,7 @@
 * SCI：敏感分区信息（Sensitive Compartmented Information）；科学引文索引（Science Citation Index）
 * SCIF：敏感分区信息设施（Sensitive Compartmented Information Facility）
 * SCIM：跨域身份管理系统（System for Cross-Domain Identity Management）
-* SCM：安全配置管理（Security Configuration Management）；供应链管理（Supply Chain Management）；软件配置管理（Software Configuration Management）；源码配置管理（Source Configuration Management）；源码管理（Source Code Management）
+* SCM：安全配置管理（Security Configuration Management）；供应链管理（Supply Chain Management）；软件配置管理（Software Configuration Management）；源码配置管理（Source Configuration Management）；源码管理（Source Code Management）；结构因果模型（Structural Causal Model）
 * SCO：STIX网络可观察对象（STIX Cyber-observable Object）；美国国防部战略能力办公室（Strategic Capabilities Office）
 * SCOM：微软系统中心运维管理器（System Center Operations Manager）
 * SCONE：安全容器环境（Secure CONtainer Environment）
@@ -165,6 +165,7 @@
 * SH：系统级高位（System High）
 * SHA：安全散列算法（Secure Hash Algorithm）
 * SHAKE：安全哈希算法和Keccak（Secure Hash Algorithm & Keccak）
+* SHAP：沙普利加性解释（SHapley Additive exPlanations）
 * SHARP：可扩展分层聚合化约协议（Scalable Hierarchical Aggregation and Reduction Protocol）
 * SHD：单主设备（Single Home Device）
 * SHE：些许同态加密（Somewhat Homomorphic Encryption）

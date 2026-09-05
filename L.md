@@ -45,6 +45,7 @@
 * LH：六合赌博（拼音：Liu He）
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
 * LIMA：浅层对齐假说（Less Is More for Alignment）
+* LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
 * LIN：局域网互联网络（Local Interconnect Network）
 * LINDDUN：可关联、可识别、不可否认、可检测、信息泄露、未察觉、不合规隐私威胁模型（Linkability, Identifiability, Non-repudiation, Detectability, Disclosure of information, Unawareness, Non-compliance）
 * LIS：实验室信息管理系统（Laboratory Information Management System）
