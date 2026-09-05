@@ -21,7 +21,7 @@
 * DAM：DoD 800-171评估方法（DoD 800-171 Assessment Methodology）
 * DAMA：国际数据管理协会（the Data Management Association International）
 * DAO：数字工件本体（Digital Artifact Ontology）；数据访问对象（Data Access Object）；去中心化自治组织（Decentralized Autonomous Organization）
-* DAP：数据库审计与防护（Database Audit & Protection）
+* DAP：数据库审计与防护（Database Audit & Protection）；调试适配器协议（Debug Adapter Protocol）
 * dApp：去中心化应用程序（decentralised Application）
 * DAR：决策分析和解决（Decision Analysis & Resolution）
 * DARPA：美国国防先进研究计划局（Defense Advanced Research Projects Agency）
