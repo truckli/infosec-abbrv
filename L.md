@@ -90,7 +90,7 @@
 * LSDB：链路状态数据库（Link-State Database）
 * LSM：Linux安全模块（Linux Security Module）
 * LSN：日志序列号（Log Sequence Number）
-* LSP：MPLS标签交换路径（Label Switched Path）
+* LSP：MPLS标签交换路径（Label Switched Path）；语言服务器协议（Language Server Protocol）
 * LSPP：标记安全保护轮廓（Labeled Security Protection Profile）
 * LSR：MPLS标签交换路由器（Label Switch Router）
 * LSTM：长短期记忆（Long Short-Term Memory）
