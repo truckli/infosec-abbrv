@@ -135,7 +135,7 @@
 * RSAC：RSA会议（RSA Conference）
 * RSAES：RSA加密体制（Rivest–Shamir–Adleman Encryption System）
 * RSAS：远程安全评估系统（Remote Security Assessment System）
-* RSI：某64位寄存器代号（Register Source Index）
+* RSI：某64位寄存器代号（Register Source Index）；递归自我改进（Recursive Self-Improvement）
 * RSN：健壮安全网络（Robust Security Network）
 * RSNA：健壮安全网络联盟（Robust Security Network Association）
 * RSNIE：健壮安全网络信息元素（Robust Security Network Information Element）

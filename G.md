@@ -103,6 +103,7 @@
 * GPU：图形处理器（Graphics Processing Unit）
 * GPV：GPV签名框架（Gentry-Peikert-Vaikuntanathan）
 * GQL：图查询语言（Graph Query Language）
+* GraphRAG：图检索增强生成（Graph Retrieval-Augmented Generation）
 * GRC：治理，风险管理与合规（Governance, Risk Management & Compliance）；治理，风险与合规（Governance, Risk & Compliance）
 * GReAT：卡巴斯基全球研究与分析团队（Kaspersky’s Global Research & Analysis Team）
 * GRID：GIAC响应和工业防御（GIAC Response & Industrial Defense）
