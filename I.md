@@ -292,7 +292,7 @@
 * ITAM：信息技术资产管理（Information Technology Asset Management）
 * ITAR：国际武器交易管制（International Traffic in Arms Regulation）
 * ITDG：IT需求治理（IT Demand Governance）
-* ITDR：身份威胁检测和响应（Identity Threat Detection & Response）
+* ITDR：身份威胁检测与响应（Identity Threat Detection and Response）
 * ITES：IT化服务（Information Technology Enabled Services）
 * ITF：集成测试设施（Integrated Test Facility）
 * ITG：IT治理（IT Governance）
