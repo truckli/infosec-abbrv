@@ -83,6 +83,7 @@
 * LPP：轻量级表示协议（Lightweight Presentation Protocol）
 * LRA：逻辑响应孔径"项目（Logical Response Aperture）
 * LRC：线性责任图（Linear Responsibility Chart）
+* LS：语言服务器（Language Server）
 * LSA：本地安全机构（Local Security Authority）；远程本地服务协议（Local Service Agreement for Remote Access）
 * LSASS：本地安全机构子系统服务（Local Security Authority Subsystem Service）
 * LSB：最低有效位（Least Significant Bit）
