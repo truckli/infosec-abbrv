@@ -70,6 +70,7 @@
 * DCOM：分布式组件对象模型（Distributed Component Object Model）
 * DCOMP：防御性网络行动任务计划（Defensive Cyber Operations Mission Planning）
 * DCPDS：美国国防文职人员数据系统（Defense Civilian Personnel Data System）
+* DCR：动态客户端注册（Dynamic Client Registration）
 * DCRTM：测量信任的动态核心根（Dynamic Core Root of Trust for Measurement）
 * DCS：分布式缓存服务（Distributed Cache Service）；集散控制系统（Distributed Control System）；国防通信系统（Defense Communications System）
 * DCSA：美国国防反情报与安全局（Defense Counterintelligence & Security Agency）

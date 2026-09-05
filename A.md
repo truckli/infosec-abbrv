@@ -47,6 +47,7 @@
 * ACT：美国技术咨询委员会（American Council for Technology）；应用网络技术（Applied Cyber Technologies）
 * ACTI：亚马逊网络威胁情报中心（Amazon Cyber Threat Intelligence）
 * ACTION：基于代理的网络威胁情报与运营（Agent-based Cyber Threat Intelligence and Operation）
+* ACV：年化合同价值（Annual Contract Value）
 * ACyD：网络防御分析（Analytics for Cyber Defense）；自主网络防御（Autonomous Cyber Defense）
 * AD：活动目录（Active Directory）；积极防御（Active Defense）；架构描述（Architecture Description）；附加数据（Associated Data）；自动发现（Auto-Discovery）；架构与设计（Architecting & Designing）
 * ADA：艾达数字币（Cardano）

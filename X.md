@@ -1,6 +1,7 @@
 ## X
 
 * X3DH：扩展式三路DH协议（Extended Triple Diffie-Hellman）
+* XAA：跨应用访问（Cross App Access）
 * XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
 * XAI：可解释人工智能（eXplainable Artificial Intelligence）
 * XAUTH：可扩展认证（Extended Authentication）

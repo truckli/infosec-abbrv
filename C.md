@@ -277,6 +277,7 @@
 * CIISAp：网络安全和工业基础设施安全学徒计划（Cybersecurity & Industrial Infrastructure Security Apprenticeship Program）
 * CIKR：关键基础设施和重要资源（Critical Infrastructure and Key Resources）
 * CIM：公共信息模型（Common Information Model）；计算机集成制造（Computer-Integrated Manufacturing）
+* CIMD：客户端标识元数据文档（Client ID Metadata Document）
 * CIMOM：公共信息模型对象管理器（Common Information Model Object Manager）
 * CIMP：通用管理信息协议（Common Management Information Protocol）
 * CIMS：通用管理信息服务（Common Management Information Service）；通用管理信息协议（Common Management Information Protocol）
@@ -480,6 +481,7 @@
 * CRM：客户关系管理（Customer Relationship Management）
 * CRP：容量需求计划（Capacity Requirements Planning）
 * CRPG：社区韧性规划指南（Community Resilience Planning Guide）
+* cRPO：当期剩余履约义务（current remaining performance obligations）
 * CRQ：网络风险量化（Cyber Risk Quantification）；网络韧性指数（Cybersecurity Resilience Quotient）
 * CRQM：网络风险量化（Cyber Risk Quantification Model）
 * CRR：网络韧性评估（Cyber Resilience Review）
