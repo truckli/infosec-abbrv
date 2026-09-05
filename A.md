@@ -37,7 +37,7 @@
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）；蚁群优化（Ant Colony Optimization）
-* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）；智能体控制协议（Agent Control Protocol）
+* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）；智能体控制协议（Agent Control Protocol）；智能体客户端协议（Agent Client Protocol）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACR：阿里云容器镜像服务（Aliyun Container Registry Service）；阿里云容器镜像服务（Alibaba Cloud Container Registry Service）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
