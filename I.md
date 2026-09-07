@@ -197,6 +197,7 @@
 * IPC：进程间通信（Inter-Process Communication）；信息保护控制（Information Protection and Control）
 * IPDR：IP通信详单（Internet Protocol Detail Record）
 * IPDRR：识别、保护、检测、响应及恢复（Identify, Protect, Detect, Respond & Recover）
+* IPE：指令权限提升（Instruction Privilege Escalation）
 * IPF：信息处理设施（Information Processing Facility）
 * IPFIX：IP数据流信息输出（Internet Protocol Flow Information Export）
 * IPFS：星际文件系统（Inter-Planetary File System）

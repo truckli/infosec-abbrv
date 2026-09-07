@@ -37,6 +37,7 @@
 * SAPM：共享账户密码管理（Shared Account Password Management）
 * SAR：安全保障需求（Security Assurance Requirement）；安全评估报告（Security Assessment Report）；合成孔径雷达（Synthetic Aperture Radar）
 * SARD：软件保障参考数据集（Software Assurance Reference Dataset）
+* SARIF：静态分析交换格式（Static Analysis Results Interchange Format）
 * SAS：串行连接SCSI（Serial Attached SCSI）；安全审计系统（Security Auditing System）
 * SAS-W：上网行为管理系统（NSFOCUS Security Audit System for Web）
 * SASE：安全访问服务边缘（Secure Access Service Edge）

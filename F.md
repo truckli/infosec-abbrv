@@ -107,6 +107,7 @@
 * FPGA：现场可编程门阵列（Field-Programmable Gate Array）
 * FPI：全包检测（Full Packet Inspection）
 * FPO：外部主对象（Foreign Principal Object）
+* FPR：误报率（False Positive Rate）
 * FQDN：完全限定域名（Fully Qualified Domain Name）
 * FRA：联邦铁路管理局（Federal Railroad Administration）
 * FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
