@@ -232,7 +232,7 @@
 * ASE：IEEE/ACM国际自动化软件工程会议（IEEE/ACM International Conference Automated Software Engineering）
 * aSecPaaS：应用安全平台即服务（application Security PaaS）
 * ASG：应用安全网关（Application Security Gateway）
-* ASI：超级人工智能（Artificial Superintelligence）
+* ASI：超级人工智能（Artificial Superintelligence）；智能体安全倡议风险编号体系（OWASP Agentic Security Initiative）
 * ASIACCS：ACM信息、计算机与通信安全研讨会（ACM Symposium on Information, Computer and Communications Security）
 * ASIC：专用集成电路（Application Specific Integrated Circuit）
 * ASID：地址空间ID（Address Space ID）
@@ -248,7 +248,7 @@
 * ASP：应用服务供应商（Application Service Provider）
 * ASPM：应用安全态势管理 （Application Security Posture Management）
 * ASPPS：账户服务支付服务提供商（Account Servicing Payment Service Providers）
-* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）；聚合服务路由（Aggregated Services Router）
+* ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）；聚合服务路由（Aggregated Services Router）；攻击成功率（Attack Success Rate）
 * ASRC：阿里安全响应中心（Alibaba Security Response Center）
 * ASSIST：自动化系统安全事件支持团队（Automated System Security Incident Support Team）
 * AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）

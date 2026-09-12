@@ -19,6 +19,7 @@
 * OBD：车载诊断系统（On Board Diagnostics）
 * OBIE：开放式银行实施实体（Open Banking Implementation Entity）
 * OBM：原始品牌制造商（Original Brand Manufacturer）
+* OBO：代表用户换取短期令牌的代理令牌流（On-Behalf-Of）
 * OBSAI：开放基站架构倡议（Open Base Station Architecture Initiative）
 * OBU：车载单元（On-Board Unit）
 * OC：光载波（Optical Carrier）
