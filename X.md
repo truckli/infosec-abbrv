@@ -32,6 +32,7 @@
 * XOR：异或（eXclusive-OR）
 * XP：极限编程（Extreme Programming）
 * XPath：XML路径语言（XML Path Language）
+* XPIA：跨域提示注入攻击（Cross-Domain Prompt Injection Attack）
 * XSD：XML模式定义（XML Schema Definition）
 * XSL：可扩展样式表语言（Extensible Style sheet Language）
 * XSLT：可扩展样式表转换语言（Extensible Stylesheet Language Transformation）

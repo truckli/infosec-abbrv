@@ -67,7 +67,7 @@
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
 * ADO：ActiveX数据对象（ActiveX Data Object）
 * ADP：自动数据处理（Automated Data Processing）
-* ADR：应用安全检测与响应（Application Detection & Response）
+* ADR：应用安全检测与响应（Application Detection & Response）；动作/决策记录（Action Decision Record）
 * ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）；阿里云AnalyticDB服务旧称（Analytic Database Service）
 * ADS-M：抗DDoS系统管理器（Anti-DDoS System Manager）
 * ADSI：活动目录服务接口（Active Directory Services Interface）
@@ -128,7 +128,7 @@
 * AIK：作证身份密钥（Attestation Identity Key）；自动化安装工具包（Automated Installation Kit）
 * AIM：智能恶意软件（Autonomous Intelligent Malware）
 * AIMEE：紧急执行的人工智能缓解（Artificial Intelligence Mitigation for Emergency Execution）
-* AIMS：自动化基础设施管理系统（Automated Infrastructure Management System）
+* AIMS：自动化基础设施管理系统（Automated Infrastructure Management System）；人工智能管理体系（AI Management System）
 * AIO：多合一（All-In-One）；异步输入输出（Asynchronous Input/Output）
 * AIOPS：智能运维（Artificial Intelligence for IT OPerationS）
 * AIOS：WordPress AIOS插件（All-in-One Security）

@@ -196,6 +196,7 @@
 * PoPW：物理工作量证明（Proof of Physical Work）
 * POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）；基于SDH的分组协议（Packet over SDH）
 * POSIX：可移植操作系统接口（Portable Operating System Interface）
+* PoT：思维计划后门（Plan-of-Thought Backdoor）
 * POTS：普通老式电话服务（Plain Old Telephone Service）
 * POTUS：美国总统（President Of The United States）
 * POU：项目组织单元（Program Organizational Unit）

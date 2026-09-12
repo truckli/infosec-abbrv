@@ -119,6 +119,7 @@
 * IETF：互联网工程任务组（Internet Engineering Task Force）
 * IEW&S：情报，电子战和传感器计划执行办公室（Intelligence, Electronic Warfare and Sensors）
 * IFAA：互联网金融身份认证联盟（Internet Finance Authentication Alliance）
+* IFC：信息流控制（Information Flow Control）
 * IFCC：间接函数调用检查器（Indirect Function Call Checker）
 * IFI：身份体系免疫力（Identity Fabric Immunity）
 * IFIP：国际信息处理联合会（International Federation for Information Processing）

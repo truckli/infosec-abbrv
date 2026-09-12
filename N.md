@@ -187,7 +187,7 @@
 * NRL：美国海军研究实验室（United States Naval Research Laboratory）
 * NRMC：国家风险管理中心（National Risk Management Center）
 * NRO：美国国家侦察局（National Reconnaissance Office）
-* NRP：美国国家应急预案（National Response Plan）
+* NRP：美国国家应急预案（National Response Plan）；净弹性性能（Net Resilient Performance）
 * NRT：非实时（Non-Real-Time）
 * NS：名字服务器（Name Server）；邻居请求消息（Neighbor Solicitation）
 * NS/EP：美国国家安全与应急准备（National Security & Emergency Preparedness）
