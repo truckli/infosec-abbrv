@@ -76,7 +76,7 @@
 * LoRA：低秩适应微调技术（Low-Rank Adaptation）
 * LOS：视线传播（Line-Of-Sight propagation）
 * LotL：离地攻击（Living off the Land）
-* LPA：本地个人资料助手（Local Profile Assistant）
+* LPA：本地个人资料助手（Local Profile Assistant）；有限规划准确率，GuardAgent评测指标（Limited-Plan Accuracy）
 * LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
 * LPAR：逻辑分区（Logical Partition）
 * LPC：LPC总线类型（Low Pin Count）；本地进程间通信（Local Inter-Process Communication）

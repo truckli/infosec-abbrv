@@ -248,7 +248,7 @@
 * DPA：差分能量分析（Differential Power Analysis）；数据处理协议（Data Process Agreement）；数据保护机构（Data Protection Agency）；数字流程自动化（Digital Process Automation）
 * DPCMP：委托的个人资料内容管理平台（Delegated Profile Content Management Platform）
 * DPDK：数据面开发套件（Data Plane Development Kit）
-* DPI：深度包检测（Deep Packet Inspection）
+* DPI：深度包检测（Deep Packet Inspection）；直接提示注入（Direct Prompt Injection）
 * DPIA：数据保护影响评估（Data Protection Impact Assessment）
 * DPKI：分布式PKI（Distributed PKI）
 * DPL：描述符特权等级（Descriptor Privilege Level）
@@ -298,6 +298,7 @@
 * DSO：动态共享对象（Dynamic Shared Objects）；数据安全官（Data Security Officer）；DARPA国防科学办公室（Defense Sciences Office）；敏捷安全（DevSecOps）
 * DSP：数据安全保护（Data Security Protection）；数据安全平台（Data Security Platform）；数据协作平台（Data Sharing Platform）；数据服务平台（Data Service Platform）；数字信号处理（Digital Signal Processing）
 * DSPM：数据安全态势管理（Data Security Posture Management）
+* DSR：防御成功率，ClawKeeper评测指标（Defense Success Rate）
 * DSRC：专用短程通信（Dedicated Short Range Communication）；滴滴出行安全应急响应中心（DiDi Security Response Center）
 * DSS：数字签名标准（Digital Signature Standard）；决策支持系统（Decision Support Systems）；数字供应链安全大会（Digital Supply chain Security conference）
 * DSSA：分布式系统安全架构（Distributed System Security Architecture）

@@ -98,6 +98,7 @@
 * TK：临时密钥（Temporary Key）；瞬时密钥（Temporal Key）
 * TKG：时序知识图谱（Temporal Knowledge Graph）；攻防技术知识图谱（Technique Knowledge Graph）
 * TKIP：瞬时密钥完整性协议（Temporal Key Integrity Protocol）
+* TLA+：时序逻辑动作语言，分布式/协议形式化模型检查（Temporal Logic of Actions）
 * TLB：旁路快表缓冲（Translation Lookaside Buffer）
 * TLCP：传输层密码协议（Transport Layer Cryptographic Protocol）
 * TLD：顶级域名（Top Level Domain）

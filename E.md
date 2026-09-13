@@ -7,7 +7,7 @@
 * E2EE：端到端加密（End-to-End Encryption）
 * E3：拓线分析、信息富化和结果评价（Expansion, Enrichment & Evaluation）
 * E3A：美国爱因斯坦工程加速计划（EINSTEIN 3 Accelerated）
-* EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）；企业管理员（Enterprise Admin）
+* EA：执行机构（Enforcement Agency）；企业架构（Enterprise Architecture）；企业管理员（Enterprise Admin）；执行准确率，GuardAgent评测指标（Execution Accuracy）
 * EAD：以太网接入直通（Ethernet Access Direct）；以太网自动发现（Ethernet Auto Discovery）
 * EAI：企业应用集成（Enterprise Application Integration）
 * EAIC：端点应用隔离与控制（Endpoint Application Isolation Containment）

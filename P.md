@@ -83,6 +83,7 @@
 * PEAP：保护性可扩展认证协议（Protective Extensible Authentication Protocol）；受保护的可扩展认证协议（Protected Extensible Authentication Protocol）
 * PEB：进程环境块（Process Environment Block）
 * PEC：隐私计算（Privacy Enhancing Computing）
+* PED：提权距离，D-H SoK提出的可从agent轨迹计算的安全度量（Privilege Escalation Distance）
 * PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
 * PEF：保护执行设施（Protected Execution Facility）
 * PEFT：参数高效微调（Parameter-Efficient Fine-Tuning）
@@ -179,6 +180,7 @@
 * PMT：隐私管理工具（Privacy Management Tools）
 * PMU：性能监测单元（Performance Monitor Unit）
 * PN：分组编号（Packet Number）
+* PNA：非攻击场景效用，NRP组成项（Performance on Non-attack）
 * PNNL：美国西北太平洋国家实验室（Pacific Northwest National Laboratory）
 * PNT：定位、导航和授时（Positioning, Navigation & Timing）
 * POA&M：行动计划和里程碑（Plan of Actions & Milestones）

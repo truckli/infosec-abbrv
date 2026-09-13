@@ -109,7 +109,7 @@
 * FPO：外部主对象（Foreign Principal Object）
 * FPR：误报率（False Positive Rate）
 * FQDN：完全限定域名（Fully Qualified Domain Name）
-* FRA：联邦铁路管理局（Federal Railroad Administration）
+* FRA：联邦铁路管理局（Federal Railroad Administration）；最终响应准确率，GuardAgent评测指标（Final-Response Accuracy）
 * FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
 * FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
 * FREAK：FREAK攻击（Factoring RSA Export Keys）

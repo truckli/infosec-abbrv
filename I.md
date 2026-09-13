@@ -202,6 +202,7 @@
 * IPF：信息处理设施（Information Processing Facility）
 * IPFIX：IP数据流信息输出（Internet Protocol Flow Information Export）
 * IPFS：星际文件系统（Inter-Planetary File System）
+* IPI：间接提示注入（Indirect Prompt Injection）
 * IPL：初始程序加载器（Initial Program Loader）
 * IPMC：智能平台管理控制器（Intelligent Platform Management Controller）
 * IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）

@@ -103,6 +103,7 @@
 * OOPSA：开放运维联盟（Open OPeraionS Alliance）
 * OOV：未登录词（Out-Of-Vocabulary）
 * OP：OpenID提供者（OpenID Provider）
+* OPA：开源策略引擎，Rego策略语言载体（Open Policy Agent）
 * OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
 * OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
 * OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
