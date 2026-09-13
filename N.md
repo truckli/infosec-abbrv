@@ -99,7 +99,10 @@
 * NF：网络功能（Network Function）；网络防火墙（Network Firewall）；绿盟防火墙（Nsfocus Firewall）
 * NF4：NF4精度浮点数（4-bit Normal Float）
 * NFA：非确定性有限自动机（Nondeterministic Finite Automata）
-* NFC：近距离无线通信（Near Field Communication）
+* NFC：近距离无线通信（Near Field Communication）；Unicode标准等价合成规范化形式（Unicode Normalization Form C, Canonical Composition）
+* NFD：Unicode标准等价分解规范化形式（Unicode Normalization Form D, Canonical Decomposition）
+* NFKC：Unicode兼容性等价合成规范化形式（Unicode Normalization Form KC, Compatibility Composition）
+* NFKD：Unicode兼容性等价分解规范化形式（Unicode Normalization Form KD, Compatibility Decomposition）
 * NFS：网络文件系统（Network File System）；网络文件共享（Network File Share）
 * NFT：非同质化代币（Non-Fungible Token）；网络取证技术（Network Forensics Technology）
 * NFU：全国农民联盟（National Farmers Union）
