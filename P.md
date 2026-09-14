@@ -190,6 +190,7 @@
 * PoE：以太网供电（Power over Ethernet）
 * POF：被动OS指纹识别（Passive OS Fingerprinting）
 * POI：兴趣地点（Point Of Interest）
+* POLA：最小权限（Least Privilege）
 * PoLP：最小权限原则（Principle of Least Privilege）
 * POM：POM文件（Project Object Model）
 * PON：无源光纤网络（Passive Optical Network）
