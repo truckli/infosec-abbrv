@@ -53,7 +53,7 @@
 * DCC：《设计、编码与加密》期刊（Designs, Codes and Cryptography）
 * DCE：数据电路终端设备（Data Circuit-Terminating Equipment）；分布式计算环境（Distributed Computing Environment）
 * DCEO：防御性网络行动（Defensive Cyber Effects Operation）
-* DCF：分布式协调功能（Distributed Coordination Function）
+* DCF：分布式协调功能（Distributed Coordination Function）；分布式云防火墙（Distributed Cloud Firewall）
 * DCG：数据中心组（Data Center Group）
 * DCGS：分布式通用地面系统（Distributed Common Ground System）
 * DCI：数据中心基础设施（Data Center Infrastructure）；数据中心互联（Data Center Interconnect）；美国中央情报局局长（Director of Central Intelligence）

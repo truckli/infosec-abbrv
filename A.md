@@ -251,7 +251,7 @@
 * ASR：攻击面缩减（Attack Surface Reduction）；自动服务器恢复（Automatic Server Recovery）；自动语音识别（Automatic Speech Recognition）；阿里云灾备管理中心（Apsara Stack Resilience）；聚合服务路由（Aggregated Services Router）；攻击成功率（Attack Success Rate）
 * ASRC：阿里安全响应中心（Alibaba Security Response Center）
 * ASSIST：自动化系统安全事件支持团队（Automated System Security Incident Support Team）
-* AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）
+* AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）；OWASP Agentic Skills 十大风险编号前缀（OWASP Top 10 for Agentic Skills，AST01-AST10）
 * AST10：智能体技能风险十项，编号AST01-AST10（OWASP Top 10 for Agentic Skills）
 * ASTaaS：应用安全测试即服务（Application Security Testing as a Service）
 * ASTARTE："快速战术执行的空域全感知"（Airspace Total Awareness for Rapid Tactical Execution）

@@ -219,6 +219,7 @@
 * SLIP：串行线路网际协议（Serial Line Internet Protocol）
 * SLM：小语言模型（Small Language Model）
 * SLO：服务等级目标（Service Level Objective）
+* SLR：系统文献综述（Systematic Literature Review）
 * SLS：单级安全体（Single Level Secure）；阿里云日志服务（Simple Log Service）
 * SLSA：软件工件供应链级别（Supply chain Levels for Software Artifacts）
 * SLTPS：州、地方、部落和私营部门（State, Local, Tribal, and Private Sector）
@@ -278,6 +279,7 @@
 * SOD：职责分离（Separation of Duty）
 * SOF：特种作战部队（Special Operations Forces）
 * SOG-IS：信息系统安全高级官员组（Senior Officials Group Information Systems Security）
+* SoK：系统化知识综述（Systematization of Knowledge）
 * SOL：Solana数字币（Solana）
 * SONET：同步光纤网络（Synchronous Optical Network）
 * SOP：标准操作规程（Standard Operation Procedure）；同源策略（Same-Origin Policy）

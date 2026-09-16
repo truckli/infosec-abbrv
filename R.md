@@ -39,6 +39,7 @@
 * RBX：某64位寄存器代号（Register B eXtended）
 * RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）
 * RCA：根因分析（Root Cause Analysis）
+* RCE：远程代码执行（Remote Code Execution）
 * RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
 * RCO：快速能力办公室（Rapid Capabilities Office）
 * RCX：某64位寄存器代号（Register C eXtended）

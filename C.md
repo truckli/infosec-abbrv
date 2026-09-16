@@ -49,6 +49,7 @@
 * CAM：网络资产测绘（Cyberspace Asset Mapping）；云访问管理（Cloud Access Management）；内容编址存储器（Content Addressable Memory）；计算机辅助制造（Computer-Aided Manufacturing）
 * CAMAT：网络攻击方法进攻树（Cyber Attack Methodology Attack Tree）
 * CAMEL：网络攻击方法穷举列表（Cyber Attack Methodology Exhaustive List）
+* CaMeL：能力标签机器学习（CApabilities for MachinE Learning，DeepMind 设计级数据流防御）
 * CAN：控制器局域网（Controller Area Network）
 * CANET：中国学术网（Chinese Academic Network）
 * CANN：华为异构计算架构（Compute Architecture for Neural Networks）
@@ -250,6 +251,7 @@
 * CHESS：DARPA人机协作探索软件安全项目（Computers & Humans Exploring Software Security）
 * CHIPS：美国创造有益激励生产半导体法案（Creating Helpful Incentives to Produce Semiconductors）
 * CI：关键基础设施（Critical Infrastructures）；反情报（Counter Intelligence）；配置项（Configuration Item）；基站小区标识（Cell Identifier）；持续集成（Continuous Integration）；融合基础设施（Converged Infrastructure）
+* CI/CD：持续集成/持续交付流水线（Continuous Integration/Continuous Delivery）
 * CI/KR：关键基础设施与重点资源（Critical Infrastructure & Key Resources）
 * CIA：保密性、完整性和可用性（Confidentiality, Integrity & Availability）；美国中央情报局（Central Intelligence Agency）；刑侦分析（Criminal Investigative Analysis）
 * CiaB：CiaB解决方案（Cloud-in-a-Box）
@@ -588,6 +590,7 @@
 * CVA：网络安全漏洞评估系统（Cybersecurity Vulnerability Assessment）
 * CVD：协同漏洞披露（Coordinated Vulnerability Disclosure）
 * CVE：通用漏洞与暴露（Common Vulnerabilities & Exposures）
+* CVE/CVSS/NVD：公开漏洞编号/漏洞评分体系/美国国家漏洞数据库（Common Vulnerabilities and Exposures/Common Vulnerability Scoring System/National Vulnerability Database）
 * CVERC：国家计算机病毒应急处理中心（National Computer Virus Emergency Response Center）
 * CVP：最近向量问题（Closest vector problem）
 * CVPR：计算机视觉与模式识别会议（Conference on Computer Vision and Pattern Recognition）

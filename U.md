@@ -8,6 +8,7 @@
 * UAM：用户活动监控（User Activity Monitoring）
 * UAO：用户访问覆盖（User Access Override）
 * UAR：不安全动作率，D-H SoK提出的可从agent轨迹计算的安全度量（Unsafe Action Rate）
+* UAR/PED：不安全动作率/提权距离（Unsafe Action Rate/Privilege Escalation Distance，D-H SoK 提出的可从 agent 轨迹计算的安全度量）
 * UARC：大学附属研究中心（University Affiliated Research Center）
 * UAS：用户代理服务器（User Agent Server）；无人机系统（Unmanned AeriaI System）
 * UAV：无人航空载具（Unmanned Aerial Vehicle）
