@@ -242,7 +242,7 @@
 * pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
 * PRS：策略检索服务（Policy Retrieval Service）
 * PS：分组交换（Packet Switching）；受保护存储（Protected Storage）；参数服务器（Parameter Server）
-* PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）
+* PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）；进程派生分析（Process Spawn Analysis）
 * PSB：AMD平台安全启动（Platform Secure Boot）
 * PSC：平台服务控制器（Platform Services Controller）
 * PSCCC：电力系统通信和网络安全（IEEE Power System Communications and Cybersecurity）

@@ -26,6 +26,7 @@
 * JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
 * JEPA：联合嵌入预测架构（Joint Embedding Predictive Architecture）
 * JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
+* JFAPA：岗位职责访问模式分析（Job Function Access Pattern Analysis）
 * JFC：联合部队指挥官（Joint Force Commander）
 * JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
 * JFFS：日志快闪文件系统（Journaling Flash File System）

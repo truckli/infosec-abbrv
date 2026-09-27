@@ -144,7 +144,7 @@
 * CCRA：通用准则互认约定（Common Criteria Recognition Arrangement）
 * CCRC：中国网络安全审查技术与认证中心（China Cybersecurity Review Technology and Certification Center）
 * CCS：ACM计算机与通信安全会议（the ACM Conference on Computer & Communications Security）
-* CCSA：中国通信标准化协会（China Communications Standards Association）
+* CCSA：中国通信标准化协会（China Communications Standards Association）；凭据泄露范围分析（Credential Compromise Scope Analysis）
 * CCSC：网络安全能力认证（Certification for Cyber Security Competence）
 * CCSDS：空间数据系统咨询委员会（The Consultative Committee for Space Data Systems）
 * CCSIP：中国网络安全行业全景册（China Cyber Security Industry Panorama）
@@ -539,6 +539,7 @@
 * CSP：内容安全策略（Content Security Policy）；云服务提供商（Cloud Service Provider）；关键安全参数（Critical Security Parameter）；加密服务供应程序（Cryptographic Service Provider）；凭证服务提供者（Credential Service Provider）；CCF计算机软件能力认证（Certified Software Professional）；SNAP从业人员认证（Certified SNAP Practitioner）
 * CSPEC：公安部信息安全等级保护评估中心（MPS Information Classified Protection Evaluation Center）
 * CSPM：云安全策略管理（Cloud Security Policy Management）；云安全态势管理（Cloud Security Posture Management）
+* CSPP：客户端-服务端载荷分析（Client-server Payload Profiling）
 * CSPRNG：密码学安全的伪随机数生成器（Cryptographically Secure Pseudo-Random Number Generator）
 * CSR：凭证签发请求（Certificate Signing Request）；控制状态寄存器（Control & Status Register）；思科云服务路由器（Cloud Services Router）；MPLS基站侧路由器（Cell Site Router）
 * CSRB：美国网络安全审查委员会（Cyber Safety Review Board）

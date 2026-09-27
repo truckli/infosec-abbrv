@@ -173,6 +173,7 @@
 * ANAB：ANSI国家认可委员会（ANSI National Accreditation Board）
 * ANATEL：巴西国家电信管理局（葡萄牙语：Agência Nacional de Telecomunicações）
 * ANC：自适应网络控制（Adaptive Network Control）
+* ANCI：认证缓存失效（Authentication Cache Invalidation）
 * ANDSF：接入网发现及选择功能（Access Network Discovery and Selection Function）
 * ANG：美国空军国民警卫队（Air National Guard）
 * ANL：美国阿贡国家实验室（Argonne National Laboratory）
@@ -190,6 +191,7 @@
 * AP：接入点（Access Point）；执行器轮廓（Actuator Profile）；分析处理（Analytical Processing）
 * aPAKE：非对称口令鉴别密钥协商（asymmetric Password-Authenticated Key Agreement）
 * APC：异步过程调用（Asynchronous Procedure Call）
+* APCA：应用协议命令分析（Application Protocol Command Analysis）
 * APCERT：亚太地区计算机应急响应组（Asia Pacific Computer Emergency Response Team）
 * APDU：应用协议数据单元（Application Protocol Data Unit）
 * APE：自动化提示工程（Automated Prompting Engineering）
@@ -297,3 +299,4 @@
 * AWWA：美国自来水厂协会（American Water Works Association）
 * AX：某寄存器代号（A eXtended）；FireEye恶意程序分析产品系列（猜测：Application content security）；应用交付产品系列（Application series）
 * AXDR：安恒AiLPHA高级威胁检测与分析系统（AiLPHA eXtended Detection & Response）
+* AZET：授权事件阈值分析（Authorization Event Thresholding）
