@@ -284,6 +284,7 @@
 * AUP：可接受的使用策略（Acceptable Use Policy）；商定程序（Agreed-Upon Procedure）；敏捷统一过程（Agile Unified Process）
 * AusCERT：澳大利亚计算机应急响应团队（Australian Computer Emergency Response Team）
 * AUSF：身份验证服务功能（Authentication Server Function）
+* AutoML：自动机器学习（Automated Machine Learning）
 * AV：反病毒软件（Anti-Virus）；攻击载体（Attack Vector）；DoDAF全景视角（All Viewpoint）
 * AVC：应用漏洞关联（Application Vulnerability Correlation）
 * AVIEN：防病毒信息交换网络（Antivirus Information Exchange Network）

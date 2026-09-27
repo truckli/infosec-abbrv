@@ -18,7 +18,7 @@
 * HBSS：基于主机的安全系统（Host-Based Security System）
 * HC3：卫生部门网络安全协调中心（Health Sector Cybersecurity Coordination Center）
 * HCF：混合协调功能（Hybrid Coordination Function）
-* HCI：人机交互（Human-Computer Interfaces）；超融合基础设施（Hyper Converged Infrastructure）；主机控制器接口（Host Controller Interface）
+* HCI：人机交互（Human-Computer Interfaces）；超融合基础设施（Hyper Converged Infrastructure）；主机控制器接口（Host Controller Interface）；剩余空间关闭指数（Headroom-Closed Index）
 * HCIA：华为认证ICT工程师（Huawei Certified ICT Associate）
 * HCIE：华为认证ICT专家（Huawei Certified ICT Expert）
 * HCIP：华为认证ICT高级工程师（Huawei Certified ICT Professional）
