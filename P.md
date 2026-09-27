@@ -203,6 +203,7 @@
 * POTS：普通老式电话服务（Plain Old Telephone Service）
 * POTUS：美国总统（President Of The United States）
 * POU：项目组织单元（Program Organizational Unit）
+* PoV：价值验证（Proof of Value）
 * PoW：工作量证明（Proof of Work）
 * PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）；流水线并行（Pipeline Parallelism）
 * PPA：保护轮廓确保（Protection Profile Assurance）
