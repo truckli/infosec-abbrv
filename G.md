@@ -135,7 +135,7 @@
 * GUID：全局唯一标识符（Globally Unique Identifier）
 * GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * GVLK：微软通用卷授权密钥（Generic Volume License Key）
-* GW：网关（Gateway）
+* GW：网关（Gateway）；十亿瓦（Gigawatt）
 * GWN：网关节点（Gateway Node）
 * GZ：GZIP压缩格式（GNU ZIP）
 * GZIP：GZIP压缩格式（GNU ZIP）

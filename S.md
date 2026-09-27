@@ -382,7 +382,7 @@
 * SSL：安全套接层（Secure Sockets Layer）
 * SSLIOP：SSL对象请求代理间通信协议（SSL InterORB Protocol）
 * SSLO：SSL流量编排技术（SSL Orchestration）
-* SSM：Amazon EC2简单系统管理器（Simple Systems Manager）
+* SSM：Amazon EC2简单系统管理器（Simple Systems Manager）；状态空间模型（State Space Model）
 * SSO：单点登录（Single Sign On）
 * SSOIS：信息系统安全子系统（Security Subsystem Of Information System）
 * SSOR：记录源系统（Source System Of Records）
