@@ -227,7 +227,6 @@
 * NTA：网络流量分析（Network Traffic Analysis）
 * NTCTF：NAS/CSS网络空间威胁框架（NSA/CSS Technical Cyber Threat Framework）
 * NTDS：Windows NT目录服务（New Technology Directory Services Directory）
-* NTDS.DIT：域凭证数据库（Active Directory 数据库文件 NTDS.dit）
 * NTFS：Windows NT文件系统（New Technology File System）
 * NTI：绿盟威胁情报（NSFOCUS Threat Intelligence）
 * NTIA：美国国家电信和信息管理局（National Telecommunications and Information Administration）

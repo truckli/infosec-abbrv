@@ -17,6 +17,7 @@
 * MANET：移动自组织网络（Mobile Ad-hoc Network）
 * MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
 * MAPP：微软主动防护计划（Microsoft Active Protection Program）
+* MAQ：机器账户配额（Machine Account Quota）
 * MARAD：海事管理局（Maritime Administration）
 * MASM：微软汇编器（Microsoft Assembler）
 * MAST：移动应用安全测试（Mobile Application Security Testing）
@@ -177,6 +178,8 @@
 * MRTI：机读情报（Machine-Readable Threat Intelligence）
 * MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
 * MS-CHAP：微软质询握手认证协议（Microsoft Challenge-Handshake Authentication Protocol）
+* MS-DRSR：微软目录复制服务远程协议（Directory Replication Service Remote Protocol）
+* ms-DS-MachineAccountQuota：机器账户配额属性（Machine Account Quota）
 * MS-ISAC：美国州际信息分享和分析中心（Multi-State Information Sharing and Analysis Center）
 * MSA：消息安全辅助（Message Security Assist）；微软账号（Microsoft Account）；微软服务协议（Microsoft Services Agreement）
 * MSB：最高有效位（Most Significant Bit）

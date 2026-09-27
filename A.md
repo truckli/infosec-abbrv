@@ -239,7 +239,7 @@
 * ASIM：高级安全信息模型（Advanced Security Information Model）
 * ASIMS：自动化安全事件测量系统（Automated Security Incident Measuring System）
 * ASLR：地址空间布局随机化（Address Space Layout Randomization）
-* ASM：攻击面管理（Attack Surface Management）；阿里云服务网格（Aliyun Service Mesh）；阿里云服务网格（Alibaba Cloud Service Mesh）
+* ASM：攻击面管理（Attack Surface Management）；阿里云服务网格（Aliyun Service Mesh）；阿里云服务网格（Alibaba Cloud Service Mesh）；账户安全管理（Account Security Management）
 * ASML：ASML公司（Advanced Semiconductor Materials Lithography）
 * ASMS：高级卫星多媒体系统会议（Advanced Satellite Multimedia Systems Conference）
 * ASN：互联网自治域编号（Autonomous System Number）；抽象语法标记（Abstract Syntax Notation）
