@@ -110,6 +110,7 @@
 * GRID：GIAC响应和工业防御（GIAC Response & Industrial Defense）
 * GRO：通用接收卸载（Generic Receive Offload）
 * gRPC：gRPC框架（gRPC Remote Procedure Calls）
+* GRPO：组相对策略优化（Group Relative Policy Optimization）
 * GRR：谷歌快速响应（Google Rapid Response）
 * GRS：一般记录时间表（General Records Schedule）
 * GRU：俄罗斯总参情报总局（俄语拉丁化：Glavnoye razvedyvatel'noye upravleniye）；门控循环单元模型（Gated Recurrent Unit）

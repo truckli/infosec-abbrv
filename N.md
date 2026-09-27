@@ -154,6 +154,7 @@
 * NLG：自然语言生成（Natural Language Generation）
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
 * NMA：网络管理应用（Network Management Application）
+* NMAE：归一化平均绝对误差（Normalized Mean Absolute Error）
 * NMF：国家任务部队（National Mission Force）
 * NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）；美国国家军事战略（National Military Strategy）
 * NMS-CO：美国国家网络作战军事战略（National Military Strategy for Cyberspace Operations）

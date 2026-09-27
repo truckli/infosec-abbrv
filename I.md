@@ -66,6 +66,7 @@
 * ICE：网络环境情报（Intelligence on Cyber Environment）；交互连接建立协议（Interactive Connectivity Establishment）；美国移民和海关执法局（U.S. Immigration and Customs Enforcement）；浪潮云容器引擎（Inspur Container Engine）
 * ICES：集成云邮件安全 （Integrated Cloud Email Security）
 * ICG：互联网控制网关（Internet Control Gateway）；智能通信网关（Intelligent Communication Gateway）；智能控制网关（Intelligent Control Gateway）
+* ICL：上下文学习（In-Context Learning）
 * ICML：国际机器学习会议（International Conference on Machine Learning）
 * ICMP：互联网控制报文协议（Internet Control Message Protocol）
 * ICN：以信息为中心的网络（Information Centric Networking）

@@ -280,6 +280,7 @@
 * ATT&CK：敌手战术、战技和通识（Adversarial Tactics, Techniques, and Common Knowledge）
 * AU：审计与可问责性（Audit & Accountability）
 * AuC：GSM认证中心（Authentication Center）
+* AUC：曲线下面积（Area Under the Curve）
 * AUKUS：澳英美"三方安全联盟"（Australia, UK, and US Security Alliance）
 * AUP：可接受的使用策略（Acceptable Use Policy）；商定程序（Agreed-Upon Procedure）；敏捷统一过程（Agile Unified Process）
 * AusCERT：澳大利亚计算机应急响应团队（Australian Computer Emergency Response Team）
