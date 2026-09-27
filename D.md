@@ -74,6 +74,7 @@
 * DCRTM：测量信任的动态核心根（Dynamic Core Root of Trust for Measurement）
 * DCS：分布式缓存服务（Distributed Cache Service）；集散控制系统（Distributed Control System）；国防通信系统（Defense Communications System）
 * DCSA：美国国防反情报与安全局（Defense Counterintelligence & Security Agency）
+* DCSync：域控同步协议（Directory Replication Service 复制协议滥用技术）
 * DCU：汽车域控制器（Domain Control Unit）
 * DCVC2：Discord语音通道指挥控制工具（Discord Voice Channel C2）
 * DCWS：防御网络武器系统（Defense Cyber Weapons Systems）；防御网络武器系统（Defense Cyber Weapons System）

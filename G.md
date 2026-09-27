@@ -80,6 +80,7 @@
 * GNN：图神经网络（Graph Neural Network）
 * GNSS：全球导航卫星系统（Global Navigation Satellite System）
 * GNU：GNU操作系统计划（GNU's Not Unix）
+* GOG：GreyNoise全球观测网格（Global Observation Grid）
 * GoIP：基于互联网协议的信号传输（GSM over Internet Protocol）
 * GOPS：每秒十亿次运算数（Giga Operations Per Second）；全球运维大会（Global OPs Summit）
 * GOSC：全球运营与安全中心（Global Operations & Security Center）
