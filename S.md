@@ -27,7 +27,7 @@
 * SAFER：安全快速加密例程（Secure And Fast Encryption Routine）
 * SAG：服务账号治理（Service Account Governance）；安全应用网关（Secure Application Gateway）；安全接入网关（Secure Access Gateway）
 * SAL：安全分析和日志记录（Security Analytics & Logging）
-* SAM：账户安全管理（Account Security Management）；软件资产管理（Software Asset Management）；服务感知管理器（Service Aware Manager）；SAM图像分割大模型（Segment Anything Model）
+* SAM：账户安全管理（Account Security Management）；软件资产管理（Software Asset Management）；服务感知管理器（Service Aware Manager）；SAM图像分割大模型（Segment Anything Model）；安全账户管理器（Security Account Manager）
 * SAMAE：系统/采购任务保障工程（System/Acquisition Mission Assurance Engineering）
 * SAML：安全断言标记语言（Security Assertion Markup Language）
 * SAMM：软件保障成熟度模型（Software Assurance Maturity Model）

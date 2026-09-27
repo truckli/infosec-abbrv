@@ -43,6 +43,7 @@
 * WIF：Windows身份基础框架（Windows Identity Foundation）
 * WIM：Windows映像格式（Windows Imaging Format）
 * WinRE：Windows恢复环境（Windows Recovery Environment）
+* WinRM：Windows远程管理（Windows Remote Management）
 * WINS：世界核安全研究所（World Institute of Nuclear Security）
 * WIPS：无线入侵防御系统（Wireless Intrusion Prevention System）
 * WiSec：ACM无线和移动网络安全隐私研讨会（ACM Conference on Security and Privacy in Wireless and Mobile Networks）

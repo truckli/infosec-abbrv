@@ -168,6 +168,7 @@
 * DISA：美国国防信息系统局（Defense Information Systems Agency）
 * DISARM：虚假信息分析与风险管理框架（DISinformation Analysis & Risk Management）
 * DISN：美国国防信息系统网（Defense Information Systems Network）
+* DIT：目录信息树（Directory Information Tree）
 * DITPR：美国国防信息技术投资组合存储库（DoD Information Technology Portfolio Repository）
 * DITSCAP：美国国防信息技术安全认证与授权过程（DoD IT Security Certification & Accreditation Process）
 * DITSWG：美国国防信息技术安全工作组（Defense Information Technology Security Working Group）
@@ -276,6 +277,8 @@
 * DROWN：DROWN攻击（Decrypting RSA with Obsolete and Weakened eNcryption）
 * DRP：数字风险保护（Digital Risk Protection）；灾难恢复计划（Disaster Recovery Plan）
 * DRPS：数字风险保护服务（Digital Risk Protection Service）
+* DRS：目录复制服务（Directory Replication Service）
+* DRSR：目录复制服务远程协议（Directory Replication Service Remote Protocol）
 * DRTM：动态可信度量根（Dynamic Root of Trust for Measurement）
 * DS：发现服务（Discovery Service）；目录服务（Directory Service）；数据段寄存器（Data Segment）；分发系统（Distribution System）；域服务（Domain Service）
 * DSA：数字签名算法（Digital Signature Algorithm）；目录服务代理（Directory Service Agent）；数据安全评估师（Data Security Assessor）；数据安全协议（Data Security Agreement）；数据共享协议（Data Sharing Agreement）；专用处理器架构（Domain Specific Architecture）
