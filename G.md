@@ -1,6 +1,7 @@
 ## G
 
 * G-2：美国陆军情报局（Intelligence G-2）
+* GA：正式可用/生产可用（General Availability）
 * GAAP：一般公认会计原则（Generally Accepted Accounting Principle）
 * GAE：图自编码器（Graph Autoencoder）
 * GAIR：全球人工智能与机器人大会（Global Artificial Intelligence and Robotics Conference）
@@ -46,6 +47,7 @@
 * GDT：全局描述符表（Global Descriptor Table）
 * GDTR：全局描述符表寄存器（Global Descriptor Table Register）
 * GE：千兆以太网（Gigabit Ethernet）
+* GenAI：生成式人工智能（Generative AI）
 * GEO：地理位置（Geography）；全名生成式引擎优化（Generative Engine Optimization）
 * GEOINT：地理空间情报（Geospatial Intelligence）
 * GETVPN：组加密传输VPN（Group Encrypted Transport VPN）

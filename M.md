@@ -19,6 +19,7 @@
 * MAPP：微软主动防护计划（Microsoft Active Protection Program）
 * MAQ：机器账户配额（Machine Account Quota）
 * MARAD：海事管理局（Maritime Administration）
+* MAS：多智能体系统（Multi-Agent System）
 * MASM：微软汇编器（Microsoft Assembler）
 * MAST：移动应用安全测试（Mobile Application Security Testing）
 * MAU：月均活跃用户数量（Monthly Active User）

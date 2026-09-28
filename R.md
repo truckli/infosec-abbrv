@@ -37,7 +37,7 @@
 * RBP：某64位寄存器代号（Register Base Pointer）
 * RBVM：基于风险的漏洞管理（Risk-Based Vulnerability Management）
 * RBX：某64位寄存器代号（Register B eXtended）
-* RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）
+* RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）；发布候选版（Release Candidate）
 * RCA：根因分析（Root Cause Analysis）
 * RCE：远程代码执行（Remote Code Execution）
 * RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
@@ -154,7 +154,7 @@
 * RTD：往返延迟（Round-Trip Delay）
 * RTE：实时互联网大会（Real-Time 、Engagement）
 * RTG：研究任务组（Research Task Group）
-* RTM：可信度量根（Root of Trust for Measurement）
+* RTM：可信度量根（Root of Trust for Measurement）；发布制造版（Release to Manufacturing）
 * RTMP：实时消息协议（Real-Time Messaging Protocol）
 * RTO：恢复时间目标（Recovery Time Objective）
 * RTOS：实时操作系统（Real-Time Operating System）
@@ -164,6 +164,7 @@
 * RTSP：实时流协议（Real Time Streaming Protocol）
 * RTT：往返时间（Round Trip Time）
 * RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
+* RTW：发布网络版（Release to Web）
 * RTX：英伟达RTX系列（Ray Tracing Texel eXtreme）
 * RU：无线电单元（Radio Unit）
 * RU-CERT：俄罗斯计算机应急响应团队（Russian Computer Emergency Response Team）

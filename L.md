@@ -2,6 +2,7 @@
 
 * L2CAP：逻辑链路控制和适配协议（Logical Link Control & Adaptation Protocol）
 * L2TP：二层隧道协议（Layer 2 Tunneling Protocol）
+* LA：限定可用（Limited Availability）
 * LAC：L2TP访问集中器（L2TP Access Concentrator）；位置区码（Location Area Code）；中文词法分析（Lexical Analysis of Chinese）
 * LaC：基础设施即代码（Infrastructure as Code）
 * LACP：链路聚合控制协议（Link Aggregation Control Protocol）

@@ -54,6 +54,7 @@
 * KSPM：Kubernetes安全态势管理（Kubernetes Security Posture Management）
 * KT-C：网络空间关键地形（Key Terrain in Cyberspace）
 * KTO：知识蒸馏优化（Knowledge Distillation Optimization）
+* KV：键值（Key-Value）
 * KVM：基于内核的虚拟机（Kernel-based Virtual Machine）
 * KwaiSRC：快手安全应急响应中心（Kuai Security Response Center）
 * KYB：客户业务识别（Know Your Business）

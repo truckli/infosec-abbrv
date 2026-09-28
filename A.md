@@ -37,7 +37,7 @@
 * ACM：国际计算机协会（Association for Computing Machinery）；访问控制矩阵（Access Control Matrix）；访问控制机制（Access Control Mechanism）
 * ACME：自动证书管理环境（Automatic Certificate Management Environment）
 * ACO：认证密码偏移量（Authenticated Ciphering Offset）；空域控制条令（Airspace Control Order）；蚁群优化（Ant Colony Optimization）
-* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）；智能体控制协议（Agent Control Protocol）；智能体客户端协议（Agent Client Protocol）
+* ACP：阿里云认证工程师（Alibaba Cloud Certified Professional）；智能体控制协议（Agent Control Protocol）；智能体客户端协议（Agent Client Protocol）；智能体商务协议（Agentic Commerce Protocol）
 * ACPI：高级配置与电源接口（Advanced Configuration and Power Interface）
 * ACR：阿里云容器镜像服务（Aliyun Container Registry Service）；阿里云容器镜像服务（Alibaba Cloud Container Registry Service）
 * ACRS：自动证书请求设置（Automatic Certificate Request Settings）
@@ -107,6 +107,7 @@
 * AFWIC：美国空军作战一体化中心（Air Force Warfighting Integration Capability）
 * AG：接入网关（Access Gateway）；美国司法部部长（Attorney General）
 * AGA：美国天然气协会（American Gas Association）
+* AgentOps：智能体运维（Agent Operations）
 * AGG：MPLS汇聚层设备（AGGregation）
 * AGI：通用人工智能（Artificial General Intelligence）
 * AGM：隶属图模型（Affiliation Graph Model）

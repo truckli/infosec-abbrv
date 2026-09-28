@@ -146,7 +146,9 @@
 * EO/IR：光电/红外（Electro-Optical/Infra-Red）
 * EOAM：以太网操作、管理和维护（Ethernet Operations, Administration & Maintenance）
 * EOC：企业操作中心（Enterprise Operations Center）
+* EOL：停止支持（End of Life）
 * EOP：美国白宫行政办公室（Executive Office of the President）
+* EOS：终止服务支持（End of Support）
 * EP：企业端点（Enterprise Endpoint）
 * EPA：美国环境保护署（U.S. Environmental Protection Agency）
 * EPC：演进分组核心网（Evolved Packet Core）
