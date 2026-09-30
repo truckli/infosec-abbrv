@@ -225,6 +225,7 @@
 * PPSM：端口、协议与服务管理（Ports, Protocols & Services Management）
 * PPT：人、流程、技术（People，Processes & Technology）
 * PPTP：点对点隧道协议（Point-to-Point Tunneling Protocol）
+* PPV：阳性预测值（精确率）（Positive Predictive Value）
 * PQA：过程质量保证（Process Quality Assurance）
 * PQC：后量子密码术（Post-Quantum Cryptography）
 * PQKE：后量子密钥交换（Post-Quantum Key Exchange）

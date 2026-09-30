@@ -118,6 +118,7 @@
 * TNGF：受信任的非3GPP网关功能（Trusted Non-3GPP Gateway Function）
 * TNI：可信计算机网络系统说明（Trusted Network Interpretation）；租户网络识别符（Tenant Network Identifier）
 * TNIU：可信网络接口单元（Trusted Network Interface Unit）
+* TNR：真负率（同特异性）（True Negative Rate）
 * TOB：技术监督委员会（Technical Oversight Board）
 * TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）
 * TOCTOU：检查时代到使用时代的漏洞（Time-of-Check to Time-of-Use）
@@ -138,6 +139,7 @@
 * TPM：可信平台模块（Trusted Platform Module）
 * TPN：JIE战术处理节点（Tactical Processing Node）
 * TPP：第三方支付服务提供商（Third-Party Payment Services Provider）
+* TPR：真正率（同灵敏度）（True Positive Rate）
 * TPRM：第三方风险管理（Third-Party Risk Management）
 * TPS：每秒交易数（Transactions Per Second）
 * TPU：张量处理单元（Tensor Processing Unit）
