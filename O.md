@@ -43,6 +43,7 @@
 * ODBC：开放数据库连接（Open Database Connectivity）
 * ODC：外包型数据中心（Outsourcing Data Center）
 * ODCC：开放数据中心标准推进委员会（Open Data Center Committee）
+* ODD：运行设计域（Operational Design Domain）
 * ODE：常微分方程（Ordinary Differential Equation）
 * ODM：原始设计制造商（Original Design Manufacturer）；原始设计制造商（Original Device Manufacturer）
 * ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
