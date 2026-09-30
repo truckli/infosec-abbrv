@@ -113,12 +113,14 @@
 * FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
 * FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
 * FREAK：FREAK攻击（Factoring RSA Export Keys）
+* Frenet：弗莱纳坐标系（常用于轨迹规划）（Frenet Coordinate System）
 * FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）
 * FRS：文件复制服务（File Replication Service）
 * FRU：现场调换单元（Field Replacement Unit）
 * FS：额外段寄存器（F extra Segment）
 * FS-ISAC：金融服务信息共享与分析中心（Financial Services Information Sharing & Analysis Center）
 * FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
+* FSD：全自动驾驶（特斯拉品牌术语）（Full Self-Driving）
 * FSDP：全分片数据并行（Fully Sharded Data Parallel）
 * FSF：自由软件基金会（Free Software Foundation）
 * FSL：设施安全等级（Facility Security Level）

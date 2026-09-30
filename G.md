@@ -7,6 +7,7 @@
 * GAIR：全球人工智能与机器人大会（Global Artificial Intelligence and Robotics Conference）
 * GAN：生成式对抗网络（Generative Adversarial Networks）
 * GAO：美国政府问责办公室（Government Accountability Office）
+* GaP：图结构即策略（Graph-as-Policy）
 * GAPP：公认隐私准则（Generally Accepted Privacy Principles）
 * GAPS：物理安全保证体系结构（Guaranteed Architecture for Physical Security）
 * GARCH：广义自回归条件异方差模型（Generalized AutoRegressive Conditional Heteroskedasticity）

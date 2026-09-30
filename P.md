@@ -70,6 +70,7 @@
 * PDCA：PDCA循环（Plan-Do-Check-Adjust）
 * PDCP：分组数据融合协议（Packet Data Convergence Protocol）
 * PDD：美国总统决议令（Presidential Decision Directive）
+* PDE：偏微分方程（Partial Differential Equation）
 * PDF：可移植的文档格（Portable Document Format）
 * PDG：程序依赖图（Program Dependence Graph）
 * PdM：产品经理（Product Manager）
@@ -132,6 +133,7 @@
 * PIK：平台身份密钥（Platform Identity Key）
 * PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
 * PIN：个人标识码（Personal Identification Number）
+* PINN：物理信息神经网络（Physics-Informed Neural Network）
 * PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
 * PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
 * PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）

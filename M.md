@@ -17,6 +17,7 @@
 * MANET：移动自组织网络（Mobile Ad-hoc Network）
 * MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
 * MAPP：微软主动防护计划（Microsoft Active Protection Program）
+* MAPPO：多智能体近端策略优化（强化学习）（Multi-Agent Proximal Policy Optimization）
 * MAQ：机器账户配额（Machine Account Quota）
 * MARAD：海事管理局（Maritime Administration）
 * MAS：多智能体系统（Multi-Agent System）
@@ -57,6 +58,7 @@
 * MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）；错误/虚假/恶意信息（Mis/Dis/Mal-information）
 * MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
 * MDO：多域作战（Multi-Domain Operation）
+* MDP：马尔可夫决策过程（Markov Decision Process）
 * MDR：托管式检测与响应（Managed Detection & Response）
 * MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
 * MDT：任务防御部队（Mission Defense Team）

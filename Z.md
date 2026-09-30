@@ -8,6 +8,7 @@
 * ZK-SNARK：零知识简洁非交互知识证明（Zero-Knowledge Succinct Non-Interactive Argument of Knowledge）
 * ZK-STARK：零知识可扩展透明知识证明（Zero-Knowledge Scalable Transparent Argument of Knowledge）
 * ZKP：零知识证明（Zero-Knowledge Proof）
+* ZMP：零力矩点（Zero Moment Point）
 * ZSK：区域签名密钥（Zone-Signing Key）
 * ZSO：零登录（Zero Sign-On）
 * ZSP：零特权（Zero Standing Privilege）

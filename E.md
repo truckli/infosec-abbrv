@@ -4,6 +4,7 @@
 * E-ISAC：电力信息共享和分析中心（Electricity Information Sharing and Analysis Center）
 * E-UTRAN：演进通用陆地无线接入网（Evolved Universal Terrestrial Radio Access Network）
 * E/W：东/西（East/West）
+* E2E：端到端（End-to-End）
 * E2EE：端到端加密（End-to-End Encryption）
 * E3：拓线分析、信息富化和结果评价（Expansion, Enrichment & Evaluation）
 * E3A：美国爱因斯坦工程加速计划（EINSTEIN 3 Accelerated）
@@ -122,6 +123,7 @@
 * ELMo：语言模型嵌入技术（Embeddings from Language Models）
 * EM：电磁（Electromagnetic）；暴露面管理（Exposure Management）；EM算法（Expectation–Maximization）
 * eMASS：企业任务保障支持服务（Enterprise Mission Assurance Support Service）
+* EMB：线控制动（电子机械制动）（Electromechanical Brake by Wire）
 * eMBB：增强移动宽带（Enhanced Mobile Broadband）
 * EMBS：IEEE医学与生物学会工程（IEEE Engineering in Medicine & Biology Society）
 * EMC：电磁兼容性（Electromagnetic Compatibility）；Dell EMC公司（Egan & Marino Corporation）

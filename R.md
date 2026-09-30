@@ -31,6 +31,7 @@
 * RBAC：基于角色的访问控制（Role-Based Access Control）
 * RBACPP：基于角色的访问控制保护轮廓（Role-Based Access Control Protection Profile）
 * RBD：RADOS块设备（RADOS Block Device）
+* RBF：径向基函数（Radial Basis Function）
 * RBG：随机位生成器（Random Bit Generator）
 * RBI：远程浏览器隔离（Remote Browser Isolation）；印度储备银行（Reserve Bank of India）
 * RBM：受限玻尔兹曼机（Restricted Boltzmann Machine）
@@ -41,6 +42,7 @@
 * RCA：根因分析（Root Cause Analysis）
 * RCE：远程代码执行（Remote Code Execution）
 * RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
+* RCM：风险一致模型预测控制（Risk-Consistent MPC）
 * RCO：快速能力办公室（Rapid Capabilities Office）
 * RCX：某64位寄存器代号（Register C eXtended）
 * RD：负责任披露（Responsible Disclosure）；受限数据（Restricted Data）
@@ -48,6 +50,7 @@
 * RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
 * RDBMS：关系型数据库管理系统（Relational Database Management System）
 * RDD：弹性分布式数据集（Resilient Distributed Dataset）
+* RDE：实际行驶排放（测试循环）（Real Driving Emissions）
 * RDF：资源描述框架（Resource Description Framework）
 * RDI：某64位寄存器代号（Register Destination Index）
 * RDN：相对可辨识名称（Relative Distinguished Name）
@@ -98,6 +101,7 @@
 * RMON：远程网络监控（Remote Network Monitoring）
 * RMP：风险管理过程（Risk Management Process）
 * RMPF：远程内存保护功能（Remote Memory Protection Function）
+* RMSE：均方根误差（Root Mean Squared Error）
 * RNC：无线网络控制器（Radio Network Controller）
 * RNG：随机数发生器（Random Number Generator）
 * RNN：循环神经网络（Recurrent Neural Network）
@@ -112,6 +116,7 @@
 * ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
 * ROP：面向返回编程（Return Oriented Programming）
 * ROS：资源编排（Resource Orchestration Service）
+* ROS2：机器人操作系统第二代（Robot Operating System 2）
 * ROSC：区域运营与安全中心（Regional Operations & Security Center）
 * ROSE：远程操作服务元素（Remote Operations Service Element）
 * RoT：信任根（Root of Trust）
@@ -131,6 +136,7 @@
 * RRH：远程无线头端（Remote Radio Head）
 * RRHF：人类反馈排名响应（Rank Response from Human Feedback）
 * RRL：响应速率限制（Response Rate Limiting）
+* RRT：快速随机扩展树（路径规划算法）（Rapidly-exploring Random Tree）
 * RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
 * RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
 * RSAC：RSA会议（RSA Conference）

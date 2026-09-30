@@ -159,6 +159,7 @@
 * IMS：IP多媒体子系统（IP Multimedia Subsystem）；IP多媒体核心网络子系统（IP Multimedia Core Network Subsystem）；汽车座舱视觉监控系统（In-cabin Monitoring System）
 * IMSE：浪潮云微服务引擎（Inspur Microservice Engine）
 * IMSI：国际移动用户身份（International Mobile Subscriber Identity）
+* IMU：惯性测量单元（Inertial Measurement Unit）
 * IMZ：WinImage压缩磁盘映像（WinImage Compressed Disk Image）
 * INATBA：国际可信区块链应用协会（International Association for Trusted Blockchain Applications）
 * INCOSE：国际系统工程委员会（INternational Council On Systems Engineering）
@@ -188,6 +189,7 @@
 * iOS：苹果操作系统（iPhone Operating System）
 * IoT：物联网（Internet of Things）
 * IOTA：IOTA加密币（希腊字母：Ι）
+* IOU：交并比（检测评估指标）（Intersection over Union）
 * IoV：车联网（Internet of Vehicles）
 * IOV：I/O虚拟化（I/O Virtualization）
 * IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）；交互式证明（Interactive Proof）

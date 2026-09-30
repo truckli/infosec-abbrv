@@ -153,6 +153,7 @@
 * NLB：网络负载均衡器（Network Load Balancer）
 * NLG：自然语言生成（Natural Language Generation）
 * NLOS：非视线传播（Non-Line-Of-Sight propagation）
+* NLP：自然语言处理（Natural Language Processing）
 * NMA：网络管理应用（Network Management Application）
 * NMAE：归一化平均绝对误差（Normalized Mean Absolute Error）
 * NMF：国家任务部队（National Mission Force）

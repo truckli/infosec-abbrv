@@ -381,6 +381,7 @@
 * CNIL：法国国家数据保护委员会（法语：Commission Nationale Informatique et Libertés）
 * CNITSEC：中国信息安全测评中心（China Information Technology Security Evaluation Center）
 * CNMF：美国国家网络任务部队（Cyber National Mission Force）
+* CNN：卷积神经网络（Convolutional Neural Network）
 * CNNIC：中国互联网络信息中心（China Internet Network Information Center）
 * CNNVD：中国国家信息安全漏洞库（China National Vulnerability Database of Information Security）
 * CNO：计算机网络行动（Computer Network Operation）
@@ -451,6 +452,7 @@
 * CPO：首席隐私官（Chief Privacy Officer）
 * CPOID：证书策略对象标识符（Certificate Policy Object Identifier）
 * CPOS：光纤通道同步接口（Channelized Packet over SONET）
+* CPP：关键性预测问题（用于风险场建模）（Criticality Prediction Problem）
 * CPR：Check Point研究所（Check Point Research）
 * CPRA：加州隐私权法案（California Privacy Rights Act）
 * CPRI：公共无线电接口（Common Public Radio Interface）

@@ -15,6 +15,7 @@
 * VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
 * VAAP：漏洞与评估计划（Vulnerability & Assessment Program）
 * VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
+* VAE：变分自编码器（Variational Autoencoder）
 * VAM：虚拟账号管理（Virtual Account Management）
 * VANET：车载自组织网络（Vehicular Ad-hoc Network）
 * VAS：虚拟地址空间（Virtual Address Space）
@@ -59,6 +60,7 @@
 * VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
 * VIRTIO：虚拟化 I/O（Virtualization Input/Output）
 * VKB：漏洞知识库（Vulnerability Knowledge Base）
+* VLA：视觉—语言—动作（模型）（Vision-Language-Action Model）
 * VLAN：虚拟局域网（Virtual Local Area Network）
 * VLANIF：VLAN接口（Virtual Local Area Network Interface）
 * vLB：虚拟负载均衡器（Virtual Load Balancer）

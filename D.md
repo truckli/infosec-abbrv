@@ -179,6 +179,7 @@
 * DJIOC：国防联合情报作战中心（Defense Joint Intelligence Operations Center）
 * DKIM：域密钥标识邮件（Domain Keys Identified Mail）
 * DKMS：去中心化密钥管理系统（Decentralized Key Management System）
+* DL：深度学习（Deep Learning）
 * DLA：美国国防物流局（Defense Logistics Agency）
 * DLin：判定线性假设（Decisional Linear Assumption）
 * DLL：动态链接库（Dynamic-Link library）
@@ -262,6 +263,7 @@
 * DPS：DDoS保护服务（DDoS Protection Service）
 * DQ：定义QWORD（Define QWORD）
 * DQL：数据查询语言（Data Query Language）
+* DQN：深度Q网络（强化学习算法）（Deep Q-Network）
 * DQPSK：差分四阶相移键控（Differential Quaternary Phase Shift Keying）
 * DR：灾难恢复（Disaster Recovery）；检测与响应（Detection & Response）
 * DRA：数据风险评估（Data Risk Assessment）；动态资源分配（Dynamic Resource Allocation）

@@ -2,6 +2,7 @@
 
 * K8S：Kubernetes容器管理工具（Kubernetes）
 * KADM：Kerberos管理服务器（Kerberos Administration Server）
+* KAN：柯尔莫哥洛夫-阿诺德网络（Kolmogorov-Arnold Networks）
 * KASLR：内核态地址空间布局随机化（kernel Address Space Layout Randomization）
 * KB：知识库（Knowledge Base）
 * KBA：基于知识的鉴别（Knowledge-Based Authentication）

@@ -28,6 +28,7 @@
 * LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）
 * LDC：逻辑数据中心（Logical Data Center）
 * LDDT：逻辑数据库设计技术（Logical Database Design Technique）
+* LDM：Lanelet2数字地图（Lanelet2 Digital Map）
 * LDS：轻量域服务（Lightweight Domain Service）
 * LDT：本地描述符表（Local Descriptor Table）
 * LDTR：本地描述符表寄存器（Local Descriptor Table Register）
@@ -45,6 +46,7 @@
 * LFT：环形容错协议（Loop Fault Tolerance）
 * LH：六合赌博（拼音：Liu He）
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
+* LiDAR：激光雷达（Light Detection and Ranging）
 * LIMA：浅层对齐假说（Less Is More for Alignment）
 * LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
 * LIN：局域网互联网络（Local Interconnect Network）
@@ -83,6 +85,7 @@
 * LPC：LPC总线类型（Low Pin Count）；本地进程间通信（Local Inter-Process Communication）
 * LPE：本地提权（Local Privilege Escalation）
 * LPP：轻量级表示协议（Lightweight Presentation Protocol）
+* LQR：线性二次调节器（Linear Quadratic Regulator）
 * LRA：逻辑响应孔径"项目（Logical Response Aperture）
 * LRC：线性责任图（Linear Responsibility Chart）
 * LS：语言服务器（Language Server）

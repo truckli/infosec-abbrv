@@ -18,6 +18,7 @@
 * WASM：WebAssembly（WebAssembly）
 * WASS：Web应用安全扫描器（Web Application Security Scanner）
 * WAVM：WebAssembly虚拟机（WebAssembly Virtual Machine）
+* WBC：全身控制（原机器人术语，文中借指整车协同控制）（Whole-Body Control）
 * WBEM：基于Web的企业管理（Web-Based Enterprise Management）
 * WBS：工作分解结构（Work Breakdown Structure）
 * WCF：Windows通信基础库（Windows Communication Foundation）；Web内容过滤（Web Content Filtering）

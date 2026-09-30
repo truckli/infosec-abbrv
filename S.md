@@ -114,6 +114,7 @@
 * SDRAM：同步动态随机存取存储器（Synchronous Dynamic Random Access Memory）
 * SDS：软件定义安全（Software Defined Security）；软件定义存储（Software Defined Storage）
 * SDU：服务数据单元（Service Data Unit）
+* SDV：软件定义汽车（Software-Defined Vehicle）
 * SDWORD：有符号双字（Signed Doubleword）
 * SDx：软件定义万物（Software Defined everything）
 * SDxI：软件定义万物基础设施（Software Defined everything Infrastructures）
@@ -211,6 +212,7 @@
 * SKEME：安全密钥交换机制（Secure Key Exchange MEchanism）
 * SLA：服务等级协议（Service Level Agreement）
 * SLAAC：无状态地址自动配置（Stateless Address Auto-Configuration）
+* SLAM：同步定位与建图（Simultaneous Localization and Mapping）
 * SLB：服务器负载均衡（Server Load Balance）
 * SLC：软件生命周期（Software Lifecycle）
 * SLE：单次损失预期（Single Loss Expectancy）
@@ -294,6 +296,7 @@
 * SOSINT：社交开源情报（Social Open-Source INTelligence）
 * SoT：可信系统（System of Trust）
 * SOTA：软件在线升级（Software Over-The-Air）；当前领先水准（State Of The Art）
+* SOTIF：预期功能安全（ISO 21448）（Safety of the Intended Functionality）
 * SOW：工作说明书（Statement of Work）
 * SOX：美国萨班斯法案（Sarbanes-OXley act）
 * SP：服务提供者（Service Provider）；统计抽样（Statistical Sampling）；安全处理器（Secure Processor）；IEEE安全和隐私研讨会（IEEE Symposium on Security & Privacy）；NIST特别出版物（Special Publication）
@@ -441,6 +444,7 @@
 * SvcV：DoDAF服务视角（Services Viewpoint）
 * SVID：SPIFFE可验证身份文档（SPIFFE Verifiable Identity Document）
 * SVIP：硅谷创新计划（Silicon Valley Innovation Program）
+* SVL：自动驾驶仿真器（如LGSVL）（Autonomous Vehicle Simulator）
 * SVM：支持向量机（Support Vector Machine）；安全虚拟机（Secure Virtual Machine）
 * SVP：最短向量问题（Shortest vector problem）
 * SVR：俄罗斯联邦对外情报局（俄语拉丁化：Sluzhba Vneshney razvedki Rossiyskoy Federatsii）

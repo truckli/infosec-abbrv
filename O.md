@@ -43,6 +43,7 @@
 * ODBC：开放数据库连接（Open Database Connectivity）
 * ODC：外包型数据中心（Outsourcing Data Center）
 * ODCC：开放数据中心标准推进委员会（Open Data Center Committee）
+* ODE：常微分方程（Ordinary Differential Equation）
 * ODM：原始设计制造商（Original Design Manufacturer）；原始设计制造商（Original Device Manufacturer）
 * ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
 * ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
@@ -110,6 +111,7 @@
 * OPE：不经意多项式评估（Oblivious Polynomial Evaluation）
 * OpenFGA：开放细粒度授权（Open Fine-Grained Authorization）
 * OpenSSF：开源安全基金会（Open Source Security Foundation）
+* OpenVLA：开放视觉—语言—动作模型（Open Vision-Language-Action Model）
 * OPM：美国人事管理办公室（United States Office of Personnel Management）
 * OPRF：不经意伪随机函数（Oblivious Pseudo Random Function）
 * OPS：开放式可插拔规范（Open Pluggable Specification）；每秒运算次数（Operations Per Second）；运维（OPerationS）；阿里云OPS模块（OPerationS module）
