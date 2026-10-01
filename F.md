@@ -114,7 +114,7 @@
 * FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
 * FREAK：FREAK攻击（Factoring RSA Export Keys）
 * Frenet：弗莱纳坐标系（常用于轨迹规划）（Frenet Coordinate System）
-* FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）
+* FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）；误拒率（False Refusal Rate）
 * FRS：文件复制服务（File Replication Service）
 * FRU：现场调换单元（Field Replacement Unit）
 * FS：额外段寄存器（F extra Segment）
