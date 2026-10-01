@@ -158,6 +158,7 @@
 * PKI：公钥基础设施（Public Key Infrastructure）
 * PKI-CA：公钥基础设施证书颁发机构（Public Key Infrastructure Certification Authority）
 * PKI-EE：公钥基础设施终端实体（Public Key Infrastructure-End Entities）
+* PKP：公钥钉扎（Public Key Pinning）
 * PKS：PKS生态体系（Phytium-Kylin-Security）
 * PL：特权等级（Privilege Level）
 * PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
