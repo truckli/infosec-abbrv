@@ -67,7 +67,7 @@
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
 * ADO：ActiveX数据对象（ActiveX Data Object）
 * ADP：自动数据处理（Automated Data Processing）
-* ADR：应用安全检测与响应（Application Detection & Response）；动作/决策记录（Action Decision Record）
+* ADR：应用安全检测与响应（Application Detection & Response）；动作/决策记录（Action Decision Record）；智能体检测与响应（Agentic AI Detection and Response）
 * ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）；阿里云AnalyticDB服务旧称（Analytic Database Service）
 * ADS-M：抗DDoS系统管理器（Anti-DDoS System Manager）
 * ADSI：活动目录服务接口（Active Directory Services Interface）
@@ -116,6 +116,7 @@
 * AHA：美国医院协会（American Hospital Association）
 * AHAS：应用高可用服务（Application High Availability Service）
 * AI：人工智能（Artificial Intelligence）
+* AI-SPM：AI安全姿态管理（AI Security Posture Management）
 * AICA：自主智能网络防御代理（Autonomous Intelligent Cyber Defense Agent）
 * AICM：AI控制矩阵（AI Control Matrix）
 * AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
