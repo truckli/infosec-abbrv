@@ -44,6 +44,7 @@
 * MCN：多频道网络（Multi-Channel Network）
 * MCO：恶意软件分类本体（Malware Classification Ontology）
 * MCP：模型上下文协议（Model Context Protocol）；网格配置协议（Mesh Configuration Protocol）
+* MCPS：MCP密码学安全层草案（MCP Secure，IETF提出）
 * MCS：多类别安全（Multi Categories Security）
 * MCU：微控制器单元（Micro-Controller Unit）
 * MCWL：美国海军陆战队作战实验室（Marine Corps Warfighting Laboratory）

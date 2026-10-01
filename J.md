@@ -17,7 +17,7 @@
 * JCDC：联合网络防御协作（Joint Cyber Defense Collaborative）
 * JCE：联合协作环境（Joint Collaborative Environment）
 * JCIDS：联合能力整合与发展系统（Joint Capabilities Integration & Development System）
-* JCS：美国国防部参谋长联席会议（Joint Chiefs of Staff）
+* JCS：美国国防部参谋长联席会议（Joint Chiefs of Staff）；JSON规范化方案（JSON Canonicalization Scheme）
 * JCWA：联合网络作战架构（Joint Cyber Warfighting Architecture）
 * JDBC：Java数据库连接（Java Database Connectivity）
 * JDI：Java调试接口（Java Debug Interface）
