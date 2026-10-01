@@ -36,6 +36,7 @@
 * UDM：5G统一数据库管理（Unified Database Management）
 * UDP：用户数据报协议（User Datagram Protocol）
 * UDR：统一数据存储库（Unified Data Repository）
+* UDS：Unix域套接字（Unix Domain Socket）
 * UE：移动网用户设备（User Equipment）；用户体验（User Experience）
 * UEBA：用户和实体行为分析（User and Entity Behavior Analytics）
 * UEF：未定义异常过滤器（Undefined Exception Filter）
