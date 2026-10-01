@@ -320,6 +320,7 @@
 * SPIFFE：针对每个人的安全生产身份框架（Secure Production Identity Framework for Everyone）
 * SPINS：特殊指示（Special Instructions）
 * SPIRE：SPIFFE运行时环境（SPIFFE Runtime Environment）
+* SPKI：主体公钥信息（Subject Public Key Info）
 * SPL：检索处理语言（Search Processing Language）
 * SPM：安全态势管理（Security Posture Management）；安全分区管理器（Secure Partition Manager）
 * SPML：服务配置标记语言（Service Provisioning Markup Language）

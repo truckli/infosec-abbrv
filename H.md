@@ -70,6 +70,7 @@
 * HPC：高性能计算（High-Performance Computing）；硬件性能计数器（Hardware Performance Counter）
 * HPE：惠普公司（Hewlett Packard Enterprise）
 * HPH：医疗和公共卫生（Healthcare & Public Health）
+* HPKP：HTTP公钥钉扎（HTTP Public Key Pinning）
 * HPS：蜜罐系统（Honey Pot System）
 * HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
 * HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
