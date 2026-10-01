@@ -89,7 +89,7 @@
 * HSS：主机安全服务（Host Security Service）；LTE归属签约用户服务器（Home Subscriber Server）
 * HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
 * HSSI：高速串行接口（High-Speed Serial Interface）
-* HSTS：HTTP严格传输安全（HTTP Strict Transport Security）
+* HSTS：HTTP严格传输安全（HTTP Strict Transport Security，RFC6797）
 * HTA：HTML应用程序（HTML Application）
 * HTAP：混合事务/分析处理（Hybrid Transactional/Analytical Processing）
 * HTBC：HyTrust边界控制（HyTrust BoundaryControl）
