@@ -181,6 +181,7 @@
 * TTA：TAXII传输代理（TAXII Transfer Agent）
 * TTC：美欧贸易与技术委员会（Transatlantic Trade and Technology Council）
 * TTE：时间触发以太网（Time Triggered Ethernet）
+* TTFT：首 Token 时间（Time To First Token）
 * TTL：生存时间（Time To Live）；晶体管-晶体管逻辑电平（Transistor-Transistor Logic）
 * TTLS：隧道传输层安全（Tunneled Transport Layer Security）
 * TTP：战术、技术和过程（Tactics, Techniques & Procedures）；可信第三方（Trusted Third Party）
