@@ -180,12 +180,20 @@
 * TT&C：测控遥测跟踪与指挥（Telemetry Tracking & Command）
 * TTA：TAXII传输代理（TAXII Transfer Agent）
 * TTC：美欧贸易与技术委员会（Transatlantic Trade and Technology Council）
+* TTD：威胁检测时间（Time To Detect）
 * TTE：时间触发以太网（Time Triggered Ethernet）
+* TTFB：首字节时间（Time To First Byte）
+* TTFP：首次绘制时间（Time To First Paint）
 * TTFT：首 Token 时间（Time To First Token）
+* TTI：可交互时间（Time To Interactive）
 * TTL：生存时间（Time To Live）；晶体管-晶体管逻辑电平（Transistor-Transistor Logic）
+* TTLB：末字节时间（Time To Last Byte）
 * TTLS：隧道传输层安全（Tunneled Transport Layer Security）
+* TTM：上市时间（Time To Market）
 * TTP：战术、技术和过程（Tactics, Techniques & Procedures）；可信第三方（Trusted Third Party）
+* TTR：修复时间（Time To Repair）
 * TTS：文本转语音（Text-to-Speech）
+* TTV：价值实现时间（Time To Value）
 * TTX：桌面练习（TableTop eXercises）
 * TUP：用户在场测试（Test of User Presence）
 * TURN：通过NAT中继遍历（Traversal Using Relays around NAT）
