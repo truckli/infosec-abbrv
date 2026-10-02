@@ -227,6 +227,7 @@
 * MTTC：平均遏制时间（Mean Time To Contain）
 * MTTD：平均检测时间（Mean Time to Detect）
 * MTTF：平均失败间隔（Mean Time to Failure）
+* MTTFD：平均危险失效时间（Mean Time To Dangerous Failure）
 * MTTI：平均识别时间（Mean Time To Identify）
 * MTTK：平均知悉时间（Mean Time to Know）
 * MTTR：平均恢复时间（Mean Time To Recovery）
