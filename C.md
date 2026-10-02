@@ -44,7 +44,7 @@
 * CAGR：复合年增长率（Compound Annual Growth Rate）
 * CAI：宪制人工智能（Constitutional AI）
 * CAII：中国工业互联网研究院（Chinese Academy of Industrial Internet）
-* CAIO：网络攻击和影响本体（Cyber Attack and Impact Ontology）
+* CAIO：网络攻击和影响本体（Cyber Attack and Impact Ontology）；首席人工智能官（Chief AI Officer）
 * CAL：网络攻击生命周期（Cyber Attack Lifecycle）
 * CAM：网络资产测绘（Cyberspace Asset Mapping）；云访问管理（Cloud Access Management）；内容编址存储器（Content Addressable Memory）；计算机辅助制造（Computer-Aided Manufacturing）
 * CAMAT：网络攻击方法进攻树（Cyber Attack Methodology Attack Tree）

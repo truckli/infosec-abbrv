@@ -4,6 +4,7 @@
 * FAA：美国联邦航空管理局（Federal Aviation Administration）
 * FaaS：函数即服务（Function as a Service）；金融即服务（Finance As A Service）
 * FAB：特色、优势、价值（Feature, Advantage & Benefit）
+* FAE：现场应用工程师（Field Application Engineer）
 * FAIR：信息风险因子分析（Factor Analysis of Information Risk）
 * FAPI：API（Financial-Grade API 财务等级）
 * FAPSI：俄罗斯联邦政府通信信息局（俄语拉丁化：Federal'noe Agentstvo Pravitel'stvennoy Svyazi i Informatsii）
