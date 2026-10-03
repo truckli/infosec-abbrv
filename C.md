@@ -163,7 +163,7 @@
 * CD-RW：可重写光盘（ReWritable CD）
 * CDA：保密协议（Confidential Disclosure Agreement）；网络防御分析（Cyber Defense Analysis）
 * CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）；美国国防部首席数字和人工智能办公室（Chief Digital & Artificial Intelligence Office）
-* CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）；网络安全防御社区（Cybersecurity Defense Community）；座舱域控制器（Cockpit Domain Controller）
+* CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）；网络安全防御社区（Cybersecurity Defense Community）；座舱域控制器（Cockpit Domain Controller）；变更数据捕获（Change Data Capture）
 * CDD：码分复用（Code Division Duplexing）
 * CDDI：铜线分布式数据接口（Copper Distributed Data Interface）
 * CDES：跨域企业级服务（Cross Domain Enterprise Service）
