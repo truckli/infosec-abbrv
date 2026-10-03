@@ -20,6 +20,7 @@
 * VANET：车载自组织网络（Vehicular Ad-hoc Network）
 * VAS：虚拟地址空间（Virtual Address Space）
 * VAST：可视化、敏捷、简洁威胁建模（Visual, Agile, and Simple Threat Modeling）
+* VAT：增值税（Value Added Tax）
 * VAV：变风量（Variable Air Volume）
 * VB：Visual Basic语言（Visual Basic）
 * VBA：VB宏语言（Visual Basic for Applications）

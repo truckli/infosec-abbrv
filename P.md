@@ -17,6 +17,7 @@
 * PAD：伪现攻击检测（Presentation Attack Detection）
 * PAG：特权访问治理（Privileged Access Governance）
 * PAI：机器学习平台（Platform of Artificial Intelligence）
+* PAIR：提示自动迭代优化攻击（Prompt Automatic Iterative Refinement）
 * PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
 * PaLM：PaLM模型（Pre-trained Language Model）
 * PALMA：组合分析机器（Portfolio Analysis Machine）

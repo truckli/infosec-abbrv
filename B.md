@@ -112,6 +112,7 @@
 * BTS：美国交通统计局（Bureau of Transportation Statistics）
 * BUM：广播、未知单播、组播（Broadcast, Unknown-unicast, Multicast）
 * BUP：基本统一过程（Basic Unified Process）
+* BUSL：商业源码许可（Business Source License）
 * BVS：安全配置核查系统（Benchmark Verification System）
 * BX：某寄存器代号（B eXtended）
 * BYOAI：自带杀毒安装程序（Bring Your Own AV Installer）

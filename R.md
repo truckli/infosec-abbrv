@@ -141,6 +141,7 @@
 * RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
 * RSAC：RSA会议（RSA Conference）
 * RSAES：RSA加密体制（Rivest–Shamir–Adleman Encryption System）
+* RSAL：受限源码可用许可（Red Hat 风格的 Restricted Source Available License）
 * RSAS：远程安全评估系统（Remote Security Assessment System）
 * RSI：某64位寄存器代号（Register Source Index）；递归自我改进（Recursive Self-Improvement）
 * RSN：健壮安全网络（Robust Security Network）
