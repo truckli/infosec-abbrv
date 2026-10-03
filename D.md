@@ -43,6 +43,7 @@
 * DBN：深度信任网络（Deep Belief Network）
 * DBS：数据窃取模拟（Data Breach Simulation）
 * DBSCAN：噪声应用密度空间聚类算法（Density-Based Spatial Clustering of Applications with Noise）
+* dbt：数据构建工具（data build tool）
 * DBTF：开发先于事实（Development Before the Fact）
 * DC：域控制器（Domain Controller）；主数据中心（Data Center）；DEFCON黑客年会（DEFCON Hacking Conference）
 * DC3：美国国防部网络犯罪中心（the Department of Defense Cyber Crime Center）
