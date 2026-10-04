@@ -268,6 +268,7 @@
 * PSYOPS：心理战（Psychological Operations）
 * PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）；明文（Plaintext）
 * PTaaS：渗透测试即服务（Penetration Testing as a Service）
+* PTC：并行工具调用（面向批量工具调用的筛选/去重/汇总）（Parallel Tool Calling）
 * PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）
 * PTES：渗透测试执行标准（Penetration Testing Execution Standard）
 * PTF：渗透测试框架（PenTesters Framework）
