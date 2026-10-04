@@ -25,6 +25,7 @@
 * NAT-PMP：网络地址转换端口映射协议（Network Address Translation - Port Mapping Protocol）
 * NATGRID：印度国家情报网（National Intelligence Grid）
 * NATO：北约（North Atlantic Treaty Organization）
+* NAU：无攻击条件下的任务效用（No-Attack Utility）
 * NAVAIR：美国海军航空系统司令部（Naval Air System Command）
 * NAVSEA：海军海上系统司令部（Naval Sea Systems Command）
 * NAVWAR：美国海军信息战系统司令部（Naval Information Warfare Systems Command）

@@ -11,6 +11,7 @@
 * UAR/PED：不安全动作率/提权距离（Unsafe Action Rate/Privilege Escalation Distance，D-H SoK 提出的可从 agent 轨迹计算的安全度量）
 * UARC：大学附属研究中心（University Affiliated Research Center）
 * UAS：用户代理服务器（User Agent Server）；无人机系统（Unmanned AeriaI System）
+* UAU：受攻击条件下的任务效用（Utility Under Attack）
 * UAV：无人航空载具（Unmanned Aerial Vehicle）
 * UBA：用户行为分析（User Behavior Analytics）
 * UBB：通用基板（Universal Baseboard）
