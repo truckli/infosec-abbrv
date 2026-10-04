@@ -74,6 +74,7 @@
 * MEM：微软端点管理器（Microsoft Endpoint Manager）
 * MEMS：微机电系统（Microelectromechanical Systems）
 * MES：制造执行系统（Manufacturing Execution System）；管理登记服务（Management Enrollment Service）；移动端点安全（Mobile Endpoint Security）
+* METR：模型评估与威胁研究机构（Model Evaluation and Threat Research）
 * MFA：多因素认证（Multi-Factor Authentication）
 * MFHE：多密钥全同态加密（Multi-key FHE）
 * MFL：最大可预见损失（Maximum foreseeable loss）
