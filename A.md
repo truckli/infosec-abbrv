@@ -212,7 +212,7 @@
 * APT：高级持久威胁（Advanced Persistent Threat）；亚太电信组织（Asia-Pacific Telecommunity）
 * APTS：应用性能追踪服务（Application Performance Tracing Service）
 * APWG：反网络钓鱼工作组（Anti-Phishing Working Group）
-* AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）
+* AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）；智能体式机器人学（Agentic Robotics）
 * ARA-M：访问规则应用程序 - 主（Access Rule Application - Master）
 * ARC：澳大利亚研究委员会（Australian Research Council）
 * ARCP：攻击收益-成本模型（Attack Return Cost Profit）

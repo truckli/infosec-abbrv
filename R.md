@@ -149,7 +149,7 @@
 * RSNIE：健壮安全网络信息元素（Robust Security Network Information Element）
 * RSO：减点登录（Reduced Sign-On）
 * RSP：某64位寄存器代号（Register Stack Pointer）；远程SIM配置（Remote SIM Provisioning）
-* RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）；企业资源（Enterprise Resource）
+* RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）；企业资源（Enterprise Resource）；机器人仿真工作台（Robot Sim Studio）
 * RSSI：接收信号强度指示（Received Signal Strength Indication）
 * RST：连接重置（Reset The Connection）
 * RSU：路侧单元（Road Side Unit）
