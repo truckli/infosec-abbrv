@@ -244,6 +244,7 @@
 * DON：去中心化预言机网络（Decentralized Oracle Network）
 * DONA：多纳基金会（DONA Foundation）
 * DOP：面向数据编程攻击（Data Oriented Programming）
+* DORA：DevOps研究与评估（DevOps Research and Assessment）
 * DoS：拒绝服务攻击（Denial of Service）
 * DOS：DOS操作系统（Disk Operating System）
 * DoT：DNS-over-TLS（DNS over TLS）；美国运输部（Department of Transportation）

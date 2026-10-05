@@ -233,7 +233,7 @@
 * CFI：控制流完整性（Control-Flow Integrity）；通用快闪内存接口（Common Flash Memory Interface）
 * CFIUS：美国外国投资委员会（The Committee on Foreign Investment in the United States）
 * CFPB：消费者金融保护局（Consumer Financial Protection Bureau）
-* CFR：联邦法规（Code of Federal Regulations）
+* CFR：联邦法规（Code of Federal Regulations）；变更失败率（Change Failure Rate）
 * CFS：云文件存储（Cloud File System）；云文件存储（Cloud File Storage）
 * CFT：跨功能小组（Cross Functional Team）
 * CFW：云防火墙（Cloud Firewall）

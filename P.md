@@ -13,6 +13,7 @@
 * PABX：专用自动小交换机（Private Automatic Branch eXchange）
 * PAC：权限属性证书（Privilege Attribute Certificate）；代理自动配置（Proxy Auto-Config）；态势属性收集（Posture Attribute Collection）；可编程自动化控制器（Programmable Automation Controller）；指针身份验证代码（Pointer Authentication Code）；大概率近似正确（Probably Approximately Correct）；受保护的访问证书（Protected Access Credential）
 * PACAF：美国太平洋空军司令部（Pacific Air Forces）
+* PACELC：CAP扩展理论（Partition, Availability, Consistency, Else Latency, Consistency）
 * PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
 * PAD：伪现攻击检测（Presentation Attack Detection）
 * PAG：特权访问治理（Privileged Access Governance）

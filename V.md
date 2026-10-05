@@ -112,7 +112,7 @@
 * VSAM：虚拟存储访问方法（Virtual Storage Access Method）
 * VSAN：虚拟存储区域网络（Virtual Storage Area Network）
 * VSI：虚拟存储集成商（Virtual Storage Integrator）
-* VSM：向量空间模型（Vector Space Model）
+* VSM：向量空间模型（Vector Space Model）；可生存系统模型（Viable System Model）
 * VSOC：汽车安全运营中心（Vehicle Security Operations Center）
 * VSR：虚拟服务路由器（Virtual Service Router）
 * VSRC：唯品会安全应急响应中心（VIP Security Respnse Center）
