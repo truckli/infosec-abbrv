@@ -166,6 +166,7 @@
 * NNM：Nessus网络监视器（Nessus Network Monitor）
 * NNTP：网络新闻传输协议（Network News Transport Protocol）
 * NOAA：美国国家海洋和大气管理局（National Oceanicand & Atmospheric Administration）
+* NOBUS：只有我们能利用的漏洞（Nobody But Us）
 * NOC：网络运营中心（Network Operations Center）
 * NOFORN：禁发外国（Not Releasable to Foreign Nationals）
 * NOOP：无操作（No Operation Performed）
