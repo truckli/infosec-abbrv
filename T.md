@@ -120,7 +120,7 @@
 * TNIU：可信网络接口单元（Trusted Network Interface Unit）
 * TNR：真负率（同特异性）（True Negative Rate）
 * TOB：技术监督委员会（Technical Oversight Board）
-* TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）
+* TOC：检查时间（Time-Of-Check）；技术监督委员会（Technical Oversight Committee）；约束理论（Theory of Constraints）
 * TOCTOU：检查时代到使用时代的漏洞（Time-of-Check to Time-of-Use）
 * TOE：评价对象（Target Of Evaluation）
 * TOGAF：开放组架构框架（The Open Group Architecture Framework）

@@ -286,6 +286,7 @@
 * ISSM：信息系统安全管理（Information System Security Manager）
 * ISSO：信息系统安全官员（Information System Security Officer）
 * ISSPM：信息系统安全项目经理（Information Systems Security Project Manager）
+* ISSS：国际系统科学学会（International Society for the Systems Sciences）
 * IST：安全与技术研究所（Institute for Security & Technology）
 * ISTQB：国际软件测试资格委员会（International Software Testing Qualifications Board）
 * ISU：爱达荷州立大学（Idaho State University）

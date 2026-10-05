@@ -75,6 +75,7 @@
 * HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
 * HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
 * HR：人力资源（Human Resources）
+* HRO：高可靠性组织（High Reliability Organization）
 * HRoT：可信硬件根（Hardware Root of Trust）
 * HRP：医院资源管理系统（Hospital Resource Planning）
 * HRU：哈里森-鲁佐-厄尔曼模型（Harrison-Ruzzo-Ullman）
@@ -83,7 +84,7 @@
 * HSI：人机交互（Human-System Interactions）
 * HSIN：国土安全信息网络（Homeland Security Information Network）
 * HSIN-CI：国土安全信息网络-关键基础设施（Homeland Security Information Network - Critical Infrastructure）
-* HSM：硬件安全模块（Hardware Security Module）；层次化存储管理（Hierarchical Storage Management）；山石安全管理平台（Hillstone Security Management）
+* HSM：硬件安全模块（Hardware Security Module）；层次化存储管理（Hierarchical Storage Management）；山石安全管理平台（Hillstone Security Management）；硬系统方法（Hard Systems Methodology）
 * HSPD：美国国土安全总统令（Homeland Security Presidential Directive）
 * HSR：高可用性无缝冗余（High-Availability Seamless Redundancy）
 * HSS：主机安全服务（Host Security Service）；LTE归属签约用户服务器（Home Subscriber Server）

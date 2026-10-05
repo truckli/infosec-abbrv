@@ -148,7 +148,7 @@
 * SF：安全功能（Security Function）
 * SFA：智能手机指纹认证（Smartphone Fingerprint Authentication）；销售能力自动化（Sales Force Automation）
 * SFF：小型机箱委员会（Small Form Factor committee）
-* SFI：软件故障隔离（Software Fault Isolation）
+* SFI：软件故障隔离（Software Fault Isolation）；圣塔菲研究所（Santa Fe Institute）
 * SFP：安全功能策略（Security Function Policy）；简单功能点（Simple Function Point）；小型可热插拔光收发一体模块（Small Form-factor Pluggsable）
 * SFR：安全功能需求（Security Function Requirement）
 * SFSRC：顺丰安全应急响应中心（Shunfeng Security Response Center）
@@ -307,7 +307,7 @@
 * SPB：最短路径桥接（Shortest Path Bridging）
 * SPBM：最短路径桥接 - MAC（Shortest Path Bridging - MAC）
 * SPBV：最短路径桥接 - VID（Shortest Path Bridging - VLAN ID）
-* SPC：PKCS#7证书格式（Software Publishing Certificate）；存储性能委员会（Storage Performance Council）
+* SPC：PKCS#7证书格式（Software Publishing Certificate）；存储性能委员会（Storage Performance Council）；统计过程控制（Statistical Process Control）
 * SPD：空间政策指令（Space Policy Directive）
 * SPDM：安全协议和数据模型（Security Protocol & Data Model）
 * SPDX：软件包数据交换标准（Software Package Data Exchange）
@@ -386,7 +386,7 @@
 * SSL：安全套接层（Secure Sockets Layer）
 * SSLIOP：SSL对象请求代理间通信协议（SSL InterORB Protocol）
 * SSLO：SSL流量编排技术（SSL Orchestration）
-* SSM：Amazon EC2简单系统管理器（Simple Systems Manager）；状态空间模型（State Space Model）
+* SSM：Amazon EC2简单系统管理器（Simple Systems Manager）；状态空间模型（State Space Model）；软系统方法论（Soft Systems Methodology）
 * SSO：单点登录（Single Sign On）
 * SSOIS：信息系统安全子系统（Security Subsystem Of Information System）
 * SSOR：记录源系统（Source System Of Records）

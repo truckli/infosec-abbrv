@@ -158,7 +158,7 @@
 * MOU：谅解备忘录（Memorandum of Understanding）
 * MP：模型并行（Model Parallelism）
 * MPA：多主管理员（Multi-Primary Administrator）
-* MPC：多方安全计算（Multi-Party Computation）
+* MPC：多方安全计算（Multi-Party Computation）；模型预测控制（Model Predictive Control）
 * MPDRR：管理、保护、检测、响应和恢复（Management，Protection，Detection，Reaction & Recovery）
 * MPE：任务伙伴环境（Mission Partner Environment）
 * MPEG：动态图片专家组（Motion Picture Experts Group）

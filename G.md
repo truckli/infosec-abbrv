@@ -126,6 +126,7 @@
 * GSMA：GSM协会（GSM Association）
 * GSN：GPRS支撑节点（GPRS Support Node）
 * GSOC：全球安全运营中心（Global Security Operations Center）
+* GST：一般系统论（General Systems Theory）
 * GSW：Gentry-Sahai-Waters方案（Gentry-Sahai-Waters）
 * GTC：通用令牌卡（Generic Token Card）
 * GTI：全球威胁情报（Global Threat Intelligence）
