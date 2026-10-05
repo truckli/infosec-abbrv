@@ -66,7 +66,9 @@
 * LNK：Windows快捷方式文件格式（Link）
 * LNS：L2TP网络服务器（L2TP Network Server）
 * LOA：确保级（Level of Assurance）
+* LOCO：留一队列或中心（Leave-One-Cohort/Center-Out）
 * LOD：链接开放数据（Linked Open Data）
+* LODO：留一数据集（Leave-One-Dataset-Out）
 * LOE：工作量级别（Level of Effort）
 * LOF：局部离群因子（Local Outlier Factor）
 * LOGIIC：链接石油天然气行业以提升网络安全（Linking the Oil and Gas Industry to Improve Cybersecurity）
@@ -79,6 +81,7 @@
 * LoRa：远距离无线电（Long Range Radio）
 * LoRA：低秩适应微调技术（Low-Rank Adaptation）
 * LOS：视线传播（Line-Of-Sight propagation）
+* LOSO：留一受试者（Leave-One-Subject-Out）
 * LotL：离地攻击（Living off the Land）
 * LPA：本地个人资料助手（Local Profile Assistant）；有限规划准确率，GuardAgent评测指标（Limited-Plan Accuracy）
 * LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
