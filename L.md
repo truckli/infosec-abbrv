@@ -23,6 +23,7 @@
 * LCC：本地计算集群（Local Compute Cluster）
 * LCESA：伦敦通信电子安全局（London Communications-Electronic Security Agency）
 * LCG：线性同余方法（Linear Congruential Generator）
+* LCH：Windows轻量级调用处理器（Lightweight Call Handlers）
 * LCP：链路控制协议（Link Control Protocol）；发射控制策略（Launch Control Policy）
 * LCSA：伦敦通信安全局（London Communications Security Agency）
 * LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）

@@ -21,6 +21,8 @@
 * ABM：阿里私有云大数据管理器（Apsara Big Data Manager）
 * ABMS：先进战斗管理系统（Advanced Battle Management System）
 * ABNT：巴西国家标准化组织（葡萄牙语：Associação Brasileira de Normas Técnicas）
+* ABRT：自动bug报告工具（Automatic Bug Reporting Tool）
+* abrtd：ABRT守护进程（ABRT daemon）
 * ABS：电子防抱死刹车系统（Anti-lock Braking System）
 * AC：访问控制（Access Control）；上网行为管理（Access Control）；应用接入数据中心（Application Center）；攻击复杂度（Attack Complexity）；附加电路（Attachment Circuit）；鉴别码（Authenticated Code）；资产类别（Asset Class）
 * AC-RAM：鉴别码内存（Authenticated Code Random Access Memory）
