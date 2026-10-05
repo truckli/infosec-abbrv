@@ -10,7 +10,7 @@
 * TAEP：三元认证可扩展协议（Tri-element Authentication Extensible Protocol）
 * TAFIM：信息管理技术架构框架（Technical Architecture Framework for Information Management）
 * TAG：威胁分析团队（Threat Analysis Group）；技术咨询组（Technical Advisory Group）
-* TAO：美国国家安全局特定入侵行动办公室（Tailored Access Operations）
+* TAO：美国国家安全局定制接入行动办公室（Tailored Access Operations）
 * TAP：三因子认证协议（Three-Factor Authentication Protocol）；带剪枝的攻击树（Tree of Attacks with Pruning）
 * TARA：威胁评估与修复分析（Threat Assessment & Remediation Analysis）；车联网威胁分析与风险评估（Threat Analysis & Risk Assessment）
 * TARCES：战术和远程C5I边缘系统（Tactical and Remote C5I Edge System）

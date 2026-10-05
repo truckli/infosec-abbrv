@@ -375,7 +375,7 @@
 * CNCI：美国国家网络安全综合计划（Comprehensive National Cybersecurity Initiative）
 * CND：计算机网络防御（Computer Network Defense）
 * CNDSP：计算机网络防御服务提供商（Computer Network Defense Service Provider）
-* CNE：计算机网络利用（Computer Network Exploitation）
+* CNE：计算机网络利用/网络间谍行动（Computer Network Exploitation）
 * CNF：容器化网络功能（Containerized Network Function）；云原生网络功能（Cloud-native Network Function）
 * CNI：容器网络接口（Container Network Interface）；关键国家基础设施（Critical National Infrastructure）；运营商网络基础设施（Carrier Network Infrastructure）
 * CNIL：法国国家数据保护委员会（法语：Commission Nationale Informatique et Libertés）
