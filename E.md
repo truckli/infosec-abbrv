@@ -61,6 +61,7 @@
 * ECSO：欧洲网络安全组织（European Cyber Security Organisation）
 * ECU：电子控制单元（Electronic Control Unit）
 * ECX：某32位寄存器代号（Extended CX）
+* ED448：基于Edwards曲线Curve448的EdDSA签名算法（Edwards-curve Digital Signature Algorithm over Curve448）
 * EDAS：阿里云企业分布式应用服务（Enterprise Distributed Application Service）
 * EDC：企业数据中心（Enterprise Data Center）
 * EdDSA：爱德华曲线数字签名算法（Edwards-curve Digital Signature Algorithm）
