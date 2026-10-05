@@ -187,7 +187,7 @@
 * PMU：性能监测单元（Performance Monitor Unit）
 * PN：分组编号（Packet Number）
 * PNA：非攻击场景效用，NRP组成项（Performance on Non-attack）
-* PNIDUI：网络连接UI模块（pnidui.dll）
+* PNIDUI：网络系统图标（Network System Icon）
 * PNNL：美国西北太平洋国家实验室（Pacific Northwest National Laboratory）
 * PNT：定位、导航和授时（Positioning, Navigation & Timing）
 * POA&M：行动计划和里程碑（Plan of Actions & Milestones）
