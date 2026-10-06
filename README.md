@@ -13,7 +13,7 @@
 
 ## 参考链接
 
-本列表链接：[国内链接](https://gitcode.net/littlekarl/infosec-abbrv) [GitHub链接](https://github.com/truckli/infosec-abbrv)
+本列表链接：[国内链接](https://gitcode.com/littlekarl/infosec-abbrv) [GitHub链接](https://github.com/truckli/infosec-abbrv)
 
 以下链接包含了其他有用的缩略词数据库:
 
