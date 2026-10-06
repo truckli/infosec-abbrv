@@ -405,6 +405,7 @@
 * ST：服务票据（Service Ticket）；安全目标（Security Target）
 * ST&E：安全测试与评估（Security Test & Evaluation）
 * STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）；潜伏威胁探针（Stealth Threat Analysis）；系统威胁评估（System Threat Assessment）；站点（Station）
+* STAC：顺序工具攻击链（Sequential Tool Attack Chain）
 * Standard：标准制定组织（Setting Organization）
 * STARCOM：美国空军太空训练和准备司令部（Space Training and Readiness Command）
 * STCU：安全充电计费控制单元（Secure Telematics Control Unit）

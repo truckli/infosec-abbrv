@@ -104,7 +104,7 @@
 * LSR：MPLS标签交换路由器（Label Switch Router）
 * LSTM：长短期记忆（Long Short-Term Memory）
 * LSW：阿里云综合接入交换机（integrated access SWitch,原LVS SWitch）
-* LTE：3G移动网长期演进技术（Long Term Evolution）
+* LTE：通用移动通信系统长期演进（UMTS Long Term Evolution）
 * LTK：长期密钥（Long-Term Key）
 * LTKUP：长期密钥更新程序（Long Term Key Update Procedures）
 * LTM：本地流量管理器（Local Traffic Manager）
