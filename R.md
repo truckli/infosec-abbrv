@@ -112,7 +112,7 @@
 * rodata：只读数据段（read-only data segment）
 * RODC：只读域控（Read-Only Domain Controller）
 * ROE：交手规则（Rules of Engagement）
-* ROI：产投比（Return On Investment）
+* ROI：投资回报率（Return on Investment）
 * ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
 * ROP：面向返回编程（Return Oriented Programming）
 * ROS：资源编排（Resource Orchestration Service）
