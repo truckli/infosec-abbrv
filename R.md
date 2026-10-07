@@ -88,8 +88,10 @@
 * RK：根密钥（Root Key）
 * RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
 * RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
+* RLCD：面向校准决策的强化学习（Reinforcement Learning for Calibrated Decisions）
 * RLFA：远程无环备选通道（Remote Loop Free Alternate）
 * RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
+* RLVR：带可验证奖励的强化学习（Reinforcement Learning with Verifiable Rewards）
 * RLWR：环上舍入学习（Ring Learning With Rounding）
 * RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
 * RMA：军事事务革命（Revolution in Military Affairs）
