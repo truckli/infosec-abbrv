@@ -296,7 +296,7 @@
 * AVISPA：互联网安全协议和应用验证工具（Automated Validation of Internet Security Protocols and Applications）
 * AVP：属性值对（Attribute-Value Pair）
 * AVPTCC：计算机病毒防治产品检验中心（Anti-Virus Products Testing and Certification Center）
-* AVS：阿里云虚拟交换机（Aliyun Virtual Switch）；应用虚拟交换机（Application Virtual Switch）；阿里专有云虚拟交换机（Apsara Virtual Switch）
+* AVS：阿里云虚拟交换机（Aliyun Virtual Switch）；应用虚拟交换机（Application Virtual Switch）；阿里专有云虚拟交换机（Apsara Virtual Switch）；Azure VMware 解决方案（Azure VMware Solution）
 * AVX：高级向量扩展（Advanced Vector Extensions）
 * AWARE：机构级自适应风险枚举（Agency-Wide Adaptive Risk Enumeration）
 * AWD：AWD网络安全赛制（Attack With Defense）

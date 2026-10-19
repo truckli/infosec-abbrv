@@ -142,7 +142,7 @@
 * PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
 * PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
 * PIPL：个人信息保护法（the Personal Information Protection Law）
-* PIR：隐私信息检索（Private Information Retrieval）
+* PIR：隐私信息检索（Private Information Retrieval）；事故后审查报告（Post Incident Review）
 * PIRT：有目的干扰响应团队（Purposeful Interference Response Team）
 * PISA：独立于协议的交换机架构（Protocol Independent Switch Architecture）
 * PISIA：个人信息安全影响评估（Personal Information Security Impact Assessment）
