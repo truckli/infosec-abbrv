@@ -49,6 +49,7 @@
 * ECDSA：椭圆曲线数字签名算法（Elliptic Curve Digital Signature Algorithm）
 * ECE：电子通信工程（Electronics & Communication Engineering）；欧洲经济委员会（European Economic Commission）
 * ECH：加密客户端问候（Encrypted Client Hello）
+* ECI：Epoch 能力指数（Epoch Capability Index）
 * ECIES：基于椭圆曲线的集成加密方案（Elliptic Curve Integrated Encryption Scheme）
 * ECM：端点配置管理器（Endpoint Configuration Manager）；企业内容管理（Enterprise Content Management）；军士社区经理（Enlisted Community Manager）
 * ECMA：欧洲计算机制造商协会（European Computer Manufacturers Association）
