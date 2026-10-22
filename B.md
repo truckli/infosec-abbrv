@@ -63,6 +63,7 @@
 * BLOB：二进制大对象（Binary Large Objects）
 * BLP：贝尔-拉帕杜拉模型（Bell-LaPadula）；旁路标签处理（Bypass Label Processing）
 * BLS：百度云日志服务（Baidu Log Service）
+* BM25：最佳匹配25（Best Matching 25）
 * BMC：板管理控制器（Board Management Controller）
 * BME：燃烧铸造平衡模型（Burn-And-Mint Equilibrium）
 * BMG：业务安全网关（Bot Management Gateway）
