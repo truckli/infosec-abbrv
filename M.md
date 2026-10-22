@@ -231,7 +231,7 @@
 * MTTFD：平均危险失效时间（Mean Time To Dangerous Failure）
 * MTTI：平均识别时间（Mean Time To Identify）
 * MTTK：平均知悉时间（Mean Time to Know）
-* MTTR：平均恢复时间（Mean Time To Recovery）
+* MTTR：平均恢复时间（Mean Time To Recovery）；平均处置时长（Mean Time To Respond）
 * MTU：主终端设备（Master Terminal Unit）；最大传输单元（Maximum Transmission Unit）
 * MUD：制造商使用描述（Manufacturer Usage Description）
 * MVA：托管脆弱性评估服务（Managed Vulnerability Assessment）

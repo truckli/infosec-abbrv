@@ -62,6 +62,7 @@
 * RE：正则表达式（Regular Expressions）
 * RE&CT：RE&CT事件响应技术枚举项目（Response Actions）
 * ReAct：推理与行动（Reasoning + Acting）
+* ReBAC：基于关系的访问控制（Relationship-Based Access Control）
 * RED：欺骗逆向工程（Reverse Engineering Deception）
 * REE：富执行环境（Rich Execution Environment）
 * RELRO：重定位只读（Relocation Read-Only）

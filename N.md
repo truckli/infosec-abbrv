@@ -120,6 +120,7 @@
 * NGSD：下一代安全云桌面系统（Next Generation Security Desktop）
 * NGSOC：奇安信网神态势感知与安全运营平台（猜测：Next-Generation Security Operation Center）
 * NGTP：下一代威胁防御（Next Generation Threat Protection）
+* NHI：非人身份（Non-Human Identity）
 * NHTSA：美国国家公路交通安全管理局（National Highway Traffic Safety Administration）
 * NIAC：美国国家基础设施咨询委员会（National Infrastructure Advisory Committee）；美国国家基础设施保障委员会（National Infrastructure Assurance Council）
 * NIAM：NetGuard身份访问管理器（NetGuard Identity Access Manager）

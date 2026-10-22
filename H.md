@@ -52,7 +52,7 @@
 * HIS：健康信息系统（Health Information System）；医院信息管理系统（Hospital Information System）
 * HITB：HITB安全大会（Hack In The Box）
 * HITECH：卫生信息技术促进经济和临床健康法案（Health Information Technology for Economic & Clinical Health Act）
-* HITL：人机回环（Human-In-The-Loop）
+* HITL：人在回路（Human-In-The-Loop）
 * HKLM：本地机器密钥（HKEY_LOCAL_MACHINE）
 * HLAT：Hypervisor管理的线性地址转换（Hypervisor Managed Linear Address Translation）
 * HLR：GSM归属位置寄存器（Home Location Register）

@@ -83,6 +83,7 @@
 * ICT：信息及通信技术（Information & Communications Technology）
 * ICV：完整性检查值（Integrity Check Value）
 * ICX：ICON平台数字币（ICON）
+* ID-JAG：身份断言授权许可（Identity Assertion JWT Authorization Grant）
 * IDA：IDA反汇编工具（Interactive Disassembler）；国防分析研究所（Institute for Defense Analyses）
 * IDaaS：身份即服务（Identity as a Service）
 * IdAM：身份与访问管理（Identity & Access Management）
