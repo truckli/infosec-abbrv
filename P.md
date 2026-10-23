@@ -203,7 +203,7 @@
 * POM：POM文件（Project Object Model）
 * PON：无源光纤网络（Passive Optical Network）
 * POODLE：贵宾犬漏洞（Padding Oracle On Downgraded Legacy Encryption）
-* POP：邮件协议版本（Post Office Protocol）；接入点（Point of Presense）
+* POP：邮件协议版本（Post Office Protocol）；接入点（Point of Presence）
 * PoPW：物理工作量证明（Proof of Physical Work）
 * POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）；基于SDH的分组协议（Packet over SDH）
 * POSIX：可移植操作系统接口（Portable Operating System Interface）
