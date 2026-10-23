@@ -257,6 +257,7 @@
 * PSC：平台服务控制器（Platform Services Controller）
 * PSCCC：电力系统通信和网络安全（IEEE Power System Communications and Cybersecurity）
 * PSD2：修订的支付服务指令（Revised Payment Services Directive）
+* PSE：Zscaler公共服务端点（Public Service Edge）
 * PSI：隐私集合求交（Private Set Intersection）
 * PSIRT：产品安全事件响应组（Product Security Incident Response Team）
 * PSK：预享密钥（Pre-Shared Key）
