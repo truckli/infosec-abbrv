@@ -55,6 +55,7 @@
 * WMAN：无线都市区域网（Wireless Metropolitan Area Network）
 * WMI：Windows管理规范（Windows Management Instrumentation）
 * WMM：Wi-Fi多媒体（Wi-Fi Multimedia）
+* WOC：广域网优化控制器（WAN Optimization Controller）
 * WORM：一次写入多次读取（Write-Once, Read-Many）
 * WoS：芯片基板堆叠技术（Wafer-on-Substrate）
 * WoT：Web物联网（Web of Things）

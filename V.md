@@ -125,6 +125,7 @@
 * VTV：虚表核实（VTable Verification）
 * VUM：vSphere更新管理器（vSphere Update Manager）
 * VVD：VMware验证设计（VMware Validated Design）
+* vWOC：虚拟广域网优化控制器（virtual WOC）
 * VX：FireEye虚执行引擎（Virtual Execution）；语音交换（Voice Exchange）
 * VXEdDSA：可验证XEdDSA（Verifiable X Edwards-curve DSA）
 * VXLAN：虚拟扩展局域网（Virtual Extensible Local Area Network）
