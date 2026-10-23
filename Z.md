@@ -18,4 +18,5 @@
 * ZTMM：零信任成熟度模型（Zero Trust Maturity Model）
 * ZTNA：零信任网络访问（Zero Trust Network Access）
 * ZTP：零接触配置（Zero Touch Provisioning）
+* ZTX：零信任扩展（Zero Trust eXtended）
 * ZUC：祖冲之密码（Zu Chongzhi）
