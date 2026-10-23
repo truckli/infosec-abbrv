@@ -37,7 +37,7 @@
 * JIE：联合信息环境（Joint Information Environment）
 * JIEO：联合互操作性工程组织（Joint Interoperability Engineering Organization）
 * JISEC：日本IT安全评价及认证制度（Japan IT Security Evaluation & Certification）
-* JIT：即时编译（Just-In-Time）；即时授权（Just-In-Time Authorization）
+* JIT：即时编译（Just-In-Time）；即时授权（Just-In-Time Authorization）；即时权限（Just-In-Time Access）
 * JIWG：联合IA行动工作组（Joint IA Operations Working Group）
 * JKS：Java密钥库（Java KeyStore）
 * JMN：JIE管理网络（Joint Information Environment Management Network）
