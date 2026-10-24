@@ -158,6 +158,7 @@
 * RSU：路侧单元（Road Side Unit）
 * RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）；响应时间（Response Time）
 * RT&E：研究、测试与评估（Research, Test & Evaluation）
+* RTA：运行时保障（runtime-assurance）
 * RTC：实时音视频技术（Real-Time Communication）
 * RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
 * RTCP：RTP控制协议（RTP Control Protocol）
