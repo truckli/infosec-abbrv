@@ -45,6 +45,7 @@
 * HGS：主机卫士系统（Host Guardian System）
 * HGX：英伟达HGX产品系列（HPC Gpu eXtend）
 * HHS：健康与公共事业局（Health & Human Services）
+* HIC：人指挥（human-in-command）
 * HIDS：主机入侵检测系统（Host Intrusion Detection System）
 * HIPAA：美国健康保险便携性和责任法案（Health Insurance Portability & Accountability Act）
 * HIPERLAN：高性能无线局域网（High Performance Radio Local Area Network）
@@ -64,6 +65,7 @@
 * HNDL：先截获后解密（Harvest Now, Decrypt Later）
 * HNT：氦币（Helium Network Token）
 * HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
+* HOTL：人在环上（human-on-the-loop）
 * HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
 * HOV：高乘载车道（High-Occupancy Vehicle lane）
 * HP：混合并行（Hybrid Parallelism）
