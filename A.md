@@ -64,6 +64,7 @@
 * ADCS：活动目录证书服务（Active Directory Certificate Service）
 * ADDS：活动目录域服务（Active Directory Domain Service）
 * ADE：美国国土安全部采购决策节点（Acquisition Decision Event）
+* ADFP：反蒸馏指纹，通过 logit 扰动在输出中埋统计信号（Antidistillation Fingerprinting）
 * ADFS：活动目录联合服务（Active Directory Federation Services）
 * ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
