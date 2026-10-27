@@ -136,6 +136,7 @@
 * SEHOP：SEH重写保护（Structured Exception Handling Overwrite Protection）
 * SEI：软件工程研究所（Software Engineering Institute）
 * SEL：安全异常级别（Secure Exception Level）
+* Self-RAG：自反思检索增强生成（Self-Reflective Retrieval-Augmented Generation）
 * SEM：安全事件管理（Security Event Management）
 * SemaFor：语义取证项目（Semantic Forensics Project）
 * SEO：搜索引擎优化（Search Engine Optimization）
@@ -167,6 +168,7 @@
 * SGX：英特尔软件保护扩展（Software Guard Extensions）
 * SH：系统级高位（System High）
 * SHA：安全散列算法（Secure Hash Algorithm）
+* SHACL：形状约束语言（Shapes Constraint Language）
 * SHAKE：安全哈希算法和Keccak（Secure Hash Algorithm & Keccak）
 * SHAP：沙普利加性解释（SHapley Additive exPlanations）
 * SHARP：可扩展分层聚合化约协议（Scalable Hierarchical Aggregation and Reduction Protocol）

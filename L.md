@@ -48,6 +48,7 @@
 * LH：六合赌博（拼音：Liu He）
 * LID：基于日志的入侵检测（Log based Intrusion Detection）
 * LiDAR：激光雷达（Light Detection and Ranging）
+* LightRAG：轻量检索增强生成（Light Retrieval-Augmented Generation）
 * LIMA：浅层对齐假说（Less Is More for Alignment）
 * LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
 * LIN：局域网互联网络（Local Interconnect Network）

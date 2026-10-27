@@ -142,6 +142,7 @@
 * MODAF：英国国防部架构框架（British Ministry of Defence Architecture Framework）
 * ModelOps：模型运营（Model Operations）
 * MODEM：调制解调器（Modulator-Demodulator）
+* ModularRAG：模块化检索增强生成（Modular Retrieval-Augmented Generation）
 * MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
 * MoE：专家混合模型（Mixture-of-Experts）
 * MOF：元对象工具（Meta-Object Facility）

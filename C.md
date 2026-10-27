@@ -471,6 +471,7 @@
 * CRA：代码重用攻击（Code Reuse Attack）；网络弹性法案（Network Resilience Act）
 * CRaaS：云密码资源服务（Cryptography Resource as a Service）
 * CRADA：合作研发协议（Cooperative Research & Development Agreement）
+* CRAG：纠错式检索增强生成（Corrective Retrieval-Augmented Generation）
 * CRAMM：中央计算和电信机构风险分析与管理方法（Central computing & telecommunications agency Risk Analysis and Management Method）
 * CRASH：弹性自适应安全主机重设计计划（Clean-Slate Design of Resilient, Adaptive, Secure Hosts）
 * CRC：循环冗余校验（Cyclic Redundancy Check）；类-职责-协作（Class-Responsibility-Collaboration）
@@ -602,6 +603,7 @@
 * CVS：证书确认服务（Certificate Validation Service）
 * CVSS：通用漏洞评分系统（Common Vulnerability Scoring System）
 * CW：克拉克·威尔逊模型（Clark–Wilson）
+* CWA：封闭世界假设（Closed World Assumption）
 * CWAF：云Web应用防火墙（Cloud Web Application Firewall）
 * CWC：卡特维根计数器（Carter–Wegman+CTR）
 * CWE：公共弱点枚举（Common Weakness Enumeration）

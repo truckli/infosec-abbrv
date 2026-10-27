@@ -6,6 +6,8 @@
 * OA：办公自动化（Office Automation）
 * OA&M：操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
 * OAEP：最优非对称加密填充（Optimal Asymmetric Encryption Padding）
+* OAG：本体增强生成（Ontology-Augmented Generation）
+* OAK：本体访问工具集（Ontology Access Kit）
 * OAM：操作、管理和维护（Operations, Administration, and Maintenance）；OCP加速器模块（OCP Accelerator Module）；操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
 * OAM&P：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
 * OAMP：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
@@ -61,6 +63,7 @@
 * OFB：输出反馈模态（Output Feedback）
 * OFDM：正交频分复用（Orthogonal Frequency-Division Multiplexing）
 * OFX：开放式金融交易所（Open Financial Exchange）
+* OG-RAG：本体引导检索增强生成（Ontology-Guided Retrieval-Augmented Generation）
 * OGAS：前苏联全国自动化会计与系统处理系统（俄语拉丁化：ObweGosudarstvennaq Avtomatizirovannaq Sistema uchyota i obrabotki informacii）
 * OGC：原英国政府贸易办公室（Office of Government Commerce）
 * OIA：美国财政部情报和分析办公室（Office of Intelligence and Analysis）
@@ -167,7 +170,7 @@
 * OVS：开放虚拟交换机（Open vSwitch）
 * OW-CPA：单向选择明文攻击（One-way under Chosen-Plaintext Attack）
 * OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
-* OWA：Outlook Web应用（Outlook Web App）
+* OWA：Outlook Web应用（Outlook Web App）；开放世界假设（Open World Assumption）
 * OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
 * OWL：Web本体语言（Web Ontology Language）
 * OWS：开放Web运维管理系统（Open Web System Administration）

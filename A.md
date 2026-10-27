@@ -74,6 +74,7 @@
 * ADS：数据应用服务（Application Data Service）；告警与检测策略（Alerting & Detection Strategies）；抗DDoS系统（Anti-DDoS System）；阿里云AnalyticDB服务旧称（Analytic Database Service）
 * ADS-M：抗DDoS系统管理器（Anti-DDoS System Manager）
 * ADSI：活动目录服务接口（Active Directory Services Interface）
+* AdvancedRAG：高级检索增强生成（Advanced Retrieval-Augmented Generation）
 * AE：认证加密（Authenticated Encryption）；分析环境（Analytic Environment）
 * AEAD：关联数据的认证加密（Authenticated Encryption with Associated Data）
 * AEB：自动紧急制动系统（Automatic Emergency Braking）
@@ -110,6 +111,7 @@
 * AFWIC：美国空军作战一体化中心（Air Force Warfighting Integration Capability）
 * AG：接入网关（Access Gateway）；美国司法部部长（Attorney General）
 * AGA：美国天然气协会（American Gas Association）
+* AgenticRAG：智能体式检索增强生成（Agentic Retrieval-Augmented Generation）
 * AgentOps：智能体运维（Agent Operations）
 * AGG：MPLS汇聚层设备（AGGregation）
 * AGI：通用人工智能（Artificial General Intelligence）
