@@ -136,7 +136,6 @@
 * SEHOP：SEH重写保护（Structured Exception Handling Overwrite Protection）
 * SEI：软件工程研究所（Software Engineering Institute）
 * SEL：安全异常级别（Secure Exception Level）
-* Self-RAG：自反思检索增强生成（Self-Reflective Retrieval-Augmented Generation）
 * SEM：安全事件管理（Security Event Management）
 * SemaFor：语义取证项目（Semantic Forensics Project）
 * SEO：搜索引擎优化（Search Engine Optimization）

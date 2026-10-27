@@ -12,7 +12,6 @@
 * NAI：NAI公司（Network Associates, Inc.）
 * NAIIO：美国国家人工智能计划办公室（National Artificial Intelligence Initiative Office）
 * NAIRRTF：美国国家人工智能研究资源工作组（National Artificial Intelligence Research Resource Task Force）
-* NaiveRAG：朴素检索增强生成（Naive Retrieval-Augmented Generation）
 * NAM：国家制造商协会（National Association of Manufacturers）
 * NAPT：网络地址与端口转换（Network Address & Port Translation）
 * NARA：美国国家档案和记录管理局（National Archives and Records Administration）
