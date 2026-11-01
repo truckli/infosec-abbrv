@@ -141,6 +141,7 @@
 * SEO：搜索引擎优化（Search Engine Optimization）
 * SEPA：单一欧元支付区（Single Euro Payments Area）
 * SEPP：安全边缘保护代理（Security Edge Protection Proxy）
+* SERP：搜索引擎结果页面（search engine result page）
 * SETI：DISA系统工程、技术和创新合同（Systems Engineering, Technology & Innovation）
 * SEV：安全加密虚拟化（Secured Encrypted Virtualization）；事故严重度等级（Severity）
 * SEV-ES：具有加密状态的安全加密虚拟化（Secured Encrypted Virtualization with Encrypted State）
