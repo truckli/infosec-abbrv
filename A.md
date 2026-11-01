@@ -9,6 +9,7 @@
 * AAC：自适应访问控制（Adaptive Access Control）
 * AAD：Azure活动目录（Azure Active Directory）；附加鉴别数据（Additional Authentication Data）
 * AAG：AWS、Azure、谷歌三大云（AWS, Azure & GCP）
+* AAIF：智能体AI基金会，Linux 基金会下属（Agentic AI Foundation）
 * AAL：应用许可列表（Application Allowlisting）；认证器保障级别（Authenticator Assurance Level）；美国陆军应用实验室（Army Applications Laboratory）
 * AAPM：应用到应用口令管理（Application-to-Application Password Management）
 * AAR：复盘报告（After Action Report）

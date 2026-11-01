@@ -33,7 +33,7 @@
 * PAS：公开可用规范（Publicly Available Specifications）；部分属性集（Partial Attribute Set）；物理地址空间（Physical Address Space）
 * PASM：特权账户和会话管理（Privileged Account & Session Management）
 * PASTA：攻击模拟与威胁分析过程框架（Process for Attack Simulation and Threat Analysis）
-* PAT：端口地址转换（Port Address Translation）
+* PAT：端口地址转换（Port Address Translation）；个人访问令牌（Personal Access Token）
 * PAWSS：绿盟网站安全监测服务（NSFOCUS WebSafe Service）
 * PB：剧本（Play Book）
 * PBAC：基于策略的访问控制（Policy-Based Access Control）；基于管道的访问控制（Pipeline-Based Access Control）

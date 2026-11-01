@@ -181,6 +181,7 @@
 * MRES：多接收方加密方案（Multi-Recipient Encryption Scheme）
 * MRP：物料资源计划（Materials Resource Planning）
 * MRTI：机读情报（Machine-Readable Threat Intelligence）
+* MRTR：多轮请求，MCP 2026-07-28 版本机制（Multi-Round Trip Request）
 * MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
 * MS-CHAP：微软质询握手认证协议（Microsoft Challenge-Handshake Authentication Protocol）
 * MS-DRSR：微软目录复制服务远程协议（Directory Replication Service Remote Protocol）

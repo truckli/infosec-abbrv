@@ -23,7 +23,7 @@
 * TBS：TBSCertificate字段（To Be Signed）；某CA机构（TBS International）
 * TBYTE：十字节字（Ten-Byte）
 * TC：可信计算（Trusted Computing）；流量控制（Traffic Control）；尾调用（Tail Call）；技术委员会（Technical Committee）
-* TC260：全国信息安全标准化技术委员会（Technical Committee 260）
+* TC260：全国网络安全标准化技术委员会（National Cybersecurity Standardization Technical Committee）
 * TC28：全国信息技术标准化技术委员会（Technical Committee 28）
 * TCA：可信连接架构（Trusted Connect Architecture）
 * TCB：可信计算基（Trusted Computing Base）
