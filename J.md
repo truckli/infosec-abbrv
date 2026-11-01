@@ -71,7 +71,10 @@
 * JVM：Java虚拟机（Java Virtual Machine）
 * JVN：日本漏洞通报（Japan Vulnerability Notes）
 * JWCC：联合作战云能力（Joint Warfighting Cloud Capability）
+* JWE：JSON Web加密（JSON Web Encryption）
 * JWICS：联合全球情报通信系统（Joint Worldwide Intelligence Communications Systems）
 * JWID：联合战士互操作性演示（Joint Warrior Interoperability Demonstration）
+* JWK：JSON Web密钥（JSON Web Key）
 * JWKS：JSON Web密钥集（JSON Web Key Set）
+* JWS：JSON Web签名（JSON Web Signature）
 * JWT：JSON Web令牌（JSON Web Token）
