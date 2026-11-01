@@ -66,6 +66,7 @@
 * LNK：Windows快捷方式文件格式（Link）
 * LNS：L2TP网络服务器（L2TP Network Server）
 * LOA：确保级（Level of Assurance）
+* LoC：实质性失控率（Loss of Control）
 * LOCO：留一队列或中心（Leave-One-Cohort/Center-Out）
 * LOD：链接开放数据（Linked Open Data）
 * LODO：留一数据集（Leave-One-Dataset-Out）

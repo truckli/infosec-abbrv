@@ -94,6 +94,7 @@
 * SD：安全数字（Secure Digital）；安全域（Security Domain）；稳定扩散模型（Stable Diffusion）；服务交付（Service Delivery）
 * SD-WAN：软件定义广域网（Software Defined Wide Area Network）
 * SDA：美国空军太空发展局（Space Development Agency）
+* SDC：安全开发者峰会（Security Developer Conference）
 * SDDC：软件定义数据中心（Software-Defined Data Center）
 * SDDL：安全描述符定义语言（Security Descriptor Definition Language）
 * SDDP：敏感数据发现与保护（Sensitive Data Discovery & Protection）
