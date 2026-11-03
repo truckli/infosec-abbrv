@@ -73,6 +73,7 @@
 * HPE：惠普公司（Hewlett Packard Enterprise）
 * HPH：医疗和公共卫生（Healthcare & Public Health）
 * HPKP：HTTP公钥钉扎（HTTP Public Key Pinning）
+* HPP：HTTP参数污染（HTTP Parameter Pollution）
 * HPS：蜜罐系统（Honey Pot System）
 * HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
 * HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
