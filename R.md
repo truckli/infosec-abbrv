@@ -139,6 +139,7 @@
 * RRH：远程无线头端（Remote Radio Head）
 * RRHF：人类反馈排名响应（Rank Response from Human Feedback）
 * RRL：响应速率限制（Response Rate Limiting）
+* RRSA：基于服务账户的RAM角色（RAM Roles for Service Accounts）
 * RRT：快速随机扩展树（路径规划算法）（Rapidly-exploring Random Tree）
 * RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
 * RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
