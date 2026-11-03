@@ -224,6 +224,7 @@
 * ARL：美国陆军研究实验室（DEVCOM Army Research Laboratory）
 * ARM：高级精简指令集机器（Advanced RISC Machines）
 * ARMA：自回归移动平均模型（AutoRegressive Moving Average）
+* ARN：亚马逊资源名称（Amazon Resource Name）
 * ARO：年度发生率（Annualized Rate of Occurrence）
 * ARP：地址解析协议（Address Resolution Protocol）
 * ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
