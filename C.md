@@ -607,6 +607,7 @@
 * CWAF：云Web应用防火墙（Cloud Web Application Firewall）
 * CWC：卡特维根计数器（Carter–Wegman+CTR）
 * CWE：公共弱点枚举（Common Weakness Enumeration）
+* CWI：网络武器指数（Cyber Weapons Index）
 * CWPP：云工作负载安全防护平台（Cloud Workload Protection Platform）
 * CWS：中文分词任务（Chinese Word Segmentation）
 * CX：某寄存器代号（C eXtended）
