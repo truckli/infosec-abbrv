@@ -1,131 +1,131 @@
 ## V
 
-* V&V：验证与确认（Verification & Validation）
-* V-SPELLS：可验证的大型遗留软件的安全性和性能增强（Verified Security and Performance Enhancement of Large Legacy Software）
-* V2C：车云通信（Vehicle-to-Cloud）
-* V2D：车辆-设备通信（Vehicle-to-Device）
-* V2G：车电相联（Vehicle-to-Grid）
-* V2H：车与家（Vehicle-to-Home）
-* V2I：车联基础设施（Vehicle-to-Infrastructure）
-* V2N：车辆-网络通信（Vehicle-to-Network）
-* V2P：车与行人通信（Vehicle-to-Pedestrians）
-* V2R：车路通信（Vehicle-to-Road）
-* V2V：车间通信（Vehicle-to-Vehicle）
-* V2X：车物通信（Vehicle-to-Everything）
-* VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
-* VAAP：漏洞与评估计划（Vulnerability & Assessment Program）
-* VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
-* VAE：变分自编码器（Variational Autoencoder）
-* VAM：虚拟账号管理（Virtual Account Management）
-* VANET：车载自组织网络（Vehicular Ad-hoc Network）
-* VAS：虚拟地址空间（Virtual Address Space）
-* VAST：可视化、敏捷、简洁威胁建模（Visual, Agile, and Simple Threat Modeling）
-* VAT：增值税（Value Added Tax）
-* VAV：变风量（Variable Air Volume）
-* VB：Visual Basic语言（Visual Basic）
-* VBA：VB宏语言（Visual Basic for Applications）
-* VBOS：VBOS计划（Vulnerabilities Below The Operating System）
-* VBR：虚拟边界路由器（Virtual Border Router）
-* VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
-* VCD：视频光盘（Video CD）
-* VCF：VMware云基础（VMware Cloud Foundation）
-* VCN：虚拟云网络（Virtual Cloud Network）
-* vCPE：虚拟化客户现场设备（virtual Customer Premise Equipment）
-* VCR：录像机（Video Cassette Recorder）
-* vCS：vCenter服务器（vCenter Server）
-* vCSR：虚拟基站侧路由器（virtual Cell Site Router）
-* VCU：整车控制器（Vehicle Control Unit）
-* VDB：漏洞库（Vulnerability Database）
-* VDC：虚拟数据中心（Virtual Data Center）；视频显示控制器（Video Display Controler）
-* VDI：虚拟桌面设施（Virtual Desktop Infrastructure）
-* VDMS：虚拟数据中心管理服务（Virtual Data Center Management Service）
-* vDNS：虚拟DNS（Virtual DNS）
-* VDP：漏洞报告政策（Vulnerability Disclosure Policy）
-* VDS：vSphere分布式交换机（vSphere Distributed Switch）
-* VDSO：虚拟动态链接共享对象（Virtual Dynamically-linked Shared Object）
-* VDSS：虚拟数据中心安全栈（Virtual Data Center Security Stack）
-* VEH：向量异常处理程序（Vectored Exception Handling）
-* VEP：漏洞公平裁决程序（Vulnerabilities Equities Process）
-* Veraison：Veraison项目（VERificAtIon of atteStatiON）
-* VERIS：事态记录和事件共享词汇（Vocabulary for Event Recording and Incident Sharing）
-* VES：视频安全交换系统（Video Exchange System）
-* VET：商品IT软件和固件审查（Vetting Commodity IT Software & Firmware）
-* VEX：漏洞可利用性交换（Vulnerability Exploitability Exchange）
-* VF：虚拟功能（Virtual Function）
-* vFW：虚拟防火墙（Virtual Firewall）
-* VHDL：超高速集成电路硬件描述语言（Very high-speed Hardware Description Language）
-* VHF：甚高频（Very High Frequency）
-* VHSIC：超高速集成电路（Very High Speed Integrated Circuits）
-* VIB：vSphere安装捆绑包（vSphere Installation Bundle）
-* VIN：车辆识别码（Vehicle Identification Number）
-* VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
-* VIRTIO：虚拟化 I/O（Virtualization Input/Output）
-* VKB：漏洞知识库（Vulnerability Knowledge Base）
-* VLA：视觉—语言—动作（模型）（Vision-Language-Action Model）
-* VLAN：虚拟局域网（Virtual Local Area Network）
-* VLANIF：VLAN接口（Virtual Local Area Network Interface）
-* vLB：虚拟负载均衡器（Virtual Load Balancer）
-* VLB：Valiant负载均衡（Valiant Load Balancing）
-* VLIW：超长指令字处理器架构（Very Long Instruction Word）
-* VLM：视觉语言模型（Vision-Language Model）
-* VLR：GSM访客位置寄存器（Visitor Location Register）
-* VLTi：虚拟链路隧道互连（Virtual Link Tunnel Interconnect）
-* VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
-* VMID：虚拟机标识符（Virtual Machine Identifier）
-* VMM：虚拟机监控器（Virtual Machine Monitor）
-* VMP：VMProtect软件保护技术（VMProtect）
-* VMS：脆弱性管理系统（Vulnerability Management System）
-* VMT：虚拟方法表（Virtual Method Table）
-* VMX：虚拟机扩展（Virtual Machine Extensions）
-* VNC：虚拟网络控制台（Virtual Network Console）
-* VNF：虚拟化网络功能（Virtualized Network Function）
-* vNGFW：虚拟下一代防火墙（virtual Next-Generation FireWall）
-* VNI：虚拟网络标识（Virtual Network Identifier）
-* vNIC：虚拟网络接口卡（virtual Network Interface Card）
-* VOC：客户发声（Voice Of the Customer）
-* VOI：虚拟操作系统设施（Virtual OS Infrastructure）
-* VoIP：IP语音承载（Voice-over-IP）
-* VOLE：向量模糊线性评估（Vector Oblivious Linear Evaluation）
-* VoLTE：LTE语音承载（Voice-over-LTE）
-* VP：副总裁（Vice President）
-* VPAM：厂商特权访问管理（Vendor Privileged Access Management）
-* VPC：虚拟私有云（Virtual Private Cloud）
-* vPE：虚拟提供商边缘（virtual Provider Edge）
-* VPLS：虚拟专用局域网服务（Virtual Private LAN Service）
-* VPN：虚拟专用网络（Virtual Private Network）
-* VPR：漏洞优先级评级（Vulnerability Priority Rating）
-* VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
-* VQA：视觉问答（Visual Question & Answering）
-* VQL：Velociraptor查询语言（Velociraptor Query Language）
-* vR：vSphere复制（vSphere Replication）
-* VR：虚拟路由器（Virtual Router）；虚拟现实（Virtual Reality）
-* vRA：vRealize自动化（vRealize Automation）
-* vRB：vRealize云业务（vRealize Business for Cloud）
-* VRF：虚拟路由转发（Virtual Routing Forwarding）；验证随机函数（Verifiable Random Function）
-* vRLI：vRealize日志洞察（vRealize Log Insight）
-* VRM：供应商风险管理（Vendor Risk Management）
-* vRO：vRealize编排器（vRealize Orchestrator）
-* vROPS：vRealize操作管理器（vRealize Operations Manager）
-* VRP：漏洞奖励计划（Vulnerability Reward Program）
-* VRRP：虚拟路由冗余协议（Virtual Router Redundancy Protocol）
-* VRS：虚拟风险分（Virtual Risk Score）；虚拟路由与交换（Virtual Routing & Switching）；视频中继服务（Video Relay Service）
-* VSAM：虚拟存储访问方法（Virtual Storage Access Method）
-* VSAN：虚拟存储区域网络（Virtual Storage Area Network）
-* VSI：虚拟存储集成商（Virtual Storage Integrator）
-* VSM：向量空间模型（Vector Space Model）；可生存系统模型（Viable System Model）
-* VSOC：汽车安全运营中心（Vehicle Security Operations Center）
-* VSR：虚拟服务路由器（Virtual Service Router）
-* VSRC：唯品会安全应急响应中心（VIP Security Respnse Center）
-* VSS：漏洞扫描服务（Vulnerability Scanning Service）
-* VT：某威胁样本分析网站（VirusTotal）；虚拟化技术（Virtualization Technology）
-* VT-x：Intel虚拟化技术（Virtualization Technology for x86）
-* VTEP：VXLAN隧道端点（VXLAN Tunnel Endpoint）
-* VTI：VirusTotal情报（VirusTotal Intelligence）
-* VTS：船舶交通管理系统（Vessel Traffic System）；IEEE车辆技术协会（IEEE Vehicular Technology Society）
-* VTV：虚表核实（VTable Verification）
-* VUM：vSphere更新管理器（vSphere Update Manager）
-* VVD：VMware验证设计（VMware Validated Design）
-* vWOC：虚拟广域网优化控制器（virtual WOC）
-* VX：FireEye虚执行引擎（Virtual Execution）；语音交换（Voice Exchange）
-* VXEdDSA：可验证XEdDSA（Verifiable X Edwards-curve DSA）
-* VXLAN：虚拟扩展局域网（Virtual Extensible Local Area Network）
+* <a id="v-x26v"></a>V&V：验证与确认（Verification & Validation）
+* <a id="v-x2dspells"></a>V-SPELLS：可验证的大型遗留软件的安全性和性能增强（Verified Security and Performance Enhancement of Large Legacy Software）
+* <a id="v2c"></a>V2C：车云通信（Vehicle-to-Cloud）
+* <a id="v2d"></a>V2D：车辆-设备通信（Vehicle-to-Device）
+* <a id="v2g"></a>V2G：车电相联（Vehicle-to-Grid）
+* <a id="v2h"></a>V2H：车与家（Vehicle-to-Home）
+* <a id="v2i"></a>V2I：车联基础设施（Vehicle-to-Infrastructure）
+* <a id="v2n"></a>V2N：车辆-网络通信（Vehicle-to-Network）
+* <a id="v2p"></a>V2P：车与行人通信（Vehicle-to-Pedestrians）
+* <a id="v2r"></a>V2R：车路通信（Vehicle-to-Road）
+* <a id="v2v"></a>V2V：车间通信（Vehicle-to-Vehicle）
+* <a id="v2x"></a>V2X：车物通信（Vehicle-to-Everything）
+* <a id="va"></a>VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
+* <a id="vaap"></a>VAAP：漏洞与评估计划（Vulnerability & Assessment Program）
+* <a id="vadp"></a>VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
+* <a id="vae"></a>VAE：变分自编码器（Variational Autoencoder）
+* <a id="vam"></a>VAM：虚拟账号管理（Virtual Account Management）
+* <a id="vanet"></a>VANET：车载自组织网络（Vehicular Ad-hoc Network）
+* <a id="vas"></a>VAS：虚拟地址空间（Virtual Address Space）
+* <a id="vast"></a>VAST：可视化、敏捷、简洁威胁建模（Visual, Agile, and Simple Threat Modeling）
+* <a id="vat"></a>VAT：增值税（Value Added Tax）
+* <a id="vav"></a>VAV：变风量（Variable Air Volume）
+* <a id="vb"></a>VB：Visual Basic语言（Visual Basic）
+* <a id="vba"></a>VBA：VB宏语言（Visual Basic for Applications）
+* <a id="vbos"></a>VBOS：VBOS计划（Vulnerabilities Below The Operating System）
+* <a id="vbr"></a>VBR：虚拟边界路由器（Virtual Border Router）
+* <a id="vc"></a>VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
+* <a id="vcd"></a>VCD：视频光盘（Video CD）
+* <a id="vcf"></a>VCF：VMware云基础（VMware Cloud Foundation）
+* <a id="vcn"></a>VCN：虚拟云网络（Virtual Cloud Network）
+* <a id="vcpe-ce"></a>vCPE：虚拟化客户现场设备（virtual Customer Premise Equipment）
+* <a id="vcr"></a>VCR：录像机（Video Cassette Recorder）
+* <a id="vcs-c6"></a>vCS：vCenter服务器（vCenter Server）
+* <a id="vcsr-ce"></a>vCSR：虚拟基站侧路由器（virtual Cell Site Router）
+* <a id="vcu"></a>VCU：整车控制器（Vehicle Control Unit）
+* <a id="vdb"></a>VDB：漏洞库（Vulnerability Database）
+* <a id="vdc"></a>VDC：虚拟数据中心（Virtual Data Center）；视频显示控制器（Video Display Controler）
+* <a id="vdi"></a>VDI：虚拟桌面设施（Virtual Desktop Infrastructure）
+* <a id="vdms"></a>VDMS：虚拟数据中心管理服务（Virtual Data Center Management Service）
+* <a id="vdns-ce"></a>vDNS：虚拟DNS（Virtual DNS）
+* <a id="vdp"></a>VDP：漏洞报告政策（Vulnerability Disclosure Policy）
+* <a id="vds"></a>VDS：vSphere分布式交换机（vSphere Distributed Switch）
+* <a id="vdso"></a>VDSO：虚拟动态链接共享对象（Virtual Dynamically-linked Shared Object）
+* <a id="vdss"></a>VDSS：虚拟数据中心安全栈（Virtual Data Center Security Stack）
+* <a id="veh"></a>VEH：向量异常处理程序（Vectored Exception Handling）
+* <a id="vep"></a>VEP：漏洞公平裁决程序（Vulnerabilities Equities Process）
+* <a id="veraison-c1"></a>Veraison：Veraison项目（VERificAtIon of atteStatiON）
+* <a id="veris"></a>VERIS：事态记录和事件共享词汇（Vocabulary for Event Recording and Incident Sharing）
+* <a id="ves"></a>VES：视频安全交换系统（Video Exchange System）
+* <a id="vet"></a>VET：商品IT软件和固件审查（Vetting Commodity IT Software & Firmware）
+* <a id="vex"></a>VEX：漏洞可利用性交换（Vulnerability Exploitability Exchange）
+* <a id="vf"></a>VF：虚拟功能（Virtual Function）
+* <a id="vfw-c6"></a>vFW：虚拟防火墙（Virtual Firewall）
+* <a id="vhdl"></a>VHDL：超高速集成电路硬件描述语言（Very high-speed Hardware Description Language）
+* <a id="vhf"></a>VHF：甚高频（Very High Frequency）
+* <a id="vhsic"></a>VHSIC：超高速集成电路（Very High Speed Integrated Circuits）
+* <a id="vib"></a>VIB：vSphere安装捆绑包（vSphere Installation Bundle）
+* <a id="vin"></a>VIN：车辆识别码（Vehicle Identification Number）
+* <a id="vip"></a>VIP：虚拟IP地址（Virtual IP）；验证与ID保护（Validation and ID Protection）
+* <a id="virtio"></a>VIRTIO：虚拟化 I/O（Virtualization Input/Output）
+* <a id="vkb"></a>VKB：漏洞知识库（Vulnerability Knowledge Base）
+* <a id="vla"></a>VLA：视觉—语言—动作（模型）（Vision-Language-Action Model）
+* <a id="vlan"></a>VLAN：虚拟局域网（Virtual Local Area Network）
+* <a id="vlanif"></a>VLANIF：VLAN接口（Virtual Local Area Network Interface）
+* <a id="vlb-c6"></a>vLB：虚拟负载均衡器（Virtual Load Balancer）
+* <a id="vlb"></a>VLB：Valiant负载均衡（Valiant Load Balancing）
+* <a id="vliw"></a>VLIW：超长指令字处理器架构（Very Long Instruction Word）
+* <a id="vlm"></a>VLM：视觉语言模型（Vision-Language Model）
+* <a id="vlr"></a>VLR：GSM访客位置寄存器（Visitor Location Register）
+* <a id="vlti-c7"></a>VLTi：虚拟链路隧道互连（Virtual Link Tunnel Interconnect）
+* <a id="vm"></a>VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
+* <a id="vmid"></a>VMID：虚拟机标识符（Virtual Machine Identifier）
+* <a id="vmm"></a>VMM：虚拟机监控器（Virtual Machine Monitor）
+* <a id="vmp"></a>VMP：VMProtect软件保护技术（VMProtect）
+* <a id="vms"></a>VMS：脆弱性管理系统（Vulnerability Management System）
+* <a id="vmt"></a>VMT：虚拟方法表（Virtual Method Table）
+* <a id="vmx"></a>VMX：虚拟机扩展（Virtual Machine Extensions）
+* <a id="vnc"></a>VNC：虚拟网络控制台（Virtual Network Console）
+* <a id="vnf"></a>VNF：虚拟化网络功能（Virtualized Network Function）
+* <a id="vngfw-c1e"></a>vNGFW：虚拟下一代防火墙（virtual Next-Generation FireWall）
+* <a id="vni"></a>VNI：虚拟网络标识（Virtual Network Identifier）
+* <a id="vnic-ce"></a>vNIC：虚拟网络接口卡（virtual Network Interface Card）
+* <a id="voc"></a>VOC：客户发声（Voice Of the Customer）
+* <a id="voi"></a>VOI：虚拟操作系统设施（Virtual OS Infrastructure）
+* <a id="voip-cd"></a>VoIP：IP语音承载（Voice-over-IP）
+* <a id="vole"></a>VOLE：向量模糊线性评估（Vector Oblivious Linear Evaluation）
+* <a id="volte-c1d"></a>VoLTE：LTE语音承载（Voice-over-LTE）
+* <a id="vp"></a>VP：副总裁（Vice President）
+* <a id="vpam"></a>VPAM：厂商特权访问管理（Vendor Privileged Access Management）
+* <a id="vpc"></a>VPC：虚拟私有云（Virtual Private Cloud）
+* <a id="vpe-c6"></a>vPE：虚拟提供商边缘（virtual Provider Edge）
+* <a id="vpls"></a>VPLS：虚拟专用局域网服务（Virtual Private LAN Service）
+* <a id="vpn"></a>VPN：虚拟专用网络（Virtual Private Network）
+* <a id="vpr"></a>VPR：漏洞优先级评级（Vulnerability Priority Rating）
+* <a id="vpt"></a>VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
+* <a id="vqa"></a>VQA：视觉问答（Visual Question & Answering）
+* <a id="vql"></a>VQL：Velociraptor查询语言（Velociraptor Query Language）
+* <a id="vr-c2"></a>vR：vSphere复制（vSphere Replication）
+* <a id="vr"></a>VR：虚拟路由器（Virtual Router）；虚拟现实（Virtual Reality）
+* <a id="vra-c6"></a>vRA：vRealize自动化（vRealize Automation）
+* <a id="vrb-c6"></a>vRB：vRealize云业务（vRealize Business for Cloud）
+* <a id="vrf"></a>VRF：虚拟路由转发（Virtual Routing Forwarding）；验证随机函数（Verifiable Random Function）
+* <a id="vrli-ce"></a>vRLI：vRealize日志洞察（vRealize Log Insight）
+* <a id="vrm"></a>VRM：供应商风险管理（Vendor Risk Management）
+* <a id="vro-c6"></a>vRO：vRealize编排器（vRealize Orchestrator）
+* <a id="vrops-c1e"></a>vROPS：vRealize操作管理器（vRealize Operations Manager）
+* <a id="vrp"></a>VRP：漏洞奖励计划（Vulnerability Reward Program）
+* <a id="vrrp"></a>VRRP：虚拟路由冗余协议（Virtual Router Redundancy Protocol）
+* <a id="vrs"></a>VRS：虚拟风险分（Virtual Risk Score）；虚拟路由与交换（Virtual Routing & Switching）；视频中继服务（Video Relay Service）
+* <a id="vsam"></a>VSAM：虚拟存储访问方法（Virtual Storage Access Method）
+* <a id="vsan"></a>VSAN：虚拟存储区域网络（Virtual Storage Area Network）
+* <a id="vsi"></a>VSI：虚拟存储集成商（Virtual Storage Integrator）
+* <a id="vsm"></a>VSM：向量空间模型（Vector Space Model）；可生存系统模型（Viable System Model）
+* <a id="vsoc"></a>VSOC：汽车安全运营中心（Vehicle Security Operations Center）
+* <a id="vsr"></a>VSR：虚拟服务路由器（Virtual Service Router）
+* <a id="vsrc"></a>VSRC：唯品会安全应急响应中心（VIP Security Respnse Center）
+* <a id="vss"></a>VSS：漏洞扫描服务（Vulnerability Scanning Service）
+* <a id="vt"></a>VT：某威胁样本分析网站（VirusTotal）；虚拟化技术（Virtualization Technology）
+* <a id="vt-x2dx-c3"></a>VT-x：Intel虚拟化技术（Virtualization Technology for x86）
+* <a id="vtep"></a>VTEP：VXLAN隧道端点（VXLAN Tunnel Endpoint）
+* <a id="vti"></a>VTI：VirusTotal情报（VirusTotal Intelligence）
+* <a id="vts"></a>VTS：船舶交通管理系统（Vessel Traffic System）；IEEE车辆技术协会（IEEE Vehicular Technology Society）
+* <a id="vtv"></a>VTV：虚表核实（VTable Verification）
+* <a id="vum"></a>VUM：vSphere更新管理器（vSphere Update Manager）
+* <a id="vvd"></a>VVD：VMware验证设计（VMware Validated Design）
+* <a id="vwoc-ce"></a>vWOC：虚拟广域网优化控制器（virtual WOC）
+* <a id="vx"></a>VX：FireEye虚执行引擎（Virtual Execution）；语音交换（Voice Exchange）
+* <a id="vxeddsa-c77"></a>VXEdDSA：可验证XEdDSA（Verifiable X Edwards-curve DSA）
+* <a id="vxlan"></a>VXLAN：虚拟扩展局域网（Virtual Extensible Local Area Network）

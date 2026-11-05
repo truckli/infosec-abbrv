@@ -1,118 +1,118 @@
 ## H
 
-* H3C：新华三集团（原：Huawei，3Com）
-* HA：高可用（High Availability）
-* HACCS：利用自主系统对抗网络对手项目（Harnessing Autonomy for Countering Cyberadversary Systems）
-* HACMS：DARPA高保障网络军事系统项目（High-Assurance Cyber Military Systems）
-* HAF：空军总部（Headquarters Air Force）
-* HAG：高保障卫士（High Assurance Guard）
-* HAL：硬件抽象层（Hardware Abstraction Layer）
-* HAR：HAR文件格式（HTTP Archive）
-* HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
-* HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
-* HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
-* HBM：高带宽内存（High-Bandwidth Memory）
-* HBM2：HBM2内存工艺（High Bandwidth Memory 2）
-* HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
-* HBS：基于硬件的安全（Hardware-Based Security）
-* HBSS：基于主机的安全系统（Host-Based Security System）
-* HC3：卫生部门网络安全协调中心（Health Sector Cybersecurity Coordination Center）
-* HCF：混合协调功能（Hybrid Coordination Function）
-* HCI：人机交互（Human-Computer Interfaces）；超融合基础设施（Hyper Converged Infrastructure）；主机控制器接口（Host Controller Interface）；剩余空间关闭指数（Headroom-Closed Index）
-* HCIA：华为认证ICT工程师（Huawei Certified ICT Associate）
-* HCIE：华为认证ICT专家（Huawei Certified ICT Expert）
-* HCIP：华为认证ICT高级工程师（Huawei Certified ICT Professional）
-* HCISPP：医疗保健信息安全和隐私从业者（Health Care Information Security and Privacy Practitioner）
-* HCP：浪潮云混合云容器平台（Hybrid-Cloud Container Platform）
-* HCR：HYP配置寄存器（Hypervisor Configuration Register）
-* HCSA：华为专业认证专家（Huawei Certified Specialist-Associate）
-* HCSE：华为专业认证资深专家（Huawei Certified Specialist-Expert）
-* HCSP：华为专业认证高级专家（Huawei Certified Specialist-Professional）
-* HD：硬盘（Hard Drive）；高清（High Definition）
-* HDAP：高可用性目录访问协议（High-Availability Directory Access Protocol）
-* HDD：硬盘驱动器（Hard Disk Drive）
-* HDFS：Hadoop分布式文件系统（Hadoop Distributed File System）
-* HDL：硬件描述语言（Hardware Description Language）
-* HDLC：高级数据链路控制（High-level Data Link Control）
-* HDO：医疗保健交付组织（Healthcare Delivery Organization）
-* HDR：主机检测与响应（Host Detection & Response）
-* HDS：网页防篡改系统（Host Defense System）
-* HE：同态加密（Homomorphic Encryption）
-* HES：硬件强制安全（Hardware Enforced Security）
-* HF：HuggingFace平台（HuggingFace）
-* HFE：隐域方程（Hidden Field Equations）
-* HFO：前出狩猎行动（Hunt Forward Operation）
-* HGS：主机卫士系统（Host Guardian System）
-* HGX：英伟达HGX产品系列（HPC Gpu eXtend）
-* HHS：健康与公共事业局（Health & Human Services）
-* HIC：人指挥（human-in-command）
-* HIDS：主机入侵检测系统（Host Intrusion Detection System）
-* HIPAA：美国健康保险便携性和责任法案（Health Insurance Portability & Accountability Act）
-* HIPERLAN：高性能无线局域网（High Performance Radio Local Area Network）
-* HIPS：主机入侵预防系统（Host Intrusion Prevention System）
-* HIS：健康信息系统（Health Information System）；医院信息管理系统（Hospital Information System）
-* HITB：HITB安全大会（Hack In The Box）
-* HITECH：卫生信息技术促进经济和临床健康法案（Health Information Technology for Economic & Clinical Health Act）
-* HITL：人在回路（Human-In-The-Loop）
-* HKLM：本地机器密钥（HKEY_LOCAL_MACHINE）
-* HLAT：Hypervisor管理的线性地址转换（Hypervisor Managed Linear Address Translation）
-* HLR：GSM归属位置寄存器（Home Location Register）
-* HMA：高位内存区（High Memory Area）
-* HMAC：散列消息认证码（Hash-based Message Authentication Code）；散列消息认证码（Hash Message Authentication Code）
-* HMEE：硬件中介执行隔离区（Hardware Mediated Execution Enclave）
-* HMI：人机界面（Human Machine Interface）
-* HMQV：哈希MQV协议（Hashed Menezes-Qu-Vanstone）
-* HNDL：先截获后解密（Harvest Now, Decrypt Later）
-* HNT：氦币（Helium Network Token）
-* HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
-* HOTL：人在环上（human-on-the-loop）
-* HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
-* HOV：高乘载车道（High-Occupancy Vehicle lane）
-* HP：混合并行（Hybrid Parallelism）
-* HPC：高性能计算（High-Performance Computing）；硬件性能计数器（Hardware Performance Counter）
-* HPE：惠普公司（Hewlett Packard Enterprise）
-* HPH：医疗和公共卫生（Healthcare & Public Health）
-* HPKP：HTTP公钥钉扎（HTTP Public Key Pinning）
-* HPP：HTTP参数污染（HTTP Parameter Pollution）
-* HPS：蜜罐系统（Honey Pot System）
-* HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
-* HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
-* HR：人力资源（Human Resources）
-* HRO：高可靠性组织（High Reliability Organization）
-* HRoT：可信硬件根（Hardware Root of Trust）
-* HRP：医院资源管理系统（Hospital Resource Planning）
-* HRU：哈里森-鲁佐-厄尔曼模型（Harrison-Ruzzo-Ullman）
-* HS：高速（High Speed）
-* HSA：山石安全审计平台（Hillstone Security Audit）
-* HSI：人机交互（Human-System Interactions）
-* HSIN：国土安全信息网络（Homeland Security Information Network）
-* HSIN-CI：国土安全信息网络-关键基础设施（Homeland Security Information Network - Critical Infrastructure）
-* HSM：硬件安全模块（Hardware Security Module）；层次化存储管理（Hierarchical Storage Management）；山石安全管理平台（Hillstone Security Management）；硬系统方法（Hard Systems Methodology）
-* HSPD：美国国土安全总统令（Homeland Security Presidential Directive）
-* HSR：高可用性无缝冗余（High-Availability Seamless Redundancy）
-* HSS：主机安全服务（Host Security Service）；LTE归属签约用户服务器（Home Subscriber Server）
-* HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
-* HSSI：高速串行接口（High-Speed Serial Interface）
-* HSTS：HTTP严格传输安全（HTTP Strict Transport Security，RFC6797）
-* HTA：HTML应用程序（HTML Application）
-* HTAP：混合事务/分析处理（Hybrid Transactional/Analytical Processing）
-* HTBC：HyTrust边界控制（HyTrust BoundaryControl）
-* HTCA：HyTrust云顾问（HyTrust CloudAdvisor）
-* HTCC：HyTrust云控制（HyTrust CloudControl）
-* HTDC：HyTrust数据控制（HyTrust DataControl）
-* HTKC：HyTrust密钥控制（HyTrust KeyControl）
-* HTML：超文本标记语言（Hyper Text Markup Language）
-* HTTP：超文本传输协议（Hyper Text Transfer Protocol）
-* HTTPS：超文本传输安全协议（HTTP over SSL）；超文本传输协议安全（Hypertext Transfer Protocol Secure）
-* HUD：抬头显示器（Head Up Display）
-* HUK：硬件唯一键（Hardware Unique Key）
-* HULK：某Web压力测试工具（Http Unbearable Load King）
-* HUMINT：人力情报（HUMan INTelligence）
-* HVA：高价值资产（High Value Asset）
-* HVAC：暖通空调（Heating, Ventilation & Air Conditioning）
-* HVCI：虚拟机监控器强制代码一致性（HyperVisor-enforced Code Integrity）
-* HVV：某攻防演练活动（HVV）
-* HW：某攻防演练活动（HW）；硬件（HardWare）；华为公司（拼音：Hua Wei）
-* HWASan：硬件辅助地址检查器（Hardware-assisted Address Sanitizer）
-* HX：FireEye端点安全产品系列（猜测：Host security）
-* HYP：虚拟机监控器（hypervisor）
+* <a id="h3c"></a>H3C：新华三集团（原：Huawei，3Com）
+* <a id="ha"></a>HA：高可用（High Availability）
+* <a id="haccs"></a>HACCS：利用自主系统对抗网络对手项目（Harnessing Autonomy for Countering Cyberadversary Systems）
+* <a id="hacms"></a>HACMS：DARPA高保障网络军事系统项目（High-Assurance Cyber Military Systems）
+* <a id="haf"></a>HAF：空军总部（Headquarters Air Force）
+* <a id="hag"></a>HAG：高保障卫士（High Assurance Guard）
+* <a id="hal"></a>HAL：硬件抽象层（Hardware Abstraction Layer）
+* <a id="har"></a>HAR：HAR文件格式（HTTP Archive）
+* <a id="harden"></a>HARDEN：针对紧急执行引擎的强化开发工具链（Hardening Development Toolchains Against Emergent Execution Engines）
+* <a id="hart"></a>HART：高速可寻址远程传感器协议（Highway Addressable Remote Transducer Protocol）
+* <a id="havip"></a>HAVIP：高可用虚拟IP地址（High-Availability Virtual IP address）
+* <a id="hbm"></a>HBM：高带宽内存（High-Bandwidth Memory）
+* <a id="hbm2"></a>HBM2：HBM2内存工艺（High Bandwidth Memory 2）
+* <a id="hbp"></a>HBP：华为漏洞奖励计划（Huawei Bug Bounty Program）
+* <a id="hbs"></a>HBS：基于硬件的安全（Hardware-Based Security）
+* <a id="hbss"></a>HBSS：基于主机的安全系统（Host-Based Security System）
+* <a id="hc3"></a>HC3：卫生部门网络安全协调中心（Health Sector Cybersecurity Coordination Center）
+* <a id="hcf"></a>HCF：混合协调功能（Hybrid Coordination Function）
+* <a id="hci"></a>HCI：人机交互（Human-Computer Interfaces）；超融合基础设施（Hyper Converged Infrastructure）；主机控制器接口（Host Controller Interface）；剩余空间关闭指数（Headroom-Closed Index）
+* <a id="hcia"></a>HCIA：华为认证ICT工程师（Huawei Certified ICT Associate）
+* <a id="hcie"></a>HCIE：华为认证ICT专家（Huawei Certified ICT Expert）
+* <a id="hcip"></a>HCIP：华为认证ICT高级工程师（Huawei Certified ICT Professional）
+* <a id="hcispp"></a>HCISPP：医疗保健信息安全和隐私从业者（Health Care Information Security and Privacy Practitioner）
+* <a id="hcp"></a>HCP：浪潮云混合云容器平台（Hybrid-Cloud Container Platform）
+* <a id="hcr"></a>HCR：HYP配置寄存器（Hypervisor Configuration Register）
+* <a id="hcsa"></a>HCSA：华为专业认证专家（Huawei Certified Specialist-Associate）
+* <a id="hcse"></a>HCSE：华为专业认证资深专家（Huawei Certified Specialist-Expert）
+* <a id="hcsp"></a>HCSP：华为专业认证高级专家（Huawei Certified Specialist-Professional）
+* <a id="hd"></a>HD：硬盘（Hard Drive）；高清（High Definition）
+* <a id="hdap"></a>HDAP：高可用性目录访问协议（High-Availability Directory Access Protocol）
+* <a id="hdd"></a>HDD：硬盘驱动器（Hard Disk Drive）
+* <a id="hdfs"></a>HDFS：Hadoop分布式文件系统（Hadoop Distributed File System）
+* <a id="hdl"></a>HDL：硬件描述语言（Hardware Description Language）
+* <a id="hdlc"></a>HDLC：高级数据链路控制（High-level Data Link Control）
+* <a id="hdo"></a>HDO：医疗保健交付组织（Healthcare Delivery Organization）
+* <a id="hdr"></a>HDR：主机检测与响应（Host Detection & Response）
+* <a id="hds"></a>HDS：网页防篡改系统（Host Defense System）
+* <a id="he"></a>HE：同态加密（Homomorphic Encryption）
+* <a id="hes"></a>HES：硬件强制安全（Hardware Enforced Security）
+* <a id="hf"></a>HF：HuggingFace平台（HuggingFace）
+* <a id="hfe"></a>HFE：隐域方程（Hidden Field Equations）
+* <a id="hfo"></a>HFO：前出狩猎行动（Hunt Forward Operation）
+* <a id="hgs"></a>HGS：主机卫士系统（Host Guardian System）
+* <a id="hgx"></a>HGX：英伟达HGX产品系列（HPC Gpu eXtend）
+* <a id="hhs"></a>HHS：健康与公共事业局（Health & Human Services）
+* <a id="hic"></a>HIC：人指挥（human-in-command）
+* <a id="hids"></a>HIDS：主机入侵检测系统（Host Intrusion Detection System）
+* <a id="hipaa"></a>HIPAA：美国健康保险便携性和责任法案（Health Insurance Portability & Accountability Act）
+* <a id="hiperlan"></a>HIPERLAN：高性能无线局域网（High Performance Radio Local Area Network）
+* <a id="hips"></a>HIPS：主机入侵预防系统（Host Intrusion Prevention System）
+* <a id="his"></a>HIS：健康信息系统（Health Information System）；医院信息管理系统（Hospital Information System）
+* <a id="hitb"></a>HITB：HITB安全大会（Hack In The Box）
+* <a id="hitech"></a>HITECH：卫生信息技术促进经济和临床健康法案（Health Information Technology for Economic & Clinical Health Act）
+* <a id="hitl"></a>HITL：人在回路（Human-In-The-Loop）
+* <a id="hklm"></a>HKLM：本地机器密钥（HKEY_LOCAL_MACHINE）
+* <a id="hlat"></a>HLAT：Hypervisor管理的线性地址转换（Hypervisor Managed Linear Address Translation）
+* <a id="hlr"></a>HLR：GSM归属位置寄存器（Home Location Register）
+* <a id="hma"></a>HMA：高位内存区（High Memory Area）
+* <a id="hmac"></a>HMAC：散列消息认证码（Hash-based Message Authentication Code）；散列消息认证码（Hash Message Authentication Code）
+* <a id="hmee"></a>HMEE：硬件中介执行隔离区（Hardware Mediated Execution Enclave）
+* <a id="hmi"></a>HMI：人机界面（Human Machine Interface）
+* <a id="hmqv"></a>HMQV：哈希MQV协议（Hashed Menezes-Qu-Vanstone）
+* <a id="hndl"></a>HNDL：先截获后解密（Harvest Now, Decrypt Later）
+* <a id="hnt"></a>HNT：氦币（Helium Network Token）
+* <a id="hoic"></a>HOIC：高轨道离子炮网络压测工具（High Orbit Lon Cannon）
+* <a id="hotl"></a>HOTL：人在环上（human-on-the-loop）
+* <a id="hotp"></a>HOTP：基于HMAC的一次性密码（HMAC-based One-time Password）
+* <a id="hov"></a>HOV：高乘载车道（High-Occupancy Vehicle lane）
+* <a id="hp"></a>HP：混合并行（Hybrid Parallelism）
+* <a id="hpc"></a>HPC：高性能计算（High-Performance Computing）；硬件性能计数器（Hardware Performance Counter）
+* <a id="hpe"></a>HPE：惠普公司（Hewlett Packard Enterprise）
+* <a id="hph"></a>HPH：医疗和公共卫生（Healthcare & Public Health）
+* <a id="hpkp"></a>HPKP：HTTP公钥钉扎（HTTP Public Key Pinning）
+* <a id="hpp"></a>HPP：HTTP参数污染（HTTP Parameter Pollution）
+* <a id="hps"></a>HPS：蜜罐系统（Honey Pot System）
+* <a id="hpsim"></a>HPSIM：HPSIM卡（Hosting Party Subscription Identity Module）
+* <a id="hqc"></a>HQC：汉明准循环密钥封装（Hamming Quasi-Cyclic Key Encapsulation Mechanism）
+* <a id="hr"></a>HR：人力资源（Human Resources）
+* <a id="hro"></a>HRO：高可靠性组织（High Reliability Organization）
+* <a id="hrot-cb"></a>HRoT：可信硬件根（Hardware Root of Trust）
+* <a id="hrp"></a>HRP：医院资源管理系统（Hospital Resource Planning）
+* <a id="hru"></a>HRU：哈里森-鲁佐-厄尔曼模型（Harrison-Ruzzo-Ullman）
+* <a id="hs"></a>HS：高速（High Speed）
+* <a id="hsa"></a>HSA：山石安全审计平台（Hillstone Security Audit）
+* <a id="hsi"></a>HSI：人机交互（Human-System Interactions）
+* <a id="hsin"></a>HSIN：国土安全信息网络（Homeland Security Information Network）
+* <a id="hsin-x2dci"></a>HSIN-CI：国土安全信息网络-关键基础设施（Homeland Security Information Network - Critical Infrastructure）
+* <a id="hsm"></a>HSM：硬件安全模块（Hardware Security Module）；层次化存储管理（Hierarchical Storage Management）；山石安全管理平台（Hillstone Security Management）；硬系统方法（Hard Systems Methodology）
+* <a id="hspd"></a>HSPD：美国国土安全总统令（Homeland Security Presidential Directive）
+* <a id="hsr"></a>HSR：高可用性无缝冗余（High-Availability Seamless Redundancy）
+* <a id="hss"></a>HSS：主机安全服务（Host Security Service）；LTE归属签约用户服务器（Home Subscriber Server）
+* <a id="hssedi"></a>HSSEDI：美国国土安全系统工程与开发研究所（Homeland Security Systems Engineering and Development Institute）
+* <a id="hssi"></a>HSSI：高速串行接口（High-Speed Serial Interface）
+* <a id="hsts"></a>HSTS：HTTP严格传输安全（HTTP Strict Transport Security，RFC6797）
+* <a id="hta"></a>HTA：HTML应用程序（HTML Application）
+* <a id="htap"></a>HTAP：混合事务/分析处理（Hybrid Transactional/Analytical Processing）
+* <a id="htbc"></a>HTBC：HyTrust边界控制（HyTrust BoundaryControl）
+* <a id="htca"></a>HTCA：HyTrust云顾问（HyTrust CloudAdvisor）
+* <a id="htcc"></a>HTCC：HyTrust云控制（HyTrust CloudControl）
+* <a id="htdc"></a>HTDC：HyTrust数据控制（HyTrust DataControl）
+* <a id="htkc"></a>HTKC：HyTrust密钥控制（HyTrust KeyControl）
+* <a id="html"></a>HTML：超文本标记语言（Hyper Text Markup Language）
+* <a id="http"></a>HTTP：超文本传输协议（Hyper Text Transfer Protocol）
+* <a id="https"></a>HTTPS：超文本传输安全协议（HTTP over SSL）；超文本传输协议安全（Hypertext Transfer Protocol Secure）
+* <a id="hud"></a>HUD：抬头显示器（Head Up Display）
+* <a id="huk"></a>HUK：硬件唯一键（Hardware Unique Key）
+* <a id="hulk"></a>HULK：某Web压力测试工具（Http Unbearable Load King）
+* <a id="humint"></a>HUMINT：人力情报（HUMan INTelligence）
+* <a id="hva"></a>HVA：高价值资产（High Value Asset）
+* <a id="hvac"></a>HVAC：暖通空调（Heating, Ventilation & Air Conditioning）
+* <a id="hvci"></a>HVCI：虚拟机监控器强制代码一致性（HyperVisor-enforced Code Integrity）
+* <a id="hvv"></a>HVV：某攻防演练活动（HVV）
+* <a id="hw"></a>HW：某攻防演练活动（HW）；硬件（HardWare）；华为公司（拼音：Hua Wei）
+* <a id="hwasan-cf"></a>HWASan：硬件辅助地址检查器（Hardware-assisted Address Sanitizer）
+* <a id="hx"></a>HX：FireEye端点安全产品系列（猜测：Host security）
+* <a id="hyp"></a>HYP：虚拟机监控器（hypervisor）

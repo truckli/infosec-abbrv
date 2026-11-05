@@ -1,177 +1,177 @@
 ## O
 
-* O&M：运维（Operation and Maintenance）
-* O-RA：Open Group风险分析标准（Open Group Risk Analysis）
-* O-RT：Open Group风险分类标准（Open Group Risk Taxonomy）
-* OA：办公自动化（Office Automation）
-* OA&M：操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
-* OAEP：最优非对称加密填充（Optimal Asymmetric Encryption Padding）
-* OAG：本体增强生成（Ontology-Augmented Generation）
-* OAK：本体访问工具集（Ontology Access Kit）
-* OAM：操作、管理和维护（Operations, Administration, and Maintenance）；OCP加速器模块（OCP Accelerator Module）；操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
-* OAM&P：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
-* OAMP：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
-* OAMPT：操作、管理、维护、供应、调试（Operations, Administration， Maintenance， Provisioning & Troubleshooting）
-* OASD：美国国防部助理部长办公室（Office of the Assistant Secretary of Defense）
-* OASIS：结构化信息标准促进组织（Organization for the Advancement of Structured Information Standards）
-* OASW：带外接入交换机（Out-of-band Access SWitch）
-* OATH：开放认证计划（Initiative for Open Authentication）
-* OAuth：开放授权协议（Open Authentication）
-* OB：开放银行（Open Banking）
-* OBD：车载诊断系统（On Board Diagnostics）
-* OBIE：开放式银行实施实体（Open Banking Implementation Entity）
-* OBM：原始品牌制造商（Original Brand Manufacturer）
-* OBO：代表用户换取短期令牌的代理令牌流（On-Behalf-Of）
-* OBSAI：开放基站架构倡议（Open Base Station Architecture Initiative）
-* OBU：车载单元（On-Board Unit）
-* OC：光载波（Optical Carrier）
-* OCA：开放网络安全联盟（The Open Cybersecurity Alliance）
-* OCB：偏移电码本模式（Offset CookBook）；片上总线（On-Chip Bus）
-* OCC：运行控制中心（Operating Control Center）
-* OCEO：攻击性网络行动（Offensive Cyber Effects Operation）
-* OCI：开放容器计划（Open Container Initiative）；Oracle云基础设施（Oracle Cloud Infrastructure）
-* OCIL：开放检查表交互语言（Open Checklist Interactive Language）
-* OCIO：首席信息官办公室（Office of the Chief Information Officer）
-* OCL：对象约束语言（Object Constraint Language）
-* OCO：攻击性网络行动（Offensive Cyber Operation）
-* OCP：开放计算项目（Open Compute Project）；OpenShift容器平台（OpenShift Container Platform）
-* OCR：光学字符识别（Optical Character Recognition）；链下报告（Off-Chain Reporting）
-* OCRM：网络安全和IT风险管理办公室（Office of Cybersecurity & IT Risk Management）
-* OCS：网络安全办公室（Office of CyberSecurity）
-* OCSF：开源网络安全架构框架（Open Cybersecurity Schema Framework）
-* OCSIA：英国网络安全和信息保障办公室（Office of Cyber Security and Information Assurance）
-* OCSP：在线证书状态协议（Online Certificate Status Protocol）
-* OCTAVE：运营关键威胁、资产和脆弱性评估（Operationally Critical Threat, Asset & Vulnerability Evaluation）
-* ODBC：开放数据库连接（Open Database Connectivity）
-* ODC：外包型数据中心（Outsourcing Data Center）
-* ODCC：开放数据中心标准推进委员会（Open Data Center Committee）
-* ODD：运行设计域（Operational Design Domain）
-* ODE：常微分方程（Ordinary Differential Equation）
-* ODM：原始设计制造商（Original Design Manufacturer）；原始设计制造商（Original Device Manufacturer）
-* ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
-* ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
-* ODP：组织定义参数（Organization-Defined Parameter）
-* ODPS：阿里云MaxCompute服务旧称（Open Data Processing Service）
-* ODRL：开放数字权利语言（Open Digital Rights Language）
-* ODS：操作型数据存储（Operational Data Store）
-* OE：作战环境（Operational Environment）
-* OEB：OEB文件格式（Open Ebook Format）
-* OECD：经济合作与发展组织（Organisation for Economic Cooperation & Development）
-* OEM：原始设备生产商（Original Equipment Manufacturer）
-* OEWG：联合国开放成员工作组（Open-ended Working Group）
-* OFAC：美国财政部外国资产控制办公室（Office of Foreign Assets Control）
-* OFB：输出反馈模态（Output Feedback）
-* OFDM：正交频分复用（Orthogonal Frequency-Division Multiplexing）
-* OFX：开放式金融交易所（Open Financial Exchange）
-* OG-RAG：本体引导检索增强生成（Ontology-Guided Retrieval-Augmented Generation）
-* OGAS：前苏联全国自动化会计与系统处理系统（俄语拉丁化：ObweGosudarstvennaq Avtomatizirovannaq Sistema uchyota i obrabotki informacii）
-* OGC：原英国政府贸易办公室（Office of Government Commerce）
-* OIA：美国财政部情报和分析办公室（Office of Intelligence and Analysis）
-* OICI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
-* OID：对象标识符（Object Identifier）
-* OIDC：OpenID连接（OpenID Connect）
-* OIE：信息环境作战（Operations in the Information Environment）
-* OIG：监察长办公室（Office of the Inspector General）
-* OIS：互联网安全组织（Organization for Internet Safety）
-* OISP：美国对外投资安全计划（Outbound Investment Security Program）
-* OKF：开放知识基金会（Open Knowledge Foundation）
-* OKR：目标与关键成果法（Objectives and Key Results）
-* OKS：不经意关键词检索（Oblivious Keyword Search）
-* OLAP：联机分析处理（Online Analytical Processing）
-* OLE：对象链接与嵌入技术（Object Linking and Embedding）；不经意线性计算（Oblivious Linear Function Evaluation）
-* OLIR：在线信息参考（On-Line Informative Reference）
-* OLS：普通最小二乘法（Ordinary Least Squares）
-* OLTP：联机事务处理（Online Transaction Processing）
-* OLWE：顺序LWE（Order LWE）
-* OM：编排管理（Orchestration Management）
-* OMAC：单钥MAC（One-key Message Authentication Code）
-* OMB：美国行政管理和预算办公室（Office of Management and Budget）
-* OMC：运营维护中心（Operation & Maintenance Center）
-* OMG：对象管理组织（Object Management Group）
-* OMR：带外核心交换机（Out-of-band Management Router）
-* OMS：乘客监控系统（Occupancy Monitoring System）
-* ONC：国家协调员办公室（Office of the National Coordinator）
-* ONCD：美国国家网络总监办公室（Office of the National Cyber Director）
-* ONF：开放网络基金会（Open Networking Foundation）
-* ONG：石油天然气行业（Oil & Natural Gas）
-* ONI：美国海军情报室（Office of Naval Intelligence）
-* ONNX：ONNX模型格式（Open Neural Network eXchange）
-* ONSI：美国缉毒局国家安全情报办公室（Office of National Security Intelligence）
-* OOA：面向对象分析（Object-Oriented Analysis）
-* OOAD：面向对象分析与设计（Object-Oriented Analysis & Design）
-* OOB：带外（Out-Of-Band）
-* OOBM：带外管理（Out-Of-Band Management）
-* OOD：面向对象设计（Object-Oriented Design）
-* OODA：观察、知悉、决策、行动循环（Observe, Orient, Decide, Act）
-* OOM：内存不足（Out Of Memory）；面向对象建模（Object-Oriented Modeling）
-* OOP：面向对象编程（Object-Oriented Programming）
-* OOPSA：开放运维联盟（Open OPeraionS Alliance）
-* OOV：未登录词（Out-Of-Vocabulary）
-* OP：OpenID提供者（OpenID Provider）
-* OPA：开源策略引擎，Rego策略语言载体（Open Policy Agent）
-* OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
-* OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
-* OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
-* OPE：不经意多项式评估（Oblivious Polynomial Evaluation）
-* OpenFGA：开放细粒度授权（Open Fine-Grained Authorization）
-* OpenSSF：开源安全基金会（Open Source Security Foundation）
-* OpenVLA：开放视觉—语言—动作模型（Open Vision-Language-Action Model）
-* OPM：美国人事管理办公室（United States Office of Personnel Management）
-* OPRF：不经意伪随机函数（Oblivious Pseudo Random Function）
-* OPS：开放式可插拔规范（Open Pluggable Specification）；每秒运算次数（Operations Per Second）；运维（OPerationS）；阿里云OPS模块（OPerationS module）
-* OPS-5G：开放、可编程、安全的5G（Open Programmable Secure 5G）
-* OPSEC：行动安全（Operational Security）
-* ORB：对象请求代理（Object Request Broker）
-* ORM：对象关系映射（Object Relational Mapping）
-* ORNL：美国橡树岭国家实验室（OakRidge National Laboratory）
-* ORW：打开，读，写（Open, Read & Write）
-* OS：操作系统（Operating System）；编排服务（Orchestration Services）
-* OSA：开放系统鉴别（Open System Authentication）
-* OSC：商业航天办公室（Office of Space Commercialization）
-* OSCAL：开放安全控制评价语言（Open Security Controls Assessment Language）
-* OSCD：开放安全协作发展计划（Open Security Collaborative Development）
-* OSCP：进攻性安全职业认证（Offensive Security Certified Professional）
-* OSD：对象存储设备（Object Storage Device）；美国国防部办公室（Office of the Secretary of Defense）；Ceph对象存储守护进程（Object Storage Daemon）
-* OSD/JS：美国国防部办公室/联合参谋部（Office of the Secretary of Defense/Joint Staff）
-* OSF：开放软件基金会（Open Software Foundation）
-* OSI：开放式系统互联模型（Open System Interconnection）
-* OSIE：开放式系统互联环境（Open System Interconnection Environment）
-* OSINT：开源情报（Open Source INTelligence）
-* OSMS：运维安全管理系统（Operation Security Management System）
-* OSPF：开放式最短路径优先协议（Open Shortest Path First）
-* OSS：运营支撑系统（Operation Support System）；对象存储服务（Object Storage Service）；开源软件（Open Source Software）
-* OSSEC：OSSEC入侵检测系统（Open Source HIDS SECurity）
-* OSSEM：开源安全事件元数据（Open Source Security Events Metadata）
-* OSSIM：开源安全信息管理系统（Open Source Security Information Management）
-* OSSTMM：开源安全测试方法手册（Open Source Security Testing Methodology Manual）
-* OSTA：光存储技术协会（Optical Storage Technology Association）
-* OSTP：白宫科技政策办公室（Office of Science and Technology Policy）
-* OSW：带外汇聚交换机（Out-of-band SWitch）
-* OT：运营技术（Operational Technology）；不经意传输（Oblivious Transfer）；其他交易（Other Transaction）；组织级培训（Organizational Training）
-* OT&E：运行测试与评估（Operational Test & Evaluation）
-* OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
-* OTE：不经意传输扩展（Oblivious Transfer Extension）
-* OTel：OpenTelemetry（OpenTelemetry）
-* OTI：作战训练基础设施（Operational Training Infrastructure）
-* OTLP：OpenTelemetry协议（OpenTelemetry Protocol）
-* OTN：光传送网（Optical Transport Network）
-* OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
-* OTR：无记录消息协议（Off-the-Record messaging）
-* OTS：阿里云TableStore服务旧称（Open Table Service）
-* OTTI：作战测试和训练基础设施（Operational Test & Training Infrastructure）
-* OTX：开放威胁交换（Open Threat Exchange）
-* OU：组织单位（Organization Unit）
-* OUI：组织唯一标识符（Organizationally Unique Identifier）
-* OUSD：美国国防部分管副部长办公室（Office of the Under Secretary of Defense）
-* OV：组织验证型证书（Organization Validated）；DoDAF作战视角（Operational Viewpoint）
-* OVA：OVA格式（Open Virtual Appliance）
-* OVAL：开放脆弱性与评估语言（Open Vulnerability and Assessment Language）
-* OVN：开放虚拟网络（Open Virtual Network）
-* OVS：开放虚拟交换机（Open vSwitch）
-* OW-CPA：单向选择明文攻击（One-way under Chosen-Plaintext Attack）
-* OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
-* OWA：Outlook Web应用（Outlook Web App）；开放世界假设（Open World Assumption）
-* OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
-* OWL：Web本体语言（Web Ontology Language）
-* OWS：开放Web运维管理系统（Open Web System Administration）
-* OXC：光交叉连接（Optical Cross Connect）
+* <a id="o-x26m"></a>O&M：运维（Operation and Maintenance）
+* <a id="o-x2dra"></a>O-RA：Open Group风险分析标准（Open Group Risk Analysis）
+* <a id="o-x2drt"></a>O-RT：Open Group风险分类标准（Open Group Risk Taxonomy）
+* <a id="oa"></a>OA：办公自动化（Office Automation）
+* <a id="oa-x26m"></a>OA&M：操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
+* <a id="oaep"></a>OAEP：最优非对称加密填充（Optimal Asymmetric Encryption Padding）
+* <a id="oag"></a>OAG：本体增强生成（Ontology-Augmented Generation）
+* <a id="oak"></a>OAK：本体访问工具集（Ontology Access Kit）
+* <a id="oam"></a>OAM：操作、管理和维护（Operations, Administration, and Maintenance）；OCP加速器模块（OCP Accelerator Module）；操作、管辖和管理（Operations, Administration & Management）；操作、管理和维护（Operations, Administration & Maintenance）
+* <a id="oam-x26p"></a>OAM&P：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
+* <a id="oamp"></a>OAMP：操作、管理、维护、供应（Operations, Administration， Maintenance & Provisioning）
+* <a id="oampt"></a>OAMPT：操作、管理、维护、供应、调试（Operations, Administration， Maintenance， Provisioning & Troubleshooting）
+* <a id="oasd"></a>OASD：美国国防部助理部长办公室（Office of the Assistant Secretary of Defense）
+* <a id="oasis"></a>OASIS：结构化信息标准促进组织（Organization for the Advancement of Structured Information Standards）
+* <a id="oasw"></a>OASW：带外接入交换机（Out-of-band Access SWitch）
+* <a id="oath"></a>OATH：开放认证计划（Initiative for Open Authentication）
+* <a id="oauth-c3"></a>OAuth：开放授权协议（Open Authentication）
+* <a id="ob"></a>OB：开放银行（Open Banking）
+* <a id="obd"></a>OBD：车载诊断系统（On Board Diagnostics）
+* <a id="obie"></a>OBIE：开放式银行实施实体（Open Banking Implementation Entity）
+* <a id="obm"></a>OBM：原始品牌制造商（Original Brand Manufacturer）
+* <a id="obo"></a>OBO：代表用户换取短期令牌的代理令牌流（On-Behalf-Of）
+* <a id="obsai"></a>OBSAI：开放基站架构倡议（Open Base Station Architecture Initiative）
+* <a id="obu"></a>OBU：车载单元（On-Board Unit）
+* <a id="oc"></a>OC：光载波（Optical Carrier）
+* <a id="oca"></a>OCA：开放网络安全联盟（The Open Cybersecurity Alliance）
+* <a id="ocb"></a>OCB：偏移电码本模式（Offset CookBook）；片上总线（On-Chip Bus）
+* <a id="occ"></a>OCC：运行控制中心（Operating Control Center）
+* <a id="oceo"></a>OCEO：攻击性网络行动（Offensive Cyber Effects Operation）
+* <a id="oci"></a>OCI：开放容器计划（Open Container Initiative）；Oracle云基础设施（Oracle Cloud Infrastructure）
+* <a id="ocil"></a>OCIL：开放检查表交互语言（Open Checklist Interactive Language）
+* <a id="ocio"></a>OCIO：首席信息官办公室（Office of the Chief Information Officer）
+* <a id="ocl"></a>OCL：对象约束语言（Object Constraint Language）
+* <a id="oco"></a>OCO：攻击性网络行动（Offensive Cyber Operation）
+* <a id="ocp"></a>OCP：开放计算项目（Open Compute Project）；OpenShift容器平台（OpenShift Container Platform）
+* <a id="ocr"></a>OCR：光学字符识别（Optical Character Recognition）；链下报告（Off-Chain Reporting）
+* <a id="ocrm"></a>OCRM：网络安全和IT风险管理办公室（Office of Cybersecurity & IT Risk Management）
+* <a id="ocs"></a>OCS：网络安全办公室（Office of CyberSecurity）
+* <a id="ocsf"></a>OCSF：开源网络安全架构框架（Open Cybersecurity Schema Framework）
+* <a id="ocsia"></a>OCSIA：英国网络安全和信息保障办公室（Office of Cyber Security and Information Assurance）
+* <a id="ocsp"></a>OCSP：在线证书状态协议（Online Certificate Status Protocol）
+* <a id="octave"></a>OCTAVE：运营关键威胁、资产和脆弱性评估（Operationally Critical Threat, Asset & Vulnerability Evaluation）
+* <a id="odbc"></a>ODBC：开放数据库连接（Open Database Connectivity）
+* <a id="odc"></a>ODC：外包型数据中心（Outsourcing Data Center）
+* <a id="odcc"></a>ODCC：开放数据中心标准推进委员会（Open Data Center Committee）
+* <a id="odd"></a>ODD：运行设计域（Operational Design Domain）
+* <a id="ode"></a>ODE：常微分方程（Ordinary Differential Equation）
+* <a id="odm"></a>ODM：原始设计制造商（Original Design Manufacturer）；原始设计制造商（Original Device Manufacturer）
+* <a id="odni"></a>ODNI：美国国家情报总监办公室（Office of the Director of National Intelligence）
+* <a id="odni-x2dclpo"></a>ODNI-CLPO：美国ODNI民权保护官（Civil Liberties Protection Officer of the Office of the Director of National Intelligence）
+* <a id="odp"></a>ODP：组织定义参数（Organization-Defined Parameter）
+* <a id="odps"></a>ODPS：阿里云MaxCompute服务旧称（Open Data Processing Service）
+* <a id="odrl"></a>ODRL：开放数字权利语言（Open Digital Rights Language）
+* <a id="ods"></a>ODS：操作型数据存储（Operational Data Store）
+* <a id="oe"></a>OE：作战环境（Operational Environment）
+* <a id="oeb"></a>OEB：OEB文件格式（Open Ebook Format）
+* <a id="oecd"></a>OECD：经济合作与发展组织（Organisation for Economic Cooperation & Development）
+* <a id="oem"></a>OEM：原始设备生产商（Original Equipment Manufacturer）
+* <a id="oewg"></a>OEWG：联合国开放成员工作组（Open-ended Working Group）
+* <a id="ofac"></a>OFAC：美国财政部外国资产控制办公室（Office of Foreign Assets Control）
+* <a id="ofb"></a>OFB：输出反馈模态（Output Feedback）
+* <a id="ofdm"></a>OFDM：正交频分复用（Orthogonal Frequency-Division Multiplexing）
+* <a id="ofx"></a>OFX：开放式金融交易所（Open Financial Exchange）
+* <a id="og-x2drag"></a>OG-RAG：本体引导检索增强生成（Ontology-Guided Retrieval-Augmented Generation）
+* <a id="ogas"></a>OGAS：前苏联全国自动化会计与系统处理系统（俄语拉丁化：ObweGosudarstvennaq Avtomatizirovannaq Sistema uchyota i obrabotki informacii）
+* <a id="ogc"></a>OGC：原英国政府贸易办公室（Office of Government Commerce）
+* <a id="oia"></a>OIA：美国财政部情报和分析办公室（Office of Intelligence and Analysis）
+* <a id="oici"></a>OICI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
+* <a id="oid"></a>OID：对象标识符（Object Identifier）
+* <a id="oidc"></a>OIDC：OpenID连接（OpenID Connect）
+* <a id="oie"></a>OIE：信息环境作战（Operations in the Information Environment）
+* <a id="oig"></a>OIG：监察长办公室（Office of the Inspector General）
+* <a id="ois"></a>OIS：互联网安全组织（Organization for Internet Safety）
+* <a id="oisp"></a>OISP：美国对外投资安全计划（Outbound Investment Security Program）
+* <a id="okf"></a>OKF：开放知识基金会（Open Knowledge Foundation）
+* <a id="okr"></a>OKR：目标与关键成果法（Objectives and Key Results）
+* <a id="oks"></a>OKS：不经意关键词检索（Oblivious Keyword Search）
+* <a id="olap"></a>OLAP：联机分析处理（Online Analytical Processing）
+* <a id="ole"></a>OLE：对象链接与嵌入技术（Object Linking and Embedding）；不经意线性计算（Oblivious Linear Function Evaluation）
+* <a id="olir"></a>OLIR：在线信息参考（On-Line Informative Reference）
+* <a id="ols"></a>OLS：普通最小二乘法（Ordinary Least Squares）
+* <a id="oltp"></a>OLTP：联机事务处理（Online Transaction Processing）
+* <a id="olwe"></a>OLWE：顺序LWE（Order LWE）
+* <a id="om"></a>OM：编排管理（Orchestration Management）
+* <a id="omac"></a>OMAC：单钥MAC（One-key Message Authentication Code）
+* <a id="omb"></a>OMB：美国行政管理和预算办公室（Office of Management and Budget）
+* <a id="omc"></a>OMC：运营维护中心（Operation & Maintenance Center）
+* <a id="omg"></a>OMG：对象管理组织（Object Management Group）
+* <a id="omr"></a>OMR：带外核心交换机（Out-of-band Management Router）
+* <a id="oms"></a>OMS：乘客监控系统（Occupancy Monitoring System）
+* <a id="onc"></a>ONC：国家协调员办公室（Office of the National Coordinator）
+* <a id="oncd"></a>ONCD：美国国家网络总监办公室（Office of the National Cyber Director）
+* <a id="onf"></a>ONF：开放网络基金会（Open Networking Foundation）
+* <a id="ong"></a>ONG：石油天然气行业（Oil & Natural Gas）
+* <a id="oni"></a>ONI：美国海军情报室（Office of Naval Intelligence）
+* <a id="onnx"></a>ONNX：ONNX模型格式（Open Neural Network eXchange）
+* <a id="onsi"></a>ONSI：美国缉毒局国家安全情报办公室（Office of National Security Intelligence）
+* <a id="ooa"></a>OOA：面向对象分析（Object-Oriented Analysis）
+* <a id="ooad"></a>OOAD：面向对象分析与设计（Object-Oriented Analysis & Design）
+* <a id="oob"></a>OOB：带外（Out-Of-Band）
+* <a id="oobm"></a>OOBM：带外管理（Out-Of-Band Management）
+* <a id="ood"></a>OOD：面向对象设计（Object-Oriented Design）
+* <a id="ooda"></a>OODA：观察、知悉、决策、行动循环（Observe, Orient, Decide, Act）
+* <a id="oom"></a>OOM：内存不足（Out Of Memory）；面向对象建模（Object-Oriented Modeling）
+* <a id="oop"></a>OOP：面向对象编程（Object-Oriented Programming）
+* <a id="oopsa"></a>OOPSA：开放运维联盟（Open OPeraionS Alliance）
+* <a id="oov"></a>OOV：未登录词（Out-Of-Vocabulary）
+* <a id="op"></a>OP：OpenID提供者（OpenID Provider）
+* <a id="opa"></a>OPA：开源策略引擎，Rego策略语言载体（Open Policy Agent）
+* <a id="opc"></a>OPC：用于过程控制的OLE（Object Linking and Embedding for Process Control）；开放平台通信（Open Platform Communications）
+* <a id="opcl"></a>OPCL：美国DoJ隐私和民权办公室（Office of Privacy and Civil Liberties）
+* <a id="opdp"></a>OPDP：隐私和数据保护办公室（Office of Privacy & Data Protection）
+* <a id="ope"></a>OPE：不经意多项式评估（Oblivious Polynomial Evaluation）
+* <a id="openfga-c71"></a>OpenFGA：开放细粒度授权（Open Fine-Grained Authorization）
+* <a id="openssf-c71"></a>OpenSSF：开源安全基金会（Open Source Security Foundation）
+* <a id="openvla-c71"></a>OpenVLA：开放视觉—语言—动作模型（Open Vision-Language-Action Model）
+* <a id="opm"></a>OPM：美国人事管理办公室（United States Office of Personnel Management）
+* <a id="oprf"></a>OPRF：不经意伪随机函数（Oblivious Pseudo Random Function）
+* <a id="ops"></a>OPS：开放式可插拔规范（Open Pluggable Specification）；每秒运算次数（Operations Per Second）；运维（OPerationS）；阿里云OPS模块（OPerationS module）
+* <a id="ops-x2d5g"></a>OPS-5G：开放、可编程、安全的5G（Open Programmable Secure 5G）
+* <a id="opsec"></a>OPSEC：行动安全（Operational Security）
+* <a id="orb"></a>ORB：对象请求代理（Object Request Broker）
+* <a id="orm"></a>ORM：对象关系映射（Object Relational Mapping）
+* <a id="ornl"></a>ORNL：美国橡树岭国家实验室（OakRidge National Laboratory）
+* <a id="orw"></a>ORW：打开，读，写（Open, Read & Write）
+* <a id="os"></a>OS：操作系统（Operating System）；编排服务（Orchestration Services）
+* <a id="osa"></a>OSA：开放系统鉴别（Open System Authentication）
+* <a id="osc"></a>OSC：商业航天办公室（Office of Space Commercialization）
+* <a id="oscal"></a>OSCAL：开放安全控制评价语言（Open Security Controls Assessment Language）
+* <a id="oscd"></a>OSCD：开放安全协作发展计划（Open Security Collaborative Development）
+* <a id="oscp"></a>OSCP：进攻性安全职业认证（Offensive Security Certified Professional）
+* <a id="osd"></a>OSD：对象存储设备（Object Storage Device）；美国国防部办公室（Office of the Secretary of Defense）；Ceph对象存储守护进程（Object Storage Daemon）
+* <a id="osd-x2fjs"></a>OSD/JS：美国国防部办公室/联合参谋部（Office of the Secretary of Defense/Joint Staff）
+* <a id="osf"></a>OSF：开放软件基金会（Open Software Foundation）
+* <a id="osi"></a>OSI：开放式系统互联模型（Open System Interconnection）
+* <a id="osie"></a>OSIE：开放式系统互联环境（Open System Interconnection Environment）
+* <a id="osint"></a>OSINT：开源情报（Open Source INTelligence）
+* <a id="osms"></a>OSMS：运维安全管理系统（Operation Security Management System）
+* <a id="ospf"></a>OSPF：开放式最短路径优先协议（Open Shortest Path First）
+* <a id="oss"></a>OSS：运营支撑系统（Operation Support System）；对象存储服务（Object Storage Service）；开源软件（Open Source Software）
+* <a id="ossec"></a>OSSEC：OSSEC入侵检测系统（Open Source HIDS SECurity）
+* <a id="ossem"></a>OSSEM：开源安全事件元数据（Open Source Security Events Metadata）
+* <a id="ossim"></a>OSSIM：开源安全信息管理系统（Open Source Security Information Management）
+* <a id="osstmm"></a>OSSTMM：开源安全测试方法手册（Open Source Security Testing Methodology Manual）
+* <a id="osta"></a>OSTA：光存储技术协会（Optical Storage Technology Association）
+* <a id="ostp"></a>OSTP：白宫科技政策办公室（Office of Science and Technology Policy）
+* <a id="osw"></a>OSW：带外汇聚交换机（Out-of-band SWitch）
+* <a id="ot"></a>OT：运营技术（Operational Technology）；不经意传输（Oblivious Transfer）；其他交易（Other Transaction）；组织级培训（Organizational Training）
+* <a id="ot-x26e"></a>OT&E：运行测试与评估（Operational Test & Evaluation）
+* <a id="ota"></a>OTA：空中下载技术（Over The Air）；其他交易协议采购（Other Transaction Agreement）
+* <a id="ote"></a>OTE：不经意传输扩展（Oblivious Transfer Extension）
+* <a id="otel-c3"></a>OTel：OpenTelemetry（OpenTelemetry）
+* <a id="oti"></a>OTI：作战训练基础设施（Operational Training Infrastructure）
+* <a id="otlp"></a>OTLP：OpenTelemetry协议（OpenTelemetry Protocol）
+* <a id="otn"></a>OTN：光传送网（Optical Transport Network）
+* <a id="otp"></a>OTP：一次一密（One-Time Pad）；一次性口令（One-Time Password）
+* <a id="otr"></a>OTR：无记录消息协议（Off-the-Record messaging）
+* <a id="ots"></a>OTS：阿里云TableStore服务旧称（Open Table Service）
+* <a id="otti"></a>OTTI：作战测试和训练基础设施（Operational Test & Training Infrastructure）
+* <a id="otx"></a>OTX：开放威胁交换（Open Threat Exchange）
+* <a id="ou"></a>OU：组织单位（Organization Unit）
+* <a id="oui"></a>OUI：组织唯一标识符（Organizationally Unique Identifier）
+* <a id="ousd"></a>OUSD：美国国防部分管副部长办公室（Office of the Under Secretary of Defense）
+* <a id="ov"></a>OV：组织验证型证书（Organization Validated）；DoDAF作战视角（Operational Viewpoint）
+* <a id="ova"></a>OVA：OVA格式（Open Virtual Appliance）
+* <a id="oval"></a>OVAL：开放脆弱性与评估语言（Open Vulnerability and Assessment Language）
+* <a id="ovn"></a>OVN：开放虚拟网络（Open Virtual Network）
+* <a id="ovs"></a>OVS：开放虚拟交换机（Open vSwitch）
+* <a id="ow-x2dcpa"></a>OW-CPA：单向选择明文攻击（One-way under Chosen-Plaintext Attack）
+* <a id="ow-x2dpca"></a>OW-PCA：明文检查攻击下的单向性（Onewayness under Plaintext-Checking Attacks）
+* <a id="owa"></a>OWA：Outlook Web应用（Outlook Web App）；开放世界假设（Open World Assumption）
+* <a id="owasp"></a>OWASP：开放Web应用安全项目基金会（The Open Web Application Security Project）
+* <a id="owl"></a>OWL：Web本体语言（Web Ontology Language）
+* <a id="ows"></a>OWS：开放Web运维管理系统（Open Web System Administration）
+* <a id="oxc"></a>OXC：光交叉连接（Optical Cross Connect）

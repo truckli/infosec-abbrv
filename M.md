@@ -1,247 +1,247 @@
 ## M
 
-* M2M：机器间通信（Machine-to-Machine）
-* MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）；移动平均模型（Moving Average）
-* MaaS：恶意程序即服务（Malware as a Service）；模型即服务（Model as a Service）
-* MAC：强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）；媒体访问控制（Media Access Control）；消息认证码（Message Authentication Code）
-* MACAW：托管认证上下文感知工作流（Managed Authenticated Context-Aware Workflows）
-* MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
-* MAE：任务保障工程（Mission Assurance Engineering）
-* MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
-* MAESTRO：多智能体环境、安全、威胁风险和结果（Multi-Agent Environment, Security, Threat, Risk, and Outcome）
-* MAF：机动飞行部队（Mobility Air Forces）
-* MAID：大规模非活动磁盘阵列（Massive Array Of Inactive Disk）
-* MAJCOM：大型空军司令部（Major Air Command）
-* MAM：移动应用管理（Mobile Application Management）；移动访问管理（Mobile Access Management）
-* MAN：城域网（Metropolitan Area Network）
-* MANET：移动自组织网络（Mobile Ad-hoc Network）
-* MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
-* MAPP：微软主动防护计划（Microsoft Active Protection Program）
-* MAPPO：多智能体近端策略优化（强化学习）（Multi-Agent Proximal Policy Optimization）
-* MAQ：机器账户配额（Machine Account Quota）
-* MARAD：海事管理局（Maritime Administration）
-* MAS：多智能体系统（Multi-Agent System）
-* MASM：微软汇编器（Microsoft Assembler）
-* MAST：移动应用安全测试（Mobile Application Security Testing）
-* MAU：月均活跃用户数量（Monthly Active User）
-* MB：兆字节（Megabytes）
-* MBO：恶意软件行为本体（Malware Behavior Ontology）
-* MBOM：制造材料清单（Manufacturing Bill of Materials）
-* Mbps：兆位/秒（Megabits per second）；兆比特每秒（Megabit per second）
-* MBR：主引导记录（Master Boot Record）；最大比特率（Maximum Bit Rate）
-* MBSA：微软基线安全分析器（Microsoft Baseline Security Analyzer）
-* MBT：基于模型的测试（Model-Based Testing）
-* MC：监控与调整（Monitoring & Control）
-* MC-LAG：多机箱链路聚合组（Multichassis Link Aggregation Group）
-* MCA：恶意网络参与者（Malicious Cyber Actor）
-* MCAA：测量、控制和自动化协会（Measurement, Control, & Automation Association）
-* MCCDC：海军陆战队作战发展司令部（Marine Corps Combat Development Command）
-* MCD：多抵押DAI币（Multi-Collateral DAI）
-* MCDES：恶意代码检测与清除系统（Malicious Code Detection & Eradication System）
-* MCIA：美国海军陆战队情报部队（Marine Corps Intelligence Activity）
-* MCISR-E：美国海军陆战队情报局（Marine Corps Intelligence Surveillance Reconnaissance Enterprise）
-* MCM：多芯片模块（Multi-Chip Module）；多云管理（Multicloud Management）
-* MCN：多频道网络（Multi-Channel Network）
-* MCO：恶意软件分类本体（Malware Classification Ontology）
-* MCP：模型上下文协议（Model Context Protocol）；网格配置协议（Mesh Configuration Protocol）
-* MCPS：MCP密码学安全层草案（MCP Secure，IETF提出）
-* MCS：多类别安全（Multi Categories Security）
-* MCU：微控制器单元（Micro-Controller Unit）
-* MCWL：美国海军陆战队作战实验室（Marine Corps Warfighting Laboratory）
-* MD：消息摘要（Message Digest）
-* MD5：消息摘要算法（MD5 Message-Digest Algorithm）
-* MDA：消息摘要算法（Message-Digest Algorithm）；美国导弹防御局（Missile Defense Agency）；模型驱动架构（Model Driven Architecture）
-* MDATP：微软高级威胁保护防御（Microsoft Defender Advanced Threat Protection）
-* MDAV：移动设备及属性验证（Mobile Device & Attributes Validation）
-* MDC：模块化数据中心（Modular Data Center）；移动数据中心（Mobile Data Center）
-* MDE：微软端点防护（Microsoft Defender for Endpoint）；模型驱动工程（Model-Driven Engineering）
-* MDF：媒体描述文件（Media Descriptor File）
-* MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）；错误/虚假/恶意信息（Mis/Dis/Mal-information）
-* MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
-* MDO：多域作战（Multi-Domain Operation）
-* MDP：马尔可夫决策过程（Markov Decision Process）
-* MDR：托管式检测与响应（Managed Detection & Response）
-* MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
-* MDT：任务防御部队（Mission Defense Team）
-* ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
-* MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
-* MEC：移动边缘计算（Mobile Edge Computing）
-* MECE：无重复无遗漏法则（Mutually Exclusive Collectively Exhaustive）
-* MECR：多边出口控制机制（Multilateral Export Control Regime）
-* MEF：美国海军陆战队远征部队（Marine Expeditionary Force）
-* MeitY：印度电子和信息技术部（Ministry of Electronics and Information Technology）
-* MELT：度量、事件、日志和跟踪（Metrics, Events, Logs & Traces）
-* MEM：微软端点管理器（Microsoft Endpoint Manager）
-* MEMS：微机电系统（Microelectromechanical Systems）
-* MES：制造执行系统（Manufacturing Execution System）；管理登记服务（Management Enrollment Service）；移动端点安全（Mobile Endpoint Security）
-* METR：模型评估与威胁研究机构（Model Evaluation and Threat Research）
-* MFA：多因素认证（Multi-Factor Authentication）
-* MFHE：多密钥全同态加密（Multi-key FHE）
-* MFL：最大可预见损失（Maximum foreseeable loss）
-* MFLOP：每秒百万浮点运算数（Mega FLoating-point Operations Per Second）
-* MFR：托管文件复制（Managed File Replication）
-* MFT：主文件表（Master File Table）；受控文件传输（Managed File Transfer）
-* MGCP：媒体网关控制协议（Media Gateway Control Protocol）
-* MGF：掩码生成函数（Mask Generation Function）
-* MGW：媒体网关（Media GateWay）
-* MHA：印度内政部（Ministry of Home Affairs）
-* MHz：兆赫（Megahertz）
-* MI：美国军事情报部队（Military Intelligence）；管理信息（Management Information）；任务影响（Mission Impact）
-* MI5：英国军情五局（Military Intelligence, Section 5）
-* MI6：英国军情六局（Military Intelligence, Section 6）
-* MIA：成员推断攻击（Membership Inference Attack）
-* MIB：管理信息库（Management Information Base）
-* MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）；消息完整性码（Message Integrity Code）
-* MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
-* MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
-* MIE：内存完整性强制执行（Memory Integrity Enforcement）
-* MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
-* MII：DeepSpeed-MII库（Model Implementations for Inference）
-* MIIT：工业和信息化部（Ministry of Industry and Information Technology）
-* MILDEC：军事欺骗（Military Deception）
-* MILS：多独立安全级架构（Multiple Independent Levels of Security）
-* MIM：机器身份管理（Machine Identity Management）
-* MIME：多功能互联网邮件扩展（Multipurpose Internet Mail Extensions）
-* MINC：任务集成式网络控制项目（Mission-Integrated Network Control）
-* MINTIC：哥伦比亚信息和通信技术部（西班牙语：Ministerio de Tecnologías de la Información y las Comunicaciones）
-* MIPS：一种精简指令集架构（Microprocessor without Interlocked Pipeline Stages）
-* MIS：管理信息系统（Management Information System）
-* MISC：杂项（Miscellaneous）
-* MISI：马里兰创新与安全研究所（Maryland Innovation and Security Institute）
-* MISO：联合军事信息支援作战（Military Information Support Operations）
-* MISP：恶意软件信息共享平台（Malware Information Sharing Platform）
-* MiSRC：小米安全中心（Mi Security Response Center）
-* MITA：医学成像与技术联盟（Medical Imaging & Technology Alliance）
-* MITM：中间人攻击（Man-in-the-Middle）
-* MIVD：荷兰军事情报安全局（荷兰语：Militaire Inlichtingen- en Veiligheidsdienst）
-* MJ：Midjourney制图工具（Midjourney）
-* MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
-* ML：机器学习（Machine Learning）；度量日志（Measurement Log）
-* ML-DSA：模格数字签名算法（Module-Lattice Digital Signature Algorithm）
-* ML-KEM：模格密钥封装机制（Module-Lattice Key Encapsulation Mechanism）
-* MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
-* MLE：测量发射环境（Measured Launch Environment）
-* MLM：掩码语言模型（Masked Language Model）
-* MLOps：机器学习运营（Machine Learning Operations）
-* MLP：多层感知机（Multi-Layer Perceptron）
-* MLS：多级安全（Multi-Level Security）；多级安全体（Multi-Level Secure）
-* MLWE：基于模误差学习问题（Module Learning With Errors）
-* MLWR：医学成像与技术联盟（Module Learning With Rounding）
-* MMC：微软管理控制台（Microsoft Management Console）
-* MME：LTE移动性管理实体（Mobility Management Entity）
-* MMIO：内存映射（Memory-Mapped I/O）
-* mMTC：海量机器类通信（Massive Machine Type Communication）
-* MMU：内存管理单元（Memory Management Unit）
-* MNO-SD：移动网络运营商 - 安全域（Mobile Network Operator - Security Domain）
-* MNS：大规模通知系统（Mass Notification System）；消息通知服务（Message Notification Service）
-* MO：惯用手法（Modus Operandi）
-* MOB：受管对象浏览器（Managed Object Browser）
-* MOBI：移动开放区块链倡议（Mobility Open Blockchain Initiative）；MOBI文件格式（Mobipocket eBook format）
-* MOC：任务运行中心（Mission Operations Center）
-* MOD：国际标准修改后引入（Modified）；国防部（Ministry of Defence）
-* MODA：多方向决策分析（Multi-Oriented Decision Analysis）
-* MODAF：英国国防部架构框架（British Ministry of Defence Architecture Framework）
-* ModelOps：模型运营（Model Operations）
-* MODEM：调制解调器（Modulator-Demodulator）
-* MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
-* MoE：专家混合模型（Mixture-of-Experts）
-* MOF：元对象工具（Meta-Object Facility）
-* MOIE：面向任务的调查与实验（Mission-Oriented Investigation & Experimentation）
-* MOK：设备所有者密钥（Machine Owner Key）
-* MOM：动机、机会和手段（Motive, Opportunity and Means）；面向消息的中间件（Message-Oriented Middleware）
-* MOP：绩效度量指标（Measures of Performance）
-* MOPS：每秒百万次运算数（Million Operations Per Second）
-* MORDA：面向任务的风险与设计分析（Mission Oriented Risk & Design Analysis）
-* MOSA：模块化开放系统方法（Modular Open Systems Approach）
-* MoSCoW：MoSCoW优先级排序方法（Must，Should have，Could have，Won't have）
-* MOTS：军用现货（Military Off-The-Shelf）
-* MOTW：Web标记（Mark-of-the-Web）
-* MOU：谅解备忘录（Memorandum of Understanding）
-* MP：模型并行（Model Parallelism）
-* MPA：多主管理员（Multi-Primary Administrator）
-* MPC：多方安全计算（Multi-Party Computation）；模型预测控制（Model Predictive Control）
-* MPDRR：管理、保护、检测、响应和恢复（Management，Protection，Detection，Reaction & Recovery）
-* MPE：任务伙伴环境（Mission Partner Environment）
-* MPEG：动态图片专家组（Motion Picture Experts Group）
-* MPI：消息传递接口（Message Passing Interface）
-* MPKC：多变量公钥加密（Multivariate Public Key Cryptosystem）
-* MPLS：多协议标签交换（Multi-Protocol Label Switching）
-* MPLWE：中间产品LWE（Middle-Product LWE）
-* MPP：大规模并行处理（Massively Parallel Processing）
-* MPPE：微软点对点加密（Microsoft Point-to-Point Encryption）
-* MPS：公安部（Ministry of Public Security）；FireEye Web恶意程序防护系统（Malware Protection System）
-* MPT：默克尔帕特里树（Merkle Patricia Tree）
-* MPTD：最大中断时间（Maximum Period Time of Disruption）
-* MPU：微处理器（Micro Processing Unit）
-* MQ：消息队列（Message Queuing）
-* MQA：多查询注意力机制（Multi-Query Attention）
-* MQTT：消息队列遥测传输（Message Queuing Telemetry Transport）
-* MQV：MQV协议（Menezes-Qu-Vanstone）
-* MRA：互认协议（Mutual Recognition Agreement）
-* MRC：面向任务的韧性云（Mission-oriented Resilient Clouds）
-* MRES：多接收方加密方案（Multi-Recipient Encryption Scheme）
-* MRP：物料资源计划（Materials Resource Planning）
-* MRTI：机读情报（Machine-Readable Threat Intelligence）
-* MRTR：多轮请求，MCP 2026-07-28 版本机制（Multi-Round Trip Request）
-* MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
-* MS-CHAP：微软质询握手认证协议（Microsoft Challenge-Handshake Authentication Protocol）
-* MS-DRSR：微软目录复制服务远程协议（Directory Replication Service Remote Protocol）
-* ms-DS-MachineAccountQuota：机器账户配额属性（Machine Account Quota）
-* MS-ISAC：美国州际信息分享和分析中心（Multi-State Information Sharing and Analysis Center）
-* MSA：消息安全辅助（Message Security Assist）；微软账号（Microsoft Account）；微软服务协议（Microsoft Services Agreement）
-* MSB：最高有效位（Most Significant Bit）
-* MSC：GSM移动交换中心（Mobile Switching Center）
-* mSCP：macOS安全合规项目（macOS Security Compliance Project）
-* MSDT：微软支持诊断工具（Microsoft Support Diagnostic Tool）
-* MSE：微服务引擎（Microservices Engine）
-* MSF：一款渗透测试工具（MetaSploit Framework）
-* MSFT：微软公司（MicroSoFT corporation）
-* MSG：微分段（Micro-Segmentation）；消息（message）
-* MSHA：阿里云多活容灾产品（Multi-Site High Availability）
-* MSIS：信息安全理学硕士（Master of Science in Information Security）；模块短整数方案（Module Short Integer Solution）
-* MSISDN：移动订户国际订户目录号（Mobile Subscriber International Subscriber Directory Number）
-* MSISE：信息安全工程理学硕士（Master of Science in Information Security Engineering）
-* MSISPM：信息安全政策管理理学硕士（Master of Science in Information Security Policy & Management）
-* MSIT-IS：信息技术理学硕士信息安全方向（Master of Science in Information Technology-Information Security）
-* MSK：主会话密钥（Master Session Key）
-* MSL：多种单一安全级（Multiple Single Levels）；多安全级（Multiple Security Levels）
-* MSLS：多类单级安全体（Multi-Single Level Secure）
-* MSM：安全可度量项目（Making Security Measurable）
-* MSP：托管式服务提供商（Managed Service Provider）；多路复用段保护（Multiplex Section Protection）
-* MSRC：微软安全响应中心（Microsoft Security Response Center）
-* MSS：托管式安全服务（Managed Security Services）；国家安全部（Ministry of State Security）
-* MSSP：托管式安全服务提供商（Managed Security Services Provider）
-* MSSQL：微软SQLServer数据库（Microsoft SQL Server）
-* MSTIC：微软威胁情报中心（Microsoft Threat Intelligence Center）
-* MSTP：多业务传输平台（Multi-Service Transport Platform）
-* MSV：Mandiant安全验证（Mandiant Security Validation）
-* MT：机床（Machine Tool）
-* MTA：邮件转发代理（Mail Transfer Agent）
-* MTBF：平均故障间隔（Mean Time Between Failures）
-* MTC：移动威胁目录（Mobile Threat Catalogue）
-* MTD：移动目标防御（Moving Target Defense）；最大允许中断时间（Maximum Tolerable Downtime）；移动威胁防御（Mobile Threat Defense）
-* MTE：内存标签扩展 （Memory Tagging Extension）
-* MtE：MAC后加密（MAC-then-encrypt）
-* MTI：强制实现（Mandatory To Implement）
-* MTIPS：托管式可信IP服务（Managed Trusted Internet Protocol Services）
-* mTLS：多传输层安全（Mutual Transport Layer Security）
-* MTO：最大可容许中断（Maximum Tolerable Outage）
-* MTSRC：美团安全应急响应中心（Mei Tuan Security Response Center）
-* MTTC：平均遏制时间（Mean Time To Contain）
-* MTTD：平均检测时间（Mean Time to Detect）
-* MTTF：平均失败间隔（Mean Time to Failure）
-* MTTFD：平均危险失效时间（Mean Time To Dangerous Failure）
-* MTTI：平均识别时间（Mean Time To Identify）
-* MTTK：平均知悉时间（Mean Time to Know）
-* MTTR：平均恢复时间（Mean Time To Recovery）；平均处置时长（Mean Time To Respond）
-* MTU：主终端设备（Master Terminal Unit）；最大传输单元（Maximum Transmission Unit）
-* MUD：制造商使用描述（Manufacturer Usage Description）
-* MVA：托管脆弱性评估服务（Managed Vulnerability Assessment）
-* MVC：模型-视图-控制器（Model-View-Controller）
-* MVCC：多版本并发控制（Multi-Version Concurrency Control）
-* MVD：俄罗斯联邦内务部（俄语拉丁化：Ministerstvo vnutrennikh del）
-* MVM：可管理的漏洞管理服务（Managed Vulnerability Management）
-* MVP：最简可行产品（Minimal Viable Product）；最具价值专家（Most Valuable Professional）
-* MVX：FireEye多向量执行引擎（Multi-Vector Virtual Execution）
-* mW：毫瓦（Milliwatt）
-* MX：邮件交换（Mail Exchange）
+* <a id="m2m"></a>M2M：机器间通信（Machine-to-Machine）
+* <a id="ma"></a>MA：管理代理（Management Agent）；任务保障（Mission Assurance）；度量与分析（Measurement & Analysis）；移动平均模型（Moving Average）
+* <a id="maas-c9"></a>MaaS：恶意程序即服务（Malware as a Service）；模型即服务（Model as a Service）
+* <a id="mac"></a>MAC：强制访问控制模型（Mandatory Access Control）；机器地址码（Machine Address Code）；媒体访问控制（Media Access Control）；消息认证码（Message Authentication Code）
+* <a id="macaw"></a>MACAW：托管认证上下文感知工作流（Managed Authenticated Context-Aware Workflows）
+* <a id="macs"></a>MACS：微软-澳大利亚信号局网盾计划（Microsoft-Australian Signals Directorate Cyber Shield）
+* <a id="mae"></a>MAE：任务保障工程（Mission Assurance Engineering）
+* <a id="maec"></a>MAEC：恶意软件属性枚举和特征描述（Malware Attribute Enumeration and Characterization）
+* <a id="maestro"></a>MAESTRO：多智能体环境、安全、威胁风险和结果（Multi-Agent Environment, Security, Threat, Risk, and Outcome）
+* <a id="maf"></a>MAF：机动飞行部队（Mobility Air Forces）
+* <a id="maid"></a>MAID：大规模非活动磁盘阵列（Massive Array Of Inactive Disk）
+* <a id="majcom"></a>MAJCOM：大型空军司令部（Major Air Command）
+* <a id="mam"></a>MAM：移动应用管理（Mobile Application Management）；移动访问管理（Mobile Access Management）
+* <a id="man"></a>MAN：城域网（Metropolitan Area Network）
+* <a id="manet"></a>MANET：移动自组织网络（Mobile Ad-hoc Network）
+* <a id="mapl"></a>MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
+* <a id="mapp"></a>MAPP：微软主动防护计划（Microsoft Active Protection Program）
+* <a id="mappo"></a>MAPPO：多智能体近端策略优化（强化学习）（Multi-Agent Proximal Policy Optimization）
+* <a id="maq"></a>MAQ：机器账户配额（Machine Account Quota）
+* <a id="marad"></a>MARAD：海事管理局（Maritime Administration）
+* <a id="mas"></a>MAS：多智能体系统（Multi-Agent System）
+* <a id="masm"></a>MASM：微软汇编器（Microsoft Assembler）
+* <a id="mast"></a>MAST：移动应用安全测试（Mobile Application Security Testing）
+* <a id="mau"></a>MAU：月均活跃用户数量（Monthly Active User）
+* <a id="mb"></a>MB：兆字节（Megabytes）
+* <a id="mbo"></a>MBO：恶意软件行为本体（Malware Behavior Ontology）
+* <a id="mbom"></a>MBOM：制造材料清单（Manufacturing Bill of Materials）
+* <a id="mbps-c1"></a>Mbps：兆位/秒（Megabits per second）；兆比特每秒（Megabit per second）
+* <a id="mbr"></a>MBR：主引导记录（Master Boot Record）；最大比特率（Maximum Bit Rate）
+* <a id="mbsa"></a>MBSA：微软基线安全分析器（Microsoft Baseline Security Analyzer）
+* <a id="mbt"></a>MBT：基于模型的测试（Model-Based Testing）
+* <a id="mc"></a>MC：监控与调整（Monitoring & Control）
+* <a id="mc-x2dlag"></a>MC-LAG：多机箱链路聚合组（Multichassis Link Aggregation Group）
+* <a id="mca"></a>MCA：恶意网络参与者（Malicious Cyber Actor）
+* <a id="mcaa"></a>MCAA：测量、控制和自动化协会（Measurement, Control, & Automation Association）
+* <a id="mccdc"></a>MCCDC：海军陆战队作战发展司令部（Marine Corps Combat Development Command）
+* <a id="mcd"></a>MCD：多抵押DAI币（Multi-Collateral DAI）
+* <a id="mcdes"></a>MCDES：恶意代码检测与清除系统（Malicious Code Detection & Eradication System）
+* <a id="mcia"></a>MCIA：美国海军陆战队情报部队（Marine Corps Intelligence Activity）
+* <a id="mcisr-x2de"></a>MCISR-E：美国海军陆战队情报局（Marine Corps Intelligence Surveillance Reconnaissance Enterprise）
+* <a id="mcm"></a>MCM：多芯片模块（Multi-Chip Module）；多云管理（Multicloud Management）
+* <a id="mcn"></a>MCN：多频道网络（Multi-Channel Network）
+* <a id="mco"></a>MCO：恶意软件分类本体（Malware Classification Ontology）
+* <a id="mcp"></a>MCP：模型上下文协议（Model Context Protocol）；网格配置协议（Mesh Configuration Protocol）
+* <a id="mcps"></a>MCPS：MCP密码学安全层草案（MCP Secure，IETF提出）
+* <a id="mcs"></a>MCS：多类别安全（Multi Categories Security）
+* <a id="mcu"></a>MCU：微控制器单元（Micro-Controller Unit）
+* <a id="mcwl"></a>MCWL：美国海军陆战队作战实验室（Marine Corps Warfighting Laboratory）
+* <a id="md"></a>MD：消息摘要（Message Digest）
+* <a id="md5"></a>MD5：消息摘要算法（MD5 Message-Digest Algorithm）
+* <a id="mda"></a>MDA：消息摘要算法（Message-Digest Algorithm）；美国导弹防御局（Missile Defense Agency）；模型驱动架构（Model Driven Architecture）
+* <a id="mdatp"></a>MDATP：微软高级威胁保护防御（Microsoft Defender Advanced Threat Protection）
+* <a id="mdav"></a>MDAV：移动设备及属性验证（Mobile Device & Attributes Validation）
+* <a id="mdc"></a>MDC：模块化数据中心（Modular Data Center）；移动数据中心（Mobile Data Center）
+* <a id="mde"></a>MDE：微软端点防护（Microsoft Defender for Endpoint）；模型驱动工程（Model-Driven Engineering）
+* <a id="mdf"></a>MDF：媒体描述文件（Media Descriptor File）
+* <a id="mdm"></a>MDM：移动设备管理（Mobile Device Management）；主数据管理（Master Data Management）；错误/虚假/恶意信息（Mis/Dis/Mal-information）
+* <a id="mdms"></a>MDMS：多模态数字移动性服务（Multimodal Digital Mobility Services）
+* <a id="mdo"></a>MDO：多域作战（Multi-Domain Operation）
+* <a id="mdp"></a>MDP：马尔可夫决策过程（Markov Decision Process）
+* <a id="mdr"></a>MDR：托管式检测与响应（Managed Detection & Response）
+* <a id="mds"></a>MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
+* <a id="mdt"></a>MDT：任务防御部队（Mission Defense Team）
+* <a id="me"></a>ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
+* <a id="mea"></a>MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
+* <a id="mec"></a>MEC：移动边缘计算（Mobile Edge Computing）
+* <a id="mece"></a>MECE：无重复无遗漏法则（Mutually Exclusive Collectively Exhaustive）
+* <a id="mecr"></a>MECR：多边出口控制机制（Multilateral Export Control Regime）
+* <a id="mef"></a>MEF：美国海军陆战队远征部队（Marine Expeditionary Force）
+* <a id="meity-c11"></a>MeitY：印度电子和信息技术部（Ministry of Electronics and Information Technology）
+* <a id="melt"></a>MELT：度量、事件、日志和跟踪（Metrics, Events, Logs & Traces）
+* <a id="mem"></a>MEM：微软端点管理器（Microsoft Endpoint Manager）
+* <a id="mems"></a>MEMS：微机电系统（Microelectromechanical Systems）
+* <a id="mes"></a>MES：制造执行系统（Manufacturing Execution System）；管理登记服务（Management Enrollment Service）；移动端点安全（Mobile Endpoint Security）
+* <a id="metr"></a>METR：模型评估与威胁研究机构（Model Evaluation and Threat Research）
+* <a id="mfa"></a>MFA：多因素认证（Multi-Factor Authentication）
+* <a id="mfhe"></a>MFHE：多密钥全同态加密（Multi-key FHE）
+* <a id="mfl"></a>MFL：最大可预见损失（Maximum foreseeable loss）
+* <a id="mflop"></a>MFLOP：每秒百万浮点运算数（Mega FLoating-point Operations Per Second）
+* <a id="mfr"></a>MFR：托管文件复制（Managed File Replication）
+* <a id="mft"></a>MFT：主文件表（Master File Table）；受控文件传输（Managed File Transfer）
+* <a id="mgcp"></a>MGCP：媒体网关控制协议（Media Gateway Control Protocol）
+* <a id="mgf"></a>MGF：掩码生成函数（Mask Generation Function）
+* <a id="mgw"></a>MGW：媒体网关（Media GateWay）
+* <a id="mha"></a>MHA：印度内政部（Ministry of Home Affairs）
+* <a id="mhz-c3"></a>MHz：兆赫（Megahertz）
+* <a id="mi"></a>MI：美国军事情报部队（Military Intelligence）；管理信息（Management Information）；任务影响（Mission Impact）
+* <a id="mi5"></a>MI5：英国军情五局（Military Intelligence, Section 5）
+* <a id="mi6"></a>MI6：英国军情六局（Military Intelligence, Section 6）
+* <a id="mia"></a>MIA：成员推断攻击（Membership Inference Attack）
+* <a id="mib"></a>MIB：管理信息库（Management Information Base）
+* <a id="mic"></a>MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）；消息完整性码（Message Integrity Code）
+* <a id="mice"></a>MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）
+* <a id="mictic"></a>MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
+* <a id="mie"></a>MIE：内存完整性强制执行（Memory Integrity Enforcement）
+* <a id="mig"></a>MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
+* <a id="mii"></a>MII：DeepSpeed-MII库（Model Implementations for Inference）
+* <a id="miit"></a>MIIT：工业和信息化部（Ministry of Industry and Information Technology）
+* <a id="mildec"></a>MILDEC：军事欺骗（Military Deception）
+* <a id="mils"></a>MILS：多独立安全级架构（Multiple Independent Levels of Security）
+* <a id="mim"></a>MIM：机器身份管理（Machine Identity Management）
+* <a id="mime"></a>MIME：多功能互联网邮件扩展（Multipurpose Internet Mail Extensions）
+* <a id="minc"></a>MINC：任务集成式网络控制项目（Mission-Integrated Network Control）
+* <a id="mintic"></a>MINTIC：哥伦比亚信息和通信技术部（西班牙语：Ministerio de Tecnologías de la Información y las Comunicaciones）
+* <a id="mips"></a>MIPS：一种精简指令集架构（Microprocessor without Interlocked Pipeline Stages）
+* <a id="mis"></a>MIS：管理信息系统（Management Information System）
+* <a id="misc"></a>MISC：杂项（Miscellaneous）
+* <a id="misi"></a>MISI：马里兰创新与安全研究所（Maryland Innovation and Security Institute）
+* <a id="miso"></a>MISO：联合军事信息支援作战（Military Information Support Operations）
+* <a id="misp"></a>MISP：恶意软件信息共享平台（Malware Information Sharing Platform）
+* <a id="misrc-c1d"></a>MiSRC：小米安全中心（Mi Security Response Center）
+* <a id="mita"></a>MITA：医学成像与技术联盟（Medical Imaging & Technology Alliance）
+* <a id="mitm"></a>MITM：中间人攻击（Man-in-the-Middle）
+* <a id="mivd"></a>MIVD：荷兰军事情报安全局（荷兰语：Militaire Inlichtingen- en Veiligheidsdienst）
+* <a id="mj"></a>MJ：Midjourney制图工具（Midjourney）
+* <a id="mktme"></a>MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
+* <a id="ml"></a>ML：机器学习（Machine Learning）；度量日志（Measurement Log）
+* <a id="ml-x2ddsa"></a>ML-DSA：模格数字签名算法（Module-Lattice Digital Signature Algorithm）
+* <a id="ml-x2dkem"></a>ML-KEM：模格密钥封装机制（Module-Lattice Key Encapsulation Mechanism）
+* <a id="mlag"></a>MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
+* <a id="mle"></a>MLE：测量发射环境（Measured Launch Environment）
+* <a id="mlm"></a>MLM：掩码语言模型（Masked Language Model）
+* <a id="mlops-c7"></a>MLOps：机器学习运营（Machine Learning Operations）
+* <a id="mlp"></a>MLP：多层感知机（Multi-Layer Perceptron）
+* <a id="mls"></a>MLS：多级安全（Multi-Level Security）；多级安全体（Multi-Level Secure）
+* <a id="mlwe"></a>MLWE：基于模误差学习问题（Module Learning With Errors）
+* <a id="mlwr"></a>MLWR：医学成像与技术联盟（Module Learning With Rounding）
+* <a id="mmc"></a>MMC：微软管理控制台（Microsoft Management Console）
+* <a id="mme"></a>MME：LTE移动性管理实体（Mobility Management Entity）
+* <a id="mmio"></a>MMIO：内存映射（Memory-Mapped I/O）
+* <a id="mmtc-ce"></a>mMTC：海量机器类通信（Massive Machine Type Communication）
+* <a id="mmu"></a>MMU：内存管理单元（Memory Management Unit）
+* <a id="mno-x2dsd"></a>MNO-SD：移动网络运营商 - 安全域（Mobile Network Operator - Security Domain）
+* <a id="mns"></a>MNS：大规模通知系统（Mass Notification System）；消息通知服务（Message Notification Service）
+* <a id="mo"></a>MO：惯用手法（Modus Operandi）
+* <a id="mob"></a>MOB：受管对象浏览器（Managed Object Browser）
+* <a id="mobi"></a>MOBI：移动开放区块链倡议（Mobility Open Blockchain Initiative）；MOBI文件格式（Mobipocket eBook format）
+* <a id="moc"></a>MOC：任务运行中心（Mission Operations Center）
+* <a id="mod"></a>MOD：国际标准修改后引入（Modified）；国防部（Ministry of Defence）
+* <a id="moda"></a>MODA：多方向决策分析（Multi-Oriented Decision Analysis）
+* <a id="modaf"></a>MODAF：英国国防部架构框架（British Ministry of Defence Architecture Framework）
+* <a id="modelops-c21"></a>ModelOps：模型运营（Model Operations）
+* <a id="modem"></a>MODEM：调制解调器（Modulator-Demodulator）
+* <a id="moe"></a>MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
+* <a id="moe-c5"></a>MoE：专家混合模型（Mixture-of-Experts）
+* <a id="mof"></a>MOF：元对象工具（Meta-Object Facility）
+* <a id="moie"></a>MOIE：面向任务的调查与实验（Mission-Oriented Investigation & Experimentation）
+* <a id="mok"></a>MOK：设备所有者密钥（Machine Owner Key）
+* <a id="mom"></a>MOM：动机、机会和手段（Motive, Opportunity and Means）；面向消息的中间件（Message-Oriented Middleware）
+* <a id="mop"></a>MOP：绩效度量指标（Measures of Performance）
+* <a id="mops"></a>MOPS：每秒百万次运算数（Million Operations Per Second）
+* <a id="morda"></a>MORDA：面向任务的风险与设计分析（Mission Oriented Risk & Design Analysis）
+* <a id="mosa"></a>MOSA：模块化开放系统方法（Modular Open Systems Approach）
+* <a id="moscow-c2d"></a>MoSCoW：MoSCoW优先级排序方法（Must，Should have，Could have，Won't have）
+* <a id="mots"></a>MOTS：军用现货（Military Off-The-Shelf）
+* <a id="motw"></a>MOTW：Web标记（Mark-of-the-Web）
+* <a id="mou"></a>MOU：谅解备忘录（Memorandum of Understanding）
+* <a id="mp"></a>MP：模型并行（Model Parallelism）
+* <a id="mpa"></a>MPA：多主管理员（Multi-Primary Administrator）
+* <a id="mpc"></a>MPC：多方安全计算（Multi-Party Computation）；模型预测控制（Model Predictive Control）
+* <a id="mpdrr"></a>MPDRR：管理、保护、检测、响应和恢复（Management，Protection，Detection，Reaction & Recovery）
+* <a id="mpe"></a>MPE：任务伙伴环境（Mission Partner Environment）
+* <a id="mpeg"></a>MPEG：动态图片专家组（Motion Picture Experts Group）
+* <a id="mpi"></a>MPI：消息传递接口（Message Passing Interface）
+* <a id="mpkc"></a>MPKC：多变量公钥加密（Multivariate Public Key Cryptosystem）
+* <a id="mpls"></a>MPLS：多协议标签交换（Multi-Protocol Label Switching）
+* <a id="mplwe"></a>MPLWE：中间产品LWE（Middle-Product LWE）
+* <a id="mpp"></a>MPP：大规模并行处理（Massively Parallel Processing）
+* <a id="mppe"></a>MPPE：微软点对点加密（Microsoft Point-to-Point Encryption）
+* <a id="mps"></a>MPS：公安部（Ministry of Public Security）；FireEye Web恶意程序防护系统（Malware Protection System）
+* <a id="mpt"></a>MPT：默克尔帕特里树（Merkle Patricia Tree）
+* <a id="mptd"></a>MPTD：最大中断时间（Maximum Period Time of Disruption）
+* <a id="mpu"></a>MPU：微处理器（Micro Processing Unit）
+* <a id="mq"></a>MQ：消息队列（Message Queuing）
+* <a id="mqa"></a>MQA：多查询注意力机制（Multi-Query Attention）
+* <a id="mqtt"></a>MQTT：消息队列遥测传输（Message Queuing Telemetry Transport）
+* <a id="mqv"></a>MQV：MQV协议（Menezes-Qu-Vanstone）
+* <a id="mra"></a>MRA：互认协议（Mutual Recognition Agreement）
+* <a id="mrc"></a>MRC：面向任务的韧性云（Mission-oriented Resilient Clouds）
+* <a id="mres"></a>MRES：多接收方加密方案（Multi-Recipient Encryption Scheme）
+* <a id="mrp"></a>MRP：物料资源计划（Materials Resource Planning）
+* <a id="mrti"></a>MRTI：机读情报（Machine-Readable Threat Intelligence）
+* <a id="mrtr"></a>MRTR：多轮请求，MCP 2026-07-28 版本机制（Multi-Round Trip Request）
+* <a id="ms"></a>MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
+* <a id="ms-x2dchap"></a>MS-CHAP：微软质询握手认证协议（Microsoft Challenge-Handshake Authentication Protocol）
+* <a id="ms-x2ddrsr"></a>MS-DRSR：微软目录复制服务远程协议（Directory Replication Service Remote Protocol）
+* <a id="ms-x2dds-x2dmachineaccountquota-c4081c"></a>ms-DS-MachineAccountQuota：机器账户配额属性（Machine Account Quota）
+* <a id="ms-x2disac"></a>MS-ISAC：美国州际信息分享和分析中心（Multi-State Information Sharing and Analysis Center）
+* <a id="msa"></a>MSA：消息安全辅助（Message Security Assist）；微软账号（Microsoft Account）；微软服务协议（Microsoft Services Agreement）
+* <a id="msb"></a>MSB：最高有效位（Most Significant Bit）
+* <a id="msc"></a>MSC：GSM移动交换中心（Mobile Switching Center）
+* <a id="mscp-ce"></a>mSCP：macOS安全合规项目（macOS Security Compliance Project）
+* <a id="msdt"></a>MSDT：微软支持诊断工具（Microsoft Support Diagnostic Tool）
+* <a id="mse"></a>MSE：微服务引擎（Microservices Engine）
+* <a id="msf"></a>MSF：一款渗透测试工具（MetaSploit Framework）
+* <a id="msft"></a>MSFT：微软公司（MicroSoFT corporation）
+* <a id="msg"></a>MSG：微分段（Micro-Segmentation）；消息（message）
+* <a id="msha"></a>MSHA：阿里云多活容灾产品（Multi-Site High Availability）
+* <a id="msis"></a>MSIS：信息安全理学硕士（Master of Science in Information Security）；模块短整数方案（Module Short Integer Solution）
+* <a id="msisdn"></a>MSISDN：移动订户国际订户目录号（Mobile Subscriber International Subscriber Directory Number）
+* <a id="msise"></a>MSISE：信息安全工程理学硕士（Master of Science in Information Security Engineering）
+* <a id="msispm"></a>MSISPM：信息安全政策管理理学硕士（Master of Science in Information Security Policy & Management）
+* <a id="msit-x2dis"></a>MSIT-IS：信息技术理学硕士信息安全方向（Master of Science in Information Technology-Information Security）
+* <a id="msk"></a>MSK：主会话密钥（Master Session Key）
+* <a id="msl"></a>MSL：多种单一安全级（Multiple Single Levels）；多安全级（Multiple Security Levels）
+* <a id="msls"></a>MSLS：多类单级安全体（Multi-Single Level Secure）
+* <a id="msm"></a>MSM：安全可度量项目（Making Security Measurable）
+* <a id="msp"></a>MSP：托管式服务提供商（Managed Service Provider）；多路复用段保护（Multiplex Section Protection）
+* <a id="msrc"></a>MSRC：微软安全响应中心（Microsoft Security Response Center）
+* <a id="mss"></a>MSS：托管式安全服务（Managed Security Services）；国家安全部（Ministry of State Security）
+* <a id="mssp"></a>MSSP：托管式安全服务提供商（Managed Security Services Provider）
+* <a id="mssql"></a>MSSQL：微软SQLServer数据库（Microsoft SQL Server）
+* <a id="mstic"></a>MSTIC：微软威胁情报中心（Microsoft Threat Intelligence Center）
+* <a id="mstp"></a>MSTP：多业务传输平台（Multi-Service Transport Platform）
+* <a id="msv"></a>MSV：Mandiant安全验证（Mandiant Security Validation）
+* <a id="mt"></a>MT：机床（Machine Tool）
+* <a id="mta"></a>MTA：邮件转发代理（Mail Transfer Agent）
+* <a id="mtbf"></a>MTBF：平均故障间隔（Mean Time Between Failures）
+* <a id="mtc"></a>MTC：移动威胁目录（Mobile Threat Catalogue）
+* <a id="mtd"></a>MTD：移动目标防御（Moving Target Defense）；最大允许中断时间（Maximum Tolerable Downtime）；移动威胁防御（Mobile Threat Defense）
+* <a id="mte"></a>MTE：内存标签扩展 （Memory Tagging Extension）
+* <a id="mte-c5"></a>MtE：MAC后加密（MAC-then-encrypt）
+* <a id="mti"></a>MTI：强制实现（Mandatory To Implement）
+* <a id="mtips"></a>MTIPS：托管式可信IP服务（Managed Trusted Internet Protocol Services）
+* <a id="mtls-ce"></a>mTLS：多传输层安全（Mutual Transport Layer Security）
+* <a id="mto"></a>MTO：最大可容许中断（Maximum Tolerable Outage）
+* <a id="mtsrc"></a>MTSRC：美团安全应急响应中心（Mei Tuan Security Response Center）
+* <a id="mttc"></a>MTTC：平均遏制时间（Mean Time To Contain）
+* <a id="mttd"></a>MTTD：平均检测时间（Mean Time to Detect）
+* <a id="mttf"></a>MTTF：平均失败间隔（Mean Time to Failure）
+* <a id="mttfd"></a>MTTFD：平均危险失效时间（Mean Time To Dangerous Failure）
+* <a id="mtti"></a>MTTI：平均识别时间（Mean Time To Identify）
+* <a id="mttk"></a>MTTK：平均知悉时间（Mean Time to Know）
+* <a id="mttr"></a>MTTR：平均恢复时间（Mean Time To Recovery）；平均处置时长（Mean Time To Respond）
+* <a id="mtu"></a>MTU：主终端设备（Master Terminal Unit）；最大传输单元（Maximum Transmission Unit）
+* <a id="mud"></a>MUD：制造商使用描述（Manufacturer Usage Description）
+* <a id="mva"></a>MVA：托管脆弱性评估服务（Managed Vulnerability Assessment）
+* <a id="mvc"></a>MVC：模型-视图-控制器（Model-View-Controller）
+* <a id="mvcc"></a>MVCC：多版本并发控制（Multi-Version Concurrency Control）
+* <a id="mvd"></a>MVD：俄罗斯联邦内务部（俄语拉丁化：Ministerstvo vnutrennikh del）
+* <a id="mvm"></a>MVM：可管理的漏洞管理服务（Managed Vulnerability Management）
+* <a id="mvp"></a>MVP：最简可行产品（Minimal Viable Product）；最具价值专家（Most Valuable Professional）
+* <a id="mvx"></a>MVX：FireEye多向量执行引擎（Multi-Vector Virtual Execution）
+* <a id="mw-c2"></a>mW：毫瓦（Milliwatt）
+* <a id="mx"></a>MX：邮件交换（Mail Exchange）

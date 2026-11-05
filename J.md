@@ -1,81 +1,81 @@
 ## J
 
-* J-CSIP：日本网络信息共享倡议（Japan Cybersecurity Information Sharing Partnership）
-* JA3：JA3指纹（John Althouse, Jeff Atkinson & Josh Atkins）
-* JA3S：JA3S指纹（JA3 Server）
-* JAD：联合应用开发模式（Joint Application Development）
-* JADC2：联合全域指挥控制（Joint All-Domain Command & Control）
-* JADN：JSON抽象数据标记（JSON Abstract Data Notation）
-* JADO：联合全域作战（Joint All-Domain Operations）
-* JAIC：联合人工智能中心（Joint Artificial Intelligence Center）
-* JAOC：联合空中作战中心（Joint Air Operations Center）
-* JARM：JARM指纹探测（John, Andrew, RJ & Mike）
-* JCAP：联合通用访问平台（Joint Common Access Program）
-* JCC2：联合网络指挥控制（Joint Cyber Command & Control）
-* JCCC：联合通信控制中心（Joint Communications Control Center）
-* JCCM：欧盟刑事司法合作（Judicial Cooperation in Criminal Matters）
-* JCDC：联合网络防御协作（Joint Cyber Defense Collaborative）
-* JCE：联合协作环境（Joint Collaborative Environment）
-* JCIDS：联合能力整合与发展系统（Joint Capabilities Integration & Development System）
-* JCS：美国国防部参谋长联席会议（Joint Chiefs of Staff）；JSON规范化方案（JSON Canonicalization Scheme）
-* JCWA：联合网络作战架构（Joint Cyber Warfighting Architecture）
-* JDBC：Java数据库连接（Java Database Connectivity）
-* JDI：Java调试接口（Java Debug Interface）
-* JDIICS：联合DII控制系统（Joint DII Control Systems）
-* JDWP：Java调试线协议（Java Debug Wire Protocol）
-* JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
-* JEPA：联合嵌入预测架构（Joint Embedding Predictive Architecture）
-* JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
-* JFAPA：岗位职责访问模式分析（Job Function Access Pattern Analysis）
-* JFC：联合部队指挥官（Joint Force Commander）
-* JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
-* JFFS：日志快闪文件系统（Journaling Flash File System）
-* JFHQ：联合部队总部（JFHQ）
-* JFHQ-C：分管网络领域的联合部队总部（Joint Force Headquarters-Cyber）
-* JFHQ-DoDIN：国防部信息网络联合部队司令部（Joint Force Headquarters-Department of Defense Information Network）
-* JIC：英国联合情报委员会（Joint Intelligence Committee）
-* JIE：联合信息环境（Joint Information Environment）
-* JIEO：联合互操作性工程组织（Joint Interoperability Engineering Organization）
-* JISEC：日本IT安全评价及认证制度（Japan IT Security Evaluation & Certification）
-* JIT：即时编译（Just-In-Time）；即时授权（Just-In-Time Authorization）；即时权限（Just-In-Time Access）
-* JIWG：联合IA行动工作组（Joint IA Operations Working Group）
-* JKS：Java密钥库（Java KeyStore）
-* JMN：JIE管理网络（Joint Information Environment Management Network）
-* JMS：联合管理系统（Joint Management. System）
-* JMX：Java管理扩展（Java Management Extensions）
-* JNDI：Java命名和目录接口（Java Naming and Directory Interface）
-* JOC：联合作战概念（Joint Operating Concept）
-* JOP：面向跳转编程（Jump Oriented Programming）
-* JOPES：联合作战计划与执行系统（Joint Operation Planning and Execution System）
-* JP：联合出版物（Joint Publication）
-* JPCERT/CC：日本计算机应急小组协调中心（Japan Computer Emergency Response Team Coordination Center）
-* JPEG：联合照片专家组（Joint Photographic Experts Group）
-* JPES：联合计划与执行服务（Joint Planning and Execution Services）
-* JPO-STC：特殊技术反制联合计划办公室（Joint Program Office for Special Technical Countermeasures）
-* JRASP：Java应用自我保护系统（Java Runtime Application Self-Protection）
-* JRE：Java运行时环境（Java Runtime Environment）
-* JRSS：联合区域安全栈（Joint Regional Security Stack）
-* JRTF：联合勒索软件特别工作组（Joint Ransomware Task Force）
-* JS：JavaScript（JavaScript）
-* JSA：Juniper安全分析（Juniper Secure Analytics）；JavaScript安全分析（JavaScript Security Analytics）
-* JSC：联合频谱中心（Joint Spectrum Center）
-* JSMA：基于雅可比显著图的攻击（Jacobian-based Saliency Map Attack）
-* JSON：JavaScript对象标记语言（JavaScript Object Notation）
-* JSONL：每行一条 JSON 记录的行式日志格式（JSON Lines）
-* JSRC：京东安全应急响应中心（JD Security Response Center）
-* JSS：JWT签名服务（JWT Signing Service）
-* JTAG：联合测试行动组协议（Joint Test Action Group）
-* JTC：联合技术委员会（Joint Technical Committee）
-* JTF：联合任务部队（Joint Task Force）
-* JTF-CNO：联合任务部队-计算机网络行动（Joint Task Force – Computer Network Operations）
-* JV：合资公司（Joint Venture）
-* JVM：Java虚拟机（Java Virtual Machine）
-* JVN：日本漏洞通报（Japan Vulnerability Notes）
-* JWCC：联合作战云能力（Joint Warfighting Cloud Capability）
-* JWE：JSON Web加密（JSON Web Encryption）
-* JWICS：联合全球情报通信系统（Joint Worldwide Intelligence Communications Systems）
-* JWID：联合战士互操作性演示（Joint Warrior Interoperability Demonstration）
-* JWK：JSON Web密钥（JSON Web Key）
-* JWKS：JSON Web密钥集（JSON Web Key Set）
-* JWS：JSON Web签名（JSON Web Signature）
-* JWT：JSON Web令牌（JSON Web Token）
+* <a id="j-x2dcsip"></a>J-CSIP：日本网络信息共享倡议（Japan Cybersecurity Information Sharing Partnership）
+* <a id="ja3"></a>JA3：JA3指纹（John Althouse, Jeff Atkinson & Josh Atkins）
+* <a id="ja3s"></a>JA3S：JA3S指纹（JA3 Server）
+* <a id="jad"></a>JAD：联合应用开发模式（Joint Application Development）
+* <a id="jadc2"></a>JADC2：联合全域指挥控制（Joint All-Domain Command & Control）
+* <a id="jadn"></a>JADN：JSON抽象数据标记（JSON Abstract Data Notation）
+* <a id="jado"></a>JADO：联合全域作战（Joint All-Domain Operations）
+* <a id="jaic"></a>JAIC：联合人工智能中心（Joint Artificial Intelligence Center）
+* <a id="jaoc"></a>JAOC：联合空中作战中心（Joint Air Operations Center）
+* <a id="jarm"></a>JARM：JARM指纹探测（John, Andrew, RJ & Mike）
+* <a id="jcap"></a>JCAP：联合通用访问平台（Joint Common Access Program）
+* <a id="jcc2"></a>JCC2：联合网络指挥控制（Joint Cyber Command & Control）
+* <a id="jccc"></a>JCCC：联合通信控制中心（Joint Communications Control Center）
+* <a id="jccm"></a>JCCM：欧盟刑事司法合作（Judicial Cooperation in Criminal Matters）
+* <a id="jcdc"></a>JCDC：联合网络防御协作（Joint Cyber Defense Collaborative）
+* <a id="jce"></a>JCE：联合协作环境（Joint Collaborative Environment）
+* <a id="jcids"></a>JCIDS：联合能力整合与发展系统（Joint Capabilities Integration & Development System）
+* <a id="jcs"></a>JCS：美国国防部参谋长联席会议（Joint Chiefs of Staff）；JSON规范化方案（JSON Canonicalization Scheme）
+* <a id="jcwa"></a>JCWA：联合网络作战架构（Joint Cyber Warfighting Architecture）
+* <a id="jdbc"></a>JDBC：Java数据库连接（Java Database Connectivity）
+* <a id="jdi"></a>JDI：Java调试接口（Java Debug Interface）
+* <a id="jdiics"></a>JDIICS：联合DII控制系统（Joint DII Control Systems）
+* <a id="jdwp"></a>JDWP：Java调试线协议（Java Debug Wire Protocol）
+* <a id="jedi"></a>JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
+* <a id="jepa"></a>JEPA：联合嵌入预测架构（Joint Embedding Predictive Architecture）
+* <a id="jfacc"></a>JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
+* <a id="jfapa"></a>JFAPA：岗位职责访问模式分析（Job Function Access Pattern Analysis）
+* <a id="jfc"></a>JFC：联合部队指挥官（Joint Force Commander）
+* <a id="jfcc-x2disr"></a>JFCC-ISR：情报监视侦察联合机能司令部（Joint Functional Component Command for Intelligence, Surveillance and Reconnaissance）
+* <a id="jffs"></a>JFFS：日志快闪文件系统（Journaling Flash File System）
+* <a id="jfhq"></a>JFHQ：联合部队总部（JFHQ）
+* <a id="jfhq-x2dc"></a>JFHQ-C：分管网络领域的联合部队总部（Joint Force Headquarters-Cyber）
+* <a id="jfhq-x2ddodin-c1df"></a>JFHQ-DoDIN：国防部信息网络联合部队司令部（Joint Force Headquarters-Department of Defense Information Network）
+* <a id="jic"></a>JIC：英国联合情报委员会（Joint Intelligence Committee）
+* <a id="jie"></a>JIE：联合信息环境（Joint Information Environment）
+* <a id="jieo"></a>JIEO：联合互操作性工程组织（Joint Interoperability Engineering Organization）
+* <a id="jisec"></a>JISEC：日本IT安全评价及认证制度（Japan IT Security Evaluation & Certification）
+* <a id="jit"></a>JIT：即时编译（Just-In-Time）；即时授权（Just-In-Time Authorization）；即时权限（Just-In-Time Access）
+* <a id="jiwg"></a>JIWG：联合IA行动工作组（Joint IA Operations Working Group）
+* <a id="jks"></a>JKS：Java密钥库（Java KeyStore）
+* <a id="jmn"></a>JMN：JIE管理网络（Joint Information Environment Management Network）
+* <a id="jms"></a>JMS：联合管理系统（Joint Management. System）
+* <a id="jmx"></a>JMX：Java管理扩展（Java Management Extensions）
+* <a id="jndi"></a>JNDI：Java命名和目录接口（Java Naming and Directory Interface）
+* <a id="joc"></a>JOC：联合作战概念（Joint Operating Concept）
+* <a id="jop"></a>JOP：面向跳转编程（Jump Oriented Programming）
+* <a id="jopes"></a>JOPES：联合作战计划与执行系统（Joint Operation Planning and Execution System）
+* <a id="jp"></a>JP：联合出版物（Joint Publication）
+* <a id="jpcert-x2fcc"></a>JPCERT/CC：日本计算机应急小组协调中心（Japan Computer Emergency Response Team Coordination Center）
+* <a id="jpeg"></a>JPEG：联合照片专家组（Joint Photographic Experts Group）
+* <a id="jpes"></a>JPES：联合计划与执行服务（Joint Planning and Execution Services）
+* <a id="jpo-x2dstc"></a>JPO-STC：特殊技术反制联合计划办公室（Joint Program Office for Special Technical Countermeasures）
+* <a id="jrasp"></a>JRASP：Java应用自我保护系统（Java Runtime Application Self-Protection）
+* <a id="jre"></a>JRE：Java运行时环境（Java Runtime Environment）
+* <a id="jrss"></a>JRSS：联合区域安全栈（Joint Regional Security Stack）
+* <a id="jrtf"></a>JRTF：联合勒索软件特别工作组（Joint Ransomware Task Force）
+* <a id="js"></a>JS：JavaScript（JavaScript）
+* <a id="jsa"></a>JSA：Juniper安全分析（Juniper Secure Analytics）；JavaScript安全分析（JavaScript Security Analytics）
+* <a id="jsc"></a>JSC：联合频谱中心（Joint Spectrum Center）
+* <a id="jsma"></a>JSMA：基于雅可比显著图的攻击（Jacobian-based Saliency Map Attack）
+* <a id="json"></a>JSON：JavaScript对象标记语言（JavaScript Object Notation）
+* <a id="jsonl"></a>JSONL：每行一条 JSON 记录的行式日志格式（JSON Lines）
+* <a id="jsrc"></a>JSRC：京东安全应急响应中心（JD Security Response Center）
+* <a id="jss"></a>JSS：JWT签名服务（JWT Signing Service）
+* <a id="jtag"></a>JTAG：联合测试行动组协议（Joint Test Action Group）
+* <a id="jtc"></a>JTC：联合技术委员会（Joint Technical Committee）
+* <a id="jtf"></a>JTF：联合任务部队（Joint Task Force）
+* <a id="jtf-x2dcno"></a>JTF-CNO：联合任务部队-计算机网络行动（Joint Task Force – Computer Network Operations）
+* <a id="jv"></a>JV：合资公司（Joint Venture）
+* <a id="jvm"></a>JVM：Java虚拟机（Java Virtual Machine）
+* <a id="jvn"></a>JVN：日本漏洞通报（Japan Vulnerability Notes）
+* <a id="jwcc"></a>JWCC：联合作战云能力（Joint Warfighting Cloud Capability）
+* <a id="jwe"></a>JWE：JSON Web加密（JSON Web Encryption）
+* <a id="jwics"></a>JWICS：联合全球情报通信系统（Joint Worldwide Intelligence Communications Systems）
+* <a id="jwid"></a>JWID：联合战士互操作性演示（Joint Warrior Interoperability Demonstration）
+* <a id="jwk"></a>JWK：JSON Web密钥（JSON Web Key）
+* <a id="jwks"></a>JWKS：JSON Web密钥集（JSON Web Key Set）
+* <a id="jws"></a>JWS：JSON Web签名（JSON Web Signature）
+* <a id="jwt"></a>JWT：JSON Web令牌（JSON Web Token）

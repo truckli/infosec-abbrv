@@ -1,85 +1,85 @@
 ## W
 
-* W3C：万维网联盟（World Wide Web Consortium）
-* WA：瓦森纳协定（Wassenaar Arrangement）
-* WAAP：Web应用与API保护（Web Application & API Protection）
-* WAAPaaS：作为服务的Web应用程序和API保护（Web Application & API Protection as a Service）
-* WaaS：Windows即服务（Windows as a Service）
-* WAD：WardenSwap数字币（WardenSwap）
-* WAF：Web应用防火墙（Web Application Firewall）
-* WAIC：世界人工智能大会（World Artificial Intelligence Conference）
-* WAM：Web访问管理（Web Access Management）
-* WAN：广域网（Wide Area Network）
-* WANET：无线自组织网络（Wireless Ad-hoc NETwork）
-* WAP：无线接入点（Wireless Access Point）
-* WAPI：WLAN认证与隐私基础设施（WLAN Authentication & Privacy Infrastructure）
-* WAR：WAR文件（Web Application Resource）
-* WASI：WebAssembly系统接口（WebAssembly System Interface）
-* WASM：WebAssembly（WebAssembly）
-* WASS：Web应用安全扫描器（Web Application Security Scanner）
-* WAVM：WebAssembly虚拟机（WebAssembly Virtual Machine）
-* WBC：全身控制（原机器人术语，文中借指整车协同控制）（Whole-Body Control）
-* WBEM：基于Web的企业管理（Web-Based Enterprise Management）
-* WBS：工作分解结构（Work Breakdown Structure）
-* WCF：Windows通信基础库（Windows Communication Foundation）；Web内容过滤（Web Content Filtering）
-* WCP：网站云防护服务（Web Cloud Protection）
-* WDDM：窗口显示驱动模型（Windows Display Driver Model）
-* WDF：Windows驱动框架（Windows Driver Frameworks）；Windows防御防火墙（Windows Defender Firewall）
-* WDM：波分复用（Wavelength Division Multiplexing）
-* WDS：无线分发系统（Wireless Distribution System）；网站防篡改服务（Web Defense Service）
-* WebDAV：Web分布式创作与版本控制（Web-based Distributed Authoring and Versioning）
-* WEP：有线等效加密（Wired Equivalent Privacy）
-* WF：派拓云端病毒防护服务（WildFire）
-* WFAS：高级安全Windows防火墙（Windows Firewall with Advanced Security）
-* WfMS：工作流管理系统（Workflow Management System）
-* WFN：规范化名称（Well-Formed Names）
-* WFP：Windows过滤平台（Windows Filtering Platform）
-* WG：工作组（Working Group）
-* WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
-* WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
-* WGN：高斯白噪声（White Gaussian Noise）
-* WIC：世界互联网大会（World Internet Conference）
-* WIDPS：无线入侵检测和防御系统（Wireless Intrusion Detection & Prevention System）
-* WIDS：无线入侵检测系统（Wireless IDS）
-* WIF：Windows身份基础框架（Windows Identity Foundation）
-* WIM：Windows映像格式（Windows Imaging Format）
-* WinRE：Windows恢复环境（Windows Recovery Environment）
-* WinRM：Windows远程管理（Windows Remote Management）
-* WINS：世界核安全研究所（World Institute of Nuclear Security）
-* WIPS：无线入侵防御系统（Wireless Intrusion Prevention System）
-* WiSec：ACM无线和移动网络安全隐私研讨会（ACM Conference on Security and Privacy in Wireless and Mobile Networks）
-* WITS：华盛顿跨机构电信系统（Washington Interagency Telecommunications System）
-* WKO：周知对象（Well-Known Object）
-* WLAN：无线局域网（Wireless Local Area Network）
-* WLC：最小连接数（Weighted Least Connections）
-* WMAN：无线都市区域网（Wireless Metropolitan Area Network）
-* WMI：Windows管理规范（Windows Management Instrumentation）
-* WMM：Wi-Fi多媒体（Wi-Fi Multimedia）
-* WOC：广域网优化控制器（WAN Optimization Controller）
-* WORM：一次写入多次读取（Write-Once, Read-Many）
-* WoS：芯片基板堆叠技术（Wafer-on-Substrate）
-* WoT：Web物联网（Web of Things）
-* WOW：64位Windows运行在64位Windows上（Windows on Windows）
-* WPA：Wi-Fi安全存取协议（Wi-Fi Protected Access）
-* WPAN：个人无线网络（Wireless Personal Area Network）
-* WPDRRC：预警、防护、检测、响应、恢复、反击（Protection,Detection,Reaction ， Recovery & Counterattack）
-* WPFS：弱完美前向保密（Weak Perfect Forward Secrecy）
-* WPR：Windows性能记录器（Windows Performance Recorder）
-* WPS：Wifi保护设置（Wifi Protected Setup）
-* WRGRU：权缩门控循环单元（Weight Reduction Gated Recurrent Unit）
-* WRR：加权轮询（Weighted Round Robin）
-* WRT：工作恢复时间（Work Recovery Time）
-* WS：WebSocket（WebSocket）；Web服务（Web Service）
-* WSC：Windows安全中心（Windows Security Center）
-* WSDL：Web服务描述语言（Web Services Description Language）
-* WSGI：Web服务器网关接口（Web Server Gateway Interface）
-* WSH：Windows脚本宿主（Windows Script Host）
-* WSL：Windows的Linux子系统（Windows Subsystem for Linux）
-* WSN：无线传感网络（Wireless Sensor Network）
-* WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
-* WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
-* WSUS：Windows服务更新服务（Windows Server Update Service）
-* WTLS：无线传输层安全（Wireless Transport Layer Security）
-* WVSS：Web漏洞扫描系统（Web Vulnerability Scanning System）
-* WWAN：无线广域网（Wireless Wide Area Network）
-* WWW：万维网（World Wide Web）
+* <a id="w3c"></a>W3C：万维网联盟（World Wide Web Consortium）
+* <a id="wa"></a>WA：瓦森纳协定（Wassenaar Arrangement）
+* <a id="waap"></a>WAAP：Web应用与API保护（Web Application & API Protection）
+* <a id="waapaas-c4f"></a>WAAPaaS：作为服务的Web应用程序和API保护（Web Application & API Protection as a Service）
+* <a id="waas-c9"></a>WaaS：Windows即服务（Windows as a Service）
+* <a id="wad"></a>WAD：WardenSwap数字币（WardenSwap）
+* <a id="waf"></a>WAF：Web应用防火墙（Web Application Firewall）
+* <a id="waic"></a>WAIC：世界人工智能大会（World Artificial Intelligence Conference）
+* <a id="wam"></a>WAM：Web访问管理（Web Access Management）
+* <a id="wan"></a>WAN：广域网（Wide Area Network）
+* <a id="wanet"></a>WANET：无线自组织网络（Wireless Ad-hoc NETwork）
+* <a id="wap"></a>WAP：无线接入点（Wireless Access Point）
+* <a id="wapi"></a>WAPI：WLAN认证与隐私基础设施（WLAN Authentication & Privacy Infrastructure）
+* <a id="war"></a>WAR：WAR文件（Web Application Resource）
+* <a id="wasi"></a>WASI：WebAssembly系统接口（WebAssembly System Interface）
+* <a id="wasm"></a>WASM：WebAssembly（WebAssembly）
+* <a id="wass"></a>WASS：Web应用安全扫描器（Web Application Security Scanner）
+* <a id="wavm"></a>WAVM：WebAssembly虚拟机（WebAssembly Virtual Machine）
+* <a id="wbc"></a>WBC：全身控制（原机器人术语，文中借指整车协同控制）（Whole-Body Control）
+* <a id="wbem"></a>WBEM：基于Web的企业管理（Web-Based Enterprise Management）
+* <a id="wbs"></a>WBS：工作分解结构（Work Breakdown Structure）
+* <a id="wcf"></a>WCF：Windows通信基础库（Windows Communication Foundation）；Web内容过滤（Web Content Filtering）
+* <a id="wcp"></a>WCP：网站云防护服务（Web Cloud Protection）
+* <a id="wddm"></a>WDDM：窗口显示驱动模型（Windows Display Driver Model）
+* <a id="wdf"></a>WDF：Windows驱动框架（Windows Driver Frameworks）；Windows防御防火墙（Windows Defender Firewall）
+* <a id="wdm"></a>WDM：波分复用（Wavelength Division Multiplexing）
+* <a id="wds"></a>WDS：无线分发系统（Wireless Distribution System）；网站防篡改服务（Web Defense Service）
+* <a id="webdav-c39"></a>WebDAV：Web分布式创作与版本控制（Web-based Distributed Authoring and Versioning）
+* <a id="wep"></a>WEP：有线等效加密（Wired Equivalent Privacy）
+* <a id="wf"></a>WF：派拓云端病毒防护服务（WildFire）
+* <a id="wfas"></a>WFAS：高级安全Windows防火墙（Windows Firewall with Advanced Security）
+* <a id="wfms-cd"></a>WfMS：工作流管理系统（Workflow Management System）
+* <a id="wfn"></a>WFN：规范化名称（Well-Formed Names）
+* <a id="wfp"></a>WFP：Windows过滤平台（Windows Filtering Platform）
+* <a id="wg"></a>WG：工作组（Working Group）
+* <a id="wgan"></a>WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
+* <a id="wgan-x2dgp"></a>WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
+* <a id="wgn"></a>WGN：高斯白噪声（White Gaussian Noise）
+* <a id="wic"></a>WIC：世界互联网大会（World Internet Conference）
+* <a id="widps"></a>WIDPS：无线入侵检测和防御系统（Wireless Intrusion Detection & Prevention System）
+* <a id="wids"></a>WIDS：无线入侵检测系统（Wireless IDS）
+* <a id="wif"></a>WIF：Windows身份基础框架（Windows Identity Foundation）
+* <a id="wim"></a>WIM：Windows映像格式（Windows Imaging Format）
+* <a id="winre-c19"></a>WinRE：Windows恢复环境（Windows Recovery Environment）
+* <a id="winrm-c19"></a>WinRM：Windows远程管理（Windows Remote Management）
+* <a id="wins"></a>WINS：世界核安全研究所（World Institute of Nuclear Security）
+* <a id="wips"></a>WIPS：无线入侵防御系统（Wireless Intrusion Prevention System）
+* <a id="wisec-c5"></a>WiSec：ACM无线和移动网络安全隐私研讨会（ACM Conference on Security and Privacy in Wireless and Mobile Networks）
+* <a id="wits"></a>WITS：华盛顿跨机构电信系统（Washington Interagency Telecommunications System）
+* <a id="wko"></a>WKO：周知对象（Well-Known Object）
+* <a id="wlan"></a>WLAN：无线局域网（Wireless Local Area Network）
+* <a id="wlc"></a>WLC：最小连接数（Weighted Least Connections）
+* <a id="wman"></a>WMAN：无线都市区域网（Wireless Metropolitan Area Network）
+* <a id="wmi"></a>WMI：Windows管理规范（Windows Management Instrumentation）
+* <a id="wmm"></a>WMM：Wi-Fi多媒体（Wi-Fi Multimedia）
+* <a id="woc"></a>WOC：广域网优化控制器（WAN Optimization Controller）
+* <a id="worm"></a>WORM：一次写入多次读取（Write-Once, Read-Many）
+* <a id="wos-c5"></a>WoS：芯片基板堆叠技术（Wafer-on-Substrate）
+* <a id="wot-c5"></a>WoT：Web物联网（Web of Things）
+* <a id="wow"></a>WOW：64位Windows运行在64位Windows上（Windows on Windows）
+* <a id="wpa"></a>WPA：Wi-Fi安全存取协议（Wi-Fi Protected Access）
+* <a id="wpan"></a>WPAN：个人无线网络（Wireless Personal Area Network）
+* <a id="wpdrrc"></a>WPDRRC：预警、防护、检测、响应、恢复、反击（Protection,Detection,Reaction ， Recovery & Counterattack）
+* <a id="wpfs"></a>WPFS：弱完美前向保密（Weak Perfect Forward Secrecy）
+* <a id="wpr"></a>WPR：Windows性能记录器（Windows Performance Recorder）
+* <a id="wps"></a>WPS：Wifi保护设置（Wifi Protected Setup）
+* <a id="wrgru"></a>WRGRU：权缩门控循环单元（Weight Reduction Gated Recurrent Unit）
+* <a id="wrr"></a>WRR：加权轮询（Weighted Round Robin）
+* <a id="wrt"></a>WRT：工作恢复时间（Work Recovery Time）
+* <a id="ws"></a>WS：WebSocket（WebSocket）；Web服务（Web Service）
+* <a id="wsc"></a>WSC：Windows安全中心（Windows Security Center）
+* <a id="wsdl"></a>WSDL：Web服务描述语言（Web Services Description Language）
+* <a id="wsgi"></a>WSGI：Web服务器网关接口（Web Server Gateway Interface）
+* <a id="wsh"></a>WSH：Windows脚本宿主（Windows Script Host）
+* <a id="wsl"></a>WSL：Windows的Linux子系统（Windows Subsystem for Linux）
+* <a id="wsn"></a>WSN：无线传感网络（Wireless Sensor Network）
+* <a id="wss"></a>WSS：安全WebSocket（WebSocket Secure）；Web安全服务（Web Security Service）；Web服务安全（Web Services Security）
+* <a id="wstep"></a>WSTEP：WS-Trust X.509令牌登记扩展协议（WS-Trust X.509 Token Enrollment Extension）
+* <a id="wsus"></a>WSUS：Windows服务更新服务（Windows Server Update Service）
+* <a id="wtls"></a>WTLS：无线传输层安全（Wireless Transport Layer Security）
+* <a id="wvss"></a>WVSS：Web漏洞扫描系统（Web Vulnerability Scanning System）
+* <a id="wwan"></a>WWAN：无线广域网（Wireless Wide Area Network）
+* <a id="www"></a>WWW：万维网（World Wide Web）

@@ -1,301 +1,301 @@
 ## P
 
-* P2DR：策略、防护、检测和响应（Policy, Protection, Detection & Response）
-* P2P：对等网络（Peer-to-Peer）
-* P2SP：点对服务器和点（Peer to Server\&Peer）
-* P2V：行人车辆通信（Pedestrian-to-Vehicle）
-* P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
-* P7B：PKCS#7格式文件扩展名（PKCS#7 Format File Extension）
-* P95：第95百分位延迟（95th Percentile Latency）
-* P99：第99百分位延迟（99th Percentile Latency）
-* PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）；策略管理（Policy Administration）
-* PaaS：平台即服务（Platform As A Service）
-* PABX：专用自动小交换机（Private Automatic Branch eXchange）
-* PAC：权限属性证书（Privilege Attribute Certificate）；代理自动配置（Proxy Auto-Config）；态势属性收集（Posture Attribute Collection）；可编程自动化控制器（Programmable Automation Controller）；指针身份验证代码（Pointer Authentication Code）；大概率近似正确（Probably Approximately Correct）；受保护的访问证书（Protected Access Credential）
-* PACAF：美国太平洋空军司令部（Pacific Air Forces）
-* PACELC：CAP扩展理论（Partition, Availability, Consistency, Else Latency, Consistency）
-* PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
-* PAD：伪现攻击检测（Presentation Attack Detection）
-* PAG：特权访问治理（Privileged Access Governance）
-* PAI：机器学习平台（Platform of Artificial Intelligence）
-* PAIR：提示自动迭代优化攻击（Prompt Automatic Iterative Refinement）
-* PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
-* PaLM：PaLM模型（Pre-trained Language Model）
-* PALMA：组合分析机器（Portfolio Analysis Machine）
-* PAM：权限访问管理（Privileged Access Management）；特权账户和会话管理（Privileged Account Management）；过程资产管理（Process Asset Management）
-* PAMaaS：特权访问管理即服务（Privileged Access Management as a Service）
-* PAML：预测分析与机器学习（Predictive Analysis and Machine Learning）
-* PAN：个人区域网（Personal Area Network）；Palo Alto网络（Palo Alto Networks）；特权访问禁用（Privileged Access Never）
-* PAOBOAU：代表授权用户执行的过程（Process Acting On Behalf Of an Authorized User）
-* PAP：策略管理点（Policy Administration Point）；口令鉴别协议（Password Authentication Protocol）
-* PARC：派拓研究中心（Palo Alto Research Center, Inc.）
-* Parsec：平台安全抽象（Platform AbstRaction for SECurity）
-* PAS：公开可用规范（Publicly Available Specifications）；部分属性集（Partial Attribute Set）；物理地址空间（Physical Address Space）
-* PASM：特权账户和会话管理（Privileged Account & Session Management）
-* PASTA：攻击模拟与威胁分析过程框架（Process for Attack Simulation and Threat Analysis）
-* PAT：端口地址转换（Port Address Translation）；个人访问令牌（Personal Access Token）
-* PAWSS：绿盟网站安全监测服务（NSFOCUS WebSafe Service）
-* PB：剧本（Play Book）
-* PBAC：基于策略的访问控制（Policy-Based Access Control）；基于管道的访问控制（Pipeline-Based Access Control）
-* PBC：封装化业务能力（Packaged Business Capability）
-* PbD：源自设计的隐私（Privacy by Design）
-* PBE：基于口令的加密（Password-Based Encryption）
-* PBKDF：基于口令的密钥导出函数（Password-Based Key Derivation Function）
-* PBX：专用小交换机（Private Branch eXchange）
-* PC：个人计算机（Personal Computer）；程序计数器（Program Counter）
-* PCA：隐私证书机构（Privacy Certificate Authority）；明文检查攻击（Plaintext-Checking Attacks）；主成分分析（Principal Component Analysis）
-* PCAOB：美国公众公司会计监督委员会（Public Company Accounting Oversight Board）
-* PCAP：抓包（Packet Capture）
-* PcapNg：数据包捕获下一代转储（Packet Capture Next Generation Dump）
-* PCAST：美国总统科技顾问委员会（President's Council of Advisors on Science & Technology）
-* PCB：印刷电路板（Printed Circuit Board）
-* PCC：有效负载控制中心（Payload Control Center）
-* PCCIP：美国总统关于关键基础设施保护的委员会（President’s Commission on Critical Infrastructure Protection）
-* PCF：点协调功能（Point Coordination Function）；协议控制帧（Protocol Control Frame）；策略控制功能（Policy Control Function）
-* PCH：平台控制器集线器（Platform Controller Hub）
-* PCI：外部组件互连（Peripheral Component Interconnect）；支付卡行业（Payment Card Industry）
-* PCI-DSS：支付卡行业数据安全标准（Payment Card Industry Data Security Standard）
-* PCIe：外部组件互连扩展（Peripheral Component Interconnect Express）
-* PCII：关键基础设施信息保护计划（Protected Critical Infrastructure Information）
-* PCIPB：美国总统关键基础设施保护委员会（the President's Critical Infrastructure Protection Board）
-* PCIS：关键基础设施安全伙伴关系（Partnership for Critical Infrastructure Security）
-* PCK：设置认证密钥（Provisioning Certification Key）
-* PCMP：个人资料内容管理平台（Profile Content Management Platform）
-* PCP：隐私计算平台（Privacy Computing Platform）
-* PCR：平台配置寄存器（Platform Configuration Register）；程序变更请求（Program Change Request）
-* PCRE：Perl兼容正则表达式（Perl Compatible Regular Expressions）
-* PCS：态势收集服务（Posture Collection Service）；过程控制系统（Process Control Systems）；哨所、营地、工作站（Post，Camp & Station）
-* PCSA：安全能力者联盟（Private Cloud Security Alliance）
-* PCTE：持续网络训练环境（Persistent Cyber Training Environment）
-* PD：公共数据库（Public Database）
-* PDA：个人数字助理（Personal Digital Assistant）
-* PDB：PDB格式（Program DataBase）
-* PDC：主域控（Primary Domain Controller）；物理数据中心（Physical Data Center）
-* PDCA：PDCA循环（Plan-Do-Check-Adjust）
-* PDCP：分组数据融合协议（Packet Data Convergence Protocol）
-* PDD：美国总统决议令（Presidential Decision Directive）
-* PDE：偏微分方程（Partial Differential Equation）
-* PDF：可移植的文档格（Portable Document Format）
-* PDG：程序依赖图（Program Dependence Graph）
-* PdM：产品经理（Product Manager）
-* PDN：分组数据网（Packet Data Network）
-* PDP：策略决策点（Policy Decision Point）；策略定义点（Policy Definition Point）；产品规划（ProDuct Planning）
-* PDR：防护、检测、响应（Protection, Detection & Response）；初步设计审查（Preliminary Design Review）
-* PDRR：防护、检测、响应、恢复（Protection,Detection,Reaction & Recovery）
-* PDS：策略决策服务（Policy Decision Service）
-* PDU：协议数据单元（Protocol Data Unit）；电源分配单元（Power Distribution Unit）
-* PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；策略引擎（Policy Engine）；处理器元件（Processor Element）；物理与环境保护（Physical & Environmental Protection）；MPLS提供商边缘（Provider Edge）
-* PEAP：保护性可扩展认证协议（Protective Extensible Authentication Protocol）；受保护的可扩展认证协议（Protected Extensible Authentication Protocol）
-* PEB：进程环境块（Process Environment Block）
-* PEC：隐私计算（Privacy Enhancing Computing）
-* PED：提权距离，D-H SoK提出的可从agent轨迹计算的安全度量（Privilege Escalation Distance）
-* PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
-* PEF：保护执行设施（Protected Execution Facility）
-* PEFT：参数高效微调（Parameter-Efficient Fine-Tuning）
-* PEI：永久设备标识符（Permanent Equipment Identifier）
-* PEK：平台加密密钥（Platform Encryption Key）
-* PEM：隐私增强邮件（Privacy Enhanced Mail）
-* PEN：特权执行禁用（Privileged Execute Never）
-* PEO：项目执行办公室（Program Executive Office）
-* PEP：策略执行点（Policy Enforcement Point）
-* PEPS：被动进入被动启动（Passive Entry Passive Start）
-* PERA：Purdue企业参考体系结构（Purdue Enterprise Reference Architecture）
-* PERM：效能管理（PERformance Management）
-* PERT：计划评审技术（Program Evaluation & Review Technique）
-* PES：态势评价服务（Posture Evaluation Service）；DoDAF物理交换规范（Physical Exchange Specification）；IEEE电力与能源协会（IEEE Power & Energy Society）
-* PEST：宏观环境的分析（Politics, Economy, Society, Technology）
-* PET：隐私增强技术（Privacy Enhancing Technology）
-* PETS：隐私增强技术研讨会（Privacy Enhancing Technologies Symposium）
-* PF：物理功能（Physical Function）
-* PFCP：包转发控制协议（Packet Forwarding Control Protocol）
-* PFR：平台固件弹性（Platform Firmware Resilience）
-* PFS：完美前向保密（Perfect Forward Secrecy）；百度并行文件系统服务（Parallel Filesystem Service）
-* PFX：PKCS12#文件格式（Personal Exchange Format）
-* PG：Ceph放置组（Placement Group）
-* PGD：投影梯度下降（Projected Gradient Descent）
-* PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
-* PGT：代理授权票据（Proxy Granting Ticket）
-* PGW：分组数据网络网关（PDN GateWay）
-* PHA：过程危害分析（Process Hazard Analysis）
-* PHE：部分同态加密（Partially Homomorphic Encryption）
-* PHI：个人健康信息（Personal Health Information）；健康信息保护（Protected Health Information）
-* PHM4S：智能制造中可靠操作的预测和健康管理（Predictive and Health Management for Reliable Operations in Smart Manufacturing）
-* PHMSA：美国管道和危险品安全管理局（Pipeline & Hazardous Materials Safety Administration）
-* PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
-* PHY：物理层（Physical Layer）
-* PI：个人信息（Personal Information）；流程信息（Process Information）
-* PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）
-* PIAB：总统情报咨询委员会（President's Intelligence Advisory Board）
-* PIC：位置独立代码（Position Independent Code）
-* PICERL：准备、识别、控制、根除、恢复、教训（Prepare, Identify, Contain, Eradicate, Recover, Lessons Learned）
-* PICS：互联网内容选择平台（Platform for Internet Content Selection）
-* PID：进程标识（Process Identifier）；比例积分微分控制（Proportional-Integral-Derivative）
-* PIDAS：边界入侵检测评估系统（Perimeter Intrusion Detection & Assessment System）
-* PIE：位置独立可执行文件（Position Independent Executable）
-* PIEE：采购综合企业环境（Procurement Integrated Enterprise Environment）
-* PIFS：PCF跨帧空间（Point Coordination Function Interframe Space）
-* PII：个人身份信息（Personally Identifiable Information）；过程改进基础设施（Process Improvement Infrastructure）
-* PIK：平台身份密钥（Platform Identity Key）
-* PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
-* PIN：个人标识码（Personal Identification Number）
-* PINN：物理信息神经网络（Physics-Informed Neural Network）
-* PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
-* PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
-* PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
-* PIPL：个人信息保护法（the Personal Information Protection Law）
-* PIR：隐私信息检索（Private Information Retrieval）；事故后审查报告（Post Incident Review）
-* PIRT：有目的干扰响应团队（Purposeful Interference Response Team）
-* PISA：独立于协议的交换机架构（Protocol Independent Switch Architecture）
-* PISIA：个人信息安全影响评估（Personal Information Security Impact Assessment）
-* PISP：支付启动服务提供商（Payment Initiation Service Provider）
-* PIT：传输中的保护（Protection in Transit）
-* PITAC：美国总统信息技术咨询委员会（the President's Information Technology Advisory Committee）
-* PIV：个人信息验证（Personal Identity Verification）
-* PIV-I：个人身份验证互操作（Personal Identity Verification-Interoperable）
-* PIX：思科私网交换设备（Private Internet eXchange）
-* PJL：打印机作业语言（Printer Job Language）
-* PK：端口敲门（Port Knocking）；平台密钥（Platform Key）；飞腾-麒麟生态体系（Phytium-Kylin）
-* PKC：公钥密码学（Public Key Cryptography）
-* PKCE：代码交换证明密钥（Proof Key for Code Exchange）
-* PKCS：公钥加密标准（Public Key Cryptography Standards）
-* PKE：公钥加密（Public-Key Encryption）；公钥使能（Public Key Enabling）
-* PKG：私钥生成器（Private Key Generator）
-* PKI：公钥基础设施（Public Key Infrastructure）
-* PKI-CA：公钥基础设施证书颁发机构（Public Key Infrastructure Certification Authority）
-* PKI-EE：公钥基础设施终端实体（Public Key Infrastructure-End Entities）
-* PKP：公钥钉扎（Public Key Pinning）
-* PKS：PKS生态体系（Phytium-Kylin-Security）
-* PL：特权等级（Privilege Level）
-* PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
-* PLC：可编程逻辑控制器（Programmable Logic Controller）
-* PLG：产品主导型增长（Product-Led Growth）
-* PLM：预训练语言模型（Pre-trained Language Model）
-* PLMN：公共陆地移动通信网（Public Land Mobile Network）
-* PLoP：程序模式语言（Pattern Languages of Programs）
-* PLT：规程链接表（Procedure Linkage Table）
-* PLWE：多项式LWE（Polynomial LWE）
-* PM：绩效管理（Performance Management）
-* PM2：PerfMonitor 2工具（PerfMonitor 2）
-* PMBOK：项目管理知识体系（Project Management Body of Knowledge）
-* PMC：可编程金属化单元（Programmable Metallization Cell）
-* PMI：权限管理基础设施（Privilege Management Infrastructure）；项目管理研究所（Project Management Institute）
-* PMK：配对主密钥（Pairwise Master Key）
-* PMKSA：配对主密钥安全联盟（Pairwise Master Key Security Association）
-* PML：可能的最大损失（Probable maximum loss）
-* PMM：隐私成熟度模型（Privacy Maturity Model）
-* PMO：项目经理（Project Management Officer）；项目管理办公室（Project Management Office）；总理办公室（Prime Minister's Office）
-* PMP：国际项目管理师（Project Management Professional）
-* PMT：隐私管理工具（Privacy Management Tools）
-* PMU：性能监测单元（Performance Monitor Unit）
-* PN：分组编号（Packet Number）
-* PNA：非攻击场景效用，NRP组成项（Performance on Non-attack）
-* PNIDUI：网络系统图标（Network System Icon）
-* PNNL：美国西北太平洋国家实验室（Pacific Northwest National Laboratory）
-* PNT：定位、导航和授时（Positioning, Navigation & Timing）
-* POA&M：行动计划和里程碑（Plan of Actions & Milestones）
-* PoAS：策略管理服务（Policy Administration Service）
-* PoC：概念证明（Proof of Concept）；联系点（Point of Contact）
-* POD：分发点（Point Of Delivery）；Kubernetes计算单元（pod）
-* PoE：以太网供电（Power over Ethernet）
-* POF：被动OS指纹识别（Passive OS Fingerprinting）
-* POI：兴趣地点（Point Of Interest）
-* POLA：最小权限（Least Privilege）
-* PoLP：最小权限原则（Principle of Least Privilege）
-* POM：POM文件（Project Object Model）
-* PON：无源光纤网络（Passive Optical Network）
-* POODLE：贵宾犬漏洞（Padding Oracle On Downgraded Legacy Encryption）
-* POP：邮件协议版本（Post Office Protocol）；接入点（Point of Presence）
-* PoPW：物理工作量证明（Proof of Physical Work）
-* POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）；基于SDH的分组协议（Packet over SDH）
-* POSIX：可移植操作系统接口（Portable Operating System Interface）
-* PoT：思维计划后门（Plan-of-Thought Backdoor）
-* POTS：普通老式电话服务（Plain Old Telephone Service）
-* POTUS：美国总统（President Of The United States）
-* POU：项目组织单元（Program Organizational Unit）
-* PoV：价值验证（Proof of Value）
-* PoW：工作量证明（Proof of Work）
-* PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）；流水线并行（Pipeline Parallelism）
-* PPA：保护轮廓确保（Protection Profile Assurance）
-* PPAKE：具有隐私保护性质的认证性密钥协商协议（Privacy-Preserving Authenticated Key Exchange）
-* PPAS：Postgres Plus高级服务器（Postgres Plus Advanced Server）
-* PPBE：规划，计划，预算和执行（Planning, Programming, Budgeting & Execution）
-* PPD：总统政策指令（Presidential Policy Directive）
-* PPDR：策略、防护、检测、响应（Policy, Protection, Detection, Response）
-* PPDRR：策略、防护、检测、响应和恢复（Policy, Protection, Detection, Response, Recovery）
-* PPE：管道执行投毒（Poisoned Pipeline Execution）
-* PPL：轻量级受保护进程（Protected Process Light）
-* PPO：近端策略优化（Proximal Policy Optimization）
-* PPP：点对点协议（Point-to-Point Protocol）；公私合作（Public-Private Partnerships）；程序保护计划（Program Protection Planning）
-* PPPoE：以太网点对点协议（Point-to-Point Protocol over Ethernet）
-* PPS：互联网协议套件及相关端口（Internet Protocol Suite & Associated Ports）
-* PPSE：近场支付系统环境（Proximity Payment System Environment）
-* PPSM：端口、协议与服务管理（Ports, Protocols & Services Management）
-* PPT：人、流程、技术（People，Processes & Technology）
-* PPTP：点对点隧道协议（Point-to-Point Tunneling Protocol）
-* PPV：阳性预测值（精确率）（Positive Predictive Value）
-* PQA：过程质量保证（Process Quality Assurance）
-* PQC：后量子密码术（Post-Quantum Cryptography）
-* PQKE：后量子密钥交换（Post-Quantum Key Exchange）
-* PR：所需权限（Privileges Required）；拉取请求（Pull Request）；PageRank网页分（PageRank）；公共关系（Public Relations）；保护（Protect）
-* PR/SM：处理器资源/系统管理器（Processor Resource/System Manager）
-* PRAM：隐私风险评估方法（Privacy Risk Assessment Methodology）
-* PrAS：主要特征识别服务（Primary Attribute Service）
-* PRD：产品需求文档（Product Requirement Document）
-* PRF：伪随机函数（Pseudo-Random Function）
-* PRG：伪随机生成器（Pseudo-Random Generator）
-* PRINCE：受控环境下的项目管理（PRoject IN Controlled Environment）
-* PRINCE2：受控环境项目管理方法（PRojects IN Controlled Environments）
-* PRNG：伪随机数生成器（Pseudo-Random Number Generator）
-* PROC：规程（Procedure）
-* PROM：过程管理（PROcess Management）
-* PRoT：平台信任根（Platform Root of Trust）
-* PRP：伪随机排列（Pseudo Random Permutation）；策略取回点（Policy Retrieval Point）；并行冗余协议（Parallel Redundancy Protocol）
-* pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
-* PRS：策略检索服务（Policy Retrieval Service）
-* PS：分组交换（Packet Switching）；受保护存储（Protected Storage）；参数服务器（Parameter Server）
-* PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）；进程派生分析（Process Spawn Analysis）
-* PSB：AMD平台安全启动（Platform Secure Boot）
-* PSC：平台服务控制器（Platform Services Controller）
-* PSCCC：电力系统通信和网络安全（IEEE Power System Communications and Cybersecurity）
-* PSD2：修订的支付服务指令（Revised Payment Services Directive）
-* PSE：Zscaler公共服务端点（Public Service Edge）
-* PSI：隐私集合求交（Private Set Intersection）
-* PSIRT：产品安全事件响应组（Product Security Incident Response Team）
-* PSK：预享密钥（Pre-Shared Key）
-* PSM：特权会话管理（Privileged Session Management）
-* PSN：公共交换网络（Public Switched Network）
-* PSO：粒子群优化（Particle Swarm Optimization）
-* PSP：公开安全参数（Public Security Parameter）；配置服务提供商（Provisioning Service Provider）；某游戏机产品（PlayStation Portable）；平台安全处理器（Platform Security Processor）
-* PSS：过程安全关闭（Process Safety Shutdown）
-* PST：配置服务目标（Provisioning Service Target）
-* PSTN：公共交换电话网络（Public Switched Telephone Network）
-* PSYOPS：心理战（Psychological Operations）
-* PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）；明文（Plaintext）
-* PTaaS：渗透测试即服务（Penetration Testing as a Service）
-* PTC：并行工具调用（面向批量工具调用的筛选/去重/汇总）（Parallel Tool Calling）
-* PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）
-* PTES：渗透测试执行标准（Penetration Testing Execution Standard）
-* PTF：渗透测试框架（PenTesters Framework）
-* PtH：哈希传递攻击（Pass the Hash）
-* PTK：配对瞬时密钥（Pairwise Transient Key）
-* PTN：分组传送网（Packet Transport Network）
-* PTP：精确时间协议（Precision Time Protocol）
-* PTR：指针（Pointer）
-* PTS：渗透测试专家（Penetration Testing Specialist）
-* PTT：英特尔平台可信技术（Platform Trust Technology）
-* PtT：票据传递攻击（Pass-the-Ticket）
-* PUA：灰色应用（Potentially Unwanted Application）；心理操控（Pick-Up Artist）
-* PUB：出版物（Publication）
-* PUE：能源使用效率（Power Usage Effectiveness）
-* PUM：特权用户管理（Privileged User Management）
-* PUP：灰色软件（Potentially Unwanted Program）
-* PV：光伏（PhotoVoltaic）；页面访问量（Page Views）；DoDAF项目视角（Project Viewpoint）
-* PVC：永久虚电路（Permanent Virtual Circuit）
-* PVK：PVK格式（Private Key）
-* PwC：普华永道（Pricewaterhouse Coopers）
-* PWM：脉宽调制（Pulse Width Modulation）
-* pwn：夺取、掌控（键盘录入错误：own）
-* PWSCIF：公共无线供应链创新基金（Public Wireless Supply Chain Innovation Fund）
-* PX：FireEye流量取证平台（猜测：Packet security）
-* PXE：预引导执行环境（Preboot Execution Environment）
-* PXN：特权态禁止执行（Privileged eXucute Never）
+* <a id="p2dr"></a>P2DR：策略、防护、检测和响应（Policy, Protection, Detection & Response）
+* <a id="p2p"></a>P2P：对等网络（Peer-to-Peer）
+* <a id="p2sp"></a>P2SP：点对服务器和点（Peer to Server\&Peer）
+* <a id="p2v"></a>P2V：行人车辆通信（Pedestrian-to-Vehicle）
+* <a id="p4"></a>P4：编程协议无关的数据包处理器（Programming Protocol-independent Packet Processors）
+* <a id="p7b"></a>P7B：PKCS#7格式文件扩展名（PKCS#7 Format File Extension）
+* <a id="p95"></a>P95：第95百分位延迟（95th Percentile Latency）
+* <a id="p99"></a>P99：第99百分位延迟（99th Percentile Latency）
+* <a id="pa"></a>PA：过程域（Process Area）；伪现攻击（Presentation Attack）；派拓公司（Palo Alto）；私有应用访问（Private Access）；策略管理（Policy Administration）
+* <a id="paas-c9"></a>PaaS：平台即服务（Platform As A Service）
+* <a id="pabx"></a>PABX：专用自动小交换机（Private Automatic Branch eXchange）
+* <a id="pac"></a>PAC：权限属性证书（Privilege Attribute Certificate）；代理自动配置（Proxy Auto-Config）；态势属性收集（Posture Attribute Collection）；可编程自动化控制器（Programmable Automation Controller）；指针身份验证代码（Pointer Authentication Code）；大概率近似正确（Probably Approximately Correct）；受保护的访问证书（Protected Access Credential）
+* <a id="pacaf"></a>PACAF：美国太平洋空军司令部（Pacific Air Forces）
+* <a id="pacelc"></a>PACELC：CAP扩展理论（Partition, Availability, Consistency, Else Latency, Consistency）
+* <a id="pacs"></a>PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
+* <a id="pad"></a>PAD：伪现攻击检测（Presentation Attack Detection）
+* <a id="pag"></a>PAG：特权访问治理（Privileged Access Governance）
+* <a id="pai"></a>PAI：机器学习平台（Platform of Artificial Intelligence）
+* <a id="pair"></a>PAIR：提示自动迭代优化攻击（Prompt Automatic Iterative Refinement）
+* <a id="pake"></a>PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
+* <a id="palm-cd"></a>PaLM：PaLM模型（Pre-trained Language Model）
+* <a id="palma"></a>PALMA：组合分析机器（Portfolio Analysis Machine）
+* <a id="pam"></a>PAM：权限访问管理（Privileged Access Management）；特权账户和会话管理（Privileged Account Management）；过程资产管理（Process Asset Management）
+* <a id="pamaas-c27"></a>PAMaaS：特权访问管理即服务（Privileged Access Management as a Service）
+* <a id="paml"></a>PAML：预测分析与机器学习（Predictive Analysis and Machine Learning）
+* <a id="pan"></a>PAN：个人区域网（Personal Area Network）；Palo Alto网络（Palo Alto Networks）；特权访问禁用（Privileged Access Never）
+* <a id="paoboau"></a>PAOBOAU：代表授权用户执行的过程（Process Acting On Behalf Of an Authorized User）
+* <a id="pap"></a>PAP：策略管理点（Policy Administration Point）；口令鉴别协议（Password Authentication Protocol）
+* <a id="parc"></a>PARC：派拓研究中心（Palo Alto Research Center, Inc.）
+* <a id="parsec-c1"></a>Parsec：平台安全抽象（Platform AbstRaction for SECurity）
+* <a id="pas"></a>PAS：公开可用规范（Publicly Available Specifications）；部分属性集（Partial Attribute Set）；物理地址空间（Physical Address Space）
+* <a id="pasm"></a>PASM：特权账户和会话管理（Privileged Account & Session Management）
+* <a id="pasta"></a>PASTA：攻击模拟与威胁分析过程框架（Process for Attack Simulation and Threat Analysis）
+* <a id="pat"></a>PAT：端口地址转换（Port Address Translation）；个人访问令牌（Personal Access Token）
+* <a id="pawss"></a>PAWSS：绿盟网站安全监测服务（NSFOCUS WebSafe Service）
+* <a id="pb"></a>PB：剧本（Play Book）
+* <a id="pbac"></a>PBAC：基于策略的访问控制（Policy-Based Access Control）；基于管道的访问控制（Pipeline-Based Access Control）
+* <a id="pbc"></a>PBC：封装化业务能力（Packaged Business Capability）
+* <a id="pbd-c5"></a>PbD：源自设计的隐私（Privacy by Design）
+* <a id="pbe"></a>PBE：基于口令的加密（Password-Based Encryption）
+* <a id="pbkdf"></a>PBKDF：基于口令的密钥导出函数（Password-Based Key Derivation Function）
+* <a id="pbx"></a>PBX：专用小交换机（Private Branch eXchange）
+* <a id="pc"></a>PC：个人计算机（Personal Computer）；程序计数器（Program Counter）
+* <a id="pca"></a>PCA：隐私证书机构（Privacy Certificate Authority）；明文检查攻击（Plaintext-Checking Attacks）；主成分分析（Principal Component Analysis）
+* <a id="pcaob"></a>PCAOB：美国公众公司会计监督委员会（Public Company Accounting Oversight Board）
+* <a id="pcap"></a>PCAP：抓包（Packet Capture）
+* <a id="pcapng-c11"></a>PcapNg：数据包捕获下一代转储（Packet Capture Next Generation Dump）
+* <a id="pcast"></a>PCAST：美国总统科技顾问委员会（President's Council of Advisors on Science & Technology）
+* <a id="pcb"></a>PCB：印刷电路板（Printed Circuit Board）
+* <a id="pcc"></a>PCC：有效负载控制中心（Payload Control Center）
+* <a id="pccip"></a>PCCIP：美国总统关于关键基础设施保护的委员会（President’s Commission on Critical Infrastructure Protection）
+* <a id="pcf"></a>PCF：点协调功能（Point Coordination Function）；协议控制帧（Protocol Control Frame）；策略控制功能（Policy Control Function）
+* <a id="pch"></a>PCH：平台控制器集线器（Platform Controller Hub）
+* <a id="pci"></a>PCI：外部组件互连（Peripheral Component Interconnect）；支付卡行业（Payment Card Industry）
+* <a id="pci-x2ddss"></a>PCI-DSS：支付卡行业数据安全标准（Payment Card Industry Data Security Standard）
+* <a id="pcie-c7"></a>PCIe：外部组件互连扩展（Peripheral Component Interconnect Express）
+* <a id="pcii"></a>PCII：关键基础设施信息保护计划（Protected Critical Infrastructure Information）
+* <a id="pcipb"></a>PCIPB：美国总统关键基础设施保护委员会（the President's Critical Infrastructure Protection Board）
+* <a id="pcis"></a>PCIS：关键基础设施安全伙伴关系（Partnership for Critical Infrastructure Security）
+* <a id="pck"></a>PCK：设置认证密钥（Provisioning Certification Key）
+* <a id="pcmp"></a>PCMP：个人资料内容管理平台（Profile Content Management Platform）
+* <a id="pcp"></a>PCP：隐私计算平台（Privacy Computing Platform）
+* <a id="pcr"></a>PCR：平台配置寄存器（Platform Configuration Register）；程序变更请求（Program Change Request）
+* <a id="pcre"></a>PCRE：Perl兼容正则表达式（Perl Compatible Regular Expressions）
+* <a id="pcs"></a>PCS：态势收集服务（Posture Collection Service）；过程控制系统（Process Control Systems）；哨所、营地、工作站（Post，Camp & Station）
+* <a id="pcsa"></a>PCSA：安全能力者联盟（Private Cloud Security Alliance）
+* <a id="pcte"></a>PCTE：持续网络训练环境（Persistent Cyber Training Environment）
+* <a id="pd"></a>PD：公共数据库（Public Database）
+* <a id="pda"></a>PDA：个人数字助理（Personal Digital Assistant）
+* <a id="pdb"></a>PDB：PDB格式（Program DataBase）
+* <a id="pdc"></a>PDC：主域控（Primary Domain Controller）；物理数据中心（Physical Data Center）
+* <a id="pdca"></a>PDCA：PDCA循环（Plan-Do-Check-Adjust）
+* <a id="pdcp"></a>PDCP：分组数据融合协议（Packet Data Convergence Protocol）
+* <a id="pdd"></a>PDD：美国总统决议令（Presidential Decision Directive）
+* <a id="pde"></a>PDE：偏微分方程（Partial Differential Equation）
+* <a id="pdf"></a>PDF：可移植的文档格（Portable Document Format）
+* <a id="pdg"></a>PDG：程序依赖图（Program Dependence Graph）
+* <a id="pdm-c5"></a>PdM：产品经理（Product Manager）
+* <a id="pdn"></a>PDN：分组数据网（Packet Data Network）
+* <a id="pdp"></a>PDP：策略决策点（Policy Decision Point）；策略定义点（Policy Definition Point）；产品规划（ProDuct Planning）
+* <a id="pdr"></a>PDR：防护、检测、响应（Protection, Detection & Response）；初步设计审查（Preliminary Design Review）
+* <a id="pdrr"></a>PDRR：防护、检测、响应、恢复（Protection,Detection,Reaction & Recovery）
+* <a id="pds"></a>PDS：策略决策服务（Policy Decision Service）
+* <a id="pdu"></a>PDU：协议数据单元（Protocol Data Unit）；电源分配单元（Power Distribution Unit）
+* <a id="pe"></a>PE：可移植可执行文件格式（Portable Executable）；Windows预安装环境（Preinstallation Environment）；策略实施（Policy Enforcement）；私募股权（Private Equity）；策略引擎（Policy Engine）；处理器元件（Processor Element）；物理与环境保护（Physical & Environmental Protection）；MPLS提供商边缘（Provider Edge）
+* <a id="peap"></a>PEAP：保护性可扩展认证协议（Protective Extensible Authentication Protocol）；受保护的可扩展认证协议（Protected Extensible Authentication Protocol）
+* <a id="peb"></a>PEB：进程环境块（Process Environment Block）
+* <a id="pec"></a>PEC：隐私计算（Privacy Enhancing Computing）
+* <a id="ped"></a>PED：提权距离，D-H SoK提出的可从agent轨迹计算的安全度量（Privilege Escalation Distance）
+* <a id="pedm"></a>PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
+* <a id="pef"></a>PEF：保护执行设施（Protected Execution Facility）
+* <a id="peft"></a>PEFT：参数高效微调（Parameter-Efficient Fine-Tuning）
+* <a id="pei"></a>PEI：永久设备标识符（Permanent Equipment Identifier）
+* <a id="pek"></a>PEK：平台加密密钥（Platform Encryption Key）
+* <a id="pem"></a>PEM：隐私增强邮件（Privacy Enhanced Mail）
+* <a id="pen"></a>PEN：特权执行禁用（Privileged Execute Never）
+* <a id="peo"></a>PEO：项目执行办公室（Program Executive Office）
+* <a id="pep"></a>PEP：策略执行点（Policy Enforcement Point）
+* <a id="peps"></a>PEPS：被动进入被动启动（Passive Entry Passive Start）
+* <a id="pera"></a>PERA：Purdue企业参考体系结构（Purdue Enterprise Reference Architecture）
+* <a id="perm"></a>PERM：效能管理（PERformance Management）
+* <a id="pert"></a>PERT：计划评审技术（Program Evaluation & Review Technique）
+* <a id="pes"></a>PES：态势评价服务（Posture Evaluation Service）；DoDAF物理交换规范（Physical Exchange Specification）；IEEE电力与能源协会（IEEE Power & Energy Society）
+* <a id="pest"></a>PEST：宏观环境的分析（Politics, Economy, Society, Technology）
+* <a id="pet"></a>PET：隐私增强技术（Privacy Enhancing Technology）
+* <a id="pets"></a>PETS：隐私增强技术研讨会（Privacy Enhancing Technologies Symposium）
+* <a id="pf"></a>PF：物理功能（Physical Function）
+* <a id="pfcp"></a>PFCP：包转发控制协议（Packet Forwarding Control Protocol）
+* <a id="pfr"></a>PFR：平台固件弹性（Platform Firmware Resilience）
+* <a id="pfs"></a>PFS：完美前向保密（Perfect Forward Secrecy）；百度并行文件系统服务（Parallel Filesystem Service）
+* <a id="pfx"></a>PFX：PKCS12#文件格式（Personal Exchange Format）
+* <a id="pg"></a>PG：Ceph放置组（Placement Group）
+* <a id="pgd"></a>PGD：投影梯度下降（Projected Gradient Descent）
+* <a id="pgp"></a>PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
+* <a id="pgt"></a>PGT：代理授权票据（Proxy Granting Ticket）
+* <a id="pgw"></a>PGW：分组数据网络网关（PDN GateWay）
+* <a id="pha"></a>PHA：过程危害分析（Process Hazard Analysis）
+* <a id="phe"></a>PHE：部分同态加密（Partially Homomorphic Encryption）
+* <a id="phi"></a>PHI：个人健康信息（Personal Health Information）；健康信息保护（Protected Health Information）
+* <a id="phm4s"></a>PHM4S：智能制造中可靠操作的预测和健康管理（Predictive and Health Management for Reliable Operations in Smart Manufacturing）
+* <a id="phmsa"></a>PHMSA：美国管道和危险品安全管理局（Pipeline & Hazardous Materials Safety Administration）
+* <a id="php"></a>PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
+* <a id="phy"></a>PHY：物理层（Physical Layer）
+* <a id="pi"></a>PI：个人信息（Personal Information）；流程信息（Process Information）
+* <a id="pia"></a>PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）
+* <a id="piab"></a>PIAB：总统情报咨询委员会（President's Intelligence Advisory Board）
+* <a id="pic"></a>PIC：位置独立代码（Position Independent Code）
+* <a id="picerl"></a>PICERL：准备、识别、控制、根除、恢复、教训（Prepare, Identify, Contain, Eradicate, Recover, Lessons Learned）
+* <a id="pics"></a>PICS：互联网内容选择平台（Platform for Internet Content Selection）
+* <a id="pid"></a>PID：进程标识（Process Identifier）；比例积分微分控制（Proportional-Integral-Derivative）
+* <a id="pidas"></a>PIDAS：边界入侵检测评估系统（Perimeter Intrusion Detection & Assessment System）
+* <a id="pie"></a>PIE：位置独立可执行文件（Position Independent Executable）
+* <a id="piee"></a>PIEE：采购综合企业环境（Procurement Integrated Enterprise Environment）
+* <a id="pifs"></a>PIFS：PCF跨帧空间（Point Coordination Function Interframe Space）
+* <a id="pii"></a>PII：个人身份信息（Personally Identifiable Information）；过程改进基础设施（Process Improvement Infrastructure）
+* <a id="pik"></a>PIK：平台身份密钥（Platform Identity Key）
+* <a id="pim"></a>PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
+* <a id="pin"></a>PIN：个人标识码（Personal Identification Number）
+* <a id="pinn"></a>PINN：物理信息神经网络（Physics-Informed Neural Network）
+* <a id="pip"></a>PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
+* <a id="pipa"></a>PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
+* <a id="pipeda"></a>PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
+* <a id="pipl"></a>PIPL：个人信息保护法（the Personal Information Protection Law）
+* <a id="pir"></a>PIR：隐私信息检索（Private Information Retrieval）；事故后审查报告（Post Incident Review）
+* <a id="pirt"></a>PIRT：有目的干扰响应团队（Purposeful Interference Response Team）
+* <a id="pisa"></a>PISA：独立于协议的交换机架构（Protocol Independent Switch Architecture）
+* <a id="pisia"></a>PISIA：个人信息安全影响评估（Personal Information Security Impact Assessment）
+* <a id="pisp"></a>PISP：支付启动服务提供商（Payment Initiation Service Provider）
+* <a id="pit"></a>PIT：传输中的保护（Protection in Transit）
+* <a id="pitac"></a>PITAC：美国总统信息技术咨询委员会（the President's Information Technology Advisory Committee）
+* <a id="piv"></a>PIV：个人信息验证（Personal Identity Verification）
+* <a id="piv-x2di"></a>PIV-I：个人身份验证互操作（Personal Identity Verification-Interoperable）
+* <a id="pix"></a>PIX：思科私网交换设备（Private Internet eXchange）
+* <a id="pjl"></a>PJL：打印机作业语言（Printer Job Language）
+* <a id="pk"></a>PK：端口敲门（Port Knocking）；平台密钥（Platform Key）；飞腾-麒麟生态体系（Phytium-Kylin）
+* <a id="pkc"></a>PKC：公钥密码学（Public Key Cryptography）
+* <a id="pkce"></a>PKCE：代码交换证明密钥（Proof Key for Code Exchange）
+* <a id="pkcs"></a>PKCS：公钥加密标准（Public Key Cryptography Standards）
+* <a id="pke"></a>PKE：公钥加密（Public-Key Encryption）；公钥使能（Public Key Enabling）
+* <a id="pkg"></a>PKG：私钥生成器（Private Key Generator）
+* <a id="pki"></a>PKI：公钥基础设施（Public Key Infrastructure）
+* <a id="pki-x2dca"></a>PKI-CA：公钥基础设施证书颁发机构（Public Key Infrastructure Certification Authority）
+* <a id="pki-x2dee"></a>PKI-EE：公钥基础设施终端实体（Public Key Infrastructure-End Entities）
+* <a id="pkp"></a>PKP：公钥钉扎（Public Key Pinning）
+* <a id="pks"></a>PKS：PKS生态体系（Phytium-Kylin-Security）
+* <a id="pl"></a>PL：特权等级（Privilege Level）
+* <a id="plassf"></a>PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
+* <a id="plc"></a>PLC：可编程逻辑控制器（Programmable Logic Controller）
+* <a id="plg"></a>PLG：产品主导型增长（Product-Led Growth）
+* <a id="plm"></a>PLM：预训练语言模型（Pre-trained Language Model）
+* <a id="plmn"></a>PLMN：公共陆地移动通信网（Public Land Mobile Network）
+* <a id="plop-cb"></a>PLoP：程序模式语言（Pattern Languages of Programs）
+* <a id="plt"></a>PLT：规程链接表（Procedure Linkage Table）
+* <a id="plwe"></a>PLWE：多项式LWE（Polynomial LWE）
+* <a id="pm"></a>PM：绩效管理（Performance Management）
+* <a id="pm2"></a>PM2：PerfMonitor 2工具（PerfMonitor 2）
+* <a id="pmbok"></a>PMBOK：项目管理知识体系（Project Management Body of Knowledge）
+* <a id="pmc"></a>PMC：可编程金属化单元（Programmable Metallization Cell）
+* <a id="pmi"></a>PMI：权限管理基础设施（Privilege Management Infrastructure）；项目管理研究所（Project Management Institute）
+* <a id="pmk"></a>PMK：配对主密钥（Pairwise Master Key）
+* <a id="pmksa"></a>PMKSA：配对主密钥安全联盟（Pairwise Master Key Security Association）
+* <a id="pml"></a>PML：可能的最大损失（Probable maximum loss）
+* <a id="pmm"></a>PMM：隐私成熟度模型（Privacy Maturity Model）
+* <a id="pmo"></a>PMO：项目经理（Project Management Officer）；项目管理办公室（Project Management Office）；总理办公室（Prime Minister's Office）
+* <a id="pmp"></a>PMP：国际项目管理师（Project Management Professional）
+* <a id="pmt"></a>PMT：隐私管理工具（Privacy Management Tools）
+* <a id="pmu"></a>PMU：性能监测单元（Performance Monitor Unit）
+* <a id="pn"></a>PN：分组编号（Packet Number）
+* <a id="pna"></a>PNA：非攻击场景效用，NRP组成项（Performance on Non-attack）
+* <a id="pnidui"></a>PNIDUI：网络系统图标（Network System Icon）
+* <a id="pnnl"></a>PNNL：美国西北太平洋国家实验室（Pacific Northwest National Laboratory）
+* <a id="pnt"></a>PNT：定位、导航和授时（Positioning, Navigation & Timing）
+* <a id="poa-x26m"></a>POA&M：行动计划和里程碑（Plan of Actions & Milestones）
+* <a id="poas-cd"></a>PoAS：策略管理服务（Policy Administration Service）
+* <a id="poc-c5"></a>PoC：概念证明（Proof of Concept）；联系点（Point of Contact）
+* <a id="pod"></a>POD：分发点（Point Of Delivery）；Kubernetes计算单元（pod）
+* <a id="poe-c5"></a>PoE：以太网供电（Power over Ethernet）
+* <a id="pof"></a>POF：被动OS指纹识别（Passive OS Fingerprinting）
+* <a id="poi"></a>POI：兴趣地点（Point Of Interest）
+* <a id="pola"></a>POLA：最小权限（Least Privilege）
+* <a id="polp-cd"></a>PoLP：最小权限原则（Principle of Least Privilege）
+* <a id="pom"></a>POM：POM文件（Project Object Model）
+* <a id="pon"></a>PON：无源光纤网络（Passive Optical Network）
+* <a id="poodle"></a>POODLE：贵宾犬漏洞（Padding Oracle On Downgraded Legacy Encryption）
+* <a id="pop"></a>POP：邮件协议版本（Post Office Protocol）；接入点（Point of Presence）
+* <a id="popw-cd"></a>PoPW：物理工作量证明（Proof of Physical Work）
+* <a id="pos"></a>POS：销售终端（Point Of Sales）；持有量证明（Proof of Stake）；基于SDH的分组协议（Packet over SDH）
+* <a id="posix"></a>POSIX：可移植操作系统接口（Portable Operating System Interface）
+* <a id="pot-c5"></a>PoT：思维计划后门（Plan-of-Thought Backdoor）
+* <a id="pots"></a>POTS：普通老式电话服务（Plain Old Telephone Service）
+* <a id="potus"></a>POTUS：美国总统（President Of The United States）
+* <a id="pou"></a>POU：项目组织单元（Program Organizational Unit）
+* <a id="pov-c5"></a>PoV：价值验证（Proof of Value）
+* <a id="pow-c5"></a>PoW：工作量证明（Proof of Work）
+* <a id="pp"></a>PP：保护轮廓（Protection Profile）；受保护进程（Protected Process）；流水线并行（Pipeline Parallelism）
+* <a id="ppa"></a>PPA：保护轮廓确保（Protection Profile Assurance）
+* <a id="ppake"></a>PPAKE：具有隐私保护性质的认证性密钥协商协议（Privacy-Preserving Authenticated Key Exchange）
+* <a id="ppas"></a>PPAS：Postgres Plus高级服务器（Postgres Plus Advanced Server）
+* <a id="ppbe"></a>PPBE：规划，计划，预算和执行（Planning, Programming, Budgeting & Execution）
+* <a id="ppd"></a>PPD：总统政策指令（Presidential Policy Directive）
+* <a id="ppdr"></a>PPDR：策略、防护、检测、响应（Policy, Protection, Detection, Response）
+* <a id="ppdrr"></a>PPDRR：策略、防护、检测、响应和恢复（Policy, Protection, Detection, Response, Recovery）
+* <a id="ppe"></a>PPE：管道执行投毒（Poisoned Pipeline Execution）
+* <a id="ppl"></a>PPL：轻量级受保护进程（Protected Process Light）
+* <a id="ppo"></a>PPO：近端策略优化（Proximal Policy Optimization）
+* <a id="ppp"></a>PPP：点对点协议（Point-to-Point Protocol）；公私合作（Public-Private Partnerships）；程序保护计划（Program Protection Planning）
+* <a id="pppoe-c17"></a>PPPoE：以太网点对点协议（Point-to-Point Protocol over Ethernet）
+* <a id="pps"></a>PPS：互联网协议套件及相关端口（Internet Protocol Suite & Associated Ports）
+* <a id="ppse"></a>PPSE：近场支付系统环境（Proximity Payment System Environment）
+* <a id="ppsm"></a>PPSM：端口、协议与服务管理（Ports, Protocols & Services Management）
+* <a id="ppt"></a>PPT：人、流程、技术（People，Processes & Technology）
+* <a id="pptp"></a>PPTP：点对点隧道协议（Point-to-Point Tunneling Protocol）
+* <a id="ppv"></a>PPV：阳性预测值（精确率）（Positive Predictive Value）
+* <a id="pqa"></a>PQA：过程质量保证（Process Quality Assurance）
+* <a id="pqc"></a>PQC：后量子密码术（Post-Quantum Cryptography）
+* <a id="pqke"></a>PQKE：后量子密钥交换（Post-Quantum Key Exchange）
+* <a id="pr"></a>PR：所需权限（Privileges Required）；拉取请求（Pull Request）；PageRank网页分（PageRank）；公共关系（Public Relations）；保护（Protect）
+* <a id="pr-x2fsm"></a>PR/SM：处理器资源/系统管理器（Processor Resource/System Manager）
+* <a id="pram"></a>PRAM：隐私风险评估方法（Privacy Risk Assessment Methodology）
+* <a id="pras-cd"></a>PrAS：主要特征识别服务（Primary Attribute Service）
+* <a id="prd"></a>PRD：产品需求文档（Product Requirement Document）
+* <a id="prf"></a>PRF：伪随机函数（Pseudo-Random Function）
+* <a id="prg"></a>PRG：伪随机生成器（Pseudo-Random Generator）
+* <a id="prince"></a>PRINCE：受控环境下的项目管理（PRoject IN Controlled Environment）
+* <a id="prince2"></a>PRINCE2：受控环境项目管理方法（PRojects IN Controlled Environments）
+* <a id="prng"></a>PRNG：伪随机数生成器（Pseudo-Random Number Generator）
+* <a id="proc"></a>PROC：规程（Procedure）
+* <a id="prom"></a>PROM：过程管理（PROcess Management）
+* <a id="prot-cb"></a>PRoT：平台信任根（Platform Root of Trust）
+* <a id="prp"></a>PRP：伪随机排列（Pseudo Random Permutation）；策略取回点（Policy Retrieval Point）；并行冗余协议（Parallel Redundancy Protocol）
+* <a id="prrh-ce"></a>pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
+* <a id="prs"></a>PRS：策略检索服务（Policy Retrieval Service）
+* <a id="ps"></a>PS：分组交换（Packet Switching）；受保护存储（Protected Storage）；参数服务器（Parameter Server）
+* <a id="psa"></a>PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）；进程派生分析（Process Spawn Analysis）
+* <a id="psb"></a>PSB：AMD平台安全启动（Platform Secure Boot）
+* <a id="psc"></a>PSC：平台服务控制器（Platform Services Controller）
+* <a id="psccc"></a>PSCCC：电力系统通信和网络安全（IEEE Power System Communications and Cybersecurity）
+* <a id="psd2"></a>PSD2：修订的支付服务指令（Revised Payment Services Directive）
+* <a id="pse"></a>PSE：Zscaler公共服务端点（Public Service Edge）
+* <a id="psi"></a>PSI：隐私集合求交（Private Set Intersection）
+* <a id="psirt"></a>PSIRT：产品安全事件响应组（Product Security Incident Response Team）
+* <a id="psk"></a>PSK：预享密钥（Pre-Shared Key）
+* <a id="psm"></a>PSM：特权会话管理（Privileged Session Management）
+* <a id="psn"></a>PSN：公共交换网络（Public Switched Network）
+* <a id="pso"></a>PSO：粒子群优化（Particle Swarm Optimization）
+* <a id="psp"></a>PSP：公开安全参数（Public Security Parameter）；配置服务提供商（Provisioning Service Provider）；某游戏机产品（PlayStation Portable）；平台安全处理器（Platform Security Processor）
+* <a id="pss"></a>PSS：过程安全关闭（Process Safety Shutdown）
+* <a id="pst"></a>PST：配置服务目标（Provisioning Service Target）
+* <a id="pstn"></a>PSTN：公共交换电话网络（Public Switched Telephone Network）
+* <a id="psyops"></a>PSYOPS：心理战（Psychological Operations）
+* <a id="pt"></a>PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）；明文（Plaintext）
+* <a id="ptaas-c13"></a>PTaaS：渗透测试即服务（Penetration Testing as a Service）
+* <a id="ptc"></a>PTC：并行工具调用（面向批量工具调用的筛选/去重/汇总）（Parallel Tool Calling）
+* <a id="pte"></a>PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）
+* <a id="ptes"></a>PTES：渗透测试执行标准（Penetration Testing Execution Standard）
+* <a id="ptf"></a>PTF：渗透测试框架（PenTesters Framework）
+* <a id="pth-c5"></a>PtH：哈希传递攻击（Pass the Hash）
+* <a id="ptk"></a>PTK：配对瞬时密钥（Pairwise Transient Key）
+* <a id="ptn"></a>PTN：分组传送网（Packet Transport Network）
+* <a id="ptp"></a>PTP：精确时间协议（Precision Time Protocol）
+* <a id="ptr"></a>PTR：指针（Pointer）
+* <a id="pts"></a>PTS：渗透测试专家（Penetration Testing Specialist）
+* <a id="ptt"></a>PTT：英特尔平台可信技术（Platform Trust Technology）
+* <a id="ptt-c5"></a>PtT：票据传递攻击（Pass-the-Ticket）
+* <a id="pua"></a>PUA：灰色应用（Potentially Unwanted Application）；心理操控（Pick-Up Artist）
+* <a id="pub"></a>PUB：出版物（Publication）
+* <a id="pue"></a>PUE：能源使用效率（Power Usage Effectiveness）
+* <a id="pum"></a>PUM：特权用户管理（Privileged User Management）
+* <a id="pup"></a>PUP：灰色软件（Potentially Unwanted Program）
+* <a id="pv"></a>PV：光伏（PhotoVoltaic）；页面访问量（Page Views）；DoDAF项目视角（Project Viewpoint）
+* <a id="pvc"></a>PVC：永久虚电路（Permanent Virtual Circuit）
+* <a id="pvk"></a>PVK：PVK格式（Private Key）
+* <a id="pwc-c5"></a>PwC：普华永道（Pricewaterhouse Coopers）
+* <a id="pwm"></a>PWM：脉宽调制（Pulse Width Modulation）
+* <a id="pwn-c0"></a>pwn：夺取、掌控（键盘录入错误：own）
+* <a id="pwscif"></a>PWSCIF：公共无线供应链创新基金（Public Wireless Supply Chain Innovation Fund）
+* <a id="px"></a>PX：FireEye流量取证平台（猜测：Packet security）
+* <a id="pxe"></a>PXE：预引导执行环境（Preboot Execution Environment）
+* <a id="pxn"></a>PXN：特权态禁止执行（Privileged eXucute Never）

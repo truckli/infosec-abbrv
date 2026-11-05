@@ -1,342 +1,342 @@
 ## I
 
-* I&A：识别与鉴别（Identification & Authentication）；美国国土安全部情报和分析办公室（Office of Intelligence & Analysis）
-* I&CI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
-* I&O：基础设施与运营（Infrastructure & Operations）
-* I&T：信息与技术（Information & Technology）
-* I-D：互联网草案（Internet Draft）
-* I/O：输入/输出（Input/Output）
-* I2P：隐形网计划（Invisible Internet Project）
-* I3P：信息基础设施保护研究所（Institute for Information Infrastructure Protection）
-* I4C：印度网络犯罪协调中心（Indian Cyber Crime Coordination Centre）
-* IA：信息保障（Information Assurance）；互联网访问（Internet Access）；FireEye调查分析系统（Investigation Analysis）；英特尔安腾体系结构（Itanium Architecture）；身份验证与认证（Identification & Authentication）
-* IA-32：英特尔32位架构（Intel Architecture 32-bit）
-* IA-64：英特尔安腾架构（Intel Itanium Architecture）
-* IAARC：国际建筑自动化和机器人协会（International Association for Automation & Robotics in Construction）
-* IaaS：基础设施即服务（Infrastructure as a Service）
-* IAASB：国际审计与鉴证准则理事会（International Auditing & Assurance Standards Board）
-* IAB：互联网架构委员会（Internet Architecture Board）
-* IaC：基础设施代码（Infrastructure as Code）
-* IAC：产业咨询委员会（Industry Advisory Council）
-* IACD：集成化自适应网络防御（Integrated Adaptive Cyber Defense）
-* IACR：国际密码学研究协会（International Association for Cryptologic Research）
-* IACS：工业自动化和控制系统（Industrial Automation & Control System）
-* IAD：NSA信息保障处（Information Assurance Directorate）
-* IAEA：国际原子能机构（International Atomic Energy Agency）
-* IAL：身份确保级（Identity Assurance Level）
-* IAM：身份与访问管理（Identity & Access Management）
-* IANA：互联网编号分配机构（Internet Assigned Numbers Authority）
-* IAP：互联网接入点（Internet Access Point）
-* IAPWG：信息保障政策工作组（Information Assurance Policy Working Group）
-* IARPA：美国情报高级研究计划局（Intelligence Advanced Research Projects Activity）
-* IASE：信息保障支持环境（Information Assurance Support Environment）
-* IAST：交互式应用安全测试（Interactive Application Security Testing）
-* IAT：信息保障技能（Information Assurance Technical）
-* IATAC：信息保障技术分析中心（Information Assurance Technology Analysis Center）
-* IATC：临时连接授权（Interim Authority to Connect）
-* IATF：信息保障技术框架（Information Assurance Technical Framework）
-* IATO：临时操作授权（Interim Authority to Operate）
-* IATT：临时测试授权（Interim Authority to Test）
-* IAVA：信息保障漏洞警报（Information Assurance Vulnerability Alert）
-* IAW：按照（In Accordance With）
-* IB：InfiniBand（InfiniBand）
-* IBB：初始引导块（Initial Boot Block）
-* IBC：迭代块密码（Iterated Block Cipher）；标识密码（Identity-Based Cryptography）
-* IBE：基于身份的加密（Identity-Based Encryption）
-* iBGP：内部边界网关协议（internal Border Gateway Protocol）
-* IBM：国际商业机器公司（International Business Machines Corporation）
-* iBMC：华为智能基板管理系统（Intelligence Baseboard Management Controller）
-* IBoE：以太网上的InfiniBand（InfiniBand over Ethernet）
-* IBOM：基础设施物料清单（Infrastructure Bill of Materials）
-* iBPMS：智能业务流程管理套件（intelligent Business Process Management Suite）
-* IBSS：独立基本服务集（Independent Basic Service Set）
-* IC：集成电路（Integrated Circuit）；情报界（Intelligence Community）
-* IC3：加密货币与合约计划（Initiative for CryptoCurrency and Contract）
-* ICA：中国兵器工业计算机应用技术研究所（Institute for Computer Application）；中级证书颁发机构（Intermediate Certificate Authority）
-* ICAM：身份、凭证与访问管理（Identity, Credential, and Access Management）；集成计算机辅助制造（Integrated Computer-Aided Manufacturing）
-* ICANN：互联网名称与数字地址分配机构（The Internet Corporation for Assigned Names and Numbers）
-* ICAP：互联网内容适配协议（Internet Content Adaptation Protocol）
-* ICASI：互联网安全促进产业联盟（the Industry Consortium for Advancement of Security）
-* ICB：浪潮云御堡垒机（Inspur Cloud Bastion）
-* ICC：集成座舱控制器（Integrated Cockpit Controller）
-* ICCID：集成电路卡标识符（Integrated Circuit Card Identifier）
-* ICCP：互操作控制中心协议（Inter-Control Center Communications Protocol）；多机箱控制协议（Inter-Chassis Control Protocol）
-* ICCV：国际计算机视觉大会（IEEE International Conference on Computer Vision）
-* ICDT：信息通信与数据技术（Information, Communication & Data Technology）
-* ICE：网络环境情报（Intelligence on Cyber Environment）；交互连接建立协议（Interactive Connectivity Establishment）；美国移民和海关执法局（U.S. Immigration and Customs Enforcement）；浪潮云容器引擎（Inspur Container Engine）
-* ICES：集成云邮件安全 （Integrated Cloud Email Security）
-* ICG：互联网控制网关（Internet Control Gateway）；智能通信网关（Intelligent Communication Gateway）；智能控制网关（Intelligent Control Gateway）
-* ICL：上下文学习（In-Context Learning）
-* ICML：国际机器学习会议（International Conference on Machine Learning）
-* ICMP：互联网控制报文协议（Internet Control Message Protocol）
-* ICN：以信息为中心的网络（Information Centric Networking）
-* ICO：首次代币发行（Initial Coin Offering）；英国信息专员办公室（Information Commissioner's Office）
-* ICOS：IBM云对象存储（IBM Cloud Object Storage）
-* ICP：网络内容服务商（Internet Content Provider）；行业云平台（Industry Cloud Platform）；情报作战计划（Intelligence Campaign Plan）；浪潮云分布式云平台（Inspur Cloud Platform）
-* ICR：联网记录（Internet Connection Record）
-* ICS：工业控制系统（Industrial Control System）
-* ICSE：国际软件工程会议（The International Conference on Software Engineering）
-* ICSJWG：工业控制系统联合工作组（Industrial Control Systems Joint Working Group）
-* ICSS：综合控制和安全系统（Integrated Control & Safety Systems）
-* ICSScan：工控漏洞扫描系统（Industrial Control System Scanner）
-* ICSV：IBM云安全虚拟化（IBM Cloud Secure Virtualization）
-* ICT：信息及通信技术（Information & Communications Technology）
-* ICV：完整性检查值（Integrity Check Value）
-* ICX：ICON平台数字币（ICON）
-* ID-JAG：身份断言授权许可（Identity Assertion JWT Authorization Grant）
-* IDA：IDA反汇编工具（Interactive Disassembler）；国防分析研究所（Institute for Defense Analyses）
-* IDaaS：身份即服务（Identity as a Service）
-* IdAM：身份与访问管理（Identity & Access Management）
-* IDC：互联网数据中心（Internet Data Center）；国际数据公司（International Data Corporation）
-* IDE：集成开发环境（Integrated Development Environment）；IDE接口（Integrated Drive Electronics）
-* IDEA：国际数据加密算法（International Data Encryption Algorithm）
-* IDEAS：国际防务企业架构规范（International Defence Enterprise Architecture Specification）
-* IDEF：IDEF建模语言（Integration Definition）
-* IDEF1X：IDEF信息建模语言（Integration Definition for information modeling）
-* IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
-* IDL：接口描述语言（Interface description language）
-* iDLG：改进的深度泄漏梯度（Improved Deep Leakage from Gradients）
-* IdM：身份管理（Identity Management）
-* IDM：内部防御性措施（Internal Defensive Measure）
-* IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）
-* IDN：国际化域名（Internationalized Domain Name）
-* IDO：入侵检测本体（Intrusion Detection Ontology）
-* IDOR：不安全直接对象引用（Insecure Direct Object References）
-* IDOV：识别、设计、优化、验证（Identify, Design, Optimize & Verify）
-* IdP：身份提供服务（Identity Provider）
-* IDPS：入侵检测和防御系统（Intrusion Detection & Prevention System）
-* IDR：敏感数据发现与风险评估系统（Information Discovery & Risk assessment）
-* IDS：入侵检测系统（Intrusion Detection System）
-* IDT：国际标准等价引入（Identical）
-* IDV：智能桌面虚拟化（Intelligent Desktop Virtualization）
-* IE：信息企业（Information Enterprise）；信息元素（Information Element）；信息环境（Information Environment）
-* IEA：信息企业架构（Information Enterprise Architecture）
-* IEC：国际电工协会（International Electrotechnical Commission）
-* IED：智能电子设备（Intelligent Electronic Device）
-* IEEE：电气电子工程师学会（Institute of Electrical and Electronics Engineers）
-* IEN：互联网实验备注（Internet Experiment Note）
-* IEO：首次交换发行（Initial Exchange Offering）
-* IEP：信息交换策略（Information Exchange Policy）
-* IES：IEEE工业电子学会（IEEE Industrial Electronics Society）；浪潮弹性搜索（Inspur Elasticsearch）
-* IESG：互联网工程指导组（Internet Engineering Steering Group）
-* IETF：互联网工程任务组（Internet Engineering Task Force）
-* IEW&S：情报，电子战和传感器计划执行办公室（Intelligence, Electronic Warfare and Sensors）
-* IFAA：互联网金融身份认证联盟（Internet Finance Authentication Alliance）
-* IFC：信息流控制（Information Flow Control）
-* IFCC：间接函数调用检查器（Indirect Function Call Checker）
-* IFI：身份体系免疫力（Identity Fabric Immunity）
-* IFIP：国际信息处理联合会（International Federation for Information Processing）
-* IFPUG：国际功能点用户组（International Function Point Users Group）
-* IFR：暂行最终规定（Interim Final Rule）
-* IGA：身份治理与管理（Identity Governance & Administration）
-* IGDP：互联网网关设备协议（Internet Gateway Device Protocol）
-* IGMP：互联网组管理协议（Internet Group Management Protocol）
-* IGP：内部网关协议（Interior Gateway Protocol）
-* IGRP：内部网关路由协议（Interior Gateway Routing Protocol）
-* IH：发起主机（Initiating Host）
-* IIC：美国工业物联网联盟（Industrial IoT Consortium）；美国工业互联网联盟（Industrial Internet Consortium）
-* IIFAA：互联网可信认证联盟（International Internet Finance Authentication Alliance）
-* IIOP：互联网ORB间通信协议（Internet InterORB Protocol）
-* IIoT：工业物联网（Industrial IoT）
-* IIS：某Web服务器软件（Internet Information Services）
-* IISS：国际战略研究所（International Institute for Strategic Studies）
-* IKE：互联网密钥交换（Internet Key Exchange）
-* IL：完整性级别（Integrity Level）；影响级别（Impact Level）
-* ILAC：国际实验室认可合作组织（International Laboratory Accreditation Cooperation）
-* ILDP：信息泄露检测防护（Information Leak Detection and Prevention）
-* ILF：内部逻辑文件（Internal Logical File）
-* ILK：中间链路密钥（Intermediate Link Key）
-* ILM：身份生命周期管理（Identity Lifecycle Management）
-* ILP：信息泄露防护（Information Leak Prevention）；指令级并行（Instruction Level Parallelism）
-* ILTK：中长期密钥（Intermediate Long Term Key）
-* IMA：完整性测量体系结构（Integrity Measurement Architecture）
-* IMAP：互联网邮件访问协议（Internet Mail Access Protocol）
-* IMC：身份管理中心（Identity Management Center）
-* IMDS：Azure实例元数据服务（Instance Metadata Service）
-* IMEI：国际移动设备标识（International Mobile Equipment Identity）
-* IMG：镜像文件格式（IMaGe）
-* IMI：信息操纵和干扰（Information Manipulation & Interference）
-* IMINT：图像情报（Imagery Intelligence）
-* IMP：实现（IMPlemention）
-* IMS：IP多媒体子系统（IP Multimedia Subsystem）；IP多媒体核心网络子系统（IP Multimedia Core Network Subsystem）；汽车座舱视觉监控系统（In-cabin Monitoring System）
-* IMSE：浪潮云微服务引擎（Inspur Microservice Engine）
-* IMSI：国际移动用户身份（International Mobile Subscriber Identity）
-* IMU：惯性测量单元（Inertial Measurement Unit）
-* IMZ：WinImage压缩磁盘映像（WinImage Compressed Disk Image）
-* INATBA：国际可信区块链应用协会（International Association for Trusted Blockchain Applications）
-* INCOSE：国际系统工程委员会（INternational Council On Systems Engineering）
-* IND-CCA：选择密文攻击下的不可区分性（Indistinguishability under Chosen-Cyphertext Attack）
-* IND-CPA：选择明文攻击下的不可区分性（Indistinguishability under Chosen-Plaintext Attack）
-* INFOCOM：国际计算机通信会议（IEEE International Conference on Computer Communications）
-* infosec：信息安全（Information Security）
-* INGOTS：智能安全工具生成（the Intelligent Generation of Tools for Security）
-* INL：美国爱达荷国家实验室（Idaho National Laboratory）
-* INR：美国国务院情报研究署（Bureau of Intelligence and Research）
-* INSCOM：美国陆军情报和安全司令部（United States Army Intelligence & Security Command）
-* INSP：工业网络安全监测预警管理平台（Industrial Network Security Platform）
-* INT：固定点数值（INTeger）
-* INT4：四位固定点数值（INTeger 4-bit）
-* INT8：八位固定点数值（INTeger 8-bit）
-* IO：输入输出（Input/Output）；认知影响行动（Influence Operations）
-* IoA：攻击标示（Indicator of Attack）
-* IoB：行为标示（Indicator of Behavior）
-* IoC：失陷标示（Indicator of Compromise）；控制反转（Inversion of Control）
-* IOC：威胁指标（Indicators Of Compromise）
-* IODEF：事件描述和交换格式（Incident Object Description & Exchange Format）
-* IODT：中断描述符表（Interrupt Descriptor Table）
-* IOE：IBM小型机、甲骨文数据库和EMC存储（IBM，Oracle & EMC）
-* IoMT：医疗物联网（Internet of Medical Things）
-* IOPL：I/O特权等级（I/O Privilege Level）
-* IOPS：每秒输入/输出操作数（Input/Output Operations Per Second）
-* iOS：苹果操作系统（iPhone Operating System）
-* IoT：物联网（Internet of Things）
-* IOTA：IOTA加密币（希腊字母：Ι）
-* IOU：交并比（检测评估指标）（Intersection over Union）
-* IoV：车联网（Internet of Vehicles）
-* IOV：I/O虚拟化（I/O Virtualization）
-* IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）；交互式证明（Interactive Proof）
-* IP-PBX：专用分组交换机（IP Private Branch eXchange）
-* IPA：身份、策略与审计（Identity, Policy & Audit）；物联网配置文件助理（IoT Profile Assistant）；智能流程自动化（Intelligent Process Automation）；日本IT处理推进机构（Information-technology Promotion Agency）
-* IPAA：国际隐私保护专业人员协会（International Association of Privacy Professionals）
-* iPaaS：集成平台即服务（integration Platform as a Service）
-* IPAM：IP地址管理（IP Address Management）
-* IPC：进程间通信（Inter-Process Communication）；信息保护控制（Information Protection and Control）
-* IPDR：IP通信详单（Internet Protocol Detail Record）
-* IPDRR：识别、保护、检测、响应及恢复（Identify, Protect, Detect, Respond & Recover）
-* IPE：指令权限提升（Instruction Privilege Escalation）
-* IPF：信息处理设施（Information Processing Facility）
-* IPFIX：IP数据流信息输出（Internet Protocol Flow Information Export）
-* IPFS：星际文件系统（Inter-Planetary File System）
-* IPI：间接提示注入（Indirect Prompt Injection）
-* IPI/DPI：间接/直接提示注入（Indirect/Direct Prompt Injection）
-* IPL：初始程序加载器（Initial Program Loader）
-* IPMC：智能平台管理控制器（Intelligent Platform Management Controller）
-* IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）
-* IPMS：集成产品营销与销售（Integrated Product Marketing & Sales）
-* IPN：JIE设施处理节点（Installation Processing Nodes）
-* IPO：输入-处理-输出（Input–Process–Output）；首次公开募股（Initial Public Offering）
-* IPPBE：情报计划、编程、预算和评估过程（Intelligence Planning, Programming, Budgeting, and Evaluation）
-* IPQAM：IP正交振幅调制（Internet Protocol Quadrature Amplitude Modulation）
-* IPS：入侵预防系统（Intrusion Prevention System）；印度警察系统（India Police Service）
-* IPsec：IP安全协议（Internet Protocol Security）
-* IPTF：基础设施保护任务部队（Infrastructure Protection Task Force）
-* IPTS：IPv6转换服务（IPv6 Translation Service）
-* IPU：Intel产品升级（Intel Product Update）
-* IPX：网际分组交换协议（Internetwork Packet Exchange）
-* IR：事件响应（Incident Response）；情报需求（Intelligence Requirement）；信息检索（Information Retrieval）；中间代码（Intermediate Representation）；跨机构报告（Interagency Report）；内部报告（Internal Report）；身份根（Identity Root）
-* IRC：互联网中继聊天（Internet Relay Chat）
-* IRE：应急响应工程师（Incident Response Engineer）
-* IRET：中断返回（Interrupt Return）
-* IRK：身份解析密钥（Identity Resolving Key）
-* IRM：内联参考监视器（Inlined Reference Monitor）；集成风险管理（Integrated Risk Management）；内部风险管理（Insider Risk Management）
-* IRMP：集成风险管理计划（Integrated Risk Management Plan）；内部风险管理计划（Insider Risk Management Plan）
-* IRP：事件响应平台（Incident Response Platform）；事件响应计划（Incident Response Plan）
-* IRPF：基础设施韧性规划框架（Infrastructure Resilience Planning Framework）
-* IRQ：中断请求（Interrupt Request）
-* IRS：入侵响应系统（Intrusion Response Systems）；应急响应工程师（Incident Response Specialist）；美国国税局（Internal Revenue Service）
-* IRT：事件响应小组（Incident Response Team）
-* IRTF：互联网研究任务组（Internet Research Task Force）
-* IS：信息系统（Information System）；国际标准（International Standard）
-* IS-IS：中间系统到中间系统（Intermediate System to Intermediate System）
-* ISA：指令集架构（Instruction-Set Architecture）；工业标准体系结构（Industry Standard Architecture）
-* ISAC：信息共享与分析中心（Information Sharing and Analysis Center）
-* ISACA：国际信息系统审计和控制协会（Information Systems Audit and Control Association）
-* ISAE：担保业务国际标准（International Standard on Assurance Engagements）
-* ISAKMP：网际安全连接和密钥管理协议（Internet Security Association & Key Management Protocol）
-* ISAM：索引顺序访问方法（Indexed Sequential Access Method）
-* ISAO：信息共享与分析组织（Information Sharing and Analysis Organization）
-* ISATAP：站内自动隧道寻址协议（Intra-Site Automatic Tunnel Addressing Protocol）
-* ISC：中国互联网协会（Internet Society of China）；互联网安全大会（Internet Security Conference）；互联网系统联盟（Internet Systems Consortium）；美国信息共享议政会（Information Sharing Council）；互联网风暴中心（Internet Storm Center）；基础架构安全类别（Infrastructure Security Category）
-* ISC2：国际信息系统安全认证协会（International Information System Security Certification Consortium）
-* ISCAT：工业网络安全合规评估工具（Industrial Security Compliance Assessment Tool）
-* ISCCC：中国信息安全认证中心（China Information Security Certification Center）
-* ISCE：信息共享与协作环境（Information Sharing and Collaboration Environment）
-* ISCF：英国产业战略挑战基金（Industrial Strategy Challenge Fund）
-* ISCM：信息安全持续监视（Information Security Continuous Monitoring）
-* iSCSI：互联网小型计算机系统接口（Internet Small Computer System Interface）
-* ISD-P：发行机构安全域 - 个人资料（Issuer Security Domain - Profile）
-* ISD-R：发行机构安全域 - 根（Issuer Security Domain - Root）
-* ISDN：综合服务数字网（Integrated Service Digital Network）
-* ISE：快速安全擦除（Instant Secure Erase）；身份服务引擎（Identity Services Engine）
-* ISEAA：信息安全测评联盟（InfoSecurity Evaluation and Assessment Association）
-* ISecL：英特尔安全库（Intel Security Libraries）
-* ISecL-DC：英特尔数据中心安全库（Intel Security Libraries for Data Center）
-* ISECOME：美国安全和开放方法研究所（Institute for Security and Open Methodologies）
-* ISG：基础设施方案组（Infrastructure Solutions Group）；工业防火墙（Industrial Security Gateway）
-* ISID：工业安全隔离装置（Industrial Security Isolation Device）
-* ISIM：IP多媒体子系统识别模块（IP Multimedia Services Identity Module）
-* ISIRT：信息安全事件响应组（Information Security Incident Response Team）
-* ISM：信息安全管理（Information Security Management）；工业、科学和医疗（Industrial, Scientific & Medical）
-* ISMS：信息安全管理体系（Information Security Management System）
-* ISO：国际标准化组织（International Organization for Standardization）；ISO镜像文件格式（ISO 9600）
-* ISOC：国际互联网协会（Internet Society）
-* ISOO：美国信息安全监督办公室（Information Security Oversight Office）
-* ISOP：智能安全运营平台（Intelligent Security Operation Platform）
-* ISOP-DS：数据安全运营平台（Intelligent Security Operation Platform for Data Security）
-* ISOP-RA：绿盟智能安全监管服务支撑平台（猜测：Intelligent Security Operation Platform - Regulation Authority）
-* ISP：互联网服务提供商（Internet Service Provider）
-* ISPAB：信息安全和隐私咨询委员会（Information Security & Privacy Advisory Board）
-* ISPIM：IBM安全特权身份管理（IBM Security Privileged Identity Manager）
-* ISPL：EXIN信息服务采购管理认证项目（Information Service Procurement Management）
-* ISR：情报、监视、侦察（Intelligence, Surveillance, Reconnaissance）
-* ISRD：情报、监视、侦察部队（Intelligence, Surveillance & Reconnaissance Division）
-* ISRM：信息安全风险管理（Information Security Risk Management）
-* ISRMC：信息安全风险管理委员会（Information Security Risk Management Committee）
-* ISS：信息安全系统（Information Security System）；互联网安全系统公司（Internet Security Systems）；国际空间站（International Space Station）
-* ISSA：信息系统安全协会（Information Systems Security Association）
-* ISSE：信息系统安全工程（Information Systems Security Engineering）
-* ISSM：信息系统安全管理（Information System Security Manager）
-* ISSO：信息系统安全官员（Information System Security Officer）
-* ISSPM：信息系统安全项目经理（Information Systems Security Project Manager）
-* ISSS：国际系统科学学会（International Society for the Systems Sciences）
-* IST：安全与技术研究所（Institute for Security & Technology）
-* ISTQB：国际软件测试资格委员会（International Software Testing Qualifications Board）
-* ISU：爱达荷州立大学（Idaho State University）
-* ISV：独立软件供应商（Independent Software Vendor）
-* ISW：阿里云外网接入交换机（Inter-connect SWitch）
-* IT：信息技术（Information Technology）
-* ITA：IT架构（IT Architecture）；美国国际贸易署（International Trade Administration）
-* ITAF：IT确保框架（IT Assurance Framework）
-* ITAI：信息技术应用创新（Information Technology Application Innovation）
-* ITAIP：信息技术应用创新专业人员（Information Technology Application Innovation Professional）
-* ITAM：信息技术资产管理（Information Technology Asset Management）
-* ITAR：国际武器交易管制（International Traffic in Arms Regulation）
-* ITDG：IT需求治理（IT Demand Governance）
-* ITDR：身份威胁检测与响应（Identity Threat Detection and Response）
-* ITES：IT化服务（Information Technology Enabled Services）
-* ITF：集成测试设施（Integrated Test Facility）
-* ITG：IT治理（IT Governance）
-* ITGI：IT治理研究所（IT Governance Institute）
-* ITI：美国信息技术产业理事会（Information Technology Industry Council）
-* ITIF：美国信息技术与创新基金会（Information Technology and Innovation Foundation）
-* ITIL：IT基础构架库（Information Technology Infrastructure Library）
-* ITL：信息技术实验室（Information Technology Laboratory）
-* ITM：内部威胁管理（Internal Threat Management）；智能流量管理（Intelligent Traffic Management）
-* ITMRA：信息技术管理改革法（Information Technology Management Reform Act）
-* ITOA：IT运维分析（IT Operation Analytics）
-* ITOM：IT运维管理（IT Operation Management）
-* ITOps：信息技术运营（Information Technologies Operations）
-* ITRM：IT风险管理（IT Risk Management）
-* ITS：入侵容忍系统（Intrusion Tolerance System）；信息技术系统（Information Technology Systems）；智能交通系统（Intelligent Transportation System）；内部可信存储（Internal Trusted Storage）；智能交通系统（Intelligent Transport System）
-* ITSG：IT供给侧治理（IT Supply-side Governance）
-* ITSM：IT服务管理（IT Service Management）
-* ITSMS：IT服务管理（IT Service Management System）
-* ITSS：信息技术服务标准（IT Service Standard）
-* ITSTEC：信息产业信息安全测评中心（Information Technology & Security Test and Evaluation Center）
-* ITT：入侵容忍技术（Intrusion Tolerance Technology）
-* ITU：国际电信联盟（International Telecommunication Union）
-* ITU-T：国际电信联盟电信标准化部门（ITU Telecommunication Standardization Sector）
-* ITW：在野恶意程序（In The Wild）
-* IV：初始化值（Initialization Value）；初始化向量（Initialization Vector）
-* IV&V：独立验证与确认（Independent Verification & Validation）
-* IVA：智能虚拟助理（Intelligent Virtual Assistant）
-* IVC：车间通信（Inter-Vehicle Communication）
-* IVI：车载信息娱乐系统（In-Vehicle Infotainment）
-* IVP：完整性验证规程（Integrity Verification Procedure）
-* IVR：交互式语音应答（Interactive Voice Response）
-* IVRS：交互式语音应答系统（Interactive Voice Response System）
-* IW：信息战（Information Warfare）
-* IW-D：信息战-防御（Information Warfare – Defensive）
-* IWA：国际工作组协议（International Workshop Agreements）
-* IWC：信息站部门（Information Warfare Community）
-* IWG：跨机构工作组（Interagency Working Group）
+* <a id="i-x26a"></a>I&A：识别与鉴别（Identification & Authentication）；美国国土安全部情报和分析办公室（Office of Intelligence & Analysis）
+* <a id="i-x26ci"></a>I&CI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
+* <a id="i-x26o"></a>I&O：基础设施与运营（Infrastructure & Operations）
+* <a id="i-x26t"></a>I&T：信息与技术（Information & Technology）
+* <a id="i-x2dd"></a>I-D：互联网草案（Internet Draft）
+* <a id="i-x2fo"></a>I/O：输入/输出（Input/Output）
+* <a id="i2p"></a>I2P：隐形网计划（Invisible Internet Project）
+* <a id="i3p"></a>I3P：信息基础设施保护研究所（Institute for Information Infrastructure Protection）
+* <a id="i4c"></a>I4C：印度网络犯罪协调中心（Indian Cyber Crime Coordination Centre）
+* <a id="ia"></a>IA：信息保障（Information Assurance）；互联网访问（Internet Access）；FireEye调查分析系统（Investigation Analysis）；英特尔安腾体系结构（Itanium Architecture）；身份验证与认证（Identification & Authentication）
+* <a id="ia-x2d32"></a>IA-32：英特尔32位架构（Intel Architecture 32-bit）
+* <a id="ia-x2d64"></a>IA-64：英特尔安腾架构（Intel Itanium Architecture）
+* <a id="iaarc"></a>IAARC：国际建筑自动化和机器人协会（International Association for Automation & Robotics in Construction）
+* <a id="iaas-c9"></a>IaaS：基础设施即服务（Infrastructure as a Service）
+* <a id="iaasb"></a>IAASB：国际审计与鉴证准则理事会（International Auditing & Assurance Standards Board）
+* <a id="iab"></a>IAB：互联网架构委员会（Internet Architecture Board）
+* <a id="iac-c5"></a>IaC：基础设施代码（Infrastructure as Code）
+* <a id="iac"></a>IAC：产业咨询委员会（Industry Advisory Council）
+* <a id="iacd"></a>IACD：集成化自适应网络防御（Integrated Adaptive Cyber Defense）
+* <a id="iacr"></a>IACR：国际密码学研究协会（International Association for Cryptologic Research）
+* <a id="iacs"></a>IACS：工业自动化和控制系统（Industrial Automation & Control System）
+* <a id="iad"></a>IAD：NSA信息保障处（Information Assurance Directorate）
+* <a id="iaea"></a>IAEA：国际原子能机构（International Atomic Energy Agency）
+* <a id="ial"></a>IAL：身份确保级（Identity Assurance Level）
+* <a id="iam"></a>IAM：身份与访问管理（Identity & Access Management）
+* <a id="iana"></a>IANA：互联网编号分配机构（Internet Assigned Numbers Authority）
+* <a id="iap"></a>IAP：互联网接入点（Internet Access Point）
+* <a id="iapwg"></a>IAPWG：信息保障政策工作组（Information Assurance Policy Working Group）
+* <a id="iarpa"></a>IARPA：美国情报高级研究计划局（Intelligence Advanced Research Projects Activity）
+* <a id="iase"></a>IASE：信息保障支持环境（Information Assurance Support Environment）
+* <a id="iast"></a>IAST：交互式应用安全测试（Interactive Application Security Testing）
+* <a id="iat"></a>IAT：信息保障技能（Information Assurance Technical）
+* <a id="iatac"></a>IATAC：信息保障技术分析中心（Information Assurance Technology Analysis Center）
+* <a id="iatc"></a>IATC：临时连接授权（Interim Authority to Connect）
+* <a id="iatf"></a>IATF：信息保障技术框架（Information Assurance Technical Framework）
+* <a id="iato"></a>IATO：临时操作授权（Interim Authority to Operate）
+* <a id="iatt"></a>IATT：临时测试授权（Interim Authority to Test）
+* <a id="iava"></a>IAVA：信息保障漏洞警报（Information Assurance Vulnerability Alert）
+* <a id="iaw"></a>IAW：按照（In Accordance With）
+* <a id="ib"></a>IB：InfiniBand（InfiniBand）
+* <a id="ibb"></a>IBB：初始引导块（Initial Boot Block）
+* <a id="ibc"></a>IBC：迭代块密码（Iterated Block Cipher）；标识密码（Identity-Based Cryptography）
+* <a id="ibe"></a>IBE：基于身份的加密（Identity-Based Encryption）
+* <a id="ibgp-ce"></a>iBGP：内部边界网关协议（internal Border Gateway Protocol）
+* <a id="ibm"></a>IBM：国际商业机器公司（International Business Machines Corporation）
+* <a id="ibmc-ce"></a>iBMC：华为智能基板管理系统（Intelligence Baseboard Management Controller）
+* <a id="iboe-cb"></a>IBoE：以太网上的InfiniBand（InfiniBand over Ethernet）
+* <a id="ibom"></a>IBOM：基础设施物料清单（Infrastructure Bill of Materials）
+* <a id="ibpms-c1e"></a>iBPMS：智能业务流程管理套件（intelligent Business Process Management Suite）
+* <a id="ibss"></a>IBSS：独立基本服务集（Independent Basic Service Set）
+* <a id="ic"></a>IC：集成电路（Integrated Circuit）；情报界（Intelligence Community）
+* <a id="ic3"></a>IC3：加密货币与合约计划（Initiative for CryptoCurrency and Contract）
+* <a id="ica"></a>ICA：中国兵器工业计算机应用技术研究所（Institute for Computer Application）；中级证书颁发机构（Intermediate Certificate Authority）
+* <a id="icam"></a>ICAM：身份、凭证与访问管理（Identity, Credential, and Access Management）；集成计算机辅助制造（Integrated Computer-Aided Manufacturing）
+* <a id="icann"></a>ICANN：互联网名称与数字地址分配机构（The Internet Corporation for Assigned Names and Numbers）
+* <a id="icap"></a>ICAP：互联网内容适配协议（Internet Content Adaptation Protocol）
+* <a id="icasi"></a>ICASI：互联网安全促进产业联盟（the Industry Consortium for Advancement of Security）
+* <a id="icb"></a>ICB：浪潮云御堡垒机（Inspur Cloud Bastion）
+* <a id="icc"></a>ICC：集成座舱控制器（Integrated Cockpit Controller）
+* <a id="iccid"></a>ICCID：集成电路卡标识符（Integrated Circuit Card Identifier）
+* <a id="iccp"></a>ICCP：互操作控制中心协议（Inter-Control Center Communications Protocol）；多机箱控制协议（Inter-Chassis Control Protocol）
+* <a id="iccv"></a>ICCV：国际计算机视觉大会（IEEE International Conference on Computer Vision）
+* <a id="icdt"></a>ICDT：信息通信与数据技术（Information, Communication & Data Technology）
+* <a id="ice"></a>ICE：网络环境情报（Intelligence on Cyber Environment）；交互连接建立协议（Interactive Connectivity Establishment）；美国移民和海关执法局（U.S. Immigration and Customs Enforcement）；浪潮云容器引擎（Inspur Container Engine）
+* <a id="ices"></a>ICES：集成云邮件安全 （Integrated Cloud Email Security）
+* <a id="icg"></a>ICG：互联网控制网关（Internet Control Gateway）；智能通信网关（Intelligent Communication Gateway）；智能控制网关（Intelligent Control Gateway）
+* <a id="icl"></a>ICL：上下文学习（In-Context Learning）
+* <a id="icml"></a>ICML：国际机器学习会议（International Conference on Machine Learning）
+* <a id="icmp"></a>ICMP：互联网控制报文协议（Internet Control Message Protocol）
+* <a id="icn"></a>ICN：以信息为中心的网络（Information Centric Networking）
+* <a id="ico"></a>ICO：首次代币发行（Initial Coin Offering）；英国信息专员办公室（Information Commissioner's Office）
+* <a id="icos"></a>ICOS：IBM云对象存储（IBM Cloud Object Storage）
+* <a id="icp"></a>ICP：网络内容服务商（Internet Content Provider）；行业云平台（Industry Cloud Platform）；情报作战计划（Intelligence Campaign Plan）；浪潮云分布式云平台（Inspur Cloud Platform）
+* <a id="icr"></a>ICR：联网记录（Internet Connection Record）
+* <a id="ics"></a>ICS：工业控制系统（Industrial Control System）
+* <a id="icse"></a>ICSE：国际软件工程会议（The International Conference on Software Engineering）
+* <a id="icsjwg"></a>ICSJWG：工业控制系统联合工作组（Industrial Control Systems Joint Working Group）
+* <a id="icss"></a>ICSS：综合控制和安全系统（Integrated Control & Safety Systems）
+* <a id="icsscan-cf"></a>ICSScan：工控漏洞扫描系统（Industrial Control System Scanner）
+* <a id="icsv"></a>ICSV：IBM云安全虚拟化（IBM Cloud Secure Virtualization）
+* <a id="ict"></a>ICT：信息及通信技术（Information & Communications Technology）
+* <a id="icv"></a>ICV：完整性检查值（Integrity Check Value）
+* <a id="icx"></a>ICX：ICON平台数字币（ICON）
+* <a id="id-x2djag"></a>ID-JAG：身份断言授权许可（Identity Assertion JWT Authorization Grant）
+* <a id="ida"></a>IDA：IDA反汇编工具（Interactive Disassembler）；国防分析研究所（Institute for Defense Analyses）
+* <a id="idaas-c13"></a>IDaaS：身份即服务（Identity as a Service）
+* <a id="idam-cd"></a>IdAM：身份与访问管理（Identity & Access Management）
+* <a id="idc"></a>IDC：互联网数据中心（Internet Data Center）；国际数据公司（International Data Corporation）
+* <a id="ide"></a>IDE：集成开发环境（Integrated Development Environment）；IDE接口（Integrated Drive Electronics）
+* <a id="idea"></a>IDEA：国际数据加密算法（International Data Encryption Algorithm）
+* <a id="ideas"></a>IDEAS：国际防务企业架构规范（International Defence Enterprise Architecture Specification）
+* <a id="idef"></a>IDEF：IDEF建模语言（Integration Definition）
+* <a id="idef1x"></a>IDEF1X：IDEF信息建模语言（Integration Definition for information modeling）
+* <a id="idiq"></a>IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
+* <a id="idl"></a>IDL：接口描述语言（Interface description language）
+* <a id="idlg-ce"></a>iDLG：改进的深度泄漏梯度（Improved Deep Leakage from Gradients）
+* <a id="idm-c5"></a>IdM：身份管理（Identity Management）
+* <a id="idm"></a>IDM：内部防御性措施（Internal Defensive Measure）
+* <a id="idmef"></a>IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）
+* <a id="idn"></a>IDN：国际化域名（Internationalized Domain Name）
+* <a id="ido"></a>IDO：入侵检测本体（Intrusion Detection Ontology）
+* <a id="idor"></a>IDOR：不安全直接对象引用（Insecure Direct Object References）
+* <a id="idov"></a>IDOV：识别、设计、优化、验证（Identify, Design, Optimize & Verify）
+* <a id="idp-c5"></a>IdP：身份提供服务（Identity Provider）
+* <a id="idps"></a>IDPS：入侵检测和防御系统（Intrusion Detection & Prevention System）
+* <a id="idr"></a>IDR：敏感数据发现与风险评估系统（Information Discovery & Risk assessment）
+* <a id="ids"></a>IDS：入侵检测系统（Intrusion Detection System）
+* <a id="idt"></a>IDT：国际标准等价引入（Identical）
+* <a id="idv"></a>IDV：智能桌面虚拟化（Intelligent Desktop Virtualization）
+* <a id="ie"></a>IE：信息企业（Information Enterprise）；信息元素（Information Element）；信息环境（Information Environment）
+* <a id="iea"></a>IEA：信息企业架构（Information Enterprise Architecture）
+* <a id="iec"></a>IEC：国际电工协会（International Electrotechnical Commission）
+* <a id="ied"></a>IED：智能电子设备（Intelligent Electronic Device）
+* <a id="ieee"></a>IEEE：电气电子工程师学会（Institute of Electrical and Electronics Engineers）
+* <a id="ien"></a>IEN：互联网实验备注（Internet Experiment Note）
+* <a id="ieo"></a>IEO：首次交换发行（Initial Exchange Offering）
+* <a id="iep"></a>IEP：信息交换策略（Information Exchange Policy）
+* <a id="ies"></a>IES：IEEE工业电子学会（IEEE Industrial Electronics Society）；浪潮弹性搜索（Inspur Elasticsearch）
+* <a id="iesg"></a>IESG：互联网工程指导组（Internet Engineering Steering Group）
+* <a id="ietf"></a>IETF：互联网工程任务组（Internet Engineering Task Force）
+* <a id="iew-x26s"></a>IEW&S：情报，电子战和传感器计划执行办公室（Intelligence, Electronic Warfare and Sensors）
+* <a id="ifaa"></a>IFAA：互联网金融身份认证联盟（Internet Finance Authentication Alliance）
+* <a id="ifc"></a>IFC：信息流控制（Information Flow Control）
+* <a id="ifcc"></a>IFCC：间接函数调用检查器（Indirect Function Call Checker）
+* <a id="ifi"></a>IFI：身份体系免疫力（Identity Fabric Immunity）
+* <a id="ifip"></a>IFIP：国际信息处理联合会（International Federation for Information Processing）
+* <a id="ifpug"></a>IFPUG：国际功能点用户组（International Function Point Users Group）
+* <a id="ifr"></a>IFR：暂行最终规定（Interim Final Rule）
+* <a id="iga"></a>IGA：身份治理与管理（Identity Governance & Administration）
+* <a id="igdp"></a>IGDP：互联网网关设备协议（Internet Gateway Device Protocol）
+* <a id="igmp"></a>IGMP：互联网组管理协议（Internet Group Management Protocol）
+* <a id="igp"></a>IGP：内部网关协议（Interior Gateway Protocol）
+* <a id="igrp"></a>IGRP：内部网关路由协议（Interior Gateway Routing Protocol）
+* <a id="ih"></a>IH：发起主机（Initiating Host）
+* <a id="iic"></a>IIC：美国工业物联网联盟（Industrial IoT Consortium）；美国工业互联网联盟（Industrial Internet Consortium）
+* <a id="iifaa"></a>IIFAA：互联网可信认证联盟（International Internet Finance Authentication Alliance）
+* <a id="iiop"></a>IIOP：互联网ORB间通信协议（Internet InterORB Protocol）
+* <a id="iiot-cb"></a>IIoT：工业物联网（Industrial IoT）
+* <a id="iis"></a>IIS：某Web服务器软件（Internet Information Services）
+* <a id="iiss"></a>IISS：国际战略研究所（International Institute for Strategic Studies）
+* <a id="ike"></a>IKE：互联网密钥交换（Internet Key Exchange）
+* <a id="il"></a>IL：完整性级别（Integrity Level）；影响级别（Impact Level）
+* <a id="ilac"></a>ILAC：国际实验室认可合作组织（International Laboratory Accreditation Cooperation）
+* <a id="ildp"></a>ILDP：信息泄露检测防护（Information Leak Detection and Prevention）
+* <a id="ilf"></a>ILF：内部逻辑文件（Internal Logical File）
+* <a id="ilk"></a>ILK：中间链路密钥（Intermediate Link Key）
+* <a id="ilm"></a>ILM：身份生命周期管理（Identity Lifecycle Management）
+* <a id="ilp"></a>ILP：信息泄露防护（Information Leak Prevention）；指令级并行（Instruction Level Parallelism）
+* <a id="iltk"></a>ILTK：中长期密钥（Intermediate Long Term Key）
+* <a id="ima"></a>IMA：完整性测量体系结构（Integrity Measurement Architecture）
+* <a id="imap"></a>IMAP：互联网邮件访问协议（Internet Mail Access Protocol）
+* <a id="imc"></a>IMC：身份管理中心（Identity Management Center）
+* <a id="imds"></a>IMDS：Azure实例元数据服务（Instance Metadata Service）
+* <a id="imei"></a>IMEI：国际移动设备标识（International Mobile Equipment Identity）
+* <a id="img"></a>IMG：镜像文件格式（IMaGe）
+* <a id="imi"></a>IMI：信息操纵和干扰（Information Manipulation & Interference）
+* <a id="imint"></a>IMINT：图像情报（Imagery Intelligence）
+* <a id="imp"></a>IMP：实现（IMPlemention）
+* <a id="ims"></a>IMS：IP多媒体子系统（IP Multimedia Subsystem）；IP多媒体核心网络子系统（IP Multimedia Core Network Subsystem）；汽车座舱视觉监控系统（In-cabin Monitoring System）
+* <a id="imse"></a>IMSE：浪潮云微服务引擎（Inspur Microservice Engine）
+* <a id="imsi"></a>IMSI：国际移动用户身份（International Mobile Subscriber Identity）
+* <a id="imu"></a>IMU：惯性测量单元（Inertial Measurement Unit）
+* <a id="imz"></a>IMZ：WinImage压缩磁盘映像（WinImage Compressed Disk Image）
+* <a id="inatba"></a>INATBA：国际可信区块链应用协会（International Association for Trusted Blockchain Applications）
+* <a id="incose"></a>INCOSE：国际系统工程委员会（INternational Council On Systems Engineering）
+* <a id="ind-x2dcca"></a>IND-CCA：选择密文攻击下的不可区分性（Indistinguishability under Chosen-Cyphertext Attack）
+* <a id="ind-x2dcpa"></a>IND-CPA：选择明文攻击下的不可区分性（Indistinguishability under Chosen-Plaintext Attack）
+* <a id="infocom"></a>INFOCOM：国际计算机通信会议（IEEE International Conference on Computer Communications）
+* <a id="infosec-c0"></a>infosec：信息安全（Information Security）
+* <a id="ingots"></a>INGOTS：智能安全工具生成（the Intelligent Generation of Tools for Security）
+* <a id="inl"></a>INL：美国爱达荷国家实验室（Idaho National Laboratory）
+* <a id="inr"></a>INR：美国国务院情报研究署（Bureau of Intelligence and Research）
+* <a id="inscom"></a>INSCOM：美国陆军情报和安全司令部（United States Army Intelligence & Security Command）
+* <a id="insp"></a>INSP：工业网络安全监测预警管理平台（Industrial Network Security Platform）
+* <a id="int"></a>INT：固定点数值（INTeger）
+* <a id="int4"></a>INT4：四位固定点数值（INTeger 4-bit）
+* <a id="int8"></a>INT8：八位固定点数值（INTeger 8-bit）
+* <a id="io"></a>IO：输入输出（Input/Output）；认知影响行动（Influence Operations）
+* <a id="ioa-c5"></a>IoA：攻击标示（Indicator of Attack）
+* <a id="iob-c5"></a>IoB：行为标示（Indicator of Behavior）
+* <a id="ioc-c5"></a>IoC：失陷标示（Indicator of Compromise）；控制反转（Inversion of Control）
+* <a id="ioc"></a>IOC：威胁指标（Indicators Of Compromise）
+* <a id="iodef"></a>IODEF：事件描述和交换格式（Incident Object Description & Exchange Format）
+* <a id="iodt"></a>IODT：中断描述符表（Interrupt Descriptor Table）
+* <a id="ioe"></a>IOE：IBM小型机、甲骨文数据库和EMC存储（IBM，Oracle & EMC）
+* <a id="iomt-cd"></a>IoMT：医疗物联网（Internet of Medical Things）
+* <a id="iopl"></a>IOPL：I/O特权等级（I/O Privilege Level）
+* <a id="iops"></a>IOPS：每秒输入/输出操作数（Input/Output Operations Per Second）
+* <a id="ios-c6"></a>iOS：苹果操作系统（iPhone Operating System）
+* <a id="iot-c5"></a>IoT：物联网（Internet of Things）
+* <a id="iota"></a>IOTA：IOTA加密币（希腊字母：Ι）
+* <a id="iou"></a>IOU：交并比（检测评估指标）（Intersection over Union）
+* <a id="iov-c5"></a>IoV：车联网（Internet of Vehicles）
+* <a id="iov"></a>IOV：I/O虚拟化（I/O Virtualization）
+* <a id="ip"></a>IP：互联网协议（Internet Protocol）；IP地址（IP address）；知识产权（Intellectual Property）；指令指针寄存器（Instruction Pointer）；交互式证明（Interactive Proof）
+* <a id="ip-x2dpbx"></a>IP-PBX：专用分组交换机（IP Private Branch eXchange）
+* <a id="ipa"></a>IPA：身份、策略与审计（Identity, Policy & Audit）；物联网配置文件助理（IoT Profile Assistant）；智能流程自动化（Intelligent Process Automation）；日本IT处理推进机构（Information-technology Promotion Agency）
+* <a id="ipaa"></a>IPAA：国际隐私保护专业人员协会（International Association of Privacy Professionals）
+* <a id="ipaas-c12"></a>iPaaS：集成平台即服务（integration Platform as a Service）
+* <a id="ipam"></a>IPAM：IP地址管理（IP Address Management）
+* <a id="ipc"></a>IPC：进程间通信（Inter-Process Communication）；信息保护控制（Information Protection and Control）
+* <a id="ipdr"></a>IPDR：IP通信详单（Internet Protocol Detail Record）
+* <a id="ipdrr"></a>IPDRR：识别、保护、检测、响应及恢复（Identify, Protect, Detect, Respond & Recover）
+* <a id="ipe"></a>IPE：指令权限提升（Instruction Privilege Escalation）
+* <a id="ipf"></a>IPF：信息处理设施（Information Processing Facility）
+* <a id="ipfix"></a>IPFIX：IP数据流信息输出（Internet Protocol Flow Information Export）
+* <a id="ipfs"></a>IPFS：星际文件系统（Inter-Planetary File System）
+* <a id="ipi"></a>IPI：间接提示注入（Indirect Prompt Injection）
+* <a id="ipi-x2fdpi"></a>IPI/DPI：间接/直接提示注入（Indirect/Direct Prompt Injection）
+* <a id="ipl"></a>IPL：初始程序加载器（Initial Program Loader）
+* <a id="ipmc"></a>IPMC：智能平台管理控制器（Intelligent Platform Management Controller）
+* <a id="ipmo"></a>IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）
+* <a id="ipms"></a>IPMS：集成产品营销与销售（Integrated Product Marketing & Sales）
+* <a id="ipn"></a>IPN：JIE设施处理节点（Installation Processing Nodes）
+* <a id="ipo"></a>IPO：输入-处理-输出（Input–Process–Output）；首次公开募股（Initial Public Offering）
+* <a id="ippbe"></a>IPPBE：情报计划、编程、预算和评估过程（Intelligence Planning, Programming, Budgeting, and Evaluation）
+* <a id="ipqam"></a>IPQAM：IP正交振幅调制（Internet Protocol Quadrature Amplitude Modulation）
+* <a id="ips"></a>IPS：入侵预防系统（Intrusion Prevention System）；印度警察系统（India Police Service）
+* <a id="ipsec-c3"></a>IPsec：IP安全协议（Internet Protocol Security）
+* <a id="iptf"></a>IPTF：基础设施保护任务部队（Infrastructure Protection Task Force）
+* <a id="ipts"></a>IPTS：IPv6转换服务（IPv6 Translation Service）
+* <a id="ipu"></a>IPU：Intel产品升级（Intel Product Update）
+* <a id="ipx"></a>IPX：网际分组交换协议（Internetwork Packet Exchange）
+* <a id="ir"></a>IR：事件响应（Incident Response）；情报需求（Intelligence Requirement）；信息检索（Information Retrieval）；中间代码（Intermediate Representation）；跨机构报告（Interagency Report）；内部报告（Internal Report）；身份根（Identity Root）
+* <a id="irc"></a>IRC：互联网中继聊天（Internet Relay Chat）
+* <a id="ire"></a>IRE：应急响应工程师（Incident Response Engineer）
+* <a id="iret"></a>IRET：中断返回（Interrupt Return）
+* <a id="irk"></a>IRK：身份解析密钥（Identity Resolving Key）
+* <a id="irm"></a>IRM：内联参考监视器（Inlined Reference Monitor）；集成风险管理（Integrated Risk Management）；内部风险管理（Insider Risk Management）
+* <a id="irmp"></a>IRMP：集成风险管理计划（Integrated Risk Management Plan）；内部风险管理计划（Insider Risk Management Plan）
+* <a id="irp"></a>IRP：事件响应平台（Incident Response Platform）；事件响应计划（Incident Response Plan）
+* <a id="irpf"></a>IRPF：基础设施韧性规划框架（Infrastructure Resilience Planning Framework）
+* <a id="irq"></a>IRQ：中断请求（Interrupt Request）
+* <a id="irs"></a>IRS：入侵响应系统（Intrusion Response Systems）；应急响应工程师（Incident Response Specialist）；美国国税局（Internal Revenue Service）
+* <a id="irt"></a>IRT：事件响应小组（Incident Response Team）
+* <a id="irtf"></a>IRTF：互联网研究任务组（Internet Research Task Force）
+* <a id="is"></a>IS：信息系统（Information System）；国际标准（International Standard）
+* <a id="is-x2dis"></a>IS-IS：中间系统到中间系统（Intermediate System to Intermediate System）
+* <a id="isa"></a>ISA：指令集架构（Instruction-Set Architecture）；工业标准体系结构（Industry Standard Architecture）
+* <a id="isac"></a>ISAC：信息共享与分析中心（Information Sharing and Analysis Center）
+* <a id="isaca"></a>ISACA：国际信息系统审计和控制协会（Information Systems Audit and Control Association）
+* <a id="isae"></a>ISAE：担保业务国际标准（International Standard on Assurance Engagements）
+* <a id="isakmp"></a>ISAKMP：网际安全连接和密钥管理协议（Internet Security Association & Key Management Protocol）
+* <a id="isam"></a>ISAM：索引顺序访问方法（Indexed Sequential Access Method）
+* <a id="isao"></a>ISAO：信息共享与分析组织（Information Sharing and Analysis Organization）
+* <a id="isatap"></a>ISATAP：站内自动隧道寻址协议（Intra-Site Automatic Tunnel Addressing Protocol）
+* <a id="isc"></a>ISC：中国互联网协会（Internet Society of China）；互联网安全大会（Internet Security Conference）；互联网系统联盟（Internet Systems Consortium）；美国信息共享议政会（Information Sharing Council）；互联网风暴中心（Internet Storm Center）；基础架构安全类别（Infrastructure Security Category）
+* <a id="isc2"></a>ISC2：国际信息系统安全认证协会（International Information System Security Certification Consortium）
+* <a id="iscat"></a>ISCAT：工业网络安全合规评估工具（Industrial Security Compliance Assessment Tool）
+* <a id="isccc"></a>ISCCC：中国信息安全认证中心（China Information Security Certification Center）
+* <a id="isce"></a>ISCE：信息共享与协作环境（Information Sharing and Collaboration Environment）
+* <a id="iscf"></a>ISCF：英国产业战略挑战基金（Industrial Strategy Challenge Fund）
+* <a id="iscm"></a>ISCM：信息安全持续监视（Information Security Continuous Monitoring）
+* <a id="iscsi-c1e"></a>iSCSI：互联网小型计算机系统接口（Internet Small Computer System Interface）
+* <a id="isd-x2dp"></a>ISD-P：发行机构安全域 - 个人资料（Issuer Security Domain - Profile）
+* <a id="isd-x2dr"></a>ISD-R：发行机构安全域 - 根（Issuer Security Domain - Root）
+* <a id="isdn"></a>ISDN：综合服务数字网（Integrated Service Digital Network）
+* <a id="ise"></a>ISE：快速安全擦除（Instant Secure Erase）；身份服务引擎（Identity Services Engine）
+* <a id="iseaa"></a>ISEAA：信息安全测评联盟（InfoSecurity Evaluation and Assessment Association）
+* <a id="isecl-c13"></a>ISecL：英特尔安全库（Intel Security Libraries）
+* <a id="isecl-x2ddc-c73"></a>ISecL-DC：英特尔数据中心安全库（Intel Security Libraries for Data Center）
+* <a id="isecome"></a>ISECOME：美国安全和开放方法研究所（Institute for Security and Open Methodologies）
+* <a id="isg"></a>ISG：基础设施方案组（Infrastructure Solutions Group）；工业防火墙（Industrial Security Gateway）
+* <a id="isid"></a>ISID：工业安全隔离装置（Industrial Security Isolation Device）
+* <a id="isim"></a>ISIM：IP多媒体子系统识别模块（IP Multimedia Services Identity Module）
+* <a id="isirt"></a>ISIRT：信息安全事件响应组（Information Security Incident Response Team）
+* <a id="ism"></a>ISM：信息安全管理（Information Security Management）；工业、科学和医疗（Industrial, Scientific & Medical）
+* <a id="isms"></a>ISMS：信息安全管理体系（Information Security Management System）
+* <a id="iso"></a>ISO：国际标准化组织（International Organization for Standardization）；ISO镜像文件格式（ISO 9600）
+* <a id="isoc"></a>ISOC：国际互联网协会（Internet Society）
+* <a id="isoo"></a>ISOO：美国信息安全监督办公室（Information Security Oversight Office）
+* <a id="isop"></a>ISOP：智能安全运营平台（Intelligent Security Operation Platform）
+* <a id="isop-x2dds"></a>ISOP-DS：数据安全运营平台（Intelligent Security Operation Platform for Data Security）
+* <a id="isop-x2dra"></a>ISOP-RA：绿盟智能安全监管服务支撑平台（猜测：Intelligent Security Operation Platform - Regulation Authority）
+* <a id="isp"></a>ISP：互联网服务提供商（Internet Service Provider）
+* <a id="ispab"></a>ISPAB：信息安全和隐私咨询委员会（Information Security & Privacy Advisory Board）
+* <a id="ispim"></a>ISPIM：IBM安全特权身份管理（IBM Security Privileged Identity Manager）
+* <a id="ispl"></a>ISPL：EXIN信息服务采购管理认证项目（Information Service Procurement Management）
+* <a id="isr"></a>ISR：情报、监视、侦察（Intelligence, Surveillance, Reconnaissance）
+* <a id="isrd"></a>ISRD：情报、监视、侦察部队（Intelligence, Surveillance & Reconnaissance Division）
+* <a id="isrm"></a>ISRM：信息安全风险管理（Information Security Risk Management）
+* <a id="isrmc"></a>ISRMC：信息安全风险管理委员会（Information Security Risk Management Committee）
+* <a id="iss"></a>ISS：信息安全系统（Information Security System）；互联网安全系统公司（Internet Security Systems）；国际空间站（International Space Station）
+* <a id="issa"></a>ISSA：信息系统安全协会（Information Systems Security Association）
+* <a id="isse"></a>ISSE：信息系统安全工程（Information Systems Security Engineering）
+* <a id="issm"></a>ISSM：信息系统安全管理（Information System Security Manager）
+* <a id="isso"></a>ISSO：信息系统安全官员（Information System Security Officer）
+* <a id="isspm"></a>ISSPM：信息系统安全项目经理（Information Systems Security Project Manager）
+* <a id="isss"></a>ISSS：国际系统科学学会（International Society for the Systems Sciences）
+* <a id="ist"></a>IST：安全与技术研究所（Institute for Security & Technology）
+* <a id="istqb"></a>ISTQB：国际软件测试资格委员会（International Software Testing Qualifications Board）
+* <a id="isu"></a>ISU：爱达荷州立大学（Idaho State University）
+* <a id="isv"></a>ISV：独立软件供应商（Independent Software Vendor）
+* <a id="isw"></a>ISW：阿里云外网接入交换机（Inter-connect SWitch）
+* <a id="it"></a>IT：信息技术（Information Technology）
+* <a id="ita"></a>ITA：IT架构（IT Architecture）；美国国际贸易署（International Trade Administration）
+* <a id="itaf"></a>ITAF：IT确保框架（IT Assurance Framework）
+* <a id="itai"></a>ITAI：信息技术应用创新（Information Technology Application Innovation）
+* <a id="itaip"></a>ITAIP：信息技术应用创新专业人员（Information Technology Application Innovation Professional）
+* <a id="itam"></a>ITAM：信息技术资产管理（Information Technology Asset Management）
+* <a id="itar"></a>ITAR：国际武器交易管制（International Traffic in Arms Regulation）
+* <a id="itdg"></a>ITDG：IT需求治理（IT Demand Governance）
+* <a id="itdr"></a>ITDR：身份威胁检测与响应（Identity Threat Detection and Response）
+* <a id="ites"></a>ITES：IT化服务（Information Technology Enabled Services）
+* <a id="itf"></a>ITF：集成测试设施（Integrated Test Facility）
+* <a id="itg"></a>ITG：IT治理（IT Governance）
+* <a id="itgi"></a>ITGI：IT治理研究所（IT Governance Institute）
+* <a id="iti"></a>ITI：美国信息技术产业理事会（Information Technology Industry Council）
+* <a id="itif"></a>ITIF：美国信息技术与创新基金会（Information Technology and Innovation Foundation）
+* <a id="itil"></a>ITIL：IT基础构架库（Information Technology Infrastructure Library）
+* <a id="itl"></a>ITL：信息技术实验室（Information Technology Laboratory）
+* <a id="itm"></a>ITM：内部威胁管理（Internal Threat Management）；智能流量管理（Intelligent Traffic Management）
+* <a id="itmra"></a>ITMRA：信息技术管理改革法（Information Technology Management Reform Act）
+* <a id="itoa"></a>ITOA：IT运维分析（IT Operation Analytics）
+* <a id="itom"></a>ITOM：IT运维管理（IT Operation Management）
+* <a id="itops-c7"></a>ITOps：信息技术运营（Information Technologies Operations）
+* <a id="itrm"></a>ITRM：IT风险管理（IT Risk Management）
+* <a id="its"></a>ITS：入侵容忍系统（Intrusion Tolerance System）；信息技术系统（Information Technology Systems）；智能交通系统（Intelligent Transportation System）；内部可信存储（Internal Trusted Storage）；智能交通系统（Intelligent Transport System）
+* <a id="itsg"></a>ITSG：IT供给侧治理（IT Supply-side Governance）
+* <a id="itsm"></a>ITSM：IT服务管理（IT Service Management）
+* <a id="itsms"></a>ITSMS：IT服务管理（IT Service Management System）
+* <a id="itss"></a>ITSS：信息技术服务标准（IT Service Standard）
+* <a id="itstec"></a>ITSTEC：信息产业信息安全测评中心（Information Technology & Security Test and Evaluation Center）
+* <a id="itt"></a>ITT：入侵容忍技术（Intrusion Tolerance Technology）
+* <a id="itu"></a>ITU：国际电信联盟（International Telecommunication Union）
+* <a id="itu-x2dt"></a>ITU-T：国际电信联盟电信标准化部门（ITU Telecommunication Standardization Sector）
+* <a id="itw"></a>ITW：在野恶意程序（In The Wild）
+* <a id="iv"></a>IV：初始化值（Initialization Value）；初始化向量（Initialization Vector）
+* <a id="iv-x26v"></a>IV&V：独立验证与确认（Independent Verification & Validation）
+* <a id="iva"></a>IVA：智能虚拟助理（Intelligent Virtual Assistant）
+* <a id="ivc"></a>IVC：车间通信（Inter-Vehicle Communication）
+* <a id="ivi"></a>IVI：车载信息娱乐系统（In-Vehicle Infotainment）
+* <a id="ivp"></a>IVP：完整性验证规程（Integrity Verification Procedure）
+* <a id="ivr"></a>IVR：交互式语音应答（Interactive Voice Response）
+* <a id="ivrs"></a>IVRS：交互式语音应答系统（Interactive Voice Response System）
+* <a id="iw"></a>IW：信息战（Information Warfare）
+* <a id="iw-x2dd"></a>IW-D：信息战-防御（Information Warfare – Defensive）
+* <a id="iwa"></a>IWA：国际工作组协议（International Workshop Agreements）
+* <a id="iwc"></a>IWC：信息站部门（Information Warfare Community）
+* <a id="iwg"></a>IWG：跨机构工作组（Interagency Working Group）

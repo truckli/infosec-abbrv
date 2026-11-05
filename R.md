@@ -1,193 +1,193 @@
 ## R
 
-* R&D：研究&开发（Research & Development）
-* R/W：读写（Read/Write）
-* R1CS：一阶约束系统（Rank-1 Constraint System）
-* RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）；接收端地址（Receiver Address）；路由通告（Router Advertisement）；路由聚合（Route Aggregation）
-* RaaS：勒索软件即服务（Ransomware as a Service）
-* RAB：快速应用程序构建模式（Rapid Application Building）
-* RACE：针对每个人的弹性匿名通信（Resilient Anonymous Communication for Everyone）
-* RACI：负责人、问责人、咨询人和知情人（Responsible, Accountable, Consulted & Informed）
-* RAD：快速应用程序开发模式（Rapid Application Development）
-* RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
-* RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
-* RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
-* RAFT：奖励排名微调（Reward rAnked Fine Tuning）
-* RAG：检索增强生成（Retrieval-Augmented Generation）
-* RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
-* RAII：资源获取即初始化（Resource Acquisition Is Initialization）
-* RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
-* RAM：远程应用程序管理（Remote Application Management）；随机访问内存（Random Access Memory）；责任分配矩阵（Responsibility Assignment Matrix）
-* RAMBO：面向任务保障与业务目标的弹性架构（Resilient Architecture for Mission Assurance & Business Objectives）
-* RAN：无线接入网（Radio Access Network）
-* Rand：随机数（Random Number）
-* RAR：RAR压缩格式（Roshal Archive）
-* RARP：逆向地址解析协议（Reverse Address Resolution Protocol）
-* RAS：远程接入服务（Remote Access Service）；IEEE机器人与自动化协会（IEEE Robotics & Automation Society）
-* RASP：运行时应用自保护（Runtime Application Self-Protection）
-* RAT：远程访问木马（Remote Access Trojan）；远程访问工具（Remote Access Toolkit）
-* RAX：某64位寄存器代号（Register A eXtended）
-* RBA：基于风险的身份鉴别（Risk-Based Authentication）
-* RBAC：基于角色的访问控制（Role-Based Access Control）
-* RBACPP：基于角色的访问控制保护轮廓（Role-Based Access Control Protection Profile）
-* RBD：RADOS块设备（RADOS Block Device）
-* RBF：径向基函数（Radial Basis Function）
-* RBG：随机位生成器（Random Bit Generator）
-* RBI：远程浏览器隔离（Remote Browser Isolation）；印度储备银行（Reserve Bank of India）
-* RBM：受限玻尔兹曼机（Restricted Boltzmann Machine）
-* RBP：某64位寄存器代号（Register Base Pointer）
-* RBVM：基于风险的漏洞管理（Risk-Based Vulnerability Management）
-* RBX：某64位寄存器代号（Register B eXtended）
-* RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）；发布候选版（Release Candidate）
-* RCA：根因分析（Root Cause Analysis）
-* RCE：远程代码执行（Remote Code Execution）
-* RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
-* RCM：风险一致模型预测控制（Risk-Consistent MPC）
-* RCO：快速能力办公室（Rapid Capabilities Office）
-* RCX：某64位寄存器代号（Register C eXtended）
-* RD：负责任披露（Responsible Disclosure）；受限数据（Restricted Data）
-* RDAT：RDAT后门（RDAT）
-* RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
-* RDBMS：关系型数据库管理系统（Relational Database Management System）
-* RDD：弹性分布式数据集（Resilient Distributed Dataset）
-* RDE：实际行驶排放（测试循环）（Real Driving Emissions）
-* RDF：资源描述框架（Resource Description Framework）
-* RDI：某64位寄存器代号（Register Destination Index）
-* RDN：相对可辨识名称（Relative Distinguished Name）
-* RDP：远程桌面协议（Remote Desktop Protocol）
-* RDR：风险详细记录（Risk detail records）
-* RDS：远程桌面服务（Remote Desktop Service）；远程桌面服务器（Remote Desktop Server）；关系型数据库服务（Relational Database Service）
-* RDT&E：研究、开发、测试与评估（Research, Development, Test & Evaluation）
-* RDX：某64位寄存器代号（Register D eXtended）
-* RE：正则表达式（Regular Expressions）
-* RE&CT：RE&CT事件响应技术枚举项目（Response Actions）
-* ReAct：推理与行动（Reasoning + Acting）
-* ReBAC：基于关系的访问控制（Relationship-Based Access Control）
-* RED：欺骗逆向工程（Reverse Engineering Deception）
-* REE：富执行环境（Rich Execution Environment）
-* RELRO：重定位只读（Relocation Read-Only）
-* REPL：读取、求值、打印循环（Read-Evaluation-Print Loop）
-* ReRAM：可变电阻式存储器（Resistive Random-Access Memory）
-* ReSCIND：利用基于网络心理学的网络防御系统重塑网络安全（Reimagining Security with Cyber psychology-Informed Network Defenses）
-* REST：表示层状态转换（Representational State Transfer）
-* RET：记录元素类型（Record Element Types）
-* RF：RaidForums论坛（RaidForums）；Recorded Future公司（Recorded Future）；射频（Radio Frequency）
-* RFB：远程帧缓冲协议（Remote Frame Buffer）
-* RFC：请求意见稿（Request for Comments）；变更申请（Request for Change）
-* RFI：射频干扰（Radio Frequency Interference）；信息请求（Request for Information）
-* RFID：射频识别（Radio Frequency Identification）
-* RFLAGS：某64位寄存器代号（Register FLAGS）
-* RFP：提案请求（Request For Proposal）
-* RHCA：红帽认证架构师（Red Hat Certified Architect）
-* RHCE：红帽认证工程师（Red Hat Certified Engineer）
-* RHEL：红帽Linux企业版（Red Hat Enterprise Linux）
-* RID：相对标识（Relative Identifier）
-* RIN：规章识别号（Regulation Identifier Numbers）
-* RIP：路由信息协议（Routing Information Protocol）；某64位寄存器代号（Register Instruction Pointer）
-* RIS：放射科信息系统（Radiology Information System）
-* RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
-* RK：根密钥（Root Key）
-* RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
-* RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
-* RLCD：面向校准决策的强化学习（Reinforcement Learning for Calibrated Decisions）
-* RLFA：远程无环备选通道（Remote Loop Free Alternate）
-* RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
-* RLVR：带可验证奖励的强化学习（Reinforcement Learning with Verifiable Rewards）
-* RLWR：环上舍入学习（Ring Learning With Rounding）
-* RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
-* RMA：军事事务革命（Revolution in Military Affairs）
-* RMC：风险管理委员会（Risk management council）
-* RME：域管理扩展（Realm Management Extension）
-* RMF：风险管理框架（Risk Management Framework）
-* RML：鲁棒机器学习（Robust Machine Learning）
-* RMM：风险成熟度模型（Risk Maturity Model）；弹性管理模型（Resilience Management Model）；远程监控与管理（Remote Monitoring & Management）
-* RMON：远程网络监控（Remote Network Monitoring）
-* RMP：风险管理过程（Risk Management Process）
-* RMPF：远程内存保护功能（Remote Memory Protection Function）
-* RMSE：均方根误差（Root Mean Squared Error）
-* RNC：无线网络控制器（Radio Network Controller）
-* RNG：随机数发生器（Random Number Generator）
-* RNN：循环神经网络（Recurrent Neural Network）
-* ROADM：可重构光分插复用器（Reconfigurable Optical Add/Drop Multiplexer）
-* RoBERTa：RoBERTa模型（A Robustly Optimized BERT Pretraining Approach）
-* ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
-* RoCE：RDMA以太网（RDMA over Converged Ethernet）
-* rodata：只读数据段（read-only data segment）
-* RODC：只读域控（Read-Only Domain Controller）
-* ROE：交手规则（Rules of Engagement）
-* ROI：投资回报率（Return on Investment）
-* ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
-* ROP：面向返回编程（Return Oriented Programming）
-* ROS：资源编排（Resource Orchestration Service）
-* ROS2：机器人操作系统第二代（Robot Operating System 2）
-* ROSC：区域运营与安全中心（Regional Operations & Security Center）
-* ROSE：远程操作服务元素（Remote Operations Service Element）
-* RoT：信任根（Root of Trust）
-* ROT：冗余、过时、琐碎（Redundant, Obsolete, Trivial）
-* RP：依赖方（Relying Party）；返回指针（Return Pointer）
-* RPA：机器人流程自动化（Robotic Process Automation）；可解析专用地址（Resolvable Private Address）
-* RPC：远程过程调用（Remote Procedure Call）
-* RPL：请求特权等级（Requested Privilege Level）
-* RPM：远程患者监控（Remote Patient Monitoring）
-* RPO：恢复点目标（Recovery Point Objective）；CMMC注册从业机构（CMMC Registered Practitioner Organization）
-* RPS：每秒请求数（Requests per second）
-* RQE：需求工程（ReQuirement Engineering）
-* RR：DNS资源记录（Resource Records）；路由重定向消息（Redirect）
-* RRA：勒索软件战备评估（Ransomware Readiness Assessment）
-* RRAM：可变电阻式存储器（Resistive Random-Access Memory）
-* RRC：无线资源控制器（Radio Resource Controller）
-* RRH：远程无线头端（Remote Radio Head）
-* RRHF：人类反馈排名响应（Rank Response from Human Feedback）
-* RRL：响应速率限制（Response Rate Limiting）
-* RRSA：基于服务账户的RAM角色（RAM Roles for Service Accounts）
-* RRT：快速随机扩展树（路径规划算法）（Rapidly-exploring Random Tree）
-* RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
-* RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
-* RSAC：RSA会议（RSA Conference）
-* RSAES：RSA加密体制（Rivest–Shamir–Adleman Encryption System）
-* RSAL：受限源码可用许可（Red Hat 风格的 Restricted Source Available License）
-* RSAS：远程安全评估系统（Remote Security Assessment System）
-* RSI：某64位寄存器代号（Register Source Index）；递归自我改进（Recursive Self-Improvement）
-* RSN：健壮安全网络（Robust Security Network）
-* RSNA：健壮安全网络联盟（Robust Security Network Association）
-* RSNIE：健壮安全网络信息元素（Robust Security Network Information Element）
-* RSO：减点登录（Reduced Sign-On）
-* RSP：某64位寄存器代号（Register Stack Pointer）；远程SIM配置（Remote SIM Provisioning）
-* RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）；企业资源（Enterprise Resource）；机器人仿真工作台（Robot Sim Studio）
-* RSSI：接收信号强度指示（Received Signal Strength Indication）
-* RST：连接重置（Reset The Connection）
-* RSU：路侧单元（Road Side Unit）
-* RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）；响应时间（Response Time）
-* RT&E：研究、测试与评估（Research, Test & Evaluation）
-* RTA：运行时保障（runtime-assurance）
-* RTC：实时音视频技术（Real-Time Communication）
-* RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
-* RTCP：RTP控制协议（RTP Control Protocol）
-* RTD：往返延迟（Round-Trip Delay）
-* RTE：实时互联网大会（Real-Time 、Engagement）
-* RTG：研究任务组（Research Task Group）
-* RTM：可信度量根（Root of Trust for Measurement）；发布制造版（Release to Manufacturing）
-* RTMP：实时消息协议（Real-Time Messaging Protocol）
-* RTO：恢复时间目标（Recovery Time Objective）
-* RTOS：实时操作系统（Real-Time Operating System）
-* RTP：实时传输协议（Real-time Transport Protocol）
-* RTR：可信报告根（Root of Trust for Report）；报告信任的根（Root of Trust for Reporting）
-* RTS：监管技术标准（Regulatory Technical Standard）；存储信任根（Root of Trust for Storage）
-* RTSP：实时流协议（Real Time Streaming Protocol）
-* RTT：往返时间（Round Trip Time）
-* RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
-* RTW：发布网络版（Release to Web）
-* RTX：英伟达RTX系列（Ray Tracing Texel eXtreme）
-* RU：无线电单元（Radio Unit）
-* RU-CERT：俄罗斯计算机应急响应团队（Russian Computer Emergency Response Team）
-* RuBAC：基于规则的访问控制（Rule-Based Access Control）
-* RUM：真实用户监控（Real User Monitoring）
-* RUP：Rational统一过程（Rational Unified Process）
-* RUXIM：RUXIM程序（Reusable UX Interaction Manager）
-* RUXIMIH：RUXIM交换句柄（Reusable UX Interaction Manager Interaction Handler）
-* RVA：相对虚拟地址（Relative Virtual Address）；风险和脆弱性评估（Risk and Vulnerability Assessment）
-* RVWP：勒索软件漏洞预警试点项目（Ransomware Vulnerability Warning Pilot）
-* RW：读写（Read/Write）
-* RWX：读/写/执行（Read/Write/Execute）
-* RX：接收端（Receive）
-* RXD：数据接收端（Receive Data）
+* <a id="r-x26d"></a>R&D：研究&开发（Research & Development）
+* <a id="r-x2fw"></a>R/W：读写（Read/Write）
+* <a id="r1cs"></a>R1CS：一阶约束系统（Rank-1 Constraint System）
+* <a id="ra"></a>RA：数字证书注册机构（Registration Authority）；请求机构（Requesting Authority）；参考架构（Reference Architecture）；接收端地址（Receiver Address）；路由通告（Router Advertisement）；路由聚合（Route Aggregation）
+* <a id="raas-c9"></a>RaaS：勒索软件即服务（Ransomware as a Service）
+* <a id="rab"></a>RAB：快速应用程序构建模式（Rapid Application Building）
+* <a id="race"></a>RACE：针对每个人的弹性匿名通信（Resilient Anonymous Communication for Everyone）
+* <a id="raci"></a>RACI：负责人、问责人、咨询人和知情人（Responsible, Accountable, Consulted & Informed）
+* <a id="rad"></a>RAD：快速应用程序开发模式（Rapid Application Development）
+* <a id="radics"></a>RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
+* <a id="radius"></a>RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
+* <a id="rados"></a>RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
+* <a id="raft"></a>RAFT：奖励排名微调（Reward rAnked Fine Tuning）
+* <a id="rag"></a>RAG：检索增强生成（Retrieval-Augmented Generation）
+* <a id="raid"></a>RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
+* <a id="raii"></a>RAII：资源获取即初始化（Resource Acquisition Is Initialization）
+* <a id="rait"></a>RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
+* <a id="ram"></a>RAM：远程应用程序管理（Remote Application Management）；随机访问内存（Random Access Memory）；责任分配矩阵（Responsibility Assignment Matrix）
+* <a id="rambo"></a>RAMBO：面向任务保障与业务目标的弹性架构（Resilient Architecture for Mission Assurance & Business Objectives）
+* <a id="ran"></a>RAN：无线接入网（Radio Access Network）
+* <a id="rand-c1"></a>Rand：随机数（Random Number）
+* <a id="rar"></a>RAR：RAR压缩格式（Roshal Archive）
+* <a id="rarp"></a>RARP：逆向地址解析协议（Reverse Address Resolution Protocol）
+* <a id="ras"></a>RAS：远程接入服务（Remote Access Service）；IEEE机器人与自动化协会（IEEE Robotics & Automation Society）
+* <a id="rasp"></a>RASP：运行时应用自保护（Runtime Application Self-Protection）
+* <a id="rat"></a>RAT：远程访问木马（Remote Access Trojan）；远程访问工具（Remote Access Toolkit）
+* <a id="rax"></a>RAX：某64位寄存器代号（Register A eXtended）
+* <a id="rba"></a>RBA：基于风险的身份鉴别（Risk-Based Authentication）
+* <a id="rbac"></a>RBAC：基于角色的访问控制（Role-Based Access Control）
+* <a id="rbacpp"></a>RBACPP：基于角色的访问控制保护轮廓（Role-Based Access Control Protection Profile）
+* <a id="rbd"></a>RBD：RADOS块设备（RADOS Block Device）
+* <a id="rbf"></a>RBF：径向基函数（Radial Basis Function）
+* <a id="rbg"></a>RBG：随机位生成器（Random Bit Generator）
+* <a id="rbi"></a>RBI：远程浏览器隔离（Remote Browser Isolation）；印度储备银行（Reserve Bank of India）
+* <a id="rbm"></a>RBM：受限玻尔兹曼机（Restricted Boltzmann Machine）
+* <a id="rbp"></a>RBP：某64位寄存器代号（Register Base Pointer）
+* <a id="rbvm"></a>RBVM：基于风险的漏洞管理（Risk-Based Vulnerability Management）
+* <a id="rbx"></a>RBX：某64位寄存器代号（Register B eXtended）
+* <a id="rc"></a>RC：报告可信度（Report Confidence）；RC密码（Rivest Cipher）；发布候选版（Release Candidate）
+* <a id="rca"></a>RCA：根因分析（Root Cause Analysis）
+* <a id="rce"></a>RCE：远程代码执行（Remote Code Execution）
+* <a id="rcert"></a>RCERT：区域计算机应急响应团队（Regional Computer Emergency Response Team）
+* <a id="rcm"></a>RCM：风险一致模型预测控制（Risk-Consistent MPC）
+* <a id="rco"></a>RCO：快速能力办公室（Rapid Capabilities Office）
+* <a id="rcx"></a>RCX：某64位寄存器代号（Register C eXtended）
+* <a id="rd"></a>RD：负责任披露（Responsible Disclosure）；受限数据（Restricted Data）
+* <a id="rdat"></a>RDAT：RDAT后门（RDAT）
+* <a id="rdb"></a>RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
+* <a id="rdbms"></a>RDBMS：关系型数据库管理系统（Relational Database Management System）
+* <a id="rdd"></a>RDD：弹性分布式数据集（Resilient Distributed Dataset）
+* <a id="rde"></a>RDE：实际行驶排放（测试循环）（Real Driving Emissions）
+* <a id="rdf"></a>RDF：资源描述框架（Resource Description Framework）
+* <a id="rdi"></a>RDI：某64位寄存器代号（Register Destination Index）
+* <a id="rdn"></a>RDN：相对可辨识名称（Relative Distinguished Name）
+* <a id="rdp"></a>RDP：远程桌面协议（Remote Desktop Protocol）
+* <a id="rdr"></a>RDR：风险详细记录（Risk detail records）
+* <a id="rds"></a>RDS：远程桌面服务（Remote Desktop Service）；远程桌面服务器（Remote Desktop Server）；关系型数据库服务（Relational Database Service）
+* <a id="rdt-x26e"></a>RDT&E：研究、开发、测试与评估（Research, Development, Test & Evaluation）
+* <a id="rdx"></a>RDX：某64位寄存器代号（Register D eXtended）
+* <a id="re"></a>RE：正则表达式（Regular Expressions）
+* <a id="re-x26ct"></a>RE&CT：RE&CT事件响应技术枚举项目（Response Actions）
+* <a id="react-c5"></a>ReAct：推理与行动（Reasoning + Acting）
+* <a id="rebac-c1d"></a>ReBAC：基于关系的访问控制（Relationship-Based Access Control）
+* <a id="red"></a>RED：欺骗逆向工程（Reverse Engineering Deception）
+* <a id="ree"></a>REE：富执行环境（Rich Execution Environment）
+* <a id="relro"></a>RELRO：重定位只读（Relocation Read-Only）
+* <a id="repl"></a>REPL：读取、求值、打印循环（Read-Evaluation-Print Loop）
+* <a id="reram-c1d"></a>ReRAM：可变电阻式存储器（Resistive Random-Access Memory）
+* <a id="rescind-c7d"></a>ReSCIND：利用基于网络心理学的网络防御系统重塑网络安全（Reimagining Security with Cyber psychology-Informed Network Defenses）
+* <a id="rest"></a>REST：表示层状态转换（Representational State Transfer）
+* <a id="ret"></a>RET：记录元素类型（Record Element Types）
+* <a id="rf"></a>RF：RaidForums论坛（RaidForums）；Recorded Future公司（Recorded Future）；射频（Radio Frequency）
+* <a id="rfb"></a>RFB：远程帧缓冲协议（Remote Frame Buffer）
+* <a id="rfc"></a>RFC：请求意见稿（Request for Comments）；变更申请（Request for Change）
+* <a id="rfi"></a>RFI：射频干扰（Radio Frequency Interference）；信息请求（Request for Information）
+* <a id="rfid"></a>RFID：射频识别（Radio Frequency Identification）
+* <a id="rflags"></a>RFLAGS：某64位寄存器代号（Register FLAGS）
+* <a id="rfp"></a>RFP：提案请求（Request For Proposal）
+* <a id="rhca"></a>RHCA：红帽认证架构师（Red Hat Certified Architect）
+* <a id="rhce"></a>RHCE：红帽认证工程师（Red Hat Certified Engineer）
+* <a id="rhel"></a>RHEL：红帽Linux企业版（Red Hat Enterprise Linux）
+* <a id="rid"></a>RID：相对标识（Relative Identifier）
+* <a id="rin"></a>RIN：规章识别号（Regulation Identifier Numbers）
+* <a id="rip"></a>RIP：路由信息协议（Routing Information Protocol）；某64位寄存器代号（Register Instruction Pointer）
+* <a id="ris"></a>RIS：放射科信息系统（Radiology Information System）
+* <a id="risc"></a>RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
+* <a id="rk"></a>RK：根密钥（Root Key）
+* <a id="rl"></a>RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
+* <a id="rlaif"></a>RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
+* <a id="rlcd"></a>RLCD：面向校准决策的强化学习（Reinforcement Learning for Calibrated Decisions）
+* <a id="rlfa"></a>RLFA：远程无环备选通道（Remote Loop Free Alternate）
+* <a id="rlhf"></a>RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
+* <a id="rlvr"></a>RLVR：带可验证奖励的强化学习（Reinforcement Learning with Verifiable Rewards）
+* <a id="rlwr"></a>RLWR：环上舍入学习（Ring Learning With Rounding）
+* <a id="rm"></a>RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
+* <a id="rma"></a>RMA：军事事务革命（Revolution in Military Affairs）
+* <a id="rmc"></a>RMC：风险管理委员会（Risk management council）
+* <a id="rme"></a>RME：域管理扩展（Realm Management Extension）
+* <a id="rmf"></a>RMF：风险管理框架（Risk Management Framework）
+* <a id="rml"></a>RML：鲁棒机器学习（Robust Machine Learning）
+* <a id="rmm"></a>RMM：风险成熟度模型（Risk Maturity Model）；弹性管理模型（Resilience Management Model）；远程监控与管理（Remote Monitoring & Management）
+* <a id="rmon"></a>RMON：远程网络监控（Remote Network Monitoring）
+* <a id="rmp"></a>RMP：风险管理过程（Risk Management Process）
+* <a id="rmpf"></a>RMPF：远程内存保护功能（Remote Memory Protection Function）
+* <a id="rmse"></a>RMSE：均方根误差（Root Mean Squared Error）
+* <a id="rnc"></a>RNC：无线网络控制器（Radio Network Controller）
+* <a id="rng"></a>RNG：随机数发生器（Random Number Generator）
+* <a id="rnn"></a>RNN：循环神经网络（Recurrent Neural Network）
+* <a id="roadm"></a>ROADM：可重构光分插复用器（Reconfigurable Optical Add/Drop Multiplexer）
+* <a id="roberta-c3d"></a>RoBERTa：RoBERTa模型（A Robustly Optimized BERT Pretraining Approach）
+* <a id="roc"></a>ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
+* <a id="roce-cd"></a>RoCE：RDMA以太网（RDMA over Converged Ethernet）
+* <a id="rodata-c0"></a>rodata：只读数据段（read-only data segment）
+* <a id="rodc"></a>RODC：只读域控（Read-Only Domain Controller）
+* <a id="roe"></a>ROE：交手规则（Rules of Engagement）
+* <a id="roi"></a>ROI：投资回报率（Return on Investment）
+* <a id="rom"></a>ROM：随机预言模型（Random Oracle Model）；只读存储器（Read-Only Memory）；机会与风险管理（Risk & Opportunity Management）
+* <a id="rop"></a>ROP：面向返回编程（Return Oriented Programming）
+* <a id="ros"></a>ROS：资源编排（Resource Orchestration Service）
+* <a id="ros2"></a>ROS2：机器人操作系统第二代（Robot Operating System 2）
+* <a id="rosc"></a>ROSC：区域运营与安全中心（Regional Operations & Security Center）
+* <a id="rose"></a>ROSE：远程操作服务元素（Remote Operations Service Element）
+* <a id="rot-c5"></a>RoT：信任根（Root of Trust）
+* <a id="rot"></a>ROT：冗余、过时、琐碎（Redundant, Obsolete, Trivial）
+* <a id="rp"></a>RP：依赖方（Relying Party）；返回指针（Return Pointer）
+* <a id="rpa"></a>RPA：机器人流程自动化（Robotic Process Automation）；可解析专用地址（Resolvable Private Address）
+* <a id="rpc"></a>RPC：远程过程调用（Remote Procedure Call）
+* <a id="rpl"></a>RPL：请求特权等级（Requested Privilege Level）
+* <a id="rpm"></a>RPM：远程患者监控（Remote Patient Monitoring）
+* <a id="rpo"></a>RPO：恢复点目标（Recovery Point Objective）；CMMC注册从业机构（CMMC Registered Practitioner Organization）
+* <a id="rps"></a>RPS：每秒请求数（Requests per second）
+* <a id="rqe"></a>RQE：需求工程（ReQuirement Engineering）
+* <a id="rr"></a>RR：DNS资源记录（Resource Records）；路由重定向消息（Redirect）
+* <a id="rra"></a>RRA：勒索软件战备评估（Ransomware Readiness Assessment）
+* <a id="rram"></a>RRAM：可变电阻式存储器（Resistive Random-Access Memory）
+* <a id="rrc"></a>RRC：无线资源控制器（Radio Resource Controller）
+* <a id="rrh"></a>RRH：远程无线头端（Remote Radio Head）
+* <a id="rrhf"></a>RRHF：人类反馈排名响应（Rank Response from Human Feedback）
+* <a id="rrl"></a>RRL：响应速率限制（Response Rate Limiting）
+* <a id="rrsa"></a>RRSA：基于服务账户的RAM角色（RAM Roles for Service Accounts）
+* <a id="rrt"></a>RRT：快速随机扩展树（路径规划算法）（Rapidly-exploring Random Tree）
+* <a id="rs"></a>RS：推荐系统（Recommender System）；路由器请求消息（Router Solicitation）
+* <a id="rsa"></a>RSA：RSA算法（Rivest–Shamir–Adleman）；RSA公司（Rivest–Shamir–Adleman）；回溯审计分析（Retrospective Security Analysis）
+* <a id="rsac"></a>RSAC：RSA会议（RSA Conference）
+* <a id="rsaes"></a>RSAES：RSA加密体制（Rivest–Shamir–Adleman Encryption System）
+* <a id="rsal"></a>RSAL：受限源码可用许可（Red Hat 风格的 Restricted Source Available License）
+* <a id="rsas"></a>RSAS：远程安全评估系统（Remote Security Assessment System）
+* <a id="rsi"></a>RSI：某64位寄存器代号（Register Source Index）；递归自我改进（Recursive Self-Improvement）
+* <a id="rsn"></a>RSN：健壮安全网络（Robust Security Network）
+* <a id="rsna"></a>RSNA：健壮安全网络联盟（Robust Security Network Association）
+* <a id="rsnie"></a>RSNIE：健壮安全网络信息元素（Robust Security Network Information Element）
+* <a id="rso"></a>RSO：减点登录（Reduced Sign-On）
+* <a id="rsp"></a>RSP：某64位寄存器代号（Register Stack Pointer）；远程SIM配置（Remote SIM Provisioning）
+* <a id="rss"></a>RSS：富站点摘要（Rich Site Summary）；RDF站点摘要（RDF Site Summary）；简易信息聚合（Really Simple Syndication）；接收端扩展（Receive Side Scaling）；企业资源（Enterprise Resource）；机器人仿真工作台（Robot Sim Studio）
+* <a id="rssi"></a>RSSI：接收信号强度指示（Received Signal Strength Indication）
+* <a id="rst"></a>RST：连接重置（Reset The Connection）
+* <a id="rsu"></a>RSU：路侧单元（Road Side Unit）
+* <a id="rt"></a>RT：红队（Red Team）；红队测试（Red Teaming）；路由目标（Route Target）；实时（Real Time）；响应时间（Response Time）
+* <a id="rt-x26e"></a>RT&E：研究、测试与评估（Research, Test & Evaluation）
+* <a id="rta"></a>RTA：运行时保障（runtime-assurance）
+* <a id="rtc"></a>RTC：实时音视频技术（Real-Time Communication）
+* <a id="rtca"></a>RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
+* <a id="rtcp"></a>RTCP：RTP控制协议（RTP Control Protocol）
+* <a id="rtd"></a>RTD：往返延迟（Round-Trip Delay）
+* <a id="rte"></a>RTE：实时互联网大会（Real-Time 、Engagement）
+* <a id="rtg"></a>RTG：研究任务组（Research Task Group）
+* <a id="rtm"></a>RTM：可信度量根（Root of Trust for Measurement）；发布制造版（Release to Manufacturing）
+* <a id="rtmp"></a>RTMP：实时消息协议（Real-Time Messaging Protocol）
+* <a id="rto"></a>RTO：恢复时间目标（Recovery Time Objective）
+* <a id="rtos"></a>RTOS：实时操作系统（Real-Time Operating System）
+* <a id="rtp"></a>RTP：实时传输协议（Real-time Transport Protocol）
+* <a id="rtr"></a>RTR：可信报告根（Root of Trust for Report）；报告信任的根（Root of Trust for Reporting）
+* <a id="rts"></a>RTS：监管技术标准（Regulatory Technical Standard）；存储信任根（Root of Trust for Storage）
+* <a id="rtsp"></a>RTSP：实时流协议（Real Time Streaming Protocol）
+* <a id="rtt"></a>RTT：往返时间（Round Trip Time）
+* <a id="rtu"></a>RTU：远程终端单元（Remote Terminal Unit）；更新信任根（Root of Trust for Update）
+* <a id="rtw"></a>RTW：发布网络版（Release to Web）
+* <a id="rtx"></a>RTX：英伟达RTX系列（Ray Tracing Texel eXtreme）
+* <a id="ru"></a>RU：无线电单元（Radio Unit）
+* <a id="ru-x2dcert"></a>RU-CERT：俄罗斯计算机应急响应团队（Russian Computer Emergency Response Team）
+* <a id="rubac-c1d"></a>RuBAC：基于规则的访问控制（Rule-Based Access Control）
+* <a id="rum"></a>RUM：真实用户监控（Real User Monitoring）
+* <a id="rup"></a>RUP：Rational统一过程（Rational Unified Process）
+* <a id="ruxim"></a>RUXIM：RUXIM程序（Reusable UX Interaction Manager）
+* <a id="ruximih"></a>RUXIMIH：RUXIM交换句柄（Reusable UX Interaction Manager Interaction Handler）
+* <a id="rva"></a>RVA：相对虚拟地址（Relative Virtual Address）；风险和脆弱性评估（Risk and Vulnerability Assessment）
+* <a id="rvwp"></a>RVWP：勒索软件漏洞预警试点项目（Ransomware Vulnerability Warning Pilot）
+* <a id="rw"></a>RW：读写（Read/Write）
+* <a id="rwx"></a>RWX：读/写/执行（Read/Write/Execute）
+* <a id="rx"></a>RX：接收端（Receive）
+* <a id="rxd"></a>RXD：数据接收端（Receive Data）

@@ -1,153 +1,153 @@
 ## F
 
-* F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
-* FAA：美国联邦航空管理局（Federal Aviation Administration）
-* FaaS：函数即服务（Function as a Service）；金融即服务（Finance As A Service）
-* FAB：特色、优势、价值（Feature, Advantage & Benefit）
-* FAE：现场应用工程师（Field Application Engineer）
-* FAIR：信息风险因子分析（Factor Analysis of Information Risk）
-* FAPI：API（Financial-Grade API 财务等级）
-* FAPSI：俄罗斯联邦政府通信信息局（俄语拉丁化：Federal'noe Agentstvo Pravitel'stvennoy Svyazi i Informatsii）
-* FAQ：常见问题解答（Frequently Asked Questions）
-* FAR：错误接受率（False Acceptance Rate）；现场机柜室（Field Assemble Rack Room）；美国联邦采购条例（Federal Acquisition Regulation）
-* FASG：欺诈和安全组（Fraud & Security Group）
-* FAST：便利化软件需求规制技术（Facilitated Application Specification Technique）
-* FAT：文件分配表（File Allocation Table）
-* FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
-* FBI：美国联邦调查局（Federal Bureau of Investigation）
-* FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）；函数调用（Function Call）
-* FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
-* FC2：联邦式指挥与控制（Federated Command & Control）
-* FCA：英国金融行为管理局（Financial Conduct Authority）
-* FCAPS：故障、配置、审计、性能、安全（Fault, Configuration, Accounting, Performance & Security）
-* FCC：美国联邦通信委员会（Federal Communications Commission）
-* FCD：委员会最终草案（Final Committee Draft）
-* FCEB：美国联邦文职机构（Federal Civilian Executive Branch）
-* FCG：函数调用图（Function Call Graph）
-* FCI：联邦合同信息（Federal Contract Information）
-* FCIP：光纤通道互联协议（Fibre Channel over Internet Protocol）
-* FCIS：FreeBuf网络安全创新大会（FreeBuf Cyber security Innovation Summit）
-* FCoE：光纤通道以太网（Fibre Channel over Ethernet）
-* FCS：帧校验序列（Frame Check Sequence）
-* FDA：食品和药品管理局（Food & Drug Administration）
-* FDAU：飞行数据采集单元（Flight-Data Acquisition Unit）
-* FDD：频分复用（Frequency-Division Duplexing）
-* FDDI：光纤分布式数据接口（Fiber Distributed Data Interface）
-* FDE：全盘加密（Full Disk Encryption）；前线部署工程师（Forward Deployed Engineer）
-* FDIS：国际标准最终草案（Final Draft International Standard）
-* FDM：频分多路复用（Frequency-Division Multiplexing）
-* FDR：飞行数据记录器（Flight Data Recorder）
-* FDT：全双工吞吐量（Full Duplex Throughput）
-* FDX：金融数据交换（Financial Data Exchange）
-* FEA：联邦企业架构（Federal Enterprise Architecture）
-* FEAF：联邦企业架构框架（Federal Enterprise Architecture Framework）
-* FEC：前向纠错（Forward Error Correction）；MPLS转发等价类（Forward Equivalence Class）
-* FedRAMP：美国联邦风险与授权管理计划（Federal Risk and Authorization Management Program）
-* FEMA：联邦应急管理局（Federal Emergency Management Agency）
-* FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
-* FFI：外部功能接口（Foreign Function Interface）
-* FFN：前馈神经网络（Feed-Forward Networks）
-* FFRDC：美国联资研发中心（Federally Funded Research & Development Center）
-* FGS：火和燃气系统（Fire & Gas Systems）
-* FGSM：快速梯度符号法（Fast Gradient Sign Method）
-* FHE：全同态加密（Fully Homomorphic Encryption）
-* FHMQV：全哈希MQV协议（Fully Hashed Menezes-Qu-Vanstone）
-* FHSS：跳频扩频（Frequency Hopping Spread Spectrum）
-* FHWA：联邦公路管理局（Federal Highway Administration）
-* FI：金融机构（Financial Institution）
-* FICAM：联邦身份、凭证与访问管理（Federal Identity, Credential, and Access Management）
-* FICIC：关键基础设施网络安全提升框架（Framework for Improving Critical Infrastructure Cybersecurity）
-* FIdM：联邦式身份管理（Federated Identity Management）
-* FIDO：快速在线身份认证（Fast IDentity Online）
-* FIFO：先入先出（First In, First Out）
-* FILO：先入后出（First In, Last Out）
-* FIM：文件完整性监控（File Integrity Monitoring）
-* FIMI：外国信息操纵和干扰（Foreign Information Manipulation & Interference）
-* FININT：金融情报（Financial Intelligence）
-* FIOP：美国联邦跨部门行动方案（Federal Interagency Operational Plan）
-* FIP：浮动IP地址（Floating IP）
-* FIPS：美国联邦信息处理标准（Federal Information Processing Standard）；联邦信息处理标准（Federal Information Processing Standards）
-* FIPSPUB：联邦信息处理标准出版物（Federal Information Processing Standard Publication）
-* FIQ：快速中断请求（Fast Interrupt Request）
-* FIR：错误识别率（False Identification Rate）
-* FIRRMA：外国投资风险审查现代化法案（Foreign Investment Risk Review Modernization Act）
-* FIRST：国际网络安全应急论坛组织（Forum of Incident Response & Security Teams）
-* FISA：美国外国情报侦察法（Foreign Intelligence Surveillance Act）
-* FISMA：美国联邦信息安全现代化法案（Federal Information Security Modernization Act）；联邦信息安全管理法案（Federal Information Security Management Act）
-* FISSEA：联邦信息系统安全教育协会（Federal Information Systems Security Educators Association）
-* FIWC：舰队信息战中心（Fleet information Warfare Center）
-* FL：联邦学习（Federated Learning）
-* FLMM：面向金融业务场景的大模型应用能力评估（Financial Large Model Application Capability Assessment Model）
-* FLOPS：每秒浮点运算数（Floating-point Operations Per Second）
-* FM：故障管理（Fault Management）
-* FM&A：取证与恶意代码分析（Forensics & Malware Analysis）
-* FMA：混合浮点运算（Fused Multiply-Add）
-* FMC：Firepower管理中心（Firepower Management Center ）
-* FMCSA：联邦汽车运输安全管理局（Federal Motor Carrier Safety Administration）
-* FMEA：失效模式和影响分析（Failure Modes & Effect Analysis）
-* FMS：弗鲁勒-曼廷-沙米尔攻击（Fluhrer-Mantin-Shamir）
-* FN：漏报（False Negative）
-* FNPS：美国联邦网络防护服务（Federal Network Protection Service）
-* FNR：美国联邦网络弹性计划（Federal Network Resilience）
-* FOA：野战行动机构（Field Operating Agency）；果蝇优化算法（Fruit Fly Optimization Algorithm）
-* FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
-* FOAF：人际关系本体模型（Friend Of A Friend）
-* FOC：全面运行能力（Full Operating Capability）
-* FOIA：信息自由法案（Freedom of Information Act）
-* FOMO：害怕错过（Fear of Missing Out）
-* FOSS：自由开源软件（Free & Open Source Software）
-* FOTA：固件在线升级（Firmware Over-The-Air）
-* FOUO：仅供官方使用（For Official Use Only）
-* FP：误报（False Positive）；浮点数值（Floating Point）
-* FP16：半精度浮点数（Floating Point 16-bit）
-* FP32：单精度浮点数（Floating Point 32-bit）
-* FP4：四位精度浮点数（Floating Point 4-bit）
-* FP64：双精度浮点数（Floating Point 64-bit）
-* FP8：八位精度浮点数（Floating Point 8-bit）
-* FPA：功能点分析（Function Point Analysis）
-* FPE：格式保留加密（Format-Preserving Encryption）
-* FPGA：现场可编程门阵列（Field-Programmable Gate Array）
-* FPI：全包检测（Full Packet Inspection）
-* FPO：外部主对象（Foreign Principal Object）
-* FPR：误报率（False Positive Rate）
-* FQDN：完全限定域名（Fully Qualified Domain Name）
-* FRA：联邦铁路管理局（Federal Railroad Administration）；最终响应准确率，GuardAgent评测指标（Final-Response Accuracy）
-* FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
-* FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
-* FREAK：FREAK攻击（Factoring RSA Export Keys）
-* Frenet：弗莱纳坐标系（常用于轨迹规划）（Frenet Coordinate System）
-* FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）；误拒率（False Refusal Rate）
-* FRS：文件复制服务（File Replication Service）
-* FRU：现场调换单元（Field Replacement Unit）
-* FS：额外段寄存器（F extra Segment）
-* FS-ISAC：金融服务信息共享与分析中心（Financial Services Information Sharing & Analysis Center）
-* FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
-* FSD：全自动驾驶（特斯拉品牌术语）（Full Self-Driving）
-* FSDP：全分片数据并行（Fully Sharded Data Parallel）
-* FSF：自由软件基金会（Free Software Foundation）
-* FSL：设施安全等级（Facility Security Level）
-* FSLS：活跃时间窗口（First Seen & Last Seen）
-* FSM：有限状态机（Finite State Machine）；功能规模测量（Functional Size Measurement）
-* FSMO：灵活单主操作（Flexible Single Master Operation）
-* FSO：俄罗斯联邦保护局（俄语拉丁化：Federalnaya sluzhba okhrany）
-* FSR：反馈移位寄存器（Feedback Shift Register）
-* FSS：金融服务部门（Financial Services Sector）；公允排序服务（Fair Sequencing Services）
-* FT：故障容差（Fault Tolerance）
-* FTA：故障树分析（Fault Tree Analysis）；美国联邦交通管理局（Federal Transit Administration）
-* FTC：美国联邦贸易委员会（Federal Trade Commission）
-* FTD：火力威胁防御（Firepower Threat Defense）
-* FTE：全职人力工时（Full-Time Equivalents）
-* FTP：文件传输协议（File Transfer Protocol）
-* fTPM：固件可信平台模块（Firmware Trusted Platform Module）
-* FTQC：容错量子计算（Fault Tolerant Quantum Computation）
-* FTR：引用文件类型（File Types Referenced）
-* FUD：完全抗检出（Fully UnDetectable）
-* FUSE：用户空间文件系统（Filesystem in Userspace）
-* FVEH：第一向量异常处理器（First Vectored Exception Handler）
-* FVP：固定虚拟平台（Fixed Virtual Platform）
-* FW：固件（FirmWare）
-* FWA：固定无线接入（Fixed Wireless Access）
-* FWaaS：防火墙即服务（FireWall as a Service）
-* FWORD：六字节字（Farword）
-* FX：FireEye文件内容安全产品系列（猜测：File security）
-* FY：财年（Fiscal Year）
+* <a id="f3ead"></a>F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
+* <a id="faa"></a>FAA：美国联邦航空管理局（Federal Aviation Administration）
+* <a id="faas-c9"></a>FaaS：函数即服务（Function as a Service）；金融即服务（Finance As A Service）
+* <a id="fab"></a>FAB：特色、优势、价值（Feature, Advantage & Benefit）
+* <a id="fae"></a>FAE：现场应用工程师（Field Application Engineer）
+* <a id="fair"></a>FAIR：信息风险因子分析（Factor Analysis of Information Risk）
+* <a id="fapi"></a>FAPI：API（Financial-Grade API 财务等级）
+* <a id="fapsi"></a>FAPSI：俄罗斯联邦政府通信信息局（俄语拉丁化：Federal'noe Agentstvo Pravitel'stvennoy Svyazi i Informatsii）
+* <a id="faq"></a>FAQ：常见问题解答（Frequently Asked Questions）
+* <a id="far"></a>FAR：错误接受率（False Acceptance Rate）；现场机柜室（Field Assemble Rack Room）；美国联邦采购条例（Federal Acquisition Regulation）
+* <a id="fasg"></a>FASG：欺诈和安全组（Fraud & Security Group）
+* <a id="fast"></a>FAST：便利化软件需求规制技术（Facilitated Application Specification Technique）
+* <a id="fat"></a>FAT：文件分配表（File Allocation Table）
+* <a id="fatf"></a>FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
+* <a id="fbi"></a>FBI：美国联邦调查局（Federal Bureau of Investigation）
+* <a id="fc"></a>FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）；函数调用（Function Call）
+* <a id="fc-x2fip"></a>FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
+* <a id="fc2"></a>FC2：联邦式指挥与控制（Federated Command & Control）
+* <a id="fca"></a>FCA：英国金融行为管理局（Financial Conduct Authority）
+* <a id="fcaps"></a>FCAPS：故障、配置、审计、性能、安全（Fault, Configuration, Accounting, Performance & Security）
+* <a id="fcc"></a>FCC：美国联邦通信委员会（Federal Communications Commission）
+* <a id="fcd"></a>FCD：委员会最终草案（Final Committee Draft）
+* <a id="fceb"></a>FCEB：美国联邦文职机构（Federal Civilian Executive Branch）
+* <a id="fcg"></a>FCG：函数调用图（Function Call Graph）
+* <a id="fci"></a>FCI：联邦合同信息（Federal Contract Information）
+* <a id="fcip"></a>FCIP：光纤通道互联协议（Fibre Channel over Internet Protocol）
+* <a id="fcis"></a>FCIS：FreeBuf网络安全创新大会（FreeBuf Cyber security Innovation Summit）
+* <a id="fcoe-cb"></a>FCoE：光纤通道以太网（Fibre Channel over Ethernet）
+* <a id="fcs"></a>FCS：帧校验序列（Frame Check Sequence）
+* <a id="fda"></a>FDA：食品和药品管理局（Food & Drug Administration）
+* <a id="fdau"></a>FDAU：飞行数据采集单元（Flight-Data Acquisition Unit）
+* <a id="fdd"></a>FDD：频分复用（Frequency-Division Duplexing）
+* <a id="fddi"></a>FDDI：光纤分布式数据接口（Fiber Distributed Data Interface）
+* <a id="fde"></a>FDE：全盘加密（Full Disk Encryption）；前线部署工程师（Forward Deployed Engineer）
+* <a id="fdis"></a>FDIS：国际标准最终草案（Final Draft International Standard）
+* <a id="fdm"></a>FDM：频分多路复用（Frequency-Division Multiplexing）
+* <a id="fdr"></a>FDR：飞行数据记录器（Flight Data Recorder）
+* <a id="fdt"></a>FDT：全双工吞吐量（Full Duplex Throughput）
+* <a id="fdx"></a>FDX：金融数据交换（Financial Data Exchange）
+* <a id="fea"></a>FEA：联邦企业架构（Federal Enterprise Architecture）
+* <a id="feaf"></a>FEAF：联邦企业架构框架（Federal Enterprise Architecture Framework）
+* <a id="fec"></a>FEC：前向纠错（Forward Error Correction）；MPLS转发等价类（Forward Equivalence Class）
+* <a id="fedramp-c79"></a>FedRAMP：美国联邦风险与授权管理计划（Federal Risk and Authorization Management Program）
+* <a id="fema"></a>FEMA：联邦应急管理局（Federal Emergency Management Agency）
+* <a id="fett"></a>FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
+* <a id="ffi"></a>FFI：外部功能接口（Foreign Function Interface）
+* <a id="ffn"></a>FFN：前馈神经网络（Feed-Forward Networks）
+* <a id="ffrdc"></a>FFRDC：美国联资研发中心（Federally Funded Research & Development Center）
+* <a id="fgs"></a>FGS：火和燃气系统（Fire & Gas Systems）
+* <a id="fgsm"></a>FGSM：快速梯度符号法（Fast Gradient Sign Method）
+* <a id="fhe"></a>FHE：全同态加密（Fully Homomorphic Encryption）
+* <a id="fhmqv"></a>FHMQV：全哈希MQV协议（Fully Hashed Menezes-Qu-Vanstone）
+* <a id="fhss"></a>FHSS：跳频扩频（Frequency Hopping Spread Spectrum）
+* <a id="fhwa"></a>FHWA：联邦公路管理局（Federal Highway Administration）
+* <a id="fi"></a>FI：金融机构（Financial Institution）
+* <a id="ficam"></a>FICAM：联邦身份、凭证与访问管理（Federal Identity, Credential, and Access Management）
+* <a id="ficic"></a>FICIC：关键基础设施网络安全提升框架（Framework for Improving Critical Infrastructure Cybersecurity）
+* <a id="fidm-cb"></a>FIdM：联邦式身份管理（Federated Identity Management）
+* <a id="fido"></a>FIDO：快速在线身份认证（Fast IDentity Online）
+* <a id="fifo"></a>FIFO：先入先出（First In, First Out）
+* <a id="filo"></a>FILO：先入后出（First In, Last Out）
+* <a id="fim"></a>FIM：文件完整性监控（File Integrity Monitoring）
+* <a id="fimi"></a>FIMI：外国信息操纵和干扰（Foreign Information Manipulation & Interference）
+* <a id="finint"></a>FININT：金融情报（Financial Intelligence）
+* <a id="fiop"></a>FIOP：美国联邦跨部门行动方案（Federal Interagency Operational Plan）
+* <a id="fip"></a>FIP：浮动IP地址（Floating IP）
+* <a id="fips"></a>FIPS：美国联邦信息处理标准（Federal Information Processing Standard）；联邦信息处理标准（Federal Information Processing Standards）
+* <a id="fipspub"></a>FIPSPUB：联邦信息处理标准出版物（Federal Information Processing Standard Publication）
+* <a id="fiq"></a>FIQ：快速中断请求（Fast Interrupt Request）
+* <a id="fir"></a>FIR：错误识别率（False Identification Rate）
+* <a id="firrma"></a>FIRRMA：外国投资风险审查现代化法案（Foreign Investment Risk Review Modernization Act）
+* <a id="first"></a>FIRST：国际网络安全应急论坛组织（Forum of Incident Response & Security Teams）
+* <a id="fisa"></a>FISA：美国外国情报侦察法（Foreign Intelligence Surveillance Act）
+* <a id="fisma"></a>FISMA：美国联邦信息安全现代化法案（Federal Information Security Modernization Act）；联邦信息安全管理法案（Federal Information Security Management Act）
+* <a id="fissea"></a>FISSEA：联邦信息系统安全教育协会（Federal Information Systems Security Educators Association）
+* <a id="fiwc"></a>FIWC：舰队信息战中心（Fleet information Warfare Center）
+* <a id="fl"></a>FL：联邦学习（Federated Learning）
+* <a id="flmm"></a>FLMM：面向金融业务场景的大模型应用能力评估（Financial Large Model Application Capability Assessment Model）
+* <a id="flops"></a>FLOPS：每秒浮点运算数（Floating-point Operations Per Second）
+* <a id="fm"></a>FM：故障管理（Fault Management）
+* <a id="fm-x26a"></a>FM&A：取证与恶意代码分析（Forensics & Malware Analysis）
+* <a id="fma"></a>FMA：混合浮点运算（Fused Multiply-Add）
+* <a id="fmc"></a>FMC：Firepower管理中心（Firepower Management Center ）
+* <a id="fmcsa"></a>FMCSA：联邦汽车运输安全管理局（Federal Motor Carrier Safety Administration）
+* <a id="fmea"></a>FMEA：失效模式和影响分析（Failure Modes & Effect Analysis）
+* <a id="fms"></a>FMS：弗鲁勒-曼廷-沙米尔攻击（Fluhrer-Mantin-Shamir）
+* <a id="fn"></a>FN：漏报（False Negative）
+* <a id="fnps"></a>FNPS：美国联邦网络防护服务（Federal Network Protection Service）
+* <a id="fnr"></a>FNR：美国联邦网络弹性计划（Federal Network Resilience）
+* <a id="foa"></a>FOA：野战行动机构（Field Operating Agency）；果蝇优化算法（Fruit Fly Optimization Algorithm）
+* <a id="foadm"></a>FOADM：固定光分插复用器（Fixed Optical Add/Drop Multiplexer）
+* <a id="foaf"></a>FOAF：人际关系本体模型（Friend Of A Friend）
+* <a id="foc"></a>FOC：全面运行能力（Full Operating Capability）
+* <a id="foia"></a>FOIA：信息自由法案（Freedom of Information Act）
+* <a id="fomo"></a>FOMO：害怕错过（Fear of Missing Out）
+* <a id="foss"></a>FOSS：自由开源软件（Free & Open Source Software）
+* <a id="fota"></a>FOTA：固件在线升级（Firmware Over-The-Air）
+* <a id="fouo"></a>FOUO：仅供官方使用（For Official Use Only）
+* <a id="fp"></a>FP：误报（False Positive）；浮点数值（Floating Point）
+* <a id="fp16"></a>FP16：半精度浮点数（Floating Point 16-bit）
+* <a id="fp32"></a>FP32：单精度浮点数（Floating Point 32-bit）
+* <a id="fp4"></a>FP4：四位精度浮点数（Floating Point 4-bit）
+* <a id="fp64"></a>FP64：双精度浮点数（Floating Point 64-bit）
+* <a id="fp8"></a>FP8：八位精度浮点数（Floating Point 8-bit）
+* <a id="fpa"></a>FPA：功能点分析（Function Point Analysis）
+* <a id="fpe"></a>FPE：格式保留加密（Format-Preserving Encryption）
+* <a id="fpga"></a>FPGA：现场可编程门阵列（Field-Programmable Gate Array）
+* <a id="fpi"></a>FPI：全包检测（Full Packet Inspection）
+* <a id="fpo"></a>FPO：外部主对象（Foreign Principal Object）
+* <a id="fpr"></a>FPR：误报率（False Positive Rate）
+* <a id="fqdn"></a>FQDN：完全限定域名（Fully Qualified Domain Name）
+* <a id="fra"></a>FRA：联邦铁路管理局（Federal Railroad Administration）；最终响应准确率，GuardAgent评测指标（Final-Response Accuracy）
+* <a id="frad"></a>FRAD：帧中继组装/分解（Frame Relay Assembler/Disassembler）
+* <a id="frap"></a>FRAP：简化风险分析过程（Facilitated Risk Analysis Process）
+* <a id="freak"></a>FREAK：FREAK攻击（Factoring RSA Export Keys）
+* <a id="frenet-c1"></a>Frenet：弗莱纳坐标系（常用于轨迹规划）（Frenet Coordinate System）
+* <a id="frr"></a>FRR：错误拒绝率（False Rejection Rate）；快速重路由（Fast ReRoute）；误拒率（False Refusal Rate）
+* <a id="frs"></a>FRS：文件复制服务（File Replication Service）
+* <a id="fru"></a>FRU：现场调换单元（Field Replacement Unit）
+* <a id="fs"></a>FS：额外段寄存器（F extra Segment）
+* <a id="fs-x2disac"></a>FS-ISAC：金融服务信息共享与分析中心（Financial Services Information Sharing & Analysis Center）
+* <a id="fsb"></a>FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
+* <a id="fsd"></a>FSD：全自动驾驶（特斯拉品牌术语）（Full Self-Driving）
+* <a id="fsdp"></a>FSDP：全分片数据并行（Fully Sharded Data Parallel）
+* <a id="fsf"></a>FSF：自由软件基金会（Free Software Foundation）
+* <a id="fsl"></a>FSL：设施安全等级（Facility Security Level）
+* <a id="fsls"></a>FSLS：活跃时间窗口（First Seen & Last Seen）
+* <a id="fsm"></a>FSM：有限状态机（Finite State Machine）；功能规模测量（Functional Size Measurement）
+* <a id="fsmo"></a>FSMO：灵活单主操作（Flexible Single Master Operation）
+* <a id="fso"></a>FSO：俄罗斯联邦保护局（俄语拉丁化：Federalnaya sluzhba okhrany）
+* <a id="fsr"></a>FSR：反馈移位寄存器（Feedback Shift Register）
+* <a id="fss"></a>FSS：金融服务部门（Financial Services Sector）；公允排序服务（Fair Sequencing Services）
+* <a id="ft"></a>FT：故障容差（Fault Tolerance）
+* <a id="fta"></a>FTA：故障树分析（Fault Tree Analysis）；美国联邦交通管理局（Federal Transit Administration）
+* <a id="ftc"></a>FTC：美国联邦贸易委员会（Federal Trade Commission）
+* <a id="ftd"></a>FTD：火力威胁防御（Firepower Threat Defense）
+* <a id="fte"></a>FTE：全职人力工时（Full-Time Equivalents）
+* <a id="ftp"></a>FTP：文件传输协议（File Transfer Protocol）
+* <a id="ftpm-ce"></a>fTPM：固件可信平台模块（Firmware Trusted Platform Module）
+* <a id="ftqc"></a>FTQC：容错量子计算（Fault Tolerant Quantum Computation）
+* <a id="ftr"></a>FTR：引用文件类型（File Types Referenced）
+* <a id="fud"></a>FUD：完全抗检出（Fully UnDetectable）
+* <a id="fuse"></a>FUSE：用户空间文件系统（Filesystem in Userspace）
+* <a id="fveh"></a>FVEH：第一向量异常处理器（First Vectored Exception Handler）
+* <a id="fvp"></a>FVP：固定虚拟平台（Fixed Virtual Platform）
+* <a id="fw"></a>FW：固件（FirmWare）
+* <a id="fwa"></a>FWA：固定无线接入（Fixed Wireless Access）
+* <a id="fwaas-c13"></a>FWaaS：防火墙即服务（FireWall as a Service）
+* <a id="fword"></a>FWORD：六字节字（Farword）
+* <a id="fx"></a>FX：FireEye文件内容安全产品系列（猜测：File security）
+* <a id="fy"></a>FY：财年（Fiscal Year）

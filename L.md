@@ -1,119 +1,119 @@
 ## L
 
-* L2CAP：逻辑链路控制和适配协议（Logical Link Control & Adaptation Protocol）
-* L2TP：二层隧道协议（Layer 2 Tunneling Protocol）
-* LA：限定可用（Limited Availability）
-* LAC：L2TP访问集中器（L2TP Access Concentrator）；位置区码（Location Area Code）；中文词法分析（Lexical Analysis of Chinese）
-* LaC：基础设施即代码（Infrastructure as Code）
-* LACP：链路聚合控制协议（Link Aggregation Control Protocol）
-* LADS：利用模拟域实现安全性（Leveraging the Analog Domain for Security）
-* LAG：链路聚合组（Link Aggregation Group）
-* LaMDA：LaMDA模型（Language Models for Dialog Applications）
-* LAMP：Linux＋Apache＋MySQL＋PHP（Linux＋Apache＋MySQL＋PHP）
-* LAN：局域网（Local Area Network）
-* LANL：美国洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）
-* LAPS：Windows LAPS密码管理工具（Local Administrator Password Solution）
-* LAS：日志审计系统（Log Auditing System）
-* LB：负载均衡（Load Balance）
-* LBC：LBRY平台币（LBRY credit）
-* LBRY：LBRY去中心化平台（library）
-* LBS：基于位置的服务（Location-Based Service）
-* LBSA：基于实验室的安全评估（Lab-Based Security Assessment）
-* LCA：最低共同祖先（Lowest Common Ancestor）；生命周期分析（Life Cycle Assessment）
-* LCC：本地计算集群（Local Compute Cluster）
-* LCESA：伦敦通信电子安全局（London Communications-Electronic Security Agency）
-* LCG：线性同余方法（Linear Congruential Generator）
-* LCH：Windows轻量级调用处理器（Lightweight Call Handlers）
-* LCP：链路控制协议（Link Control Protocol）；发射控制策略（Launch Control Policy）
-* LCSA：伦敦通信安全局（London Communications Security Agency）
-* LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）
-* LDC：逻辑数据中心（Logical Data Center）
-* LDDT：逻辑数据库设计技术（Logical Database Design Technique）
-* LDM：Lanelet2数字地图（Lanelet2 Digital Map）
-* LDS：轻量域服务（Lightweight Domain Service）
-* LDT：本地描述符表（Local Descriptor Table）
-* LDTR：本地描述符表寄存器（Local Descriptor Table Register）
-* LE：执法（Law Enforcement）；低功耗（Low Energy）
-* LE/CI：执法与反情报（Law Enforcement & Counterintelligence）
-* LEA：执法机构（Law Enforcement Agency）
-* LEAF：执法访问区段（Law Enforcement Access Field）
-* LEAP：轻量级可扩展认证协议（Lightweight Extensible Authentication Protocol）
-* LEEF：日志事件扩展格式（Log Event Extended Format）
-* LEO：低地球轨道（Low Earth Orbit）
-* LER：MPLS标签边缘路由器（Label Edge Router）
-* LFA：无环备选通道（Loop Free Alternate）
-* LFI：本地文件包含（Local File Inclusion）
-* LFSR：线性反馈移位寄存器（Linear Feedback Shift Register）
-* LFT：环形容错协议（Loop Fault Tolerance）
-* LH：六合赌博（拼音：Liu He）
-* LID：基于日志的入侵检测（Log based Intrusion Detection）
-* LiDAR：激光雷达（Light Detection and Ranging）
-* LIMA：浅层对齐假说（Less Is More for Alignment）
-* LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
-* LIN：局域网互联网络（Local Interconnect Network）
-* LINDDUN：可关联、可识别、不可否认、可检测、信息泄露、未察觉、不合规隐私威胁模型（Linkability, Identifiability, Non-repudiation, Detectability, Disclosure of information, Unawareness, Non-compliance）
-* LIS：实验室信息管理系统（Laboratory Information Management System）
-* LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
-* LLB：链路负载均衡（Link Load Balancing）
-* LLC：逻辑链路控制（Logical Link Control）
-* LLDP：链路层发现协议（Link Layer Discovery Protocol）
-* LLM：大规模语言模型（Large Language Model）
-* LLMNR：本地链路多播名称解析（Link-Local Multicast Name Resolution）
-* LLP：链路层协议（Link Layer Protocol）
-* LLVM：LLVM编译器（Low Level Virtual Machine）
-* LMMP：局域网/广域网管理协议（LAN/MAN Management Protocol）
-* LMS：学习管理系统（Learning Management System）；许可证管理系统（License Management System）
-* LNK：Windows快捷方式文件格式（Link）
-* LNS：L2TP网络服务器（L2TP Network Server）
-* LOA：确保级（Level of Assurance）
-* LoC：实质性失控率（Loss of Control）
-* LOCO：留一队列或中心（Leave-One-Cohort/Center-Out）
-* LOD：链接开放数据（Linked Open Data）
-* LODO：留一数据集（Leave-One-Dataset-Out）
-* LOE：工作量级别（Level of Effort）
-* LOF：局部离群因子（Local Outlier Factor）
-* LOGIIC：链接石油天然气行业以提升网络安全（Linking the Oil and Gas Industry to Improve Cybersecurity）
-* LOIC：“低轨道离子炮”网络压测工具（Low Orbit Ion Cannon）
-* LOL：离地工具（Living Off The Land）
-* LOLBAS：离地攻击二进制与脚本（Living Off the Land Binaries And Scripts）
-* LOLBins：离地攻击二进制（Living Off the Land Binaries）
-* LOLDriver：离地驱动程序（Living Off The Land Driver）
-* LOP：局部作战图（Local Operational Picture）
-* LoRa：远距离无线电（Long Range Radio）
-* LoRA：低秩适应微调技术（Low-Rank Adaptation）
-* LOS：视线传播（Line-Of-Sight propagation）
-* LOSO：留一受试者（Leave-One-Subject-Out）
-* LotL：离地攻击（Living off the Land）
-* LPA：本地个人资料助手（Local Profile Assistant）；有限规划准确率，GuardAgent评测指标（Limited-Plan Accuracy）
-* LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
-* LPAR：逻辑分区（Logical Partition）
-* LPC：LPC总线类型（Low Pin Count）；本地进程间通信（Local Inter-Process Communication）
-* LPE：本地提权（Local Privilege Escalation）
-* LPP：轻量级表示协议（Lightweight Presentation Protocol）
-* LQR：线性二次调节器（Linear Quadratic Regulator）
-* LRA：逻辑响应孔径"项目（Logical Response Aperture）
-* LRC：线性责任图（Linear Responsibility Chart）
-* LS：语言服务器（Language Server）
-* LSA：本地安全机构（Local Security Authority）；远程本地服务协议（Local Service Agreement for Remote Access）
-* LSASS：本地安全机构子系统服务（Local Security Authority Subsystem Service）
-* LSB：最低有效位（Least Significant Bit）
-* LSDB：链路状态数据库（Link-State Database）
-* LSM：Linux安全模块（Linux Security Module）
-* LSN：日志序列号（Log Sequence Number）
-* LSP：MPLS标签交换路径（Label Switched Path）；语言服务器协议（Language Server Protocol）
-* LSPP：标记安全保护轮廓（Labeled Security Protection Profile）
-* LSR：MPLS标签交换路由器（Label Switch Router）
-* LSTM：长短期记忆（Long Short-Term Memory）
-* LSW：阿里云综合接入交换机（integrated access SWitch,原LVS SWitch）
-* LTE：通用移动通信系统长期演进（UMTS Long Term Evolution）
-* LTK：长期密钥（Long-Term Key）
-* LTKUP：长期密钥更新程序（Long Term Key Update Procedures）
-* LTM：本地流量管理器（Local Traffic Manager）
-* LTO：链接时优化（Link Time Optimization）
-* LTS：长期支持（Long-Term Support）
-* LUA：最小权限用户账户（Least-privileged User Account）
-* LUOV：UOV提升架构（Lifted Unbalanced Oil and Vinegar cryptosystem）
-* LVC：实时虚拟构造性（Live Virtual Constructive）
-* LVS：LVS负载均衡器（Linux Virtual Server）
-* LWE：带误差的学习（Learning With Errors）
-* LWR：带舍入学习问题（Learning With Rounding）
+* <a id="l2cap"></a>L2CAP：逻辑链路控制和适配协议（Logical Link Control & Adaptation Protocol）
+* <a id="l2tp"></a>L2TP：二层隧道协议（Layer 2 Tunneling Protocol）
+* <a id="la"></a>LA：限定可用（Limited Availability）
+* <a id="lac"></a>LAC：L2TP访问集中器（L2TP Access Concentrator）；位置区码（Location Area Code）；中文词法分析（Lexical Analysis of Chinese）
+* <a id="lac-c5"></a>LaC：基础设施即代码（Infrastructure as Code）
+* <a id="lacp"></a>LACP：链路聚合控制协议（Link Aggregation Control Protocol）
+* <a id="lads"></a>LADS：利用模拟域实现安全性（Leveraging the Analog Domain for Security）
+* <a id="lag"></a>LAG：链路聚合组（Link Aggregation Group）
+* <a id="lamda-c1d"></a>LaMDA：LaMDA模型（Language Models for Dialog Applications）
+* <a id="lamp"></a>LAMP：Linux＋Apache＋MySQL＋PHP（Linux＋Apache＋MySQL＋PHP）
+* <a id="lan"></a>LAN：局域网（Local Area Network）
+* <a id="lanl"></a>LANL：美国洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）
+* <a id="laps"></a>LAPS：Windows LAPS密码管理工具（Local Administrator Password Solution）
+* <a id="las"></a>LAS：日志审计系统（Log Auditing System）
+* <a id="lb"></a>LB：负载均衡（Load Balance）
+* <a id="lbc"></a>LBC：LBRY平台币（LBRY credit）
+* <a id="lbry"></a>LBRY：LBRY去中心化平台（library）
+* <a id="lbs"></a>LBS：基于位置的服务（Location-Based Service）
+* <a id="lbsa"></a>LBSA：基于实验室的安全评估（Lab-Based Security Assessment）
+* <a id="lca"></a>LCA：最低共同祖先（Lowest Common Ancestor）；生命周期分析（Life Cycle Assessment）
+* <a id="lcc"></a>LCC：本地计算集群（Local Compute Cluster）
+* <a id="lcesa"></a>LCESA：伦敦通信电子安全局（London Communications-Electronic Security Agency）
+* <a id="lcg"></a>LCG：线性同余方法（Linear Congruential Generator）
+* <a id="lch"></a>LCH：Windows轻量级调用处理器（Lightweight Call Handlers）
+* <a id="lcp"></a>LCP：链路控制协议（Link Control Protocol）；发射控制策略（Launch Control Policy）
+* <a id="lcsa"></a>LCSA：伦敦通信安全局（London Communications Security Agency）
+* <a id="ldap"></a>LDAP：轻型目录访问协议（Lightweight Directory Access Protocol）
+* <a id="ldc"></a>LDC：逻辑数据中心（Logical Data Center）
+* <a id="lddt"></a>LDDT：逻辑数据库设计技术（Logical Database Design Technique）
+* <a id="ldm"></a>LDM：Lanelet2数字地图（Lanelet2 Digital Map）
+* <a id="lds"></a>LDS：轻量域服务（Lightweight Domain Service）
+* <a id="ldt"></a>LDT：本地描述符表（Local Descriptor Table）
+* <a id="ldtr"></a>LDTR：本地描述符表寄存器（Local Descriptor Table Register）
+* <a id="le"></a>LE：执法（Law Enforcement）；低功耗（Low Energy）
+* <a id="le-x2fci"></a>LE/CI：执法与反情报（Law Enforcement & Counterintelligence）
+* <a id="lea"></a>LEA：执法机构（Law Enforcement Agency）
+* <a id="leaf"></a>LEAF：执法访问区段（Law Enforcement Access Field）
+* <a id="leap"></a>LEAP：轻量级可扩展认证协议（Lightweight Extensible Authentication Protocol）
+* <a id="leef"></a>LEEF：日志事件扩展格式（Log Event Extended Format）
+* <a id="leo"></a>LEO：低地球轨道（Low Earth Orbit）
+* <a id="ler"></a>LER：MPLS标签边缘路由器（Label Edge Router）
+* <a id="lfa"></a>LFA：无环备选通道（Loop Free Alternate）
+* <a id="lfi"></a>LFI：本地文件包含（Local File Inclusion）
+* <a id="lfsr"></a>LFSR：线性反馈移位寄存器（Linear Feedback Shift Register）
+* <a id="lft"></a>LFT：环形容错协议（Loop Fault Tolerance）
+* <a id="lh"></a>LH：六合赌博（拼音：Liu He）
+* <a id="lid"></a>LID：基于日志的入侵检测（Log based Intrusion Detection）
+* <a id="lidar-c1d"></a>LiDAR：激光雷达（Light Detection and Ranging）
+* <a id="lima"></a>LIMA：浅层对齐假说（Less Is More for Alignment）
+* <a id="lime"></a>LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
+* <a id="lin"></a>LIN：局域网互联网络（Local Interconnect Network）
+* <a id="linddun"></a>LINDDUN：可关联、可识别、不可否认、可检测、信息泄露、未察觉、不合规隐私威胁模型（Linkability, Identifiability, Non-repudiation, Detectability, Disclosure of information, Unawareness, Non-compliance）
+* <a id="lis"></a>LIS：实验室信息管理系统（Laboratory Information Management System）
+* <a id="lkm"></a>LKM：Linux内核模块（Linux Kernel Module）；可加载内核模块（Loadable Kernel Module）
+* <a id="llb"></a>LLB：链路负载均衡（Link Load Balancing）
+* <a id="llc"></a>LLC：逻辑链路控制（Logical Link Control）
+* <a id="lldp"></a>LLDP：链路层发现协议（Link Layer Discovery Protocol）
+* <a id="llm"></a>LLM：大规模语言模型（Large Language Model）
+* <a id="llmnr"></a>LLMNR：本地链路多播名称解析（Link-Local Multicast Name Resolution）
+* <a id="llp"></a>LLP：链路层协议（Link Layer Protocol）
+* <a id="llvm"></a>LLVM：LLVM编译器（Low Level Virtual Machine）
+* <a id="lmmp"></a>LMMP：局域网/广域网管理协议（LAN/MAN Management Protocol）
+* <a id="lms"></a>LMS：学习管理系统（Learning Management System）；许可证管理系统（License Management System）
+* <a id="lnk"></a>LNK：Windows快捷方式文件格式（Link）
+* <a id="lns"></a>LNS：L2TP网络服务器（L2TP Network Server）
+* <a id="loa"></a>LOA：确保级（Level of Assurance）
+* <a id="loc-c5"></a>LoC：实质性失控率（Loss of Control）
+* <a id="loco"></a>LOCO：留一队列或中心（Leave-One-Cohort/Center-Out）
+* <a id="lod"></a>LOD：链接开放数据（Linked Open Data）
+* <a id="lodo"></a>LODO：留一数据集（Leave-One-Dataset-Out）
+* <a id="loe"></a>LOE：工作量级别（Level of Effort）
+* <a id="lof"></a>LOF：局部离群因子（Local Outlier Factor）
+* <a id="logiic"></a>LOGIIC：链接石油天然气行业以提升网络安全（Linking the Oil and Gas Industry to Improve Cybersecurity）
+* <a id="loic"></a>LOIC：“低轨道离子炮”网络压测工具（Low Orbit Ion Cannon）
+* <a id="lol"></a>LOL：离地工具（Living Off The Land）
+* <a id="lolbas"></a>LOLBAS：离地攻击二进制与脚本（Living Off the Land Binaries And Scripts）
+* <a id="lolbins-cf"></a>LOLBins：离地攻击二进制（Living Off the Land Binaries）
+* <a id="loldriver-cf"></a>LOLDriver：离地驱动程序（Living Off The Land Driver）
+* <a id="lop"></a>LOP：局部作战图（Local Operational Picture）
+* <a id="lora-c5"></a>LoRa：远距离无线电（Long Range Radio）
+* <a id="lora-cd"></a>LoRA：低秩适应微调技术（Low-Rank Adaptation）
+* <a id="los"></a>LOS：视线传播（Line-Of-Sight propagation）
+* <a id="loso"></a>LOSO：留一受试者（Leave-One-Subject-Out）
+* <a id="lotl-c9"></a>LotL：离地攻击（Living off the Land）
+* <a id="lpa"></a>LPA：本地个人资料助手（Local Profile Assistant）；有限规划准确率，GuardAgent评测指标（Limited-Plan Accuracy）
+* <a id="lpae-c7"></a>LPAe：嵌入式UICC中的本地个人资料助手（Local Profile Assistant in the eUICC）
+* <a id="lpar"></a>LPAR：逻辑分区（Logical Partition）
+* <a id="lpc"></a>LPC：LPC总线类型（Low Pin Count）；本地进程间通信（Local Inter-Process Communication）
+* <a id="lpe"></a>LPE：本地提权（Local Privilege Escalation）
+* <a id="lpp"></a>LPP：轻量级表示协议（Lightweight Presentation Protocol）
+* <a id="lqr"></a>LQR：线性二次调节器（Linear Quadratic Regulator）
+* <a id="lra"></a>LRA：逻辑响应孔径"项目（Logical Response Aperture）
+* <a id="lrc"></a>LRC：线性责任图（Linear Responsibility Chart）
+* <a id="ls"></a>LS：语言服务器（Language Server）
+* <a id="lsa"></a>LSA：本地安全机构（Local Security Authority）；远程本地服务协议（Local Service Agreement for Remote Access）
+* <a id="lsass"></a>LSASS：本地安全机构子系统服务（Local Security Authority Subsystem Service）
+* <a id="lsb"></a>LSB：最低有效位（Least Significant Bit）
+* <a id="lsdb"></a>LSDB：链路状态数据库（Link-State Database）
+* <a id="lsm"></a>LSM：Linux安全模块（Linux Security Module）
+* <a id="lsn"></a>LSN：日志序列号（Log Sequence Number）
+* <a id="lsp"></a>LSP：MPLS标签交换路径（Label Switched Path）；语言服务器协议（Language Server Protocol）
+* <a id="lspp"></a>LSPP：标记安全保护轮廓（Labeled Security Protection Profile）
+* <a id="lsr"></a>LSR：MPLS标签交换路由器（Label Switch Router）
+* <a id="lstm"></a>LSTM：长短期记忆（Long Short-Term Memory）
+* <a id="lsw"></a>LSW：阿里云综合接入交换机（integrated access SWitch,原LVS SWitch）
+* <a id="lte"></a>LTE：通用移动通信系统长期演进（UMTS Long Term Evolution）
+* <a id="ltk"></a>LTK：长期密钥（Long-Term Key）
+* <a id="ltkup"></a>LTKUP：长期密钥更新程序（Long Term Key Update Procedures）
+* <a id="ltm"></a>LTM：本地流量管理器（Local Traffic Manager）
+* <a id="lto"></a>LTO：链接时优化（Link Time Optimization）
+* <a id="lts"></a>LTS：长期支持（Long-Term Support）
+* <a id="lua"></a>LUA：最小权限用户账户（Least-privileged User Account）
+* <a id="luov"></a>LUOV：UOV提升架构（Lifted Unbalanced Oil and Vinegar cryptosystem）
+* <a id="lvc"></a>LVC：实时虚拟构造性（Live Virtual Constructive）
+* <a id="lvs"></a>LVS：LVS负载均衡器（Linux Virtual Server）
+* <a id="lwe"></a>LWE：带误差的学习（Learning With Errors）
+* <a id="lwr"></a>LWR：带舍入学习问题（Learning With Rounding）
