@@ -3,6 +3,7 @@
 * C&A：认证认可（Certification & Accreditation）
 * C&C：指挥和控制（Command & Control）；编码和密码（Code & Cypher）
 * C&S：控制和状态（Control & Status）
+* C&W：卡林尼-瓦格纳攻击（Carlini-Wagner Attack）
 * C-CCSK：中国区云计算安全知识认证（China - Certificate of Cloud Security Knowledge）
 * C-CCSSP：中国区国际注册云安全系统认证专家（China - Certified Cloud Security Systems Professional）
 * C-OPE：网络空间行动环境准备（Cyberspace Operational Preparation of Environment）

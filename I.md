@@ -95,6 +95,7 @@
 * IDEF1X：IDEF信息建模语言（Integration Definition for information modeling）
 * IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
 * IDL：接口描述语言（Interface description language）
+* iDLG：改进的深度泄漏梯度（Improved Deep Leakage from Gradients）
 * IdM：身份管理（Identity Management）
 * IDM：内部防御性措施（Internal Defensive Measure）
 * IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）

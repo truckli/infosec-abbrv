@@ -276,6 +276,7 @@
 * ATH：高级威胁狩猎系统（Advanced Threat Hunting）
 * ATIM：通告流量标示消息（Announcement Traffic Indication Message）
 * ATL：攻击威胁级别（Attack Threat Level）；ATLAS转换语言（ATLAS Transformation Language）
+* ATLAS：对抗性机器学习威胁矩阵（Adversarial Machine Learning Threat Matrix）
 * ATM：异步传输模式（Asynchronous Transfer Mode）；自动取款机（Automated Teller Machine）；攻击威胁监控（Attack Threat Monitoring）
 * ATO：授权运营（Authorization To Operate）；美国空中运输组织（Air Traffic Organization）；空军任务条令（Air Tasking Order）
 * ATOS：活动层对象存储（Active Tier on Object Storage）

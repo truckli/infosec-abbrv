@@ -112,6 +112,7 @@
 * PFS：完美前向保密（Perfect Forward Secrecy）；百度并行文件系统服务（Parallel Filesystem Service）
 * PFX：PKCS12#文件格式（Personal Exchange Format）
 * PG：Ceph放置组（Placement Group）
+* PGD：投影梯度下降（Projected Gradient Descent）
 * PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
 * PGT：代理授权票据（Proxy Granting Ticket）
 * PGW：分组数据网络网关（PDN GateWay）

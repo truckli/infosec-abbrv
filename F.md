@@ -49,6 +49,7 @@
 * FFN：前馈神经网络（Feed-Forward Networks）
 * FFRDC：美国联资研发中心（Federally Funded Research & Development Center）
 * FGS：火和燃气系统（Fire & Gas Systems）
+* FGSM：快速梯度符号法（Fast Gradient Sign Method）
 * FHE：全同态加密（Fully Homomorphic Encryption）
 * FHMQV：全哈希MQV协议（Fully Hashed Menezes-Qu-Vanstone）
 * FHSS：跳频扩频（Frequency Hopping Spread Spectrum）

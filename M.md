@@ -89,6 +89,7 @@
 * MI：美国军事情报部队（Military Intelligence）；管理信息（Management Information）；任务影响（Mission Impact）
 * MI5：英国军情五局（Military Intelligence, Section 5）
 * MI6：英国军情六局（Military Intelligence, Section 6）
+* MIA：成员推断攻击（Membership Inference Attack）
 * MIB：管理信息库（Management Information Base）
 * MIC：强制完整性控制（Mandatory Integrity Control）；消息完整性检查（Message Integrity Check）；消息完整性码（Message Integrity Code）
 * MICE：金钱、主义、胁迫、自我等动机（Money, Ideology, Coercion & Ego）

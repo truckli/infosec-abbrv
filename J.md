@@ -59,6 +59,7 @@
 * JS：JavaScript（JavaScript）
 * JSA：Juniper安全分析（Juniper Secure Analytics）；JavaScript安全分析（JavaScript Security Analytics）
 * JSC：联合频谱中心（Joint Spectrum Center）
+* JSMA：基于雅可比显著图的攻击（Jacobian-based Saliency Map Attack）
 * JSON：JavaScript对象标记语言（JavaScript Object Notation）
 * JSONL：每行一条 JSON 记录的行式日志格式（JSON Lines）
 * JSRC：京东安全应急响应中心（JD Security Response Center）

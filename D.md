@@ -182,6 +182,7 @@
 * DKMS：去中心化密钥管理系统（Decentralized Key Management System）
 * DL：深度学习（Deep Learning）
 * DLA：美国国防物流局（Defense Logistics Agency）
+* DLG：深度泄漏梯度（Deep Leakage from Gradients）
 * DLin：判定线性假设（Decisional Linear Assumption）
 * DLL：动态链接库（Dynamic-Link library）
 * DLP：数据泄露预防（Data Leakage Prevention）；数据防泄漏（Data Loss Prevention）

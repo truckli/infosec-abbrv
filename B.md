@@ -52,6 +52,7 @@
 * BIA：业务影响分析（Business Impact Analysis）
 * BIKE：比特翻转密钥封装（Bit-flipping Key Encapsulation）
 * BiLSTM：双向长短时记忆网络（BiDirectional LSTM）
+* BIM：基本迭代法（Basic Iterative Method）
 * BIOS：基本输入输出系统（Basic Input Output System）
 * BIS：美国工业与安全局（Bureau of Industry and Security）
 * BITS：后台智能传输服务（Background Intelligent Transfer Service）；业务信息安全（Business Information Technology Security）
