@@ -27,6 +27,7 @@
 * GCC：GNU编译器套件（GNU Compiler Collection）；政府协调委员会（Government Coordinating Council）
 * GCCP：企业安全建设实践群峰会（the Group of Cybersecurity Construction Practice summit）
 * GCCS：全球指挥控制系统（Global Command & Control System）
+* GCG：贪心坐标梯度攻击（Greedy Coordinate Gradient）
 * GCHQ：英国政府通信总部（Government Communications Head Quarters）
 * GCIP：GIAC关键基础设施保护（GIAC Critical Infrastructure Protection）
 * GCKMS：谷歌云原生密钥管理服务（Google Cloud Key Management Service）
