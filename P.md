@@ -124,7 +124,7 @@
 * <a id="php"></a>PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
 * <a id="phy"></a>PHY：物理层（Physical Layer）
 * <a id="pi"></a>PI：个人信息（Personal Information）；流程信息（Process Information）
-* <a id="pia"></a>PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）
+* <a id="pia"></a>PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）；属性推断攻击（Property Inference Attack）
 * <a id="piab"></a>PIAB：总统情报咨询委员会（President's Intelligence Advisory Board）
 * <a id="pic"></a>PIC：位置独立代码（Position Independent Code）
 * <a id="picerl"></a>PICERL：准备、识别、控制、根除、恢复、教训（Prepare, Identify, Contain, Eradicate, Recover, Lessons Learned）

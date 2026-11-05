@@ -64,7 +64,7 @@
 * <a id="mds"></a>MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
 * <a id="mdt"></a>MDT：任务防御部队（Mission Defense Team）
 * <a id="me"></a>ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
-* <a id="mea"></a>MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）
+* <a id="mea"></a>MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）；模型提取攻击（Model Extraction Attack）
 * <a id="mec"></a>MEC：移动边缘计算（Mobile Edge Computing）
 * <a id="mece"></a>MECE：无重复无遗漏法则（Mutually Exclusive Collectively Exhaustive）
 * <a id="mecr"></a>MECR：多边出口控制机制（Multilateral Export Control Regime）

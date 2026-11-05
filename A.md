@@ -170,7 +170,7 @@
 * <a id="amf"></a>AMF：接入移动性管理网元（Access & Mobility Management Function）
 * <a id="amids"></a>AMIDS：审计监控和入侵检测系统（Audit Monitoring & Intrusion Detection System）
 * <a id="amitt"></a>AMITT：对手虚假信息与影响战技术框架（Adversarial Misinformation and Influence Tactics & Techniques）
-* <a id="aml"></a>AML：反洗钱（Anti-Money Laundering）
+* <a id="aml"></a>AML：反洗钱（Anti-Money Laundering）；对抗性机器学习（Adversarial Machine Learning）
 * <a id="amp"></a>AMP：备用MAC/PHY（Alternate MAC/PHY）；DARPA可靠微补丁项目（Assured Micropatching）；高级恶意软件保护（Advanced Malware Protection）
 * <a id="amqp"></a>AMQP：高级消息队列协议（Advanced Message Queuing Protocol）
 * <a id="amsi"></a>AMSI：反恶意软件扫描接口（Anti-Malware Scan Interface）
