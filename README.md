@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4950**条，词组**6218**条。 
+当前收录缩略词形**4956**条，词组**6227**条。 
 
 ## 参考链接
 
@@ -82,14 +82,14 @@
 [BFD](B.md#bfd) [BFE](B.md#bfe) [BFS](B.md#bfs) [BFT](B.md#bft) [BGAN](B.md#bgan) [BGP](B.md#bgp) [BH](B.md#bh) [BHO](B.md#bho)
 [BI](B.md#bi) [BIA](B.md#bia) [BIKE](B.md#bike) [BiLSTM](B.md#bilstm-c3d) [BIM](B.md#bim) [BIOS](B.md#bios) [BIS](B.md#bis) [BITS](B.md#bits)
 [BLAS](B.md#blas) [BLB](B.md#blb) [BLE](B.md#ble) [BLF](B.md#blf) [BLL](B.md#bll) [BLOB](B.md#blob) [BLP](B.md#blp) [BLS](B.md#bls)
-[BM25](B.md#bm25) [BMC](B.md#bmc) [BME](B.md#bme) [BMG](B.md#bmg) [BMIS](B.md#bmis) [BMS](B.md#bms) [BNB](B.md#bnb) [BND](B.md#bnd)
-[BNPL](B.md#bnpl) [BOA](B.md#boa) [BOD](B.md#bod) [BoF](B.md#bof-c5) [BOLA](B.md#bola) [BOM](B.md#bom) [BOS](B.md#bos) [BOSS](B.md#boss)
-[Botnet](B.md#botnet-c1) [BP](B.md#bp) [BP16](B.md#bp16) [BPC](B.md#bpc) [BPCS](B.md#bpcs) [BPD](B.md#bpd) [BPDU](B.md#bpdu) [BPE](B.md#bpe)
-[BPF](B.md#bpf) [BPGL](B.md#bpgl) [BPM](B.md#bpm) [BPMN](B.md#bpmn) [BPR](B.md#bpr) [BPS](B.md#bps) [BR](B.md#br) [BRA](B.md#bra)
-[BSC](B.md#bsc) [BSD](B.md#bsd) [BSG](B.md#bsg) [BSI](B.md#bsi) [BSIMM](B.md#bsimm) [BSoD](B.md#bsod-cb) [BSP](B.md#bsp) [BSRC](B.md#bsrc)
-[BSS](B.md#bss) [BSSID](B.md#bssid) [BSSN](B.md#bssn) [BST](B.md#bst) [BTC](B.md#btc) [BTI](B.md#bti) [BTP](B.md#btp) [BTS](B.md#bts)
-[BUM](B.md#bum) [BUP](B.md#bup) [BUSL](B.md#busl) [BVS](B.md#bvs) [BX](B.md#bx) [BYOAI](B.md#byoai) [BYOD](B.md#byod) [BYOE](B.md#byoe)
-[BYOI](B.md#byoi) [BYOVD](B.md#byovd)
+[BM25](B.md#bm25) [BMC](B.md#bmc) [BME](B.md#bme) [BMG](B.md#bmg) [BMIS](B.md#bmis) [BMS](B.md#bms) [BN](B.md#bn) [BNB](B.md#bnb)
+[BND](B.md#bnd) [BNPL](B.md#bnpl) [BOA](B.md#boa) [BOD](B.md#bod) [BoF](B.md#bof-c5) [BOLA](B.md#bola) [BOM](B.md#bom) [BOS](B.md#bos)
+[BOSS](B.md#boss) [Botnet](B.md#botnet-c1) [BP](B.md#bp) [BP16](B.md#bp16) [BPC](B.md#bpc) [BPCS](B.md#bpcs) [BPD](B.md#bpd) [BPDU](B.md#bpdu)
+[BPE](B.md#bpe) [BPF](B.md#bpf) [BPGL](B.md#bpgl) [BPM](B.md#bpm) [BPMN](B.md#bpmn) [BPR](B.md#bpr) [BPS](B.md#bps) [BR](B.md#br)
+[BRA](B.md#bra) [BSC](B.md#bsc) [BSD](B.md#bsd) [BSG](B.md#bsg) [BSI](B.md#bsi) [BSIMM](B.md#bsimm) [BSoD](B.md#bsod-cb) [BSP](B.md#bsp)
+[BSRC](B.md#bsrc) [BSS](B.md#bss) [BSSID](B.md#bssid) [BSSN](B.md#bssn) [BST](B.md#bst) [BTC](B.md#btc) [BTI](B.md#bti) [BTP](B.md#btp)
+[BTS](B.md#bts) [BUM](B.md#bum) [BUP](B.md#bup) [BUSL](B.md#busl) [BVS](B.md#bvs) [BX](B.md#bx) [BYOAI](B.md#byoai) [BYOD](B.md#byod)
+[BYOE](B.md#byoe) [BYOI](B.md#byoi) [BYOVD](B.md#byovd)
 
 ### C
 
@@ -235,22 +235,22 @@
 [EI](E.md#ei) [EIA](E.md#eia) [EIAM](E.md#eiam) [EIEMA](E.md#eiema) [EIF](E.md#eif) [EIG](E.md#eig) [EIGRP](E.md#eigrp) [EILP](E.md#eilp)
 [eIM](E.md#eim-c6) [EIP](E.md#eip) [EIR](E.md#eir) [EIS](E.md#eis) [EISA](E.md#eisa) [EITDR](E.md#eitdr) [EK](E.md#ek) [EKE](E.md#eke)
 [EKM](E.md#ekm) [EKS](E.md#eks) [EKU](E.md#eku) [eKYC](E.md#ekyc-ce) [EL](E.md#el) [ELAM](E.md#elam) [ELD](E.md#eld) [ELF](E.md#elf)
-[ELINT](E.md#elint) [ELK](E.md#elk) [ELMo](E.md#elmo-c7) [EM](E.md#em) [eMASS](E.md#emass-c1e) [EMB](E.md#emb) [eMBB](E.md#embb-ce) [EMBS](E.md#embs)
-[EMC](E.md#emc) [EMET](E.md#emet) [EMI](E.md#emi) [EML](E.md#eml) [EMM](E.md#emm) [EMNLP](E.md#emnlp) [EMP](E.md#emp) [EMR](E.md#emr)
-[EMS](E.md#ems) [EMSK](E.md#emsk) [EMSW](E.md#emsw) [EMTD](E.md#emtd) [EN](E.md#en) [eNB](E.md#enb-c6) [ENI](E.md#eni) [ENISA](E.md#enisa)
-[eNodeB](E.md#enodeb-c22) [ENT](E.md#ent) [EO](E.md#eo) [EO/IR](E.md#eo-x2fir) [EOAM](E.md#eoam) [EOC](E.md#eoc) [EOL](E.md#eol) [EOP](E.md#eop)
-[EOS](E.md#eos) [EP](E.md#ep) [EPA](E.md#epa) [EPC](E.md#epc) [ePDG](E.md#epdg-ce) [ePHI](E.md#ephi-ce) [EPM](E.md#epm) [EPO](E.md#epo)
-[EPP](E.md#epp) [ePR](E.md#epr-c6) [EPRI](E.md#epri) [EPS](E.md#eps) [EPSS](E.md#epss) [EPT](E.md#ept) [EQ](E.md#eq) [EQU](E.md#equ)
-[ER](E.md#er) [ER&A](E.md#er-x26a) [ERC](E.md#erc) [ERD](E.md#erd) [ERM](E.md#erm) [ERP](E.md#erp) [ERPS](E.md#erps) [ERR](E.md#err)
-[ERT](E.md#ert) [ES](E.md#es) [ESA](E.md#esa) [ESAM](E.md#esam) [ESB](E.md#esb) [ESC](E.md#esc) [ESC1](E.md#esc1) [ESC2](E.md#esc2)
-[ESC3](E.md#esc3) [ESC4](E.md#esc4) [ESC5](E.md#esc5) [ESC6](E.md#esc6) [ESC7](E.md#esc7) [ESC8](E.md#esc8) [ESCC](E.md#escc) [eSCO](E.md#esco-ce)
-[ESD](E.md#esd) [ESE](E.md#ese) [ESF](E.md#esf) [ESG](E.md#esg) [ESI](E.md#esi) [eSIM](E.md#esim-ce) [ESM](E.md#esm) [ESNI](E.md#esni)
-[ESO](E.md#eso) [ESOP](E.md#esop) [ESORICS](E.md#esorics) [ESP](E.md#esp) [ESP-L](E.md#esp-x2dl) [ESPC](E.md#espc) [ESS](E.md#ess) [ESSA](E.md#essa)
-[EST](E.md#est) [eSVN](E.md#esvn-ce) [ETA](E.md#eta) [ETAPWG](E.md#etapwg) [ETC](E.md#etc) [ETH](E.md#eth) [ETI](E.md#eti) [ETL](E.md#etl)
-[EtM](E.md#etm-c5) [ETSI](E.md#etsi) [ETW](E.md#etw) [EU](E.md#eu) [EUE](E.md#eue) [EUF-CMA](E.md#euf-x2dcma) [EUI](E.md#eui) [eUICC](E.md#euicc-c1e)
-[EUP](E.md#eup) [EUV](E.md#euv) [EUVL](E.md#euvl) [EV](E.md#ev) [EvDO](E.md#evdo-cd) [EVI](E.md#evi) [EVP](E.md#evp) [EVPN](E.md#evpn)
-[eVRF](E.md#evrf-ce) [EW](E.md#ew) [EWMA](E.md#ewma) [EWS](E.md#ews) [EWSN](E.md#ewsn) [EX](E.md#ex) [EXIN](E.md#exin) [EXORD](E.md#exord)
-[EXP](E.md#exp) [EXT](E.md#ext)
+[ELINT](E.md#elint) [ELK](E.md#elk) [ELMo](E.md#elmo-c7) [EM](E.md#em) [EMA](E.md#ema) [eMASS](E.md#emass-c1e) [EMB](E.md#emb) [eMBB](E.md#embb-ce)
+[EMBS](E.md#embs) [EMC](E.md#emc) [EMET](E.md#emet) [EMI](E.md#emi) [EML](E.md#eml) [EMM](E.md#emm) [EMNLP](E.md#emnlp) [EMP](E.md#emp)
+[EMR](E.md#emr) [EMS](E.md#ems) [EMSK](E.md#emsk) [EMSW](E.md#emsw) [EMTD](E.md#emtd) [EN](E.md#en) [eNB](E.md#enb-c6) [ENI](E.md#eni)
+[ENISA](E.md#enisa) [eNodeB](E.md#enodeb-c22) [ENT](E.md#ent) [EO](E.md#eo) [EO/IR](E.md#eo-x2fir) [EOAM](E.md#eoam) [EOC](E.md#eoc) [EOL](E.md#eol)
+[EOP](E.md#eop) [EOS](E.md#eos) [EP](E.md#ep) [EPA](E.md#epa) [EPC](E.md#epc) [ePDG](E.md#epdg-ce) [ePHI](E.md#ephi-ce) [EPM](E.md#epm)
+[EPO](E.md#epo) [EPP](E.md#epp) [ePR](E.md#epr-c6) [EPRI](E.md#epri) [EPS](E.md#eps) [EPSS](E.md#epss) [EPT](E.md#ept) [EQ](E.md#eq)
+[EQU](E.md#equ) [ER](E.md#er) [ER&A](E.md#er-x26a) [ERC](E.md#erc) [ERD](E.md#erd) [ERM](E.md#erm) [ERP](E.md#erp) [ERPS](E.md#erps)
+[ERR](E.md#err) [ERT](E.md#ert) [ES](E.md#es) [ESA](E.md#esa) [ESAM](E.md#esam) [ESB](E.md#esb) [ESC](E.md#esc) [ESC1](E.md#esc1)
+[ESC2](E.md#esc2) [ESC3](E.md#esc3) [ESC4](E.md#esc4) [ESC5](E.md#esc5) [ESC6](E.md#esc6) [ESC7](E.md#esc7) [ESC8](E.md#esc8) [ESCC](E.md#escc)
+[eSCO](E.md#esco-ce) [ESD](E.md#esd) [ESE](E.md#ese) [ESF](E.md#esf) [ESG](E.md#esg) [ESI](E.md#esi) [eSIM](E.md#esim-ce) [ESM](E.md#esm)
+[ESNI](E.md#esni) [ESO](E.md#eso) [ESOP](E.md#esop) [ESORICS](E.md#esorics) [ESP](E.md#esp) [ESP-L](E.md#esp-x2dl) [ESPC](E.md#espc) [ESS](E.md#ess)
+[ESSA](E.md#essa) [EST](E.md#est) [eSVN](E.md#esvn-ce) [ETA](E.md#eta) [ETAPWG](E.md#etapwg) [ETC](E.md#etc) [ETH](E.md#eth) [ETI](E.md#eti)
+[ETL](E.md#etl) [EtM](E.md#etm-c5) [ETSI](E.md#etsi) [ETW](E.md#etw) [EU](E.md#eu) [EUE](E.md#eue) [EUF-CMA](E.md#euf-x2dcma) [EUI](E.md#eui)
+[eUICC](E.md#euicc-c1e) [EUP](E.md#eup) [EUV](E.md#euv) [EUVL](E.md#euvl) [EV](E.md#ev) [EvDO](E.md#evdo-cd) [EVI](E.md#evi) [EVP](E.md#evp)
+[EVPN](E.md#evpn) [eVRF](E.md#evrf-ce) [EW](E.md#ew) [EWMA](E.md#ewma) [EWS](E.md#ews) [EWSN](E.md#ewsn) [EX](E.md#ex) [EXIN](E.md#exin)
+[EXORD](E.md#exord) [EXP](E.md#exp) [EXT](E.md#ext)
 
 ### F
 
@@ -660,7 +660,7 @@
 [TT](T.md#tt) [TT&C](T.md#tt-x26c) [TTA](T.md#tta) [TTC](T.md#ttc) [TTD](T.md#ttd) [TTE](T.md#tte) [TTFB](T.md#ttfb) [TTFP](T.md#ttfp)
 [TTFT](T.md#ttft) [TTI](T.md#tti) [TTL](T.md#ttl) [TTLB](T.md#ttlb) [TTLS](T.md#ttls) [TTM](T.md#ttm) [TTP](T.md#ttp) [TTR](T.md#ttr)
 [TTS](T.md#tts) [TTV](T.md#ttv) [TTX](T.md#ttx) [TUP](T.md#tup) [TURN](T.md#turn) [TVF](T.md#tvf) [TVM](T.md#tvm) [TwC](T.md#twc-c5)
-[TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
+[TWN](T.md#twn) [TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
 
 ### U
 
@@ -693,12 +693,12 @@
 [vLB](V.md#vlb-c6) [VLB](V.md#vlb) [VLIW](V.md#vliw) [VLM](V.md#vlm) [VLR](V.md#vlr) [VLTi](V.md#vlti-c7) [VM](V.md#vm) [VMID](V.md#vmid)
 [VMM](V.md#vmm) [VMP](V.md#vmp) [VMS](V.md#vms) [VMT](V.md#vmt) [VMX](V.md#vmx) [VNC](V.md#vnc) [VNF](V.md#vnf) [vNGFW](V.md#vngfw-c1e)
 [VNI](V.md#vni) [vNIC](V.md#vnic-ce) [VOC](V.md#voc) [VOI](V.md#voi) [VoIP](V.md#voip-cd) [VOLE](V.md#vole) [VoLTE](V.md#volte-c1d) [VP](V.md#vp)
-[VPAM](V.md#vpam) [VPC](V.md#vpc) [vPE](V.md#vpe-c6) [VPLS](V.md#vpls) [VPN](V.md#vpn) [VPR](V.md#vpr) [VPT](V.md#vpt) [VQA](V.md#vqa)
-[VQL](V.md#vql) [vR](V.md#vr-c2) [VR](V.md#vr) [vRA](V.md#vra-c6) [vRB](V.md#vrb-c6) [VRF](V.md#vrf) [vRLI](V.md#vrli-ce) [VRM](V.md#vrm)
-[vRO](V.md#vro-c6) [vROPS](V.md#vrops-c1e) [VRP](V.md#vrp) [VRRP](V.md#vrrp) [VRS](V.md#vrs) [VSAM](V.md#vsam) [VSAN](V.md#vsan) [VSI](V.md#vsi)
-[VSM](V.md#vsm) [VSOC](V.md#vsoc) [VSR](V.md#vsr) [VSRC](V.md#vsrc) [VSS](V.md#vss) [VT](V.md#vt) [VT-x](V.md#vt-x2dx-c3) [VTEP](V.md#vtep)
-[VTI](V.md#vti) [VTS](V.md#vts) [VTV](V.md#vtv) [VUM](V.md#vum) [VVD](V.md#vvd) [vWOC](V.md#vwoc-ce) [VX](V.md#vx) [VXEdDSA](V.md#vxeddsa-c77)
-[VXLAN](V.md#vxlan)
+[VPAM](V.md#vpam) [VPC](V.md#vpc) [vPE](V.md#vpe-c6) [VPLS](V.md#vpls) [VPN](V.md#vpn) [VPR](V.md#vpr) [VPT](V.md#vpt) [VQ](V.md#vq)
+[VQ-VAE](V.md#vq-x2dvae) [VQA](V.md#vqa) [VQGAN](V.md#vqgan) [VQL](V.md#vql) [vR](V.md#vr-c2) [VR](V.md#vr) [vRA](V.md#vra-c6) [vRB](V.md#vrb-c6)
+[VRF](V.md#vrf) [vRLI](V.md#vrli-ce) [VRM](V.md#vrm) [vRO](V.md#vro-c6) [vROPS](V.md#vrops-c1e) [VRP](V.md#vrp) [VRRP](V.md#vrrp) [VRS](V.md#vrs)
+[VSAM](V.md#vsam) [VSAN](V.md#vsan) [VSI](V.md#vsi) [VSM](V.md#vsm) [VSOC](V.md#vsoc) [VSR](V.md#vsr) [VSRC](V.md#vsrc) [VSS](V.md#vss)
+[VT](V.md#vt) [VT-x](V.md#vt-x2dx-c3) [VTEP](V.md#vtep) [VTI](V.md#vti) [VTS](V.md#vts) [VTV](V.md#vtv) [VUM](V.md#vum) [VVD](V.md#vvd)
+[vWOC](V.md#vwoc-ce) [VX](V.md#vx) [VXEdDSA](V.md#vxeddsa-c77) [VXLAN](V.md#vxlan)
 
 ### W
 

@@ -3,7 +3,7 @@
 * <a id="qa"></a>QA：质量保证（Quality Assurance）
 * <a id="qam"></a>QAM：正交振幅调制（Quadrature Amplitude Modulation）
 * <a id="qar"></a>QAR：快速存取记录器（Quick Access Recorder）
-* <a id="qat"></a>QAT：QuickAssist技术（QuickAssist Technology）
+* <a id="qat"></a>QAT：QuickAssist技术（QuickAssist Technology）；量化感知训练（Quantization-Aware Training）
 * <a id="qax"></a>QAX：奇安信公司（拼音：Qi An Xin）
 * <a id="qb"></a>QB：QuickBox框架（QuickBox）
 * <a id="qc-x2dmdpc"></a>QC-MDPC：准循环中密度奇偶校验（Quasi-Cyclic Moderate Density Parity Check）

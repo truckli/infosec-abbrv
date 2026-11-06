@@ -124,6 +124,7 @@
 * <a id="elk"></a>ELK：ELK工具（Elasticsearch, Logstash & Kibana）
 * <a id="elmo-c7"></a>ELMo：语言模型嵌入技术（Embeddings from Language Models）
 * <a id="em"></a>EM：电磁（Electromagnetic）；暴露面管理（Exposure Management）；EM算法（Expectation–Maximization）
+* <a id="ema"></a>EMA：指数移动平均（Exponential Moving Average）
 * <a id="emass-c1e"></a>eMASS：企业任务保障支持服务（Enterprise Mission Assurance Support Service）
 * <a id="emb"></a>EMB：线控制动（电子机械制动）（Electromechanical Brake by Wire）
 * <a id="embb-ce"></a>eMBB：增强移动宽带（Enhanced Mobile Broadband）

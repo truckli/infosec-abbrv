@@ -405,7 +405,7 @@
 * <a id="ssti"></a>SSTI：服务器端模板注入攻击（Server-Side Template Injection）
 * <a id="sstp"></a>SSTP：安全套接字隧道协议（Secure Socket Tunneling Protocol）
 * <a id="ssvc"></a>SSVC：特定相关者漏洞分类法（Stakeholder-specific Vulnerability Categorization）
-* <a id="st"></a>ST：服务票据（Service Ticket）；安全目标（Security Target）
+* <a id="st"></a>ST：服务票据（Service Ticket）；安全目标（Security Target）；直通（Straight-Through）
 * <a id="st-x26e"></a>ST&E：安全测试与评估（Security Test & Evaluation）
 * <a id="sta"></a>STA：安全目标确保（Security Target Assurance）；生成树算法（Spanning Tree Algorithm）；潜伏威胁探针（Stealth Threat Analysis）；系统威胁评估（System Threat Assessment）；站点（Station）
 * <a id="stac"></a>STAC：顺序工具攻击链（Sequential Tool Attack Chain）
@@ -415,7 +415,7 @@
 * <a id="std"></a>STD：互联网标准（Internet Standard）
 * <a id="stdm"></a>STDM：统计时分多路复用（Statistical Time-Division Multiplexing）
 * <a id="stdv-c9"></a>StdV：DoDAF标准视角（Standards Viewpoint）
-* <a id="ste"></a>STE：安全终端装置（Secure Terminal Equipment）
+* <a id="ste"></a>STE：安全终端装置（Secure Terminal Equipment）；直通估计器（Straight-Through Estimator）
 * <a id="stem"></a>STEM：科学、技术、工程和数学（Science, Technology, Engineering & Math）
 * <a id="stg"></a>STG：STG公司（Symphony Technology Group）
 * <a id="sti"></a>STI：科学技术信息（Scientific & Technical Information）

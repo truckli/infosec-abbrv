@@ -95,7 +95,10 @@
 * <a id="vpn"></a>VPN：虚拟专用网络（Virtual Private Network）
 * <a id="vpr"></a>VPR：漏洞优先级评级（Vulnerability Priority Rating）
 * <a id="vpt"></a>VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
+* <a id="vq"></a>VQ：矢量量化（Vector Quantization）
+* <a id="vq-x2dvae"></a>VQ-VAE：矢量量化变分自编码器（Vector Quantized Variational AutoEncoder）
 * <a id="vqa"></a>VQA：视觉问答（Visual Question & Answering）
+* <a id="vqgan"></a>VQGAN：矢量量化生成对抗网络（Vector Quantized Generative Adversarial Network）
 * <a id="vql"></a>VQL：Velociraptor查询语言（Velociraptor Query Language）
 * <a id="vr-c2"></a>vR：vSphere复制（vSphere Replication）
 * <a id="vr"></a>VR：虚拟路由器（Virtual Router）；虚拟现实（Virtual Reality）

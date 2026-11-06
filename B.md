@@ -70,6 +70,7 @@
 * <a id="bmg"></a>BMG：业务安全网关（Bot Management Gateway）
 * <a id="bmis"></a>BMIS：信息安全业务模型（Business Model for Information Security）
 * <a id="bms"></a>BMS：楼宇管理系统（Building Management System）
+* <a id="bn"></a>BN：批归一化（Batch Normalization）
 * <a id="bnb"></a>BNB：Binance数字币（Binance）
 * <a id="bnd"></a>BND：德国对外情报局（德语：Bundesnachrichtendienst）
 * <a id="bnpl"></a>BNPL：现买后付（Buy Now Pay Later）

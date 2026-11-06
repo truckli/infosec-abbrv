@@ -200,6 +200,7 @@
 * <a id="tvf"></a>TVF：表值函数（Table-Valued Function）
 * <a id="tvm"></a>TVM：威胁和漏洞管理平台（Threat & Vulnerability Management）
 * <a id="twc-c5"></a>TwC：微软可靠计算计划（Trustworthy Computing）
+* <a id="twn"></a>TWN：三值权重网络（Ternary Weight Networks）
 * <a id="tx"></a>TX：发送端（Transmit）
 * <a id="txd"></a>TXD：数据发送端（Transmit Data）
 * <a id="txt"></a>TXT：可信执行技术（Trusted eXecution Technology）；DNS文本资源记录（text）
