@@ -42,6 +42,7 @@
 * <a id="bfa"></a>BFA：暴力破解攻击（Brute Force Attacking）
 * <a id="bfd"></a>BFD：双向转发侦测（Bidirectional Forwarding Detection）
 * <a id="bfe"></a>BFE：基础过滤引擎（Base Filtering Engine）
+* <a id="bfia"></a>BFIA：北京金融科技产业联盟（Beijing Fintech Industry Alliance）
 * <a id="bfs"></a>BFS：广度优先搜索（Breadth-First Search）
 * <a id="bft"></a>BFT：拜占庭容错问题（Byzantine Fault Tolerance）
 * <a id="bgan"></a>BGAN：宽带全球区域网络（Broadband Global Area Network）
@@ -67,6 +68,7 @@
 * <a id="bm25"></a>BM25：最佳匹配25（Best Matching 25）
 * <a id="bmc"></a>BMC：板管理控制器（Board Management Controller）
 * <a id="bme"></a>BME：燃烧铸造平衡模型（Burn-And-Mint Equilibrium）
+* <a id="bmfia"></a>BMFIA：北京移动金融产业联盟（Beijing Mobile Finance Industry Association）
 * <a id="bmg"></a>BMG：业务安全网关（Bot Management Gateway）
 * <a id="bmis"></a>BMIS：信息安全业务模型（Business Model for Information Security）
 * <a id="bms"></a>BMS：楼宇管理系统（Building Management System）

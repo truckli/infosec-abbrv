@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4969**条，词组**6249**条。 
+当前收录缩略词形**4971**条，词组**6251**条。 
 
 ## 参考链接
 
@@ -79,17 +79,17 @@
 [BBU](B.md#bbu) [BC](B.md#bc) [BCC](B.md#bcc) [BCDR](B.md#bcdr) [BCE](B.md#bce) [BCG](B.md#bcg) [BCH](B.md#bch) [BCI](B.md#bci)
 [BCM](B.md#bcm) [BCP](B.md#bcp) [BCR](B.md#bcr) [BCS](B.md#bcs) [BD](B.md#bd) [BDA](B.md#bda) [BDCI](B.md#bdci) [BDFL](B.md#bdfl)
 [BDP](B.md#bdp) [BDS](B.md#bds) [BEAST](B.md#beast) [BEP](B.md#bep) [BER](B.md#ber) [BERT](B.md#bert) [BES](B.md#bes) [BFA](B.md#bfa)
-[BFD](B.md#bfd) [BFE](B.md#bfe) [BFS](B.md#bfs) [BFT](B.md#bft) [BGAN](B.md#bgan) [BGP](B.md#bgp) [BH](B.md#bh) [BHO](B.md#bho)
-[BI](B.md#bi) [BIA](B.md#bia) [BIKE](B.md#bike) [BiLSTM](B.md#bilstm-c3d) [BIM](B.md#bim) [BIOS](B.md#bios) [BIS](B.md#bis) [BITS](B.md#bits)
-[BLAS](B.md#blas) [BLB](B.md#blb) [BLE](B.md#ble) [BLF](B.md#blf) [BLL](B.md#bll) [BLOB](B.md#blob) [BLP](B.md#blp) [BLS](B.md#bls)
-[BM25](B.md#bm25) [BMC](B.md#bmc) [BME](B.md#bme) [BMG](B.md#bmg) [BMIS](B.md#bmis) [BMS](B.md#bms) [BN](B.md#bn) [BNB](B.md#bnb)
-[BND](B.md#bnd) [BNPL](B.md#bnpl) [BOA](B.md#boa) [BOD](B.md#bod) [BoF](B.md#bof-c5) [BOLA](B.md#bola) [BOM](B.md#bom) [BOS](B.md#bos)
-[BOSS](B.md#boss) [Botnet](B.md#botnet-c1) [BP](B.md#bp) [BP16](B.md#bp16) [BPC](B.md#bpc) [BPCS](B.md#bpcs) [BPD](B.md#bpd) [BPDU](B.md#bpdu)
-[BPE](B.md#bpe) [BPF](B.md#bpf) [BPGL](B.md#bpgl) [BPM](B.md#bpm) [BPMN](B.md#bpmn) [BPR](B.md#bpr) [BPS](B.md#bps) [BR](B.md#br)
-[BRA](B.md#bra) [BSC](B.md#bsc) [BSD](B.md#bsd) [BSG](B.md#bsg) [BSI](B.md#bsi) [BSIMM](B.md#bsimm) [BSoD](B.md#bsod-cb) [BSP](B.md#bsp)
-[BSRC](B.md#bsrc) [BSS](B.md#bss) [BSSID](B.md#bssid) [BSSN](B.md#bssn) [BST](B.md#bst) [BTC](B.md#btc) [BTI](B.md#bti) [BTP](B.md#btp)
-[BTS](B.md#bts) [BUM](B.md#bum) [BUP](B.md#bup) [BUSL](B.md#busl) [BVS](B.md#bvs) [BX](B.md#bx) [BYOAI](B.md#byoai) [BYOD](B.md#byod)
-[BYOE](B.md#byoe) [BYOI](B.md#byoi) [BYOVD](B.md#byovd)
+[BFD](B.md#bfd) [BFE](B.md#bfe) [BFIA](B.md#bfia) [BFS](B.md#bfs) [BFT](B.md#bft) [BGAN](B.md#bgan) [BGP](B.md#bgp) [BH](B.md#bh)
+[BHO](B.md#bho) [BI](B.md#bi) [BIA](B.md#bia) [BIKE](B.md#bike) [BiLSTM](B.md#bilstm-c3d) [BIM](B.md#bim) [BIOS](B.md#bios) [BIS](B.md#bis)
+[BITS](B.md#bits) [BLAS](B.md#blas) [BLB](B.md#blb) [BLE](B.md#ble) [BLF](B.md#blf) [BLL](B.md#bll) [BLOB](B.md#blob) [BLP](B.md#blp)
+[BLS](B.md#bls) [BM25](B.md#bm25) [BMC](B.md#bmc) [BME](B.md#bme) [BMFIA](B.md#bmfia) [BMG](B.md#bmg) [BMIS](B.md#bmis) [BMS](B.md#bms)
+[BN](B.md#bn) [BNB](B.md#bnb) [BND](B.md#bnd) [BNPL](B.md#bnpl) [BOA](B.md#boa) [BOD](B.md#bod) [BoF](B.md#bof-c5) [BOLA](B.md#bola)
+[BOM](B.md#bom) [BOS](B.md#bos) [BOSS](B.md#boss) [Botnet](B.md#botnet-c1) [BP](B.md#bp) [BP16](B.md#bp16) [BPC](B.md#bpc) [BPCS](B.md#bpcs)
+[BPD](B.md#bpd) [BPDU](B.md#bpdu) [BPE](B.md#bpe) [BPF](B.md#bpf) [BPGL](B.md#bpgl) [BPM](B.md#bpm) [BPMN](B.md#bpmn) [BPR](B.md#bpr)
+[BPS](B.md#bps) [BR](B.md#br) [BRA](B.md#bra) [BSC](B.md#bsc) [BSD](B.md#bsd) [BSG](B.md#bsg) [BSI](B.md#bsi) [BSIMM](B.md#bsimm)
+[BSoD](B.md#bsod-cb) [BSP](B.md#bsp) [BSRC](B.md#bsrc) [BSS](B.md#bss) [BSSID](B.md#bssid) [BSSN](B.md#bssn) [BST](B.md#bst) [BTC](B.md#btc)
+[BTI](B.md#bti) [BTP](B.md#btp) [BTS](B.md#bts) [BUM](B.md#bum) [BUP](B.md#bup) [BUSL](B.md#busl) [BVS](B.md#bvs) [BX](B.md#bx)
+[BYOAI](B.md#byoai) [BYOD](B.md#byod) [BYOE](B.md#byoe) [BYOI](B.md#byoi) [BYOVD](B.md#byovd)
 
 ### C
 
