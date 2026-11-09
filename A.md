@@ -67,6 +67,7 @@
 * <a id="ade"></a>ADE：美国国土安全部采购决策节点（Acquisition Decision Event）
 * <a id="adfp"></a>ADFP：反蒸馏指纹，通过 logit 扰动在输出中埋统计信号（Antidistillation Fingerprinting）
 * <a id="adfs"></a>ADFS：活动目录联合服务（Active Directory Federation Services）
+* <a id="adlds"></a>ADLDS：轻量目录服务（Active Directory Lightweight Directory Services）
 * <a id="adls"></a>ADLS：Azure数据湖存储（Azure Data Lake Storage）
 * <a id="adm"></a>ADM：资产定义与管理（Asset Definition & Management）；架构开发方法（Architecture Development Method）
 * <a id="ado"></a>ADO：ActiveX数据对象（ActiveX Data Object）
@@ -151,6 +152,7 @@
 * <a id="aixcc-c1b"></a>AIxCC：人工智能网络挑战赛（AI Cyber Challenge）
 * <a id="ajax"></a>AJAX：异步JavaScript和XML（Asynchronous Javascript And XML）
 * <a id="ak"></a>AK：访问密钥（Access Key）
+* <a id="aka"></a>AKA：认证与密钥协商（Authentication and Key Agreement）
 * <a id="akc"></a>AKC：非对称密钥加密（Asymmetric Key Cryptography）
 * <a id="ake"></a>AKE：鉴别密钥交换（Authenticated Key Exchange）
 * <a id="akm"></a>AKM：鉴别与密钥管理（Authentication & Key Management）

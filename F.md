@@ -27,6 +27,7 @@
 * <a id="fci"></a>FCI：联邦合同信息（Federal Contract Information）
 * <a id="fcip"></a>FCIP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * <a id="fcis"></a>FCIS：FreeBuf网络安全创新大会（FreeBuf Cyber security Innovation Summit）
+* <a id="fcm"></a>FCM：Firebase 云消息传递（Firebase Cloud Messaging）
 * <a id="fcoe-cb"></a>FCoE：光纤通道以太网（Fibre Channel over Ethernet）
 * <a id="fcs"></a>FCS：帧校验序列（Frame Check Sequence）
 * <a id="fda"></a>FDA：食品和药品管理局（Food & Drug Administration）

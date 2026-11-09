@@ -252,6 +252,7 @@
 * <a id="dot-x26e"></a>DOT&E：运行测试与评估主任（Director, Operational Test & Evaluation）
 * <a id="dp"></a>DP：差分隐私（Differential Privacy）；数据并行（Data Parallelism）
 * <a id="dpa"></a>DPA：差分能量分析（Differential Power Analysis）；数据处理协议（Data Process Agreement）；数据保护机构（Data Protection Agency）；数字流程自动化（Digital Process Automation）
+* <a id="dpapi"></a>DPAPI：数据保护应用程序接口（Data Protection Application Programming Interface）
 * <a id="dpcmp"></a>DPCMP：委托的个人资料内容管理平台（Delegated Profile Content Management Platform）
 * <a id="dpdk"></a>DPDK：数据面开发套件（Data Plane Development Kit）
 * <a id="dpi"></a>DPI：深度包检测（Deep Packet Inspection）；直接提示注入（Direct Prompt Injection）
@@ -260,6 +261,7 @@
 * <a id="dpl"></a>DPL：描述符特权等级（Descriptor Privilege Level）
 * <a id="dpma"></a>DPMA：数据处理管理协会（Data Processing Management Association）
 * <a id="dpo"></a>DPO：数据保护官（Data Protection Officer）；直接偏好优化（Direct Preference Optimization）
+* <a id="dpop-cb"></a>DPoP：演示所有权证明（Demonstrating Proof-of-Possession）
 * <a id="dpos"></a>DPOS：代理持有量证明（Delegated Proof of Stake）
 * <a id="dprc"></a>DPRC：美国数据保护审查法院（Data Protection Review Court）
 * <a id="dprive"></a>DPRIVE：虚拟环境中的数据保护项目（Data Protection in Virtual Environments）

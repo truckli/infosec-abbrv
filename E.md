@@ -137,7 +137,7 @@
 * <a id="emnlp"></a>EMNLP：自然语言处理的经验方法会议（Conference on Empirical Methods in Natural Language Processing）
 * <a id="emp"></a>EMP：电磁脉冲（Electromagnetic Pulse）
 * <a id="emr"></a>EMR：电子病历（EMR,Electronic Medical Record）
-* <a id="ems"></a>EMS：应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）；电磁敏感性（Electromagnetic Susceptibility）；电磁频谱（Electromagnetic Spectrum）
+* <a id="ems"></a>EMS：应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）；电磁敏感性（Electromagnetic Susceptibility）；电磁频谱（Electromagnetic Spectrum）；企业移动套件（Enterprise Mobility Suite）
 * <a id="emsk"></a>EMSK：扩展主会话密钥（Extended Master Session Key）
 * <a id="emsw"></a>EMSW：电磁频谱战（Electromagnetic Spectrum Warfare）
 * <a id="emtd"></a>EMTD：集成式移动目标防御（Ensembles of Moving Target Defenses）

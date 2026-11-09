@@ -122,6 +122,7 @@
 * <a id="phm4s"></a>PHM4S：智能制造中可靠操作的预测和健康管理（Predictive and Health Management for Reliable Operations in Smart Manufacturing）
 * <a id="phmsa"></a>PHMSA：美国管道和危险品安全管理局（Pipeline & Hazardous Materials Safety Administration）
 * <a id="php"></a>PHP：MPLS次末跳弹出（PenultimateHop Poppoing）；超文本预处理器语言（Hypertext Preprocessor）
+* <a id="phs"></a>PHS：密码哈希同步（Password Hash Synchronization）
 * <a id="phy"></a>PHY：物理层（Physical Layer）
 * <a id="pi"></a>PI：个人信息（Personal Information）；流程信息（Process Information）
 * <a id="pia"></a>PIA：隐私影响评估（Privacy Impact Assessment）；个人信息安全影响评估（Personal Information Security Impact Assessment）；属性推断攻击（Property Inference Attack）
@@ -252,6 +253,7 @@
 * <a id="prp"></a>PRP：伪随机排列（Pseudo Random Permutation）；策略取回点（Policy Retrieval Point）；并行冗余协议（Parallel Redundancy Protocol）
 * <a id="prrh-ce"></a>pRRH：小蜂窝解决方案远程无线电头（Pico-Cell Solution Remote Radio Head）
 * <a id="prs"></a>PRS：策略检索服务（Policy Retrieval Service）
+* <a id="prt"></a>PRT：主刷新令牌（Primary Refresh Token）
 * <a id="ps"></a>PS：分组交换（Packet Switching）；受保护存储（Protected Storage）；参数服务器（Parameter Server）
 * <a id="psa"></a>PSA：Pod安全权限（Pod Security Admission）；受保护存储API（Protected Storage API）；平台安全架构（Platform Security Architecture）；进程派生分析（Process Spawn Analysis）
 * <a id="psb"></a>PSB：AMD平台安全启动（Platform Secure Boot）
@@ -271,6 +273,7 @@
 * <a id="pstn"></a>PSTN：公共交换电话网络（Public Switched Telephone Network）
 * <a id="psyops"></a>PSYOPS：心理战（Psychological Operations）
 * <a id="pt"></a>PT：渗透测试（Penetration Testing）；代理票据（Proxy Ticket）；持续性威胁（Persistent Threat）；压力变送器（Pressure Transmitter）；明文（Plaintext）
+* <a id="pta"></a>PTA：直通身份验证（Pass-through Authentication）
 * <a id="ptaas-c13"></a>PTaaS：渗透测试即服务（Penetration Testing as a Service）
 * <a id="ptc"></a>PTC：并行工具调用（面向批量工具调用的筛选/去重/汇总）（Parallel Tool Calling）
 * <a id="pte"></a>PTE：渗透测试工程师（Penetration Testing Engineer）；渗透测试平台（Pen-Testing Extension platform）

@@ -39,7 +39,7 @@
 * <a id="cacr"></a>CACR：中国密码学会（Chinese Association for Cryptologic Research）
 * <a id="cad"></a>CAD：计算机辅助设计（Computer Aided Design）；网络分析与检测（Cyber Analytics & Detection）
 * <a id="cads"></a>CADS：美国网络分析与数据系统（Cyber Analytics & Data System）
-* <a id="cae"></a>CAE：首席审计官（Chief Audit Executive）
+* <a id="cae"></a>CAE：首席审计官（Chief Audit Executive）；持续访问评估（Continuous Access Evaluation）
 * <a id="caep"></a>CAEP：持续访问评估协议（Continuous Access Evaluation Protocol）
 * <a id="caf"></a>CAF：战斗机部队（Combat Air Forces）
 * <a id="cagr"></a>CAGR：复合年增长率（Compound Annual Growth Rate）
@@ -453,7 +453,7 @@
 * <a id="cpo"></a>CPO：首席隐私官（Chief Privacy Officer）
 * <a id="cpoid"></a>CPOID：证书策略对象标识符（Certificate Policy Object Identifier）
 * <a id="cpos"></a>CPOS：光纤通道同步接口（Channelized Packet over SONET）
-* <a id="cpp"></a>CPP：关键性预测问题（用于风险场建模）（Criticality Prediction Problem）
+* <a id="cpp"></a>CPP：关键性预测问题（用于风险场建模）（Criticality Prediction Problem）；自定义主密码（Custom Primary Password）
 * <a id="cpr"></a>CPR：Check Point研究所（Check Point Research）
 * <a id="cpra"></a>CPRA：加州隐私权法案（California Privacy Rights Act）
 * <a id="cpri"></a>CPRI：公共无线电接口（Common Public Radio Interface）

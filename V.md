@@ -26,6 +26,7 @@
 * <a id="vba"></a>VBA：VB宏语言（Visual Basic for Applications）
 * <a id="vbos"></a>VBOS：VBOS计划（Vulnerabilities Below The Operating System）
 * <a id="vbr"></a>VBR：虚拟边界路由器（Virtual Border Router）
+* <a id="vbs"></a>VBS：基于虚拟化的安全（Virtualization-Based Security）
 * <a id="vc"></a>VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
 * <a id="vcd"></a>VCD：视频光盘（Video CD）
 * <a id="vcf"></a>VCF：VMware云基础（VMware Cloud Foundation）

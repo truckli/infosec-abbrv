@@ -93,6 +93,7 @@
 * <a id="ideas"></a>IDEAS：国际防务企业架构规范（International Defence Enterprise Architecture Specification）
 * <a id="idef"></a>IDEF：IDEF建模语言（Integration Definition）
 * <a id="idef1x"></a>IDEF1X：IDEF信息建模语言（Integration Definition for information modeling）
+* <a id="idfv"></a>IDFV：供应商标识符（identifierForVendor）
 * <a id="idiq"></a>IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
 * <a id="idl"></a>IDL：接口描述语言（Interface description language）
 * <a id="idlg-ce"></a>iDLG：改进的深度泄漏梯度（Improved Deep Leakage from Gradients）

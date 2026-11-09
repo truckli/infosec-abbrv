@@ -113,7 +113,7 @@
 * <a id="ngaf"></a>NGAF：下一代应用防火墙（Next Gen Application Firewall）
 * <a id="ngap"></a>NGAP：下一代应用协议（Next Generation Application Protocol）
 * <a id="ngav"></a>NGAV：下一代反病毒（Next-Generation Anti-Virus）
-* <a id="ngc"></a>NGC：英伟达GPU云（Nvidia GPU Cloud）
+* <a id="ngc"></a>NGC：英伟达GPU云（Nvidia GPU Cloud）；下一代凭据（Next Generation Credentials）
 * <a id="ngcv"></a>NGCV：下一代作战车辆（Next Generation Combat Vehicle）
 * <a id="ngfw"></a>NGFW：下一代防火墙（Next-Generation Firewall）
 * <a id="ngids"></a>NGIDS：下一代入侵检测系统（Next-Generation IDS）

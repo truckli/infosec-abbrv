@@ -11,7 +11,7 @@
 * <a id="tafim"></a>TAFIM：信息管理技术架构框架（Technical Architecture Framework for Information Management）
 * <a id="tag"></a>TAG：威胁分析团队（Threat Analysis Group）；技术咨询组（Technical Advisory Group）
 * <a id="tao"></a>TAO：美国国家安全局定制接入行动办公室（Tailored Access Operations）
-* <a id="tap"></a>TAP：三因子认证协议（Three-Factor Authentication Protocol）；带剪枝的攻击树（Tree of Attacks with Pruning）
+* <a id="tap"></a>TAP：三因子认证协议（Three-Factor Authentication Protocol）；带剪枝的攻击树（Tree of Attacks with Pruning）；临时访问通行证（Temporary Access Pass）
 * <a id="tara"></a>TARA：威胁评估与修复分析（Threat Assessment & Remediation Analysis）；车联网威胁分析与风险评估（Threat Analysis & Risk Assessment）
 * <a id="tarces"></a>TARCES：战术和远程C5I边缘系统（Tactical and Remote C5I Edge System）
 * <a id="tas"></a>TAS：诺基亚电信应用服务器（Telecom Application Server）；威胁分析系统（Threat Analysis System）

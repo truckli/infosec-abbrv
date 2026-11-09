@@ -38,6 +38,7 @@
 * <a id="wgan"></a>WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
 * <a id="wgan-x2dgp"></a>WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
 * <a id="wgn"></a>WGN：高斯白噪声（White Gaussian Noise）
+* <a id="whfb-cb"></a>WHfB：Windows Hello 企业版（Windows Hello for Business）
 * <a id="wic"></a>WIC：世界互联网大会（World Internet Conference）
 * <a id="widps"></a>WIDPS：无线入侵检测和防御系统（Wireless Intrusion Detection & Prevention System）
 * <a id="wids"></a>WIDS：无线入侵检测系统（Wireless IDS）
@@ -83,3 +84,4 @@
 * <a id="wvss"></a>WVSS：Web漏洞扫描系统（Web Vulnerability Scanning System）
 * <a id="wwan"></a>WWAN：无线广域网（Wireless Wide Area Network）
 * <a id="www"></a>WWW：万维网（World Wide Web）
+* <a id="wysiwys"></a>WYSIWYS：所见即所签（What You See Is What You Sign）

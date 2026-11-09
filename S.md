@@ -119,7 +119,7 @@
 * <a id="sdword"></a>SDWORD：有符号双字（Signed Doubleword）
 * <a id="sdx-c3"></a>SDx：软件定义万物（Software Defined everything）
 * <a id="sdxi-cb"></a>SDxI：软件定义万物基础设施（Software Defined everything Infrastructures）
-* <a id="se"></a>SE：系统工程（System Engineering）；软件工程（Software Engineering）；对称加密方案（Symmetric Encryption）
+* <a id="se"></a>SE：系统工程（System Engineering）；软件工程（Software Engineering）；对称加密方案（Symmetric Encryption）；安全芯片（Secure Element）
 * <a id="se-x26i"></a>SE&I：全球定位系统系统工程与集成（Systems Engineering & Integration）
 * <a id="sea"></a>SEA：社交工程攻击（Social Engineering Attacking）
 * <a id="seac"></a>SEAC：安全元素访问控制（Secure Element Access Control）

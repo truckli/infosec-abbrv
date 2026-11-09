@@ -73,7 +73,7 @@
 * <a id="unsw"></a>UNSW：新南威尔士大学（University of New South Wales）
 * <a id="uos"></a>UOS：统信操作系统（Uniontech OS）
 * <a id="uov"></a>UOV：UOV密码架构（Unbalanced Oil and Vinegar cryptosystem）
-* <a id="up"></a>UP：统一平台（Unified Platform）；用户配置文件（User Profile）；统一过程（Unified Process）
+* <a id="up"></a>UP：统一平台（Unified Platform）；用户配置文件（User Profile）；统一过程（Unified Process）；用户在场（User Presence）
 * <a id="updss"></a>UPDSS：银联卡支付信息安全管理标准（UnionPay Payment Data Security Standard）
 * <a id="upf"></a>UPF：用户面功能（User Plane Function）
 * <a id="upi"></a>UPI：统一支付接口（Unified Payments Interface）
@@ -114,7 +114,7 @@
 * <a id="utran"></a>UTRAN：UMTS陆地无线接入网（UMTS Terrestrial Radio Access Network）
 * <a id="uts"></a>UTS：综合威胁探针（Unified Threat Sensor）
 * <a id="uuid"></a>UUID：通用唯一识别码（Universally Unique Identifier）
-* <a id="uv"></a>UV：独立访客数（Unique visitor）
+* <a id="uv"></a>UV：独立访客数（Unique visitor）；用户验证（User Verification）
 * <a id="uwb"></a>UWB：超宽带（Ultrawideband）
 * <a id="ux"></a>UX：用户体验（User eXperience）
 * <a id="uxn"></a>UXN：非特权态禁止执行（Unprivileged eXucute Never）

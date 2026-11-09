@@ -78,6 +78,7 @@
 * <a id="gmac"></a>GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * <a id="gmits"></a>GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
 * <a id="gmk"></a>GMK：组主密钥（Group Master Key）
+* <a id="gms"></a>GMS：谷歌移动服务（Google Mobile Services）
 * <a id="gmsk"></a>GMSK：高斯最小频移键控（Gaussian Filtered Minimum Shift Keying）
 * <a id="gnb-c6"></a>gNB：gNB基站（gNodeB）
 * <a id="gnd"></a>GND：地线（Ground）

@@ -61,7 +61,7 @@
 * <a id="mdo"></a>MDO：多域作战（Multi-Domain Operation）
 * <a id="mdp"></a>MDP：马尔可夫决策过程（Markov Decision Process）
 * <a id="mdr"></a>MDR：托管式检测与响应（Managed Detection & Response）
-* <a id="mds"></a>MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）
+* <a id="mds"></a>MDS：微架构数据采样（Microarchitectural Data Sampling）；元数据服务（Metadata Server）；FIDO 元数据服务（FIDO Metadata Service）
 * <a id="mdt"></a>MDT：任务防御部队（Mission Defense Team）
 * <a id="me"></a>ME：英特尔管理引擎（Intel Management Engine）；小微企业（Micro-Enterprise）
 * <a id="mea"></a>MEA：监控、评估和调整（Monitor, Evaluate, and Adjust）；模型提取攻击（Model Extraction Attack）
