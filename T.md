@@ -1,7 +1,6 @@
 ## T
 
 * <a id="t-x2dbox"></a>T-BOX：远程信息处理器（Telematics BOX）
-* <a id="t-x2f"></a>T/：团体标准（Tuan Ti，社会团体代号前缀，如 T/CCIA、T/TAF）
 * <a id="t5"></a>T5：T5模型（Transfer Text-to-Text Transformer）
 * <a id="ta"></a>TA：可信应用（Trusted Application）；跟踪区（Tracking Area）；时耗分析（Timing Analysis）；发送端地址（Transmitter Address）
 * <a id="tac"></a>TAC：跟踪区码（Tracking Area Code）；类型分配码（Type Allocation Code）；威胁分析中心（Threat Analysis Center）

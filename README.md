@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4985**条，词组**6271**条。 
+当前收录缩略词形**4984**条，词组**6270**条。 
 
 
 ## 参考链接
@@ -640,32 +640,32 @@
 
 ### T
 
-[T-BOX](T.md#t-x2dbox) [T/](T.md#t-x2f) [T5](T.md#t5) [TA](T.md#ta) [TAC](T.md#tac) [TAC-D](T.md#tac-x2dd) [TACACS](T.md#tacacs) [TACS](T.md#tacs)
-[TAEP](T.md#taep) [TAFIM](T.md#tafim) [TAG](T.md#tag) [TAO](T.md#tao) [TAP](T.md#tap) [TARA](T.md#tara) [TARCES](T.md#tarces) [TAS](T.md#tas)
-[TAXII](T.md#taxii) [TB](T.md#tb) [TBAC](T.md#tbac) [TBB](T.md#tbb) [TBOX](T.md#tbox) [TBS](T.md#tbs) [TBYTE](T.md#tbyte) [TC](T.md#tc)
-[TC260](T.md#tc260) [TC28](T.md#tc28) [TCA](T.md#tca) [TCB](T.md#tcb) [TCCM](T.md#tccm) [TCCS](T.md#tccs) [TCDH](T.md#tcdh) [TCG](T.md#tcg)
-[TCH](T.md#tch) [TCII](T.md#tcii) [TCM](T.md#tcm) [TCMA](T.md#tcma) [TCMU](T.md#tcmu) [TCN](T.md#tcn) [TCO](T.md#tco) [TCP](T.md#tcp)
-[TCPA](T.md#tcpa) [TCS](T.md#tcs) [TCSEC](T.md#tcsec) [TCSVT](T.md#tcsvt) [TCU](T.md#tcu) [TD](T.md#td) [TDA](T.md#tda) [TDD](T.md#tdd)
-[TDDH](T.md#tddh) [TDE](T.md#tde) [TDM](T.md#tdm) [TDMA](T.md#tdma) [TDO](T.md#tdo) [TDoS](T.md#tdos-cb) [TDP](T.md#tdp) [TDR](T.md#tdr)
-[TDS](T.md#tds) [TDSC](T.md#tdsc) [TDT](T.md#tdt) [TDX](T.md#tdx) [TE](T.md#te) [TEB](T.md#teb) [TECHAD](T.md#techad) [TECHINT](T.md#techint)
-[TEE](T.md#tee) [TEMPEST](T.md#tempest) [TePA](T.md#tepa-cd) [TESLA](T.md#tesla) [TETRA](T.md#tetra) [TETRAPOL](T.md#tetrapol) [TEVV](T.md#tevv) [TF-A](T.md#tf-x2da)
-[TF32](T.md#tf32) [TFA](T.md#tfa) [TFI](T.md#tfi) [TFLOPS](T.md#tflops) [TFTI](T.md#tfti) [TFTP](T.md#tftp) [TGC](T.md#tgc) [TGS](T.md#tgs)
-[TGT](T.md#tgt) [TGW](T.md#tgw) [TH](T.md#th) [THP](T.md#thp) [TI](T.md#ti) [TIA](T.md#tia) [TIARA](T.md#tiara) [TIB](T.md#tib)
-[TIBER-EU](T.md#tiber-x2deu) [TIC](T.md#tic) [TICAP](T.md#ticap) [TIFF](T.md#tiff) [TIFS](T.md#tifs) [TIG](T.md#tig) [TIM](T.md#tim) [TIOS](T.md#tios)
-[TIP](T.md#tip) [TK](T.md#tk) [TKG](T.md#tkg) [TKIP](T.md#tkip) [TLB](T.md#tlb) [TLCP](T.md#tlcp) [TLD](T.md#tld) [TLP](T.md#tlp)
-[TLS](T.md#tls) [TLSP](T.md#tlsp) [TLV](T.md#tlv) [TMA](T.md#tma) [TME](T.md#tme) [TMH](T.md#tmh) [TMMi](T.md#tmmi-c7) [TMN](T.md#tmn)
-[TMS](T.md#tms) [TMT](T.md#tmt) [TN](T.md#tn) [TNC](T.md#tnc) [TNE](T.md#tne) [TNGF](T.md#tngf) [TNI](T.md#tni) [TNIU](T.md#tniu)
-[TNR](T.md#tnr) [TOB](T.md#tob) [TOC](T.md#toc) [TOCTOU](T.md#toctou) [TOE](T.md#toe) [TOGAF](T.md#togaf) [TOPS](T.md#tops) [TOR](T.md#tor)
-[TOS](T.md#tos) [ToT](T.md#tot-c5) [TOTP](T.md#totp) [TOU](T.md#tou) [TP](T.md#tp) [TPA](T.md#tpa) [TPC](T.md#tpc) [TPCM](T.md#tpcm)
-[TPI](T.md#tpi) [TPL](T.md#tpl) [TPM](T.md#tpm) [TPN](T.md#tpn) [TPP](T.md#tpp) [TPR](T.md#tpr) [TPRM](T.md#tprm) [TPS](T.md#tps)
-[TPU](T.md#tpu) [TQM](T.md#tqm) [TR](T.md#tr) [TRA](T.md#tra) [TRADINT](T.md#tradint) [TRANSEC](T.md#transec) [TRE](T.md#tre) [TReX](T.md#trex-cb)
-[TRIDENT](T.md#trident) [TRiSM](T.md#trism-c1b) [TRM](T.md#trm) [TRMC](T.md#trmc) [TRNG](T.md#trng) [TS](T.md#ts) [TSA](T.md#tsa) [TSB](T.md#tsb)
-[TSC](T.md#tsc) [TSCM](T.md#tscm) [TSDB](T.md#tsdb) [TSF](T.md#tsf) [TSG](T.md#tsg) [TSI](T.md#tsi) [TSIG](T.md#tsig) [TSM](T.md#tsm)
-[TSMC](T.md#tsmc) [TSME](T.md#tsme) [TSN](T.md#tsn) [TSNE](T.md#tsne) [TSP](T.md#tsp) [TSRC](T.md#tsrc) [TSS](T.md#tss) [TST](T.md#tst)
-[TSU](T.md#tsu) [TSV](T.md#tsv) [TT](T.md#tt) [TT&C](T.md#tt-x26c) [TTA](T.md#tta) [TTAF](T.md#ttaf) [TTC](T.md#ttc) [TTD](T.md#ttd)
-[TTE](T.md#tte) [TTFB](T.md#ttfb) [TTFP](T.md#ttfp) [TTFT](T.md#ttft) [TTI](T.md#tti) [TTL](T.md#ttl) [TTLB](T.md#ttlb) [TTLS](T.md#ttls)
-[TTM](T.md#ttm) [TTP](T.md#ttp) [TTR](T.md#ttr) [TTS](T.md#tts) [TTV](T.md#ttv) [TTX](T.md#ttx) [TUP](T.md#tup) [TURN](T.md#turn)
-[TVF](T.md#tvf) [TVM](T.md#tvm) [TwC](T.md#twc-c5) [TWN](T.md#twn) [TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
+[T-BOX](T.md#t-x2dbox) [T5](T.md#t5) [TA](T.md#ta) [TAC](T.md#tac) [TAC-D](T.md#tac-x2dd) [TACACS](T.md#tacacs) [TACS](T.md#tacs) [TAEP](T.md#taep)
+[TAFIM](T.md#tafim) [TAG](T.md#tag) [TAO](T.md#tao) [TAP](T.md#tap) [TARA](T.md#tara) [TARCES](T.md#tarces) [TAS](T.md#tas) [TAXII](T.md#taxii)
+[TB](T.md#tb) [TBAC](T.md#tbac) [TBB](T.md#tbb) [TBOX](T.md#tbox) [TBS](T.md#tbs) [TBYTE](T.md#tbyte) [TC](T.md#tc) [TC260](T.md#tc260)
+[TC28](T.md#tc28) [TCA](T.md#tca) [TCB](T.md#tcb) [TCCM](T.md#tccm) [TCCS](T.md#tccs) [TCDH](T.md#tcdh) [TCG](T.md#tcg) [TCH](T.md#tch)
+[TCII](T.md#tcii) [TCM](T.md#tcm) [TCMA](T.md#tcma) [TCMU](T.md#tcmu) [TCN](T.md#tcn) [TCO](T.md#tco) [TCP](T.md#tcp) [TCPA](T.md#tcpa)
+[TCS](T.md#tcs) [TCSEC](T.md#tcsec) [TCSVT](T.md#tcsvt) [TCU](T.md#tcu) [TD](T.md#td) [TDA](T.md#tda) [TDD](T.md#tdd) [TDDH](T.md#tddh)
+[TDE](T.md#tde) [TDM](T.md#tdm) [TDMA](T.md#tdma) [TDO](T.md#tdo) [TDoS](T.md#tdos-cb) [TDP](T.md#tdp) [TDR](T.md#tdr) [TDS](T.md#tds)
+[TDSC](T.md#tdsc) [TDT](T.md#tdt) [TDX](T.md#tdx) [TE](T.md#te) [TEB](T.md#teb) [TECHAD](T.md#techad) [TECHINT](T.md#techint) [TEE](T.md#tee)
+[TEMPEST](T.md#tempest) [TePA](T.md#tepa-cd) [TESLA](T.md#tesla) [TETRA](T.md#tetra) [TETRAPOL](T.md#tetrapol) [TEVV](T.md#tevv) [TF-A](T.md#tf-x2da) [TF32](T.md#tf32)
+[TFA](T.md#tfa) [TFI](T.md#tfi) [TFLOPS](T.md#tflops) [TFTI](T.md#tfti) [TFTP](T.md#tftp) [TGC](T.md#tgc) [TGS](T.md#tgs) [TGT](T.md#tgt)
+[TGW](T.md#tgw) [TH](T.md#th) [THP](T.md#thp) [TI](T.md#ti) [TIA](T.md#tia) [TIARA](T.md#tiara) [TIB](T.md#tib) [TIBER-EU](T.md#tiber-x2deu)
+[TIC](T.md#tic) [TICAP](T.md#ticap) [TIFF](T.md#tiff) [TIFS](T.md#tifs) [TIG](T.md#tig) [TIM](T.md#tim) [TIOS](T.md#tios) [TIP](T.md#tip)
+[TK](T.md#tk) [TKG](T.md#tkg) [TKIP](T.md#tkip) [TLB](T.md#tlb) [TLCP](T.md#tlcp) [TLD](T.md#tld) [TLP](T.md#tlp) [TLS](T.md#tls)
+[TLSP](T.md#tlsp) [TLV](T.md#tlv) [TMA](T.md#tma) [TME](T.md#tme) [TMH](T.md#tmh) [TMMi](T.md#tmmi-c7) [TMN](T.md#tmn) [TMS](T.md#tms)
+[TMT](T.md#tmt) [TN](T.md#tn) [TNC](T.md#tnc) [TNE](T.md#tne) [TNGF](T.md#tngf) [TNI](T.md#tni) [TNIU](T.md#tniu) [TNR](T.md#tnr)
+[TOB](T.md#tob) [TOC](T.md#toc) [TOCTOU](T.md#toctou) [TOE](T.md#toe) [TOGAF](T.md#togaf) [TOPS](T.md#tops) [TOR](T.md#tor) [TOS](T.md#tos)
+[ToT](T.md#tot-c5) [TOTP](T.md#totp) [TOU](T.md#tou) [TP](T.md#tp) [TPA](T.md#tpa) [TPC](T.md#tpc) [TPCM](T.md#tpcm) [TPI](T.md#tpi)
+[TPL](T.md#tpl) [TPM](T.md#tpm) [TPN](T.md#tpn) [TPP](T.md#tpp) [TPR](T.md#tpr) [TPRM](T.md#tprm) [TPS](T.md#tps) [TPU](T.md#tpu)
+[TQM](T.md#tqm) [TR](T.md#tr) [TRA](T.md#tra) [TRADINT](T.md#tradint) [TRANSEC](T.md#transec) [TRE](T.md#tre) [TReX](T.md#trex-cb) [TRIDENT](T.md#trident)
+[TRiSM](T.md#trism-c1b) [TRM](T.md#trm) [TRMC](T.md#trmc) [TRNG](T.md#trng) [TS](T.md#ts) [TSA](T.md#tsa) [TSB](T.md#tsb) [TSC](T.md#tsc)
+[TSCM](T.md#tscm) [TSDB](T.md#tsdb) [TSF](T.md#tsf) [TSG](T.md#tsg) [TSI](T.md#tsi) [TSIG](T.md#tsig) [TSM](T.md#tsm) [TSMC](T.md#tsmc)
+[TSME](T.md#tsme) [TSN](T.md#tsn) [TSNE](T.md#tsne) [TSP](T.md#tsp) [TSRC](T.md#tsrc) [TSS](T.md#tss) [TST](T.md#tst) [TSU](T.md#tsu)
+[TSV](T.md#tsv) [TT](T.md#tt) [TT&C](T.md#tt-x26c) [TTA](T.md#tta) [TTAF](T.md#ttaf) [TTC](T.md#ttc) [TTD](T.md#ttd) [TTE](T.md#tte)
+[TTFB](T.md#ttfb) [TTFP](T.md#ttfp) [TTFT](T.md#ttft) [TTI](T.md#tti) [TTL](T.md#ttl) [TTLB](T.md#ttlb) [TTLS](T.md#ttls) [TTM](T.md#ttm)
+[TTP](T.md#ttp) [TTR](T.md#ttr) [TTS](T.md#tts) [TTV](T.md#ttv) [TTX](T.md#ttx) [TUP](T.md#tup) [TURN](T.md#turn) [TVF](T.md#tvf)
+[TVM](T.md#tvm) [TwC](T.md#twc-c5) [TWN](T.md#twn) [TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
 
 ### U
 
