@@ -16,6 +16,8 @@
 * <a id="gb"></a>GB：国家标准（拼音：Guo Biao）；千兆字节（Gigabyte）
 * <a id="gb-c1"></a>Gb：千兆位（Gigabit）
 * <a id="gb-x2fs-c1"></a>Gb/s：每秒千兆比特（Gigabits per Second）
+* <a id="gb-x2ft"></a>GB/T：国家推荐标准（拼音：Guo Biao/Tui）
+* <a id="gb-x2fz"></a>GB/Z：国家标准化指导性技术文件（拼音：Guo Biao/Zhi）
 * <a id="gbdt"></a>GBDT：梯度提升决策树（Gradient Boosting Decision Tree）
 * <a id="gbe-c5"></a>GbE：千兆以太网（Gigabit Ethernet）
 * <a id="gbic"></a>GBIC：千兆接口转换器（Gigabit Interface Converter）
@@ -74,6 +76,8 @@
 * <a id="gls"></a>GLS：广义最小二乘法（Generalized Least Squares）
 * <a id="glue"></a>GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
 * <a id="gm"></a>GM：国密（Guo Mi，密码行业标准，国家密码管理局）
+* <a id="gm-x2ft"></a>GM/T：国密推荐（Guo Mi Tui，密码行业推荐性标准，T=推荐）
+* <a id="gm-x2fz"></a>GM/Z：国密指导（Guo Mi Zhi，密码行业指导性技术文件，Z=指导）
 * <a id="gma"></a>GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * <a id="gmac"></a>GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * <a id="gmits"></a>GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
