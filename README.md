@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4979**条，词组**6262**条。 
+当前收录缩略词形**4983**条，词组**6267**条。 
 
 
 ## 参考链接
@@ -297,7 +297,7 @@
 [GS](G.md#gs) [GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm) [GSMA](G.md#gsma) [GSN](G.md#gsn) [GSOC](G.md#gsoc)
 [GST](G.md#gst) [GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk) [GTP](G.md#gtp) [GTP-U](G.md#gtp-x2du) [GTX](G.md#gtx)
 [GUA](G.md#gua) [GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti) [GVLK](G.md#gvlk) [GW](G.md#gw) [GWN](G.md#gwn)
-[GZ](G.md#gz) [GZIP](G.md#gzip)
+[GY](G.md#gy) [GZ](G.md#gz) [GZIP](G.md#gzip)
 
 ### H
 
@@ -373,8 +373,9 @@
 [JMN](J.md#jmn) [JMS](J.md#jms) [JMX](J.md#jmx) [JNDI](J.md#jndi) [JOC](J.md#joc) [JOP](J.md#jop) [JOPES](J.md#jopes) [JP](J.md#jp)
 [JPCERT/CC](J.md#jpcert-x2fcc) [JPEG](J.md#jpeg) [JPES](J.md#jpes) [JPO-STC](J.md#jpo-x2dstc) [JR/T](J.md#jr-x2ft) [JRASP](J.md#jrasp) [JRE](J.md#jre) [JRSS](J.md#jrss)
 [JRTF](J.md#jrtf) [JS](J.md#js) [JSA](J.md#jsa) [JSC](J.md#jsc) [JSMA](J.md#jsma) [JSON](J.md#json) [JSONL](J.md#jsonl) [JSRC](J.md#jsrc)
-[JSS](J.md#jss) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv) [JVM](J.md#jvm) [JVN](J.md#jvn)
-[JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks) [JWS](J.md#jws) [JWT](J.md#jwt)
+[JSS](J.md#jss) [JT](J.md#jt) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv) [JVM](J.md#jvm)
+[JVN](J.md#jvn) [JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks) [JWS](J.md#jws)
+[JWT](J.md#jwt)
 
 ### K
 
@@ -417,27 +418,27 @@
 [MDM](M.md#mdm) [MDMS](M.md#mdms) [MDO](M.md#mdo) [MDP](M.md#mdp) [MDR](M.md#mdr) [MDS](M.md#mds) [MDT](M.md#mdt) [ME](M.md#me)
 [MEA](M.md#mea) [MEC](M.md#mec) [MECE](M.md#mece) [MECR](M.md#mecr) [MEF](M.md#mef) [MeitY](M.md#meity-c11) [MELT](M.md#melt) [MEM](M.md#mem)
 [MEMS](M.md#mems) [MES](M.md#mes) [METR](M.md#metr) [MFA](M.md#mfa) [MFHE](M.md#mfhe) [MFL](M.md#mfl) [MFLOP](M.md#mflop) [MFR](M.md#mfr)
-[MFT](M.md#mft) [MGCP](M.md#mgcp) [MGF](M.md#mgf) [MGW](M.md#mgw) [MHA](M.md#mha) [MHz](M.md#mhz-c3) [MI](M.md#mi) [MI5](M.md#mi5)
-[MI6](M.md#mi6) [MIA](M.md#mia) [MIB](M.md#mib) [MIC](M.md#mic) [MICE](M.md#mice) [MICTIC](M.md#mictic) [MIE](M.md#mie) [MIG](M.md#mig)
-[MII](M.md#mii) [MIIT](M.md#miit) [MILDEC](M.md#mildec) [MILS](M.md#mils) [MIM](M.md#mim) [MIME](M.md#mime) [MINC](M.md#minc) [MINTIC](M.md#mintic)
-[MIPS](M.md#mips) [MIS](M.md#mis) [MISC](M.md#misc) [MISI](M.md#misi) [MISO](M.md#miso) [MISP](M.md#misp) [MiSRC](M.md#misrc-c1d) [MITA](M.md#mita)
-[MITM](M.md#mitm) [MIVD](M.md#mivd) [MJ](M.md#mj) [MKTME](M.md#mktme) [ML](M.md#ml) [ML-DSA](M.md#ml-x2ddsa) [ML-KEM](M.md#ml-x2dkem) [MLAG](M.md#mlag)
-[MLE](M.md#mle) [MLM](M.md#mlm) [MLOps](M.md#mlops-c7) [MLP](M.md#mlp) [MLS](M.md#mls) [MLWE](M.md#mlwe) [MLWR](M.md#mlwr) [MMC](M.md#mmc)
-[MME](M.md#mme) [MMIO](M.md#mmio) [mMTC](M.md#mmtc-ce) [MMU](M.md#mmu) [MNO-SD](M.md#mno-x2dsd) [MNS](M.md#mns) [MO](M.md#mo) [MOB](M.md#mob)
-[MOBI](M.md#mobi) [MOC](M.md#moc) [MOD](M.md#mod) [MODA](M.md#moda) [MODAF](M.md#modaf) [ModelOps](M.md#modelops-c21) [MODEM](M.md#modem) [MOE](M.md#moe)
-[MoE](M.md#moe-c5) [MOF](M.md#mof) [MOIE](M.md#moie) [MOK](M.md#mok) [MOM](M.md#mom) [MOP](M.md#mop) [MOPS](M.md#mops) [MORDA](M.md#morda)
-[MOSA](M.md#mosa) [MoSCoW](M.md#moscow-c2d) [MOTS](M.md#mots) [MOTW](M.md#motw) [MOU](M.md#mou) [MP](M.md#mp) [MPA](M.md#mpa) [MPC](M.md#mpc)
-[MPDRR](M.md#mpdrr) [MPE](M.md#mpe) [MPEG](M.md#mpeg) [MPI](M.md#mpi) [MPKC](M.md#mpkc) [MPLS](M.md#mpls) [MPLWE](M.md#mplwe) [MPP](M.md#mpp)
-[MPPE](M.md#mppe) [MPS](M.md#mps) [MPT](M.md#mpt) [MPTD](M.md#mptd) [MPU](M.md#mpu) [MQ](M.md#mq) [MQA](M.md#mqa) [MQTT](M.md#mqtt)
-[MQV](M.md#mqv) [MRA](M.md#mra) [MRC](M.md#mrc) [MRES](M.md#mres) [MRP](M.md#mrp) [MRTI](M.md#mrti) [MRTR](M.md#mrtr) [MS](M.md#ms)
-[MS-CHAP](M.md#ms-x2dchap) [MS-DRSR](M.md#ms-x2ddrsr) [ms-DS-MachineAccountQuota](M.md#ms-x2dds-x2dmachineaccountquota-c4081c) [MS-ISAC](M.md#ms-x2disac) [MSA](M.md#msa) [MSB](M.md#msb) [MSC](M.md#msc) [mSCP](M.md#mscp-ce)
-[MSDT](M.md#msdt) [MSE](M.md#mse) [MSF](M.md#msf) [MSFT](M.md#msft) [MSG](M.md#msg) [MSHA](M.md#msha) [MSIS](M.md#msis) [MSISDN](M.md#msisdn)
-[MSISE](M.md#msise) [MSISPM](M.md#msispm) [MSIT-IS](M.md#msit-x2dis) [MSK](M.md#msk) [MSL](M.md#msl) [MSLS](M.md#msls) [MSM](M.md#msm) [MSP](M.md#msp)
-[MSRC](M.md#msrc) [MSS](M.md#mss) [MSSP](M.md#mssp) [MSSQL](M.md#mssql) [MSTIC](M.md#mstic) [MSTP](M.md#mstp) [MSV](M.md#msv) [MT](M.md#mt)
-[MTA](M.md#mta) [MTBF](M.md#mtbf) [MTC](M.md#mtc) [MTD](M.md#mtd) [MTE](M.md#mte) [MtE](M.md#mte-c5) [MTI](M.md#mti) [MTIPS](M.md#mtips)
-[mTLS](M.md#mtls-ce) [MTO](M.md#mto) [MTSRC](M.md#mtsrc) [MTTC](M.md#mttc) [MTTD](M.md#mttd) [MTTF](M.md#mttf) [MTTFD](M.md#mttfd) [MTTI](M.md#mtti)
-[MTTK](M.md#mttk) [MTTR](M.md#mttr) [MTU](M.md#mtu) [MUD](M.md#mud) [MVA](M.md#mva) [MVC](M.md#mvc) [MVCC](M.md#mvcc) [MVD](M.md#mvd)
-[MVM](M.md#mvm) [MVP](M.md#mvp) [MVX](M.md#mvx) [mW](M.md#mw-c2) [MX](M.md#mx)
+[MFT](M.md#mft) [MGCP](M.md#mgcp) [MGF](M.md#mgf) [MGW](M.md#mgw) [MH](M.md#mh) [MHA](M.md#mha) [MHz](M.md#mhz-c3) [MI](M.md#mi)
+[MI5](M.md#mi5) [MI6](M.md#mi6) [MIA](M.md#mia) [MIB](M.md#mib) [MIC](M.md#mic) [MICE](M.md#mice) [MICTIC](M.md#mictic) [MIE](M.md#mie)
+[MIG](M.md#mig) [MII](M.md#mii) [MIIT](M.md#miit) [MILDEC](M.md#mildec) [MILS](M.md#mils) [MIM](M.md#mim) [MIME](M.md#mime) [MINC](M.md#minc)
+[MINTIC](M.md#mintic) [MIPS](M.md#mips) [MIS](M.md#mis) [MISC](M.md#misc) [MISI](M.md#misi) [MISO](M.md#miso) [MISP](M.md#misp) [MiSRC](M.md#misrc-c1d)
+[MITA](M.md#mita) [MITM](M.md#mitm) [MIVD](M.md#mivd) [MJ](M.md#mj) [MKTME](M.md#mktme) [ML](M.md#ml) [ML-DSA](M.md#ml-x2ddsa) [ML-KEM](M.md#ml-x2dkem)
+[MLAG](M.md#mlag) [MLE](M.md#mle) [MLM](M.md#mlm) [MLOps](M.md#mlops-c7) [MLP](M.md#mlp) [MLS](M.md#mls) [MLWE](M.md#mlwe) [MLWR](M.md#mlwr)
+[MMC](M.md#mmc) [MME](M.md#mme) [MMIO](M.md#mmio) [mMTC](M.md#mmtc-ce) [MMU](M.md#mmu) [MNO-SD](M.md#mno-x2dsd) [MNS](M.md#mns) [MO](M.md#mo)
+[MOB](M.md#mob) [MOBI](M.md#mobi) [MOC](M.md#moc) [MOD](M.md#mod) [MODA](M.md#moda) [MODAF](M.md#modaf) [ModelOps](M.md#modelops-c21) [MODEM](M.md#modem)
+[MOE](M.md#moe) [MoE](M.md#moe-c5) [MOF](M.md#mof) [MOIE](M.md#moie) [MOK](M.md#mok) [MOM](M.md#mom) [MOP](M.md#mop) [MOPS](M.md#mops)
+[MORDA](M.md#morda) [MOSA](M.md#mosa) [MoSCoW](M.md#moscow-c2d) [MOTS](M.md#mots) [MOTW](M.md#motw) [MOU](M.md#mou) [MP](M.md#mp) [MPA](M.md#mpa)
+[MPC](M.md#mpc) [MPDRR](M.md#mpdrr) [MPE](M.md#mpe) [MPEG](M.md#mpeg) [MPI](M.md#mpi) [MPKC](M.md#mpkc) [MPLS](M.md#mpls) [MPLWE](M.md#mplwe)
+[MPP](M.md#mpp) [MPPE](M.md#mppe) [MPS](M.md#mps) [MPT](M.md#mpt) [MPTD](M.md#mptd) [MPU](M.md#mpu) [MQ](M.md#mq) [MQA](M.md#mqa)
+[MQTT](M.md#mqtt) [MQV](M.md#mqv) [MRA](M.md#mra) [MRC](M.md#mrc) [MRES](M.md#mres) [MRP](M.md#mrp) [MRTI](M.md#mrti) [MRTR](M.md#mrtr)
+[MS](M.md#ms) [MS-CHAP](M.md#ms-x2dchap) [MS-DRSR](M.md#ms-x2ddrsr) [ms-DS-MachineAccountQuota](M.md#ms-x2dds-x2dmachineaccountquota-c4081c) [MS-ISAC](M.md#ms-x2disac) [MSA](M.md#msa) [MSB](M.md#msb) [MSC](M.md#msc)
+[mSCP](M.md#mscp-ce) [MSDT](M.md#msdt) [MSE](M.md#mse) [MSF](M.md#msf) [MSFT](M.md#msft) [MSG](M.md#msg) [MSHA](M.md#msha) [MSIS](M.md#msis)
+[MSISDN](M.md#msisdn) [MSISE](M.md#msise) [MSISPM](M.md#msispm) [MSIT-IS](M.md#msit-x2dis) [MSK](M.md#msk) [MSL](M.md#msl) [MSLS](M.md#msls) [MSM](M.md#msm)
+[MSP](M.md#msp) [MSRC](M.md#msrc) [MSS](M.md#mss) [MSSP](M.md#mssp) [MSSQL](M.md#mssql) [MSTIC](M.md#mstic) [MSTP](M.md#mstp) [MSV](M.md#msv)
+[MT](M.md#mt) [MTA](M.md#mta) [MTBF](M.md#mtbf) [MTC](M.md#mtc) [MTD](M.md#mtd) [MTE](M.md#mte) [MtE](M.md#mte-c5) [MTI](M.md#mti)
+[MTIPS](M.md#mtips) [mTLS](M.md#mtls-ce) [MTO](M.md#mto) [MTSRC](M.md#mtsrc) [MTTC](M.md#mttc) [MTTD](M.md#mttd) [MTTF](M.md#mttf) [MTTFD](M.md#mttfd)
+[MTTI](M.md#mtti) [MTTK](M.md#mttk) [MTTR](M.md#mttr) [MTU](M.md#mtu) [MUD](M.md#mud) [MVA](M.md#mva) [MVC](M.md#mvc) [MVCC](M.md#mvcc)
+[MVD](M.md#mvd) [MVM](M.md#mvm) [MVP](M.md#mvp) [MVX](M.md#mvx) [mW](M.md#mw-c2) [MX](M.md#mx)
 
 ### N
 
@@ -729,7 +730,7 @@
 
 ### Y
 
-[YAML](Y.md#yaml) [YANG](Y.md#yang) [YARA](Y.md#yara) [YOLO](Y.md#yolo)
+[YAML](Y.md#yaml) [YANG](Y.md#yang) [YARA](Y.md#yara) [YD](Y.md#yd) [YOLO](Y.md#yolo)
 
 ### Z
 

@@ -1,7 +1,7 @@
 ## G
 
 * <a id="g-x2d2"></a>G-2：美国陆军情报局（Intelligence G-2）
-* <a id="ga"></a>GA：正式可用/生产可用（General Availability）
+* <a id="ga"></a>GA：正式可用/生产可用（General Availability）；公共安全行业标准（Public Security Industry Standard）
 * <a id="gaap"></a>GAAP：一般公认会计原则（Generally Accepted Accounting Principle）
 * <a id="gae"></a>GAE：图自编码器（Graph Autoencoder）
 * <a id="gair"></a>GAIR：全球人工智能与机器人大会（Global Artificial Intelligence and Robotics Conference）
@@ -144,5 +144,6 @@
 * <a id="gvlk"></a>GVLK：微软通用卷授权密钥（Generic Volume License Key）
 * <a id="gw"></a>GW：网关（Gateway）；十亿瓦（Gigawatt）
 * <a id="gwn"></a>GWN：网关节点（Gateway Node）
+* <a id="gy"></a>GY：广播电影电视行业标准（Radio, Film and Television Industry Standard）
 * <a id="gz"></a>GZ：GZIP压缩格式（GNU ZIP）
 * <a id="gzip"></a>GZIP：GZIP压缩格式（GNU ZIP）

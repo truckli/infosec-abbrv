@@ -65,6 +65,7 @@
 * <a id="jsonl"></a>JSONL：每行一条 JSON 记录的行式日志格式（JSON Lines）
 * <a id="jsrc"></a>JSRC：京东安全应急响应中心（JD Security Response Center）
 * <a id="jss"></a>JSS：JWT签名服务（JWT Signing Service）
+* <a id="jt"></a>JT：交通运输行业标准（Transportation Industry Standard）
 * <a id="jtag"></a>JTAG：联合测试行动组协议（Joint Test Action Group）
 * <a id="jtc"></a>JTC：联合技术委员会（Joint Technical Committee）
 * <a id="jtf"></a>JTF：联合任务部队（Joint Task Force）

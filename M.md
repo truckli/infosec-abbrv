@@ -84,6 +84,7 @@
 * <a id="mgcp"></a>MGCP：媒体网关控制协议（Media Gateway Control Protocol）
 * <a id="mgf"></a>MGF：掩码生成函数（Mask Generation Function）
 * <a id="mgw"></a>MGW：媒体网关（Media GateWay）
+* <a id="mh"></a>MH：民用航空行业标准（Civil Aviation Industry Standard）
 * <a id="mha"></a>MHA：印度内政部（Ministry of Home Affairs）
 * <a id="mhz-c3"></a>MHz：兆赫（Megahertz）
 * <a id="mi"></a>MI：美国军事情报部队（Military Intelligence）；管理信息（Management Information）；任务影响（Mission Impact）
