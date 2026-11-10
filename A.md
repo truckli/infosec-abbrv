@@ -159,7 +159,6 @@
 * <a id="alb"></a>ALB：应用程序负载均衡器（Application Load Balancer）
 * <a id="ale"></a>ALE：年化损失预期（Annualized Loss Expectancy）；应用层强制（Application Layer Enforcement）
 * <a id="alfa"></a>ALFA：授权策略简易语言（Abbreviated Language For Authorization）
-* <a id="alm-x2fplm"></a>ALM/PLM：应用生命周期管理/产品生命周期管理（Application Lifecycle Management/Product Lifecycle Management）
 * <a id="alpc"></a>ALPC：异步本地进程间通信（Asynchronous Local Inter-Process Communication）
 * <a id="alpn"></a>ALPN：应用层协议协商（Application Layer Protocol Negotiation）
 * <a id="alts"></a>ALTS：应用层传输安全（Application Layer Transport Security）
