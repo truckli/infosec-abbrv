@@ -16,7 +16,6 @@
 * <a id="gb"></a>GB：国家标准（拼音：Guo Biao）；千兆字节（Gigabyte）
 * <a id="gb-c1"></a>Gb：千兆位（Gigabit）
 * <a id="gb-x2fs-c1"></a>Gb/s：每秒千兆比特（Gigabits per Second）
-* <a id="gb-x2fz"></a>GB/Z：国家标准化指导性技术文件（拼音：Guo Biao/Zhi）
 * <a id="gbdt"></a>GBDT：梯度提升决策树（Gradient Boosting Decision Tree）
 * <a id="gbe-c5"></a>GbE：千兆以太网（Gigabit Ethernet）
 * <a id="gbic"></a>GBIC：千兆接口转换器（Gigabit Interface Converter）

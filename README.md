@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4988**条，词组**6274**条。 
+当前收录缩略词形**4987**条，词组**6273**条。 
 
 
 ## 参考链接
@@ -281,23 +281,23 @@
 
 [G-2](G.md#g-x2d2) [GA](G.md#ga) [GAAP](G.md#gaap) [GAE](G.md#gae) [GAIR](G.md#gair) [GAN](G.md#gan) [GAO](G.md#gao) [GaP](G.md#gap-c5)
 [GAPP](G.md#gapp) [GAPS](G.md#gaps) [GARCH](G.md#garch) [GARD](G.md#gard) [GAT](G.md#gat) [GB](G.md#gb) [Gb](G.md#gb-c1) [Gb/s](G.md#gb-x2fs-c1)
-[GB/Z](G.md#gb-x2fz) [GBDT](G.md#gbdt) [GbE](G.md#gbe-c5) [GBIC](G.md#gbic) [Gbps](G.md#gbps-c1) [GC](G.md#gc) [GC&CS](G.md#gc-x26cs) [GCC](G.md#gcc)
-[GCCP](G.md#gccp) [GCCS](G.md#gccs) [GCG](G.md#gcg) [GCHQ](G.md#gchq) [GCIP](G.md#gcip) [GCKMS](G.md#gckms) [GCM](G.md#gcm) [GCN](G.md#gcn)
-[GCP](G.md#gcp) [GCS](G.md#gcs) [GCSB](G.md#gcsb) [GCSS](G.md#gcss) [GDB](G.md#gdb) [GDDR](G.md#gddr) [GDI](G.md#gdi) [GDJ](G.md#gdj)
-[GDMO](G.md#gdmo) [GDN](G.md#gdn) [GDOI](G.md#gdoi) [GDP](G.md#gdp) [GDPR](G.md#gdpr) [GDS](G.md#gds) [GDT](G.md#gdt) [GDTR](G.md#gdtr)
-[GE](G.md#ge) [GenAI](G.md#genai-c19) [GEO](G.md#geo) [GEOINT](G.md#geoint) [GETVPN](G.md#getvpn) [GF](G.md#gf) [GFE](G.md#gfe) [GFS](G.md#gfs)
-[GFSK](G.md#gfsk) [GGE](G.md#gge) [GGML](G.md#ggml) [GGSN](G.md#ggsn) [GHC](G.md#ghc) [GHR](G.md#ghr) [GHz](G.md#ghz-c3) [GIAC](G.md#giac)
-[GICSP](G.md#gicsp) [GIG](G.md#gig) [GIN](G.md#gin) [GIOP](G.md#giop) [GKE](G.md#gke) [GKH](G.md#gkh) [GLOO](G.md#gloo) [GloVe](G.md#glove-c9)
-[GLS](G.md#gls) [GLUE](G.md#glue) [GM](G.md#gm) [GM/Z](G.md#gm-x2fz) [GMA](G.md#gma) [GMAC](G.md#gmac) [GMITS](G.md#gmits) [GMK](G.md#gmk)
-[GMS](G.md#gms) [GMSK](G.md#gmsk) [GMY](G.md#gmy) [gNB](G.md#gnb-c6) [GND](G.md#gnd) [GNN](G.md#gnn) [GNSS](G.md#gnss) [GNU](G.md#gnu)
-[GOG](G.md#gog) [GoIP](G.md#goip-cd) [GOPS](G.md#gops) [GOSC](G.md#gosc) [GOT](G.md#got) [GoT](G.md#got-c5) [GOTS](G.md#gots) [GOV](G.md#gov)
-[GP](G.md#gp) [GPAI](G.md#gpai) [GPC](G.md#gpc) [GPF](G.md#gpf) [GPFS](G.md#gpfs) [GPG](G.md#gpg) [GPGPU](G.md#gpgpu) [GPL](G.md#gpl)
-[GPMC](G.md#gpmc) [GPO](G.md#gpo) [GPRS](G.md#gprs) [GPS](G.md#gps) [GPT](G.md#gpt) [GPU](G.md#gpu) [GPV](G.md#gpv) [GQL](G.md#gql)
-[GRC](G.md#grc) [GReAT](G.md#great-c1b) [GRID](G.md#grid) [GRO](G.md#gro) [gRPC](G.md#grpc-ce) [GRPO](G.md#grpo) [GRR](G.md#grr) [GRS](G.md#grs)
-[GRU](G.md#gru) [GRUB](G.md#grub) [GS](G.md#gs) [GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm) [GSMA](G.md#gsma)
-[GSN](G.md#gsn) [GSOC](G.md#gsoc) [GST](G.md#gst) [GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk) [GTP](G.md#gtp)
-[GTP-U](G.md#gtp-x2du) [GTX](G.md#gtx) [GUA](G.md#gua) [GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti) [GVLK](G.md#gvlk)
-[GW](G.md#gw) [GWN](G.md#gwn) [GY](G.md#gy) [GZ](G.md#gz) [GZIP](G.md#gzip)
+[GBDT](G.md#gbdt) [GbE](G.md#gbe-c5) [GBIC](G.md#gbic) [Gbps](G.md#gbps-c1) [GC](G.md#gc) [GC&CS](G.md#gc-x26cs) [GCC](G.md#gcc) [GCCP](G.md#gccp)
+[GCCS](G.md#gccs) [GCG](G.md#gcg) [GCHQ](G.md#gchq) [GCIP](G.md#gcip) [GCKMS](G.md#gckms) [GCM](G.md#gcm) [GCN](G.md#gcn) [GCP](G.md#gcp)
+[GCS](G.md#gcs) [GCSB](G.md#gcsb) [GCSS](G.md#gcss) [GDB](G.md#gdb) [GDDR](G.md#gddr) [GDI](G.md#gdi) [GDJ](G.md#gdj) [GDMO](G.md#gdmo)
+[GDN](G.md#gdn) [GDOI](G.md#gdoi) [GDP](G.md#gdp) [GDPR](G.md#gdpr) [GDS](G.md#gds) [GDT](G.md#gdt) [GDTR](G.md#gdtr) [GE](G.md#ge)
+[GenAI](G.md#genai-c19) [GEO](G.md#geo) [GEOINT](G.md#geoint) [GETVPN](G.md#getvpn) [GF](G.md#gf) [GFE](G.md#gfe) [GFS](G.md#gfs) [GFSK](G.md#gfsk)
+[GGE](G.md#gge) [GGML](G.md#ggml) [GGSN](G.md#ggsn) [GHC](G.md#ghc) [GHR](G.md#ghr) [GHz](G.md#ghz-c3) [GIAC](G.md#giac) [GICSP](G.md#gicsp)
+[GIG](G.md#gig) [GIN](G.md#gin) [GIOP](G.md#giop) [GKE](G.md#gke) [GKH](G.md#gkh) [GLOO](G.md#gloo) [GloVe](G.md#glove-c9) [GLS](G.md#gls)
+[GLUE](G.md#glue) [GM](G.md#gm) [GM/Z](G.md#gm-x2fz) [GMA](G.md#gma) [GMAC](G.md#gmac) [GMITS](G.md#gmits) [GMK](G.md#gmk) [GMS](G.md#gms)
+[GMSK](G.md#gmsk) [GMY](G.md#gmy) [gNB](G.md#gnb-c6) [GND](G.md#gnd) [GNN](G.md#gnn) [GNSS](G.md#gnss) [GNU](G.md#gnu) [GOG](G.md#gog)
+[GoIP](G.md#goip-cd) [GOPS](G.md#gops) [GOSC](G.md#gosc) [GOT](G.md#got) [GoT](G.md#got-c5) [GOTS](G.md#gots) [GOV](G.md#gov) [GP](G.md#gp)
+[GPAI](G.md#gpai) [GPC](G.md#gpc) [GPF](G.md#gpf) [GPFS](G.md#gpfs) [GPG](G.md#gpg) [GPGPU](G.md#gpgpu) [GPL](G.md#gpl) [GPMC](G.md#gpmc)
+[GPO](G.md#gpo) [GPRS](G.md#gprs) [GPS](G.md#gps) [GPT](G.md#gpt) [GPU](G.md#gpu) [GPV](G.md#gpv) [GQL](G.md#gql) [GRC](G.md#grc)
+[GReAT](G.md#great-c1b) [GRID](G.md#grid) [GRO](G.md#gro) [gRPC](G.md#grpc-ce) [GRPO](G.md#grpo) [GRR](G.md#grr) [GRS](G.md#grs) [GRU](G.md#gru)
+[GRUB](G.md#grub) [GS](G.md#gs) [GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm) [GSMA](G.md#gsma) [GSN](G.md#gsn)
+[GSOC](G.md#gsoc) [GST](G.md#gst) [GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk) [GTP](G.md#gtp) [GTP-U](G.md#gtp-x2du)
+[GTX](G.md#gtx) [GUA](G.md#gua) [GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti) [GVLK](G.md#gvlk) [GW](G.md#gw)
+[GWN](G.md#gwn) [GY](G.md#gy) [GZ](G.md#gz) [GZIP](G.md#gzip)
 
 ### H
 
