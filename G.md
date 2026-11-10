@@ -145,7 +145,6 @@
 * <a id="guid"></a>GUID：全局唯一标识符（Globally Unique Identifier）
 * <a id="guti"></a>GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * <a id="gvlk"></a>GVLK：微软通用卷授权密钥（Generic Volume License Key）
-* <a id="gw"></a>GW：网关（Gateway）；十亿瓦（Gigawatt）；国家电子政务外网标准（National e-Government External Network，国家电子政务外网管理中心）
 * <a id="gwn"></a>GWN：网关节点（Gateway Node）
 * <a id="gy"></a>GY：广播电影电视行业标准（Radio, Film and Television Industry Standard）
 * <a id="gz"></a>GZ：GZIP压缩格式（GNU ZIP）
