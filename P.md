@@ -22,7 +22,7 @@
 * <a id="pake"></a>PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
 * <a id="palm-cd"></a>PaLM：PaLM模型（Pre-trained Language Model）
 * <a id="palma"></a>PALMA：组合分析机器（Portfolio Analysis Machine）
-* <a id="pam"></a>PAM：权限访问管理（Privileged Access Management）；特权账户和会话管理（Privileged Account Management）；过程资产管理（Process Asset Management）
+* <a id="pam"></a>PAM：权限访问管理（Privileged Access Management）；特权账户和会话管理（Privileged Account Management）；过程资产管理（Process Asset Management）；可插拔认证模块（Pluggable Authentication Module）
 * <a id="pamaas-c27"></a>PAMaaS：特权访问管理即服务（Privileged Access Management as a Service）
 * <a id="paml"></a>PAML：预测分析与机器学习（Predictive Analysis and Machine Learning）
 * <a id="pan"></a>PAN：个人区域网（Personal Area Network）；Palo Alto网络（Palo Alto Networks）；特权访问禁用（Privileged Access Never）
@@ -290,6 +290,7 @@
 * <a id="pua"></a>PUA：灰色应用（Potentially Unwanted Application）；心理操控（Pick-Up Artist）
 * <a id="pub"></a>PUB：出版物（Publication）
 * <a id="pue"></a>PUE：能源使用效率（Power Usage Effectiveness）
+* <a id="puk"></a>PUK：PIN 解锁密钥（PIN Unblocking Key）
 * <a id="pum"></a>PUM：特权用户管理（Privileged User Management）
 * <a id="pup"></a>PUP：灰色软件（Potentially Unwanted Program）
 * <a id="pv"></a>PV：光伏（PhotoVoltaic）；页面访问量（Page Views）；DoDAF项目视角（Project Viewpoint）

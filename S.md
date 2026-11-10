@@ -236,6 +236,7 @@
 * <a id="sm-x2dsr"></a>SM-SR：订阅管理器安全路由模块（Subscription Manager Secure Routing）
 * <a id="sm1"></a>SM1：SM1对称加密算法（Shang Mi 1）
 * <a id="sm2"></a>SM2：SM2非对称加密算法（Shang Mi 2）
+* <a id="sm2-x2fsm3-x2fsm4"></a>SM2/SM3/SM4：国密椭圆曲线公钥密码／杂凑算法／分组密码算法（Chinese National Cryptography Algorithms - SM2 elliptic-curve public key, SM3 hash, SM4 block cipher）
 * <a id="sm3"></a>SM3：SM3消息摘要算法（Shang Mi 3）
 * <a id="sm4"></a>SM4：SM4对称分组密码算法（Shang Mi 4）
 * <a id="sm7"></a>SM7：SM7对称分组密码算法（Shang Mi 7）
