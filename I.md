@@ -338,6 +338,6 @@
 * <a id="ivrs"></a>IVRS：交互式语音应答系统（Interactive Voice Response System）
 * <a id="iw"></a>IW：信息战（Information Warfare）
 * <a id="iw-x2dd"></a>IW-D：信息战-防御（Information Warfare – Defensive）
-* <a id="iwa"></a>IWA：国际工作组协议（International Workshop Agreements）
+* <a id="iwa"></a>IWA：国际工作组协议（International Workshop Agreements）；集成 Windows 身份验证（Integrated Windows Authentication）
 * <a id="iwc"></a>IWC：信息站部门（Information Warfare Community）
 * <a id="iwg"></a>IWG：跨机构工作组（Interagency Working Group）

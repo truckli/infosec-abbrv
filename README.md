@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4972**条，词组**6252**条。 
+当前收录缩略词形**4974**条，词组**6256**条。 
 
 
 ## 参考链接
@@ -62,16 +62,17 @@
 [APNG](A.md#apng) [APNIC](A.md#apnic) [APNs](A.md#apns-c7) [APPA](A.md#appa) [APS](A.md#aps) [APT](A.md#apt) [APTS](A.md#apts) [APWG](A.md#apwg)
 [AR](A.md#ar) [ARA-M](A.md#ara-x2dm) [ARC](A.md#arc) [ARCP](A.md#arcp) [ARCYBER](A.md#arcyber) [ARIMA](A.md#arima) [ARIN](A.md#arin) [ARL](A.md#arl)
 [ARM](A.md#arm) [ARMA](A.md#arma) [ARN](A.md#arn) [ARO](A.md#aro) [ARP](A.md#arp) [ARPF](A.md#arpf) [ARR](A.md#arr) [AS](A.md#as)
-[ASA](A.md#asa) [ASan](A.md#asan-c3) [ASC](A.md#asc) [ASCA](A.md#asca) [ASCII](A.md#ascii) [ASCM](A.md#ascm) [ASD](A.md#asd) [ASDSO](A.md#asdso)
-[ASE](A.md#ase) [aSecPaaS](A.md#asecpaas-c92) [ASG](A.md#asg) [ASI](A.md#asi) [ASIACCS](A.md#asiaccs) [ASIC](A.md#asic) [ASID](A.md#asid) [ASIM](A.md#asim)
-[ASIMS](A.md#asims) [ASLR](A.md#aslr) [ASM](A.md#asm) [ASML](A.md#asml) [ASMS](A.md#asms) [ASN](A.md#asn) [ASO](A.md#aso) [ASOC](A.md#asoc)
-[ASP](A.md#asp) [ASPM](A.md#aspm) [ASPPS](A.md#aspps) [ASR](A.md#asr) [ASRC](A.md#asrc) [ASSIST](A.md#assist) [AST](A.md#ast) [AST10](A.md#ast10)
-[ASTaaS](A.md#astaas-c27) [ASTARTE](A.md#astarte) [ASTO](A.md#asto) [ASV](A.md#asv) [ASW](A.md#asw) [AT](A.md#at) [ATA](A.md#ata) [ATAPI](A.md#atapi)
-[ATC](A.md#atc) [ATF](A.md#atf) [ATG](A.md#atg) [ATH](A.md#ath) [ATIM](A.md#atim) [ATL](A.md#atl) [ATLAS](A.md#atlas) [ATM](A.md#atm)
-[ATO](A.md#ato) [ATOS](A.md#atos) [ATP](A.md#atp) [aTrust](A.md#atrust-c2) [ATS](A.md#ats) [ATSD](A.md#atsd) [ATT](A.md#att) [ATT&CK](A.md#att-x26ck)
-[AU](A.md#au) [AuC](A.md#auc-c5) [AUC](A.md#auc) [AUKUS](A.md#aukus) [AUP](A.md#aup) [AusCERT](A.md#auscert-c79) [AUSF](A.md#ausf) [AutoML](A.md#automl-c31)
-[AV](A.md#av) [AVC](A.md#avc) [AVIEN](A.md#avien) [AVISPA](A.md#avispa) [AVP](A.md#avp) [AVPTCC](A.md#avptcc) [AVS](A.md#avs) [AVX](A.md#avx)
-[AWARE](A.md#aware) [AWD](A.md#awd) [AWGN](A.md#awgn) [AWS](A.md#aws) [AWWA](A.md#awwa) [AX](A.md#ax) [AXDR](A.md#axdr) [AZET](A.md#azet)
+[AS-REP](A.md#as-x2drep) [AS-REQ](A.md#as-x2dreq) [ASA](A.md#asa) [ASan](A.md#asan-c3) [ASC](A.md#asc) [ASCA](A.md#asca) [ASCII](A.md#ascii) [ASCM](A.md#ascm)
+[ASD](A.md#asd) [ASDSO](A.md#asdso) [ASE](A.md#ase) [aSecPaaS](A.md#asecpaas-c92) [ASG](A.md#asg) [ASI](A.md#asi) [ASIACCS](A.md#asiaccs) [ASIC](A.md#asic)
+[ASID](A.md#asid) [ASIM](A.md#asim) [ASIMS](A.md#asims) [ASLR](A.md#aslr) [ASM](A.md#asm) [ASML](A.md#asml) [ASMS](A.md#asms) [ASN](A.md#asn)
+[ASO](A.md#aso) [ASOC](A.md#asoc) [ASP](A.md#asp) [ASPM](A.md#aspm) [ASPPS](A.md#aspps) [ASR](A.md#asr) [ASRC](A.md#asrc) [ASSIST](A.md#assist)
+[AST](A.md#ast) [AST10](A.md#ast10) [ASTaaS](A.md#astaas-c27) [ASTARTE](A.md#astarte) [ASTO](A.md#asto) [ASV](A.md#asv) [ASW](A.md#asw) [AT](A.md#at)
+[ATA](A.md#ata) [ATAPI](A.md#atapi) [ATC](A.md#atc) [ATF](A.md#atf) [ATG](A.md#atg) [ATH](A.md#ath) [ATIM](A.md#atim) [ATL](A.md#atl)
+[ATLAS](A.md#atlas) [ATM](A.md#atm) [ATO](A.md#ato) [ATOS](A.md#atos) [ATP](A.md#atp) [aTrust](A.md#atrust-c2) [ATS](A.md#ats) [ATSD](A.md#atsd)
+[ATT](A.md#att) [ATT&CK](A.md#att-x26ck) [AU](A.md#au) [AuC](A.md#auc-c5) [AUC](A.md#auc) [AUKUS](A.md#aukus) [AUP](A.md#aup) [AusCERT](A.md#auscert-c79)
+[AUSF](A.md#ausf) [AutoML](A.md#automl-c31) [AV](A.md#av) [AVC](A.md#avc) [AVIEN](A.md#avien) [AVISPA](A.md#avispa) [AVP](A.md#avp) [AVPTCC](A.md#avptcc)
+[AVS](A.md#avs) [AVX](A.md#avx) [AWARE](A.md#aware) [AWD](A.md#awd) [AWGN](A.md#awgn) [AWS](A.md#aws) [AWWA](A.md#awwa) [AX](A.md#ax)
+[AXDR](A.md#axdr) [AZET](A.md#azet)
 
 ### B
 

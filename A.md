@@ -196,7 +196,7 @@
 * <a id="aoc-x2dws"></a>AOC-WS：美国空军运营中心武器系统（Air Operations Center Weapon System）
 * <a id="aodr"></a>AODR：授权官指定代表（Authorizing Official Designated Representative）
 * <a id="aop"></a>AOP：面向切面编程（Aspect-Oriented Programming）；面向代理编程（Agent-Oriented Programming）
-* <a id="ap"></a>AP：接入点（Access Point）；执行器轮廓（Actuator Profile）；分析处理（Analytical Processing）
+* <a id="ap"></a>AP：接入点（Access Point）；执行器轮廓（Actuator Profile）；分析处理（Analytical Processing）；应用服务（Application Server）
 * <a id="apake-c1e"></a>aPAKE：非对称口令鉴别密钥协商（asymmetric Password-Authenticated Key Agreement）
 * <a id="apc"></a>APC：异步过程调用（Asynchronous Procedure Call）
 * <a id="apca"></a>APCA：应用协议命令分析（Application Protocol Command Analysis）
@@ -232,6 +232,8 @@
 * <a id="arpf"></a>ARPF：认证凭证库和处理功能（Authentication Credential Repository and Processing Function）
 * <a id="arr"></a>ARR：年度经常性收入（Annual Recurring Revenue）
 * <a id="as"></a>AS：互联网自治域（Autonomous System）；接入层（Access Stratum）；鉴别服务器（Authentication Server）；弹性伸缩（Auto Scaling）
+* <a id="as-x2drep"></a>AS-REP：AS 返回的认证应答（Authentication Service Reply）
+* <a id="as-x2dreq"></a>AS-REQ：向 AS 发送的认证请求（Authentication Service Request）
 * <a id="asa"></a>ASA：自适应安全架构（Adaptive Security Architecture）；攻击面评估（Attack Surface Assessment）；思科自适应安全设备（Adaptive Security Applicance）
 * <a id="asan-c3"></a>ASan：地址检查器（Address Sanitizer）
 * <a id="asc"></a>ASC：公认标准委员会（Accredited Standards Committee）；升序（ASCending）
