@@ -9,7 +9,8 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4971**条，词组**6251**条。 
+当前收录缩略词形**4972**条，词组**6252**条。 
+
 
 ## 参考链接
 
@@ -380,10 +381,10 @@
 [kbps](K.md#kbps-c0) [Kbps](K.md#kbps-c1) [KBV](K.md#kbv) [KCM](K.md#kcm) [KCon](K.md#kcon-c3) [KDC](K.md#kdc) [KDD](K.md#kdd) [KDE](K.md#kde)
 [KDF](K.md#kdf) [KDM](K.md#kdm) [KEK](K.md#kek) [KEM](K.md#kem) [KEV](K.md#kev) [KG](K.md#kg) [KGC](K.md#kgc) [KGD](K.md#kgd)
 [KGE](K.md#kge) [KGQA](K.md#kgqa) [KHAPE](K.md#khape) [KiB](K.md#kib-c5) [KICS](K.md#kics) [KISA](K.md#kisa) [KL](K.md#kl) [KM](K.md#km)
-[KMaaS](K.md#kmaas-c13) [KMAC](K.md#kmac) [KMC](K.md#kmc) [KMIP](K.md#kmip) [KMS](K.md#kms) [KN-CERT](K.md#kn-x2dcert) [KPA](K.md#kpa) [KPI](K.md#kpi)
-[KPMG](K.md#kpmg) [KPT](K.md#kpt) [KPTI](K.md#kpti) [KQL](K.md#kql) [KR](K.md#kr) [KRACK](K.md#krack) [krCERT/CC](K.md#krcert-x2fcc-cfc) [KRI](K.md#kri)
-[KRR](K.md#krr) [KSF](K.md#ksf) [KSG](K.md#ksg) [KSK](K.md#ksk) [KSPM](K.md#kspm) [KT-C](K.md#kt-x2dc) [KTO](K.md#kto) [KV](K.md#kv)
-[KVM](K.md#kvm) [KwaiSRC](K.md#kwaisrc-c71) [KYB](K.md#kyb) [KYC](K.md#kyc) [KYCC](K.md#kycc) [KYSRC](K.md#kysrc)
+[KMaaS](K.md#kmaas-c13) [KMAC](K.md#kmac) [KMC](K.md#kmc) [KMIP](K.md#kmip) [KMS](K.md#kms) [KMSI](K.md#kmsi) [KN-CERT](K.md#kn-x2dcert) [KPA](K.md#kpa)
+[KPI](K.md#kpi) [KPMG](K.md#kpmg) [KPT](K.md#kpt) [KPTI](K.md#kpti) [KQL](K.md#kql) [KR](K.md#kr) [KRACK](K.md#krack) [krCERT/CC](K.md#krcert-x2fcc-cfc)
+[KRI](K.md#kri) [KRR](K.md#krr) [KSF](K.md#ksf) [KSG](K.md#ksg) [KSK](K.md#ksk) [KSPM](K.md#kspm) [KT-C](K.md#kt-x2dc) [KTO](K.md#kto)
+[KV](K.md#kv) [KVM](K.md#kvm) [KwaiSRC](K.md#kwaisrc-c71) [KYB](K.md#kyb) [KYC](K.md#kyc) [KYCC](K.md#kycc) [KYSRC](K.md#kysrc)
 
 ### L
 

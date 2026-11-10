@@ -37,6 +37,7 @@
 * <a id="kmc"></a>KMC：密钥管理中心（Key Management Center）
 * <a id="kmip"></a>KMIP：密钥管理互操作性协议（Key Management Interoperability Protocol）
 * <a id="kms"></a>KMS：密钥管理服务（Key Management Service）；内核模式设定（Kernel Mode Setting）；密钥管理系统（Key Management System）
+* <a id="kmsi"></a>KMSI：保持登录状态（Keep Me Signed In）
 * <a id="kn-x2dcert"></a>KN-CERT：韩国国家网络安全应急响应团队（Korea National Computer Emergency Response Team）
 * <a id="kpa"></a>KPA：已知明文攻击（Known-Plaintext Attack）
 * <a id="kpi"></a>KPI：关键绩效指标（Key Performance Indicator）
