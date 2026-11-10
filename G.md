@@ -146,6 +146,5 @@
 * <a id="guti"></a>GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * <a id="gvlk"></a>GVLK：微软通用卷授权密钥（Generic Volume License Key）
 * <a id="gwn"></a>GWN：网关节点（Gateway Node）
-* <a id="gy"></a>GY：广播电影电视行业标准（Radio, Film and Television Industry Standard）
 * <a id="gz"></a>GZ：GZIP压缩格式（GNU ZIP）
 * <a id="gzip"></a>GZIP：GZIP压缩格式（GNU ZIP）

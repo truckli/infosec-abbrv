@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4989**条，词组**6273**条。 
+当前收录缩略词形**4988**条，词组**6272**条。 
 
 
 ## 参考链接
@@ -297,7 +297,7 @@
 [GRS](G.md#grs) [GRU](G.md#gru) [GRUB](G.md#grub) [GS](G.md#gs) [GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm)
 [GSMA](G.md#gsma) [GSN](G.md#gsn) [GSOC](G.md#gsoc) [GST](G.md#gst) [GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk)
 [GTP](G.md#gtp) [GTP-U](G.md#gtp-x2du) [GTX](G.md#gtx) [GUA](G.md#gua) [GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti)
-[GVLK](G.md#gvlk) [GWN](G.md#gwn) [GY](G.md#gy) [GZ](G.md#gz) [GZIP](G.md#gzip)
+[GVLK](G.md#gvlk) [GWN](G.md#gwn) [GZ](G.md#gz) [GZIP](G.md#gzip)
 
 ### H
 
