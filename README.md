@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4988**条，词组**6274**条。 
+当前收录缩略词形**4987**条，词组**6273**条。 
 
 
 ## 参考链接
@@ -670,20 +670,20 @@
 ### U
 
 [U/C](U.md#u-x2fc) [U2F](U.md#u2f) [UA](U.md#ua) [UAC](U.md#uac) [UAF](U.md#uaf) [UAM](U.md#uam) [UAO](U.md#uao) [UAR](U.md#uar)
-[UAR/PED](U.md#uar-x2fped) [UARC](U.md#uarc) [UAS](U.md#uas) [UAU](U.md#uau) [UAV](U.md#uav) [UBA](U.md#uba) [UBB](U.md#ubb) [UBO](U.md#ubo)
-[UC](U.md#uc) [UCAO](U.md#ucao) [UCC](U.md#ucc) [UCDMO](U.md#ucdmo) [UCDSMO](U.md#ucdsmo) [UCG](U.md#ucg) [UCMJ](U.md#ucmj) [UCO](U.md#uco)
-[UCP](U.md#ucp) [uCPE](U.md#ucpe-ce) [UCR](U.md#ucr) [UCS](U.md#ucs) [UCSB](U.md#ucsb) [UDDI](U.md#uddi) [UDF](U.md#udf) [uDH](U.md#udh-c6)
-[UDI](U.md#udi) [UDLR](U.md#udlr) [UDM](U.md#udm) [UDP](U.md#udp) [UDR](U.md#udr) [UDS](U.md#uds) [UE](U.md#ue) [UEBA](U.md#ueba)
-[UEF](U.md#uef) [UEFI](U.md#uefi) [UEM](U.md#uem) [UES](U.md#ues) [UFP](U.md#ufp) [UGC](U.md#ugc) [UHF](U.md#uhf) [UI](U.md#ui)
-[UICC](U.md#uicc) [UIDAI](U.md#uidai) [UIM](U.md#uim) [UIMe](U.md#uime-c7) [UIO](U.md#uio) [UIP](U.md#uip) [UIPI](U.md#uipi) [UIUC](U.md#uiuc)
-[UK](U.md#uk) [UKAS](U.md#ukas) [UKRI](U.md#ukri) [UMA](U.md#uma) [UMD](U.md#umd) [UMDF](U.md#umdf) [UMDS](U.md#umds) [UML](U.md#uml)
-[UMTS](U.md#umts) [UN](U.md#un) [UNC](U.md#unc) [UNECE](U.md#unece) [UNI](U.md#uni) [UNIX](U.md#unix) [UNSW](U.md#unsw) [UOS](U.md#uos)
-[UOV](U.md#uov) [UP](U.md#up) [UPDSS](U.md#updss) [UPF](U.md#upf) [UPI](U.md#upi) [UPN](U.md#upn) [UPnP](U.md#upnp-cb) [UPS](U.md#ups)
-[UPSIDE](U.md#upside) [URI](U.md#uri) [URL](U.md#url) [uRLLC](U.md#urllc-c1e) [URN](U.md#urn) [URPF](U.md#urpf) [US2QC](U.md#us2qc) [USAF](U.md#usaf)
-[USAFA](U.md#usafa) [USAFE](U.md#usafe) [USB](U.md#usb) [USC](U.md#usc) [USCERT](U.md#uscert) [USCYBERCOM](U.md#uscybercom) [USD](U.md#usd) [USDA](U.md#usda)
-[USDC](U.md#usdc) [USDOT](U.md#usdot) [USDT](U.md#usdt) [USG](U.md#usg) [USGCB](U.md#usgcb) [USIM](U.md#usim) [USL](U.md#usl) [USMC](U.md#usmc)
-[USMTF](U.md#usmtf) [USN](U.md#usn) [USSOCOM](U.md#ussocom) [USSTRATCOM](U.md#usstratcom) [UTC](U.md#utc) [UTM](U.md#utm) [UTP](U.md#utp) [UTRAN](U.md#utran)
-[UTS](U.md#uts) [UUID](U.md#uuid) [UV](U.md#uv) [UWB](U.md#uwb) [UX](U.md#ux) [UXN](U.md#uxn)
+[UARC](U.md#uarc) [UAS](U.md#uas) [UAU](U.md#uau) [UAV](U.md#uav) [UBA](U.md#uba) [UBB](U.md#ubb) [UBO](U.md#ubo) [UC](U.md#uc)
+[UCAO](U.md#ucao) [UCC](U.md#ucc) [UCDMO](U.md#ucdmo) [UCDSMO](U.md#ucdsmo) [UCG](U.md#ucg) [UCMJ](U.md#ucmj) [UCO](U.md#uco) [UCP](U.md#ucp)
+[uCPE](U.md#ucpe-ce) [UCR](U.md#ucr) [UCS](U.md#ucs) [UCSB](U.md#ucsb) [UDDI](U.md#uddi) [UDF](U.md#udf) [uDH](U.md#udh-c6) [UDI](U.md#udi)
+[UDLR](U.md#udlr) [UDM](U.md#udm) [UDP](U.md#udp) [UDR](U.md#udr) [UDS](U.md#uds) [UE](U.md#ue) [UEBA](U.md#ueba) [UEF](U.md#uef)
+[UEFI](U.md#uefi) [UEM](U.md#uem) [UES](U.md#ues) [UFP](U.md#ufp) [UGC](U.md#ugc) [UHF](U.md#uhf) [UI](U.md#ui) [UICC](U.md#uicc)
+[UIDAI](U.md#uidai) [UIM](U.md#uim) [UIMe](U.md#uime-c7) [UIO](U.md#uio) [UIP](U.md#uip) [UIPI](U.md#uipi) [UIUC](U.md#uiuc) [UK](U.md#uk)
+[UKAS](U.md#ukas) [UKRI](U.md#ukri) [UMA](U.md#uma) [UMD](U.md#umd) [UMDF](U.md#umdf) [UMDS](U.md#umds) [UML](U.md#uml) [UMTS](U.md#umts)
+[UN](U.md#un) [UNC](U.md#unc) [UNECE](U.md#unece) [UNI](U.md#uni) [UNIX](U.md#unix) [UNSW](U.md#unsw) [UOS](U.md#uos) [UOV](U.md#uov)
+[UP](U.md#up) [UPDSS](U.md#updss) [UPF](U.md#upf) [UPI](U.md#upi) [UPN](U.md#upn) [UPnP](U.md#upnp-cb) [UPS](U.md#ups) [UPSIDE](U.md#upside)
+[URI](U.md#uri) [URL](U.md#url) [uRLLC](U.md#urllc-c1e) [URN](U.md#urn) [URPF](U.md#urpf) [US2QC](U.md#us2qc) [USAF](U.md#usaf) [USAFA](U.md#usafa)
+[USAFE](U.md#usafe) [USB](U.md#usb) [USC](U.md#usc) [USCERT](U.md#uscert) [USCYBERCOM](U.md#uscybercom) [USD](U.md#usd) [USDA](U.md#usda) [USDC](U.md#usdc)
+[USDOT](U.md#usdot) [USDT](U.md#usdt) [USG](U.md#usg) [USGCB](U.md#usgcb) [USIM](U.md#usim) [USL](U.md#usl) [USMC](U.md#usmc) [USMTF](U.md#usmtf)
+[USN](U.md#usn) [USSOCOM](U.md#ussocom) [USSTRATCOM](U.md#usstratcom) [UTC](U.md#utc) [UTM](U.md#utm) [UTP](U.md#utp) [UTRAN](U.md#utran) [UTS](U.md#uts)
+[UUID](U.md#uuid) [UV](U.md#uv) [UWB](U.md#uwb) [UX](U.md#ux) [UXN](U.md#uxn)
 
 ### V
 

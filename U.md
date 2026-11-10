@@ -8,7 +8,6 @@
 * <a id="uam"></a>UAM：用户活动监控（User Activity Monitoring）
 * <a id="uao"></a>UAO：用户访问覆盖（User Access Override）
 * <a id="uar"></a>UAR：不安全动作率，D-H SoK提出的可从agent轨迹计算的安全度量（Unsafe Action Rate）
-* <a id="uar-x2fped"></a>UAR/PED：不安全动作率/提权距离（Unsafe Action Rate/Privilege Escalation Distance，D-H SoK 提出的可从 agent 轨迹计算的安全度量）
 * <a id="uarc"></a>UARC：大学附属研究中心（University Affiliated Research Center）
 * <a id="uas"></a>UAS：用户代理服务器（User Agent Server）；无人机系统（Unmanned AeriaI System）
 * <a id="uau"></a>UAU：受攻击条件下的任务效用（Utility Under Attack）
