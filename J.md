@@ -53,7 +53,6 @@
 * <a id="jpes"></a>JPES：联合计划与执行服务（Joint Planning and Execution Services）
 * <a id="jpo-x2dstc"></a>JPO-STC：特殊技术反制联合计划办公室（Joint Program Office for Special Technical Countermeasures）
 * <a id="jr"></a>JR：金融（Jin Rong，金融行业标准，中国人民银行）
-* <a id="jr-x2ft"></a>JR/T：金融行业推荐性标准（Financial Industry Recommended Standard）
 * <a id="jrasp"></a>JRASP：Java应用自我保护系统（Java Runtime Application Self-Protection）
 * <a id="jre"></a>JRE：Java运行时环境（Java Runtime Environment）
 * <a id="jrss"></a>JRSS：联合区域安全栈（Joint Regional Security Stack）
