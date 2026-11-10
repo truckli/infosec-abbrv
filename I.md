@@ -209,7 +209,6 @@
 * <a id="ipfix"></a>IPFIX：IP数据流信息输出（Internet Protocol Flow Information Export）
 * <a id="ipfs"></a>IPFS：星际文件系统（Inter-Planetary File System）
 * <a id="ipi"></a>IPI：间接提示注入（Indirect Prompt Injection）
-* <a id="ipi-x2fdpi"></a>IPI/DPI：间接/直接提示注入（Indirect/Direct Prompt Injection）
 * <a id="ipl"></a>IPL：初始程序加载器（Initial Program Loader）
 * <a id="ipmc"></a>IPMC：智能平台管理控制器（Intelligent Platform Management Controller）
 * <a id="ipmo"></a>IPMO：信息安全计划管理办公室（INFOSEC Program Management Office）
