@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4991**条，词组**6277**条。 
+当前收录缩略词形**4990**条，词组**6276**条。 
 
 
 ## 参考链接
@@ -169,10 +169,10 @@
 [CTAP](C.md#ctap) [CTE](C.md#cte) [CTE-RWP](C.md#cte-x2drwp) [CTEM](C.md#ctem) [CTF](C.md#ctf) [CTI](C.md#cti) [CTIA](C.md#ctia) [CTID](C.md#ctid)
 [CTIIC](C.md#ctiic) [CTIO](C.md#ctio) [CTL](C.md#ctl) [CTM](C.md#ctm) [CTN](C.md#ctn) [CTO](C.md#cto) [CTQ](C.md#ctq) [CTR](C.md#ctr)
 [CTSA](C.md#ctsa) [CTSRD](C.md#ctsrd) [CTTL](C.md#cttl) [CU](C.md#cu) [CUA](C.md#cua) [CUDA](C.md#cuda) [CUI](C.md#cui) [CV](C.md#cv)
-[CVA](C.md#cva) [CVD](C.md#cvd) [CVE](C.md#cve) [CVE/CVSS/NVD](C.md#cve-x2fcvss-x2fnvd) [CVERC](C.md#cverc) [CVP](C.md#cvp) [CVPR](C.md#cvpr) [CVR](C.md#cvr)
-[CVRF](C.md#cvrf) [CVS](C.md#cvs) [CVSS](C.md#cvss) [CW](C.md#cw) [CWA](C.md#cwa) [CWAF](C.md#cwaf) [CWC](C.md#cwc) [CWE](C.md#cwe)
-[CWI](C.md#cwi) [CWPP](C.md#cwpp) [CWS](C.md#cws) [CX](C.md#cx) [CyBDAT](C.md#cybdat-c3d) [CYBINT](C.md#cybint) [CyBOK](C.md#cybok-c1d) [CyDefSIG](C.md#cydefsig-ce5)
-[CyOTE](C.md#cyote-c1d) [CyphiD](C.md#cyphid-c21) [CyTRICS](C.md#cytrics-c7d)
+[CVA](C.md#cva) [CVD](C.md#cvd) [CVE](C.md#cve) [CVERC](C.md#cverc) [CVP](C.md#cvp) [CVPR](C.md#cvpr) [CVR](C.md#cvr) [CVRF](C.md#cvrf)
+[CVS](C.md#cvs) [CVSS](C.md#cvss) [CW](C.md#cw) [CWA](C.md#cwa) [CWAF](C.md#cwaf) [CWC](C.md#cwc) [CWE](C.md#cwe) [CWI](C.md#cwi)
+[CWPP](C.md#cwpp) [CWS](C.md#cws) [CX](C.md#cx) [CyBDAT](C.md#cybdat-c3d) [CYBINT](C.md#cybint) [CyBOK](C.md#cybok-c1d) [CyDefSIG](C.md#cydefsig-ce5) [CyOTE](C.md#cyote-c1d)
+[CyphiD](C.md#cyphid-c21) [CyTRICS](C.md#cytrics-c7d)
 
 ### D
 

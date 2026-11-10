@@ -595,7 +595,6 @@
 * <a id="cva"></a>CVA：网络安全漏洞评估系统（Cybersecurity Vulnerability Assessment）
 * <a id="cvd"></a>CVD：协同漏洞披露（Coordinated Vulnerability Disclosure）
 * <a id="cve"></a>CVE：通用漏洞与暴露（Common Vulnerabilities & Exposures）
-* <a id="cve-x2fcvss-x2fnvd"></a>CVE/CVSS/NVD：公开漏洞编号/漏洞评分体系/美国国家漏洞数据库（Common Vulnerabilities and Exposures/Common Vulnerability Scoring System/National Vulnerability Database）
 * <a id="cverc"></a>CVERC：国家计算机病毒应急处理中心（National Computer Virus Emergency Response Center）
 * <a id="cvp"></a>CVP：最近向量问题（Closest vector problem）
 * <a id="cvpr"></a>CVPR：计算机视觉与模式识别会议（Conference on Computer Vision and Pattern Recognition）
