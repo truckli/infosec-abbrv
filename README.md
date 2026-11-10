@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4986**条，词组**6272**条。 
+当前收录缩略词形**4985**条，词组**6271**条。 
 
 
 ## 参考链接
@@ -352,16 +352,16 @@
 [ISAC](I.md#isac) [ISACA](I.md#isaca) [ISAE](I.md#isae) [ISAKMP](I.md#isakmp) [ISAM](I.md#isam) [ISAO](I.md#isao) [ISATAP](I.md#isatap) [ISC](I.md#isc)
 [ISC2](I.md#isc2) [ISCAT](I.md#iscat) [ISCCC](I.md#isccc) [ISCE](I.md#isce) [ISCF](I.md#iscf) [ISCM](I.md#iscm) [iSCSI](I.md#iscsi-c1e) [ISD-P](I.md#isd-x2dp)
 [ISD-R](I.md#isd-x2dr) [ISDN](I.md#isdn) [ISE](I.md#ise) [ISEAA](I.md#iseaa) [ISecL](I.md#isecl-c13) [ISecL-DC](I.md#isecl-x2ddc-c73) [ISECOME](I.md#isecome) [ISG](I.md#isg)
-[ISID](I.md#isid) [ISIM](I.md#isim) [ISIRT](I.md#isirt) [ISM](I.md#ism) [ISMS](I.md#isms) [ISO](I.md#iso) [ISO/IEC](I.md#iso-x2fiec) [ISOC](I.md#isoc)
-[ISOO](I.md#isoo) [ISOP](I.md#isop) [ISOP-DS](I.md#isop-x2dds) [ISOP-RA](I.md#isop-x2dra) [ISP](I.md#isp) [ISPAB](I.md#ispab) [ISPIM](I.md#ispim) [ISPL](I.md#ispl)
-[ISR](I.md#isr) [ISRD](I.md#isrd) [ISRM](I.md#isrm) [ISRMC](I.md#isrmc) [ISS](I.md#iss) [ISSA](I.md#issa) [ISSE](I.md#isse) [ISSM](I.md#issm)
-[ISSO](I.md#isso) [ISSPM](I.md#isspm) [ISSS](I.md#isss) [IST](I.md#ist) [ISTQB](I.md#istqb) [ISU](I.md#isu) [ISV](I.md#isv) [ISW](I.md#isw)
-[IT](I.md#it) [ITA](I.md#ita) [ITAF](I.md#itaf) [ITAI](I.md#itai) [ITAIP](I.md#itaip) [ITAM](I.md#itam) [ITAR](I.md#itar) [ITDG](I.md#itdg)
-[ITDR](I.md#itdr) [ITES](I.md#ites) [ITF](I.md#itf) [ITG](I.md#itg) [ITGI](I.md#itgi) [ITI](I.md#iti) [ITIF](I.md#itif) [ITIL](I.md#itil)
-[ITL](I.md#itl) [ITM](I.md#itm) [ITMRA](I.md#itmra) [ITOA](I.md#itoa) [ITOM](I.md#itom) [ITOps](I.md#itops-c7) [ITRM](I.md#itrm) [ITS](I.md#its)
-[ITSG](I.md#itsg) [ITSM](I.md#itsm) [ITSMS](I.md#itsms) [ITSS](I.md#itss) [ITSTEC](I.md#itstec) [ITT](I.md#itt) [ITU](I.md#itu) [ITU-T](I.md#itu-x2dt)
-[ITW](I.md#itw) [IV](I.md#iv) [IV&V](I.md#iv-x26v) [IVA](I.md#iva) [IVC](I.md#ivc) [IVI](I.md#ivi) [IVP](I.md#ivp) [IVR](I.md#ivr)
-[IVRS](I.md#ivrs) [IW](I.md#iw) [IW-D](I.md#iw-x2dd) [IWA](I.md#iwa) [IWC](I.md#iwc) [IWG](I.md#iwg)
+[ISID](I.md#isid) [ISIM](I.md#isim) [ISIRT](I.md#isirt) [ISM](I.md#ism) [ISMS](I.md#isms) [ISO](I.md#iso) [ISOC](I.md#isoc) [ISOO](I.md#isoo)
+[ISOP](I.md#isop) [ISOP-DS](I.md#isop-x2dds) [ISOP-RA](I.md#isop-x2dra) [ISP](I.md#isp) [ISPAB](I.md#ispab) [ISPIM](I.md#ispim) [ISPL](I.md#ispl) [ISR](I.md#isr)
+[ISRD](I.md#isrd) [ISRM](I.md#isrm) [ISRMC](I.md#isrmc) [ISS](I.md#iss) [ISSA](I.md#issa) [ISSE](I.md#isse) [ISSM](I.md#issm) [ISSO](I.md#isso)
+[ISSPM](I.md#isspm) [ISSS](I.md#isss) [IST](I.md#ist) [ISTQB](I.md#istqb) [ISU](I.md#isu) [ISV](I.md#isv) [ISW](I.md#isw) [IT](I.md#it)
+[ITA](I.md#ita) [ITAF](I.md#itaf) [ITAI](I.md#itai) [ITAIP](I.md#itaip) [ITAM](I.md#itam) [ITAR](I.md#itar) [ITDG](I.md#itdg) [ITDR](I.md#itdr)
+[ITES](I.md#ites) [ITF](I.md#itf) [ITG](I.md#itg) [ITGI](I.md#itgi) [ITI](I.md#iti) [ITIF](I.md#itif) [ITIL](I.md#itil) [ITL](I.md#itl)
+[ITM](I.md#itm) [ITMRA](I.md#itmra) [ITOA](I.md#itoa) [ITOM](I.md#itom) [ITOps](I.md#itops-c7) [ITRM](I.md#itrm) [ITS](I.md#its) [ITSG](I.md#itsg)
+[ITSM](I.md#itsm) [ITSMS](I.md#itsms) [ITSS](I.md#itss) [ITSTEC](I.md#itstec) [ITT](I.md#itt) [ITU](I.md#itu) [ITU-T](I.md#itu-x2dt) [ITW](I.md#itw)
+[IV](I.md#iv) [IV&V](I.md#iv-x26v) [IVA](I.md#iva) [IVC](I.md#ivc) [IVI](I.md#ivi) [IVP](I.md#ivp) [IVR](I.md#ivr) [IVRS](I.md#ivrs)
+[IW](I.md#iw) [IW-D](I.md#iw-x2dd) [IWA](I.md#iwa) [IWC](I.md#iwc) [IWG](I.md#iwg)
 
 ### J
 

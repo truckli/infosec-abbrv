@@ -270,7 +270,6 @@
 * <a id="ism"></a>ISM：信息安全管理（Information Security Management）；工业、科学和医疗（Industrial, Scientific & Medical）
 * <a id="isms"></a>ISMS：信息安全管理体系（Information Security Management System）
 * <a id="iso"></a>ISO：国际标准化组织（International Organization for Standardization）；ISO镜像文件格式（ISO 9600）
-* <a id="iso-x2fiec"></a>ISO/IEC：国际标准化组织／国际电工委员会（International Organization for Standardization / International Electrotechnical Commission）
 * <a id="isoc"></a>ISOC：国际互联网协会（Internet Society）
 * <a id="isoo"></a>ISOO：美国信息安全监督办公室（Information Security Oversight Office）
 * <a id="isop"></a>ISOP：智能安全运营平台（Intelligent Security Operation Platform）
