@@ -259,7 +259,6 @@
 * <a id="isd-x2dr"></a>ISD-R：发行机构安全域 - 根（Issuer Security Domain - Root）
 * <a id="isdn"></a>ISDN：综合服务数字网（Integrated Service Digital Network）
 * <a id="ise"></a>ISE：快速安全擦除（Instant Secure Erase）；身份服务引擎（Identity Services Engine）
-* <a id="iseaa"></a>ISEAA：信息安全测评联盟（InfoSecurity Evaluation and Assessment Association）；中关村信息安全测评联盟（团标代号，T/ISEAA）
 * <a id="isecl-c13"></a>ISecL：英特尔安全库（Intel Security Libraries）
 * <a id="isecl-x2ddc-c73"></a>ISecL-DC：英特尔数据中心安全库（Intel Security Libraries for Data Center）
 * <a id="isecome"></a>ISECOME：美国安全和开放方法研究所（Institute for Security and Open Methodologies）
