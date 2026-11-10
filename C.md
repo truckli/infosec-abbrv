@@ -120,7 +120,6 @@
 * <a id="ccf"></a>CCF：中国计算机学会（China Computer Federation）；CAPIF 核心功能（CAPIF Core Function）
 * <a id="ccfir"></a>CCFIR：紧凑控制流完整性和随机化（Compact Control Flow Integrity and Randomization）
 * <a id="cci"></a>CCI：网络反间谍（Cyber Counterintelligence）；通用控制指标（Common Control Index）
-* <a id="ccia"></a>CCIA：中国网络安全产业联盟（China Cybersecurity Industry Alliance）；中国网络安全产业联盟（China Cybersecurity Industry Alliance，团标代号，T/CCIA）
 * <a id="ccid"></a>CCID：中国电子信息产业发展研究院（China Center for Information Industry Development）
 * <a id="ccie"></a>CCIE：思科认证网络专家（Cisco Certified Internetwork Expert）
 * <a id="ccip"></a>CCIP：跨链互操作性协议（Cross-Chain Interoperability Protocol）
