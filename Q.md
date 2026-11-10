@@ -16,7 +16,6 @@
 * <a id="qfd"></a>QFD：质量功能展开（Quality Function Deployment）
 * <a id="qft"></a>QFT：量子傅里叶变换（Quantum Fourier Transform）
 * <a id="qkd"></a>QKD：量子密钥分发（Quantum Key Distribution）
-* <a id="qlora-c1b"></a>QLoRA：量化低秩适配器微调法（Quantized Low Rank Adapters）
 * <a id="qmc"></a>QMC：奎因－麦克拉斯基算法（Quine–McCluskey）
 * <a id="qms"></a>QMS：质量管理系统（Quality management system）
 * <a id="qnap"></a>QNAP：某存储设备公司（QNAP Systems, Inc.）

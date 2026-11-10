@@ -76,7 +76,6 @@
 * <a id="dcs"></a>DCS：分布式缓存服务（Distributed Cache Service）；集散控制系统（Distributed Control System）；国防通信系统（Defense Communications System）
 * <a id="dcsa"></a>DCSA：美国国防反情报与安全局（Defense Counterintelligence & Security Agency）
 * <a id="dcsync-c7"></a>DCSync：域控同步协议（Directory Replication Service 复制协议滥用技术）
-* <a id="dcu"></a>DCU：汽车域控制器（Domain Control Unit）
 * <a id="dcvc2"></a>DCVC2：Discord语音通道指挥控制工具（Discord Voice Channel C2）
 * <a id="dcws"></a>DCWS：防御网络武器系统（Defense Cyber Weapons Systems）；防御网络武器系统（Defense Cyber Weapons System）
 * <a id="dd"></a>DD：定义双字指令（Define Doubleword）；数据域（Data Domain）
@@ -180,9 +179,7 @@
 * <a id="djioc"></a>DJIOC：国防联合情报作战中心（Defense Joint Intelligence Operations Center）
 * <a id="dkim"></a>DKIM：域密钥标识邮件（Domain Keys Identified Mail）
 * <a id="dkms"></a>DKMS：去中心化密钥管理系统（Decentralized Key Management System）
-* <a id="dl"></a>DL：深度学习（Deep Learning）
 * <a id="dla"></a>DLA：美国国防物流局（Defense Logistics Agency）
-* <a id="dlg"></a>DLG：深度泄漏梯度（Deep Leakage from Gradients）
 * <a id="dlin-c3"></a>DLin：判定线性假设（Decisional Linear Assumption）
 * <a id="dll"></a>DLL：动态链接库（Dynamic-Link library）
 * <a id="dlp"></a>DLP：数据泄露预防（Data Leakage Prevention）；数据防泄漏（Data Loss Prevention）
@@ -204,7 +201,6 @@
 * <a id="dmp"></a>DMP：数据管理平台（Data Management Platform）
 * <a id="dmr"></a>DMR：数码移动无线电（Digital Mobile Radio）
 * <a id="dms"></a>DMS：数据库迁移服务（Database Migration Service）；数字现代化战略（Digital Modernization Strategy）；设备管理服务（Device Management Service）；数字媒体服务器（Digital Media Server）；数据脱敏系统（Data Masking System）；驾驶员监控系统（Driver Monitor System）；阿里云数据管理服务（Data Management Service）
-* <a id="dmsp"></a>DMSP：汽车联网数字化和出行服务提供商（Digital & Mobility Service Provider）
 * <a id="dmz"></a>DMZ：隔离区（Demilitarized Zone）
 * <a id="dn"></a>DN：可分辨名称（Distinguished Name）；域名（Domain Name）
 * <a id="dna"></a>DNA：数据网络架构（Digital Network Architecture）
@@ -212,7 +208,6 @@
 * <a id="dnc"></a>DNC：分布式数控（Distributed Numerical Control）；美国民主党全国委员会（Democratic National Committee）
 * <a id="dni"></a>DNI：美国国家情报总监（Director of National Intelligence）
 * <a id="dnint"></a>DNINT：数字网络情报（Digital Network Intelligence）
-* <a id="dnn"></a>DNN：深度神经网络（Deep Neural Networks）；数据网络名称（Data Network Name）
 * <a id="dnp"></a>DNP：分布式网络协议（Distributed Network Protocol）
 * <a id="dnp3"></a>DNP3：分布式网络协议（Distributed Network Protocol 3）
 * <a id="dns"></a>DNS：域名系统（Domain Name System）；域名服务（Domain Name Service）
@@ -243,7 +238,6 @@
 * <a id="doj-c5"></a>DoJ：美国司法部（Department of Justice）
 * <a id="don-c5"></a>DoN：美国海军部（Department of the Navy）
 * <a id="don"></a>DON：去中心化预言机网络（Decentralized Oracle Network）
-* <a id="dona"></a>DONA：多纳基金会（DONA Foundation）
 * <a id="dop"></a>DOP：面向数据编程攻击（Data Oriented Programming）
 * <a id="dora"></a>DORA：DevOps研究与评估（DevOps Research and Assessment）
 * <a id="dos-c5"></a>DoS：拒绝服务攻击（Denial of Service）
@@ -268,7 +262,6 @@
 * <a id="dps"></a>DPS：DDoS保护服务（DDoS Protection Service）
 * <a id="dq"></a>DQ：定义QWORD（Define QWORD）
 * <a id="dql"></a>DQL：数据查询语言（Data Query Language）
-* <a id="dqn"></a>DQN：深度Q网络（强化学习算法）（Deep Q-Network）
 * <a id="dqpsk"></a>DQPSK：差分四阶相移键控（Differential Quaternary Phase Shift Keying）
 * <a id="dr"></a>DR：灾难恢复（Disaster Recovery）；检测与响应（Detection & Response）
 * <a id="dra"></a>DRA：数据风险评估（Data Risk Assessment）；动态资源分配（Dynamic Resource Allocation）

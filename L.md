@@ -8,7 +8,6 @@
 * <a id="lacp"></a>LACP：链路聚合控制协议（Link Aggregation Control Protocol）
 * <a id="lads"></a>LADS：利用模拟域实现安全性（Leveraging the Analog Domain for Security）
 * <a id="lag"></a>LAG：链路聚合组（Link Aggregation Group）
-* <a id="lamda-c1d"></a>LaMDA：LaMDA模型（Language Models for Dialog Applications）
 * <a id="lamp"></a>LAMP：Linux＋Apache＋MySQL＋PHP（Linux＋Apache＋MySQL＋PHP）
 * <a id="lan"></a>LAN：局域网（Local Area Network）
 * <a id="lanl"></a>LANL：美国洛斯阿拉莫斯国家实验室（Los Alamos National Laboratory）
@@ -47,7 +46,6 @@
 * <a id="lft"></a>LFT：环形容错协议（Loop Fault Tolerance）
 * <a id="lh"></a>LH：六合赌博（拼音：Liu He）
 * <a id="lid"></a>LID：基于日志的入侵检测（Log based Intrusion Detection）
-* <a id="lidar-c1d"></a>LiDAR：激光雷达（Light Detection and Ranging）
 * <a id="lima"></a>LIMA：浅层对齐假说（Less Is More for Alignment）
 * <a id="lime"></a>LIME：局部可解释模型无关解释（Local Interpretable Model-agnostic Explanations）
 * <a id="lin"></a>LIN：局域网互联网络（Local Interconnect Network）
@@ -57,7 +55,6 @@
 * <a id="llb"></a>LLB：链路负载均衡（Link Load Balancing）
 * <a id="llc"></a>LLC：逻辑链路控制（Logical Link Control）
 * <a id="lldp"></a>LLDP：链路层发现协议（Link Layer Discovery Protocol）
-* <a id="llm"></a>LLM：大规模语言模型（Large Language Model）
 * <a id="llmnr"></a>LLMNR：本地链路多播名称解析（Link-Local Multicast Name Resolution）
 * <a id="llp"></a>LLP：链路层协议（Link Layer Protocol）
 * <a id="llvm"></a>LLVM：LLVM编译器（Low Level Virtual Machine）
@@ -69,7 +66,6 @@
 * <a id="loc-c5"></a>LoC：实质性失控率（Loss of Control）
 * <a id="loco"></a>LOCO：留一队列或中心（Leave-One-Cohort/Center-Out）
 * <a id="lod"></a>LOD：链接开放数据（Linked Open Data）
-* <a id="lodo"></a>LODO：留一数据集（Leave-One-Dataset-Out）
 * <a id="loe"></a>LOE：工作量级别（Level of Effort）
 * <a id="lof"></a>LOF：局部离群因子（Local Outlier Factor）
 * <a id="logiic"></a>LOGIIC：链接石油天然气行业以提升网络安全（Linking the Oil and Gas Industry to Improve Cybersecurity）
@@ -80,7 +76,6 @@
 * <a id="loldriver-cf"></a>LOLDriver：离地驱动程序（Living Off The Land Driver）
 * <a id="lop"></a>LOP：局部作战图（Local Operational Picture）
 * <a id="lora-c5"></a>LoRa：远距离无线电（Long Range Radio）
-* <a id="lora-cd"></a>LoRA：低秩适应微调技术（Low-Rank Adaptation）
 * <a id="los"></a>LOS：视线传播（Line-Of-Sight propagation）
 * <a id="loso"></a>LOSO：留一受试者（Leave-One-Subject-Out）
 * <a id="lotl-c9"></a>LotL：离地攻击（Living off the Land）

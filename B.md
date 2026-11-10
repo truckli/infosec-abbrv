@@ -1,6 +1,5 @@
 ## B
 
-* <a id="b-x2fp-x2fc-x2fs"></a>B/P/C/S：军事基地、哨所、营地或工作站（Base/Post/Camp/Station）
 * <a id="baa"></a>BAA：泛机构公告（Broad Agency Announcement）；商业伙伴协议（Business Associate Agreement）
 * <a id="baas-c9"></a>BaaS：备份即服务（Backup-as-a-Service）；后端即服务（Backend-as-a-Service）
 * <a id="bab"></a>BAB：谷歌Borg二进制授权（Binary Authentication on Borg）
@@ -9,7 +8,6 @@
 * <a id="bae"></a>BAE：BAE系统公司（缩写起源：British AErospace）；百度应用引擎（Baidu App Engine）
 * <a id="bah"></a>BAH：博思艾伦公司（Booz Allen Hamilton）
 * <a id="ban"></a>BAN：体域网（Body Area Network）；贝尔斯-阿巴迪-尼德汉逻辑（Burrows–Abadi–Needham）
-* <a id="bart"></a>BART：双向自回归Transformer模型（Bidirectional and Auto-Regressive Transformers）
 * <a id="bas"></a>BAS：入侵与攻击模拟（Breach and Attack Simulation）；楼宇自动化系统（Building Automation System）
 * <a id="bat"></a>BAT：蓝牙地址追踪（Bluetooth Address Tracking）
 * <a id="bbc"></a>BBC：百度弹性裸金属服务器（Baidu Baremetal Compute）；英国广播公司（British Broadcasting Corporation）
@@ -37,7 +35,6 @@
 * <a id="beast"></a>BEAST：BEAST攻击（Browser Exploit Against SSL/TLS）
 * <a id="bep"></a>BEP：行为执行预防（Behavioral Execution Prevention）
 * <a id="ber"></a>BER：基本编码规则（Basic Encoding Rules）；比特错误率（Bit Error Rate）
-* <a id="bert"></a>BERT：基于变换器的双向编码器表示（Bidirectional Encoder Representations from Transformers）
 * <a id="bes"></a>BES：散装电力系统（Bulk Electric System）
 * <a id="bfa"></a>BFA：暴力破解攻击（Brute Force Attacking）
 * <a id="bfd"></a>BFD：双向转发侦测（Bidirectional Forwarding Detection）
@@ -52,7 +49,6 @@
 * <a id="bi"></a>BI：商业智能（Business Intelligence）；构建与集成（Building & Integration）
 * <a id="bia"></a>BIA：业务影响分析（Business Impact Analysis）
 * <a id="bike"></a>BIKE：比特翻转密钥封装（Bit-flipping Key Encapsulation）
-* <a id="bilstm-c3d"></a>BiLSTM：双向长短时记忆网络（BiDirectional LSTM）
 * <a id="bim"></a>BIM：基本迭代法（Basic Iterative Method）
 * <a id="bios"></a>BIOS：基本输入输出系统（Basic Input Output System）
 * <a id="bis"></a>BIS：美国工业与安全局（Bureau of Industry and Security）
@@ -84,7 +80,6 @@
 * <a id="bos"></a>BOS：百度智能云对象存储（Baidu Object Storage）
 * <a id="boss"></a>BOSS：业务运营支撑系统（Business & Operation Support System）
 * <a id="botnet-c1"></a>Botnet：僵尸网络（Robot Network）
-* <a id="bp"></a>BP：基本实践（Base Practice）；反向传播（Back Propagation）；基指针寄存器（Base Pointer）
 * <a id="bp16"></a>BP16：谷歌半精度浮点数（Brain Float 16-bit, BF16）
 * <a id="bpc"></a>BPC：业务过程攻击（Business Process Compromise）
 * <a id="bpcs"></a>BPCS：基本过程控制系统（Basic Process Control System）

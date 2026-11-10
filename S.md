@@ -115,7 +115,6 @@
 * <a id="sdram"></a>SDRAM：同步动态随机存取存储器（Synchronous Dynamic Random Access Memory）
 * <a id="sds"></a>SDS：软件定义安全（Software Defined Security）；软件定义存储（Software Defined Storage）
 * <a id="sdu"></a>SDU：服务数据单元（Service Data Unit）
-* <a id="sdv"></a>SDV：软件定义汽车（Software-Defined Vehicle）
 * <a id="sdword"></a>SDWORD：有符号双字（Signed Doubleword）
 * <a id="sdx-c3"></a>SDx：软件定义万物（Software Defined everything）
 * <a id="sdxi-cb"></a>SDxI：软件定义万物基础设施（Software Defined everything Infrastructures）
@@ -154,11 +153,9 @@
 * <a id="sfp"></a>SFP：安全功能策略（Security Function Policy）；简单功能点（Simple Function Point）；小型可热插拔光收发一体模块（Small Form-factor Pluggsable）
 * <a id="sfr"></a>SFR：安全功能需求（Security Function Requirement）
 * <a id="sfsrc"></a>SFSRC：顺丰安全应急响应中心（Shunfeng Security Response Center）
-* <a id="sft"></a>SFT：监督微调（Supervised Fine-Tuning）
 * <a id="sftp"></a>SFTP：SSH文件传输协议（SSH File Transfer Protocol）
 * <a id="sg"></a>SG：安全网关（Security Gateway）；子工作组（Sub Groups）；研究组（Study Group）
 * <a id="sgcc"></a>SGCC：智能电网网络安全委员会（Smart Grid Cybersecurity Committee）
-* <a id="sgd"></a>SGD：随机梯度下降（Stochastic Gradient Descent）
 * <a id="sgid"></a>SGID：SGID（Set Group ID）
 * <a id="sgip"></a>SGIP：NIST智能电网互操作面板（Smart Grid Interoperability Panel）
 * <a id="sgml"></a>SGML：标准通用标记语言（Standard Generalized Markup Language）
@@ -223,7 +220,6 @@
 * <a id="slg"></a>SLG：销售主导型增长（Sales-Led Growth）
 * <a id="slh-x2ddsa"></a>SLH-DSA：无状态哈希基数字签名算法（Stateless Hash-Based Digital Signature Algorithm）
 * <a id="slip"></a>SLIP：串行线路网际协议（Serial Line Internet Protocol）
-* <a id="slm"></a>SLM：小语言模型（Small Language Model）
 * <a id="slo"></a>SLO：服务等级目标（Service Level Objective）
 * <a id="slr"></a>SLR：系统文献综述（Systematic Literature Review）
 * <a id="sls"></a>SLS：单级安全体（Single Level Secure）；阿里云日志服务（Simple Log Service）
@@ -349,7 +345,6 @@
 * <a id="sr-x2diov"></a>SR-IOV：单根I/O虚拟化（Single Root I/O Virtualization）
 * <a id="sra"></a>SRA：安全风险评估（Security Risk Assessment）
 * <a id="src"></a>SRC：安全应急响应中心（Security Response Center）
-* <a id="srcnn"></a>SRCNN：超分辨率卷积神经网络（Super-Resolution Convolutional Neural Network）
 * <a id="sre"></a>SRE：站点可靠性工程（Site Reliability Engineering）
 * <a id="sres"></a>SRES：GSM签名响应（Signed Response）
 * <a id="sri"></a>SRI：SRI国际公司（Stanford Research Institute）；子资源完整性（Subresource Integrity）
@@ -449,7 +444,6 @@
 * <a id="svcv-c9"></a>SvcV：DoDAF服务视角（Services Viewpoint）
 * <a id="svid"></a>SVID：SPIFFE可验证身份文档（SPIFFE Verifiable Identity Document）
 * <a id="svip"></a>SVIP：硅谷创新计划（Silicon Valley Innovation Program）
-* <a id="svl"></a>SVL：自动驾驶仿真器（如LGSVL）（Autonomous Vehicle Simulator）
 * <a id="svm"></a>SVM：支持向量机（Support Vector Machine）；安全虚拟机（Secure Virtual Machine）
 * <a id="svp"></a>SVP：最短向量问题（Shortest vector problem）
 * <a id="svr"></a>SVR：俄罗斯联邦对外情报局（俄语拉丁化：Sluzhba Vneshney razvedki Rossiyskoy Federatsii）

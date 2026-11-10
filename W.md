@@ -7,7 +7,6 @@
 * <a id="waas-c9"></a>WaaS：Windows即服务（Windows as a Service）
 * <a id="wad"></a>WAD：WardenSwap数字币（WardenSwap）
 * <a id="waf"></a>WAF：Web应用防火墙（Web Application Firewall）
-* <a id="waic"></a>WAIC：世界人工智能大会（World Artificial Intelligence Conference）
 * <a id="wam"></a>WAM：Web访问管理（Web Access Management）
 * <a id="wan"></a>WAN：广域网（Wide Area Network）
 * <a id="wanet"></a>WANET：无线自组织网络（Wireless Ad-hoc NETwork）
@@ -36,7 +35,6 @@
 * <a id="wfp"></a>WFP：Windows过滤平台（Windows Filtering Platform）
 * <a id="wg"></a>WG：工作组（Working Group）
 * <a id="wgan"></a>WGAN：Wasserstein生成对抗网络（Wasserstein GAN）
-* <a id="wgan-x2dgp"></a>WGAN-GP：具有梯度惩罚的WGAN（WGAN with Gradient Penalty）
 * <a id="wgn"></a>WGN：高斯白噪声（White Gaussian Noise）
 * <a id="whfb-cb"></a>WHfB：Windows Hello 企业版（Windows Hello for Business）
 * <a id="wic"></a>WIC：世界互联网大会（World Internet Conference）

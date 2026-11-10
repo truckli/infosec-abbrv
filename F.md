@@ -1,7 +1,6 @@
 ## F
 
 * <a id="f3ead"></a>F3EAD：查找、定位、消除、利用、分析和传播（Find, Fix, Finish, Exploit, Analyze and Disseminate）
-* <a id="faa"></a>FAA：美国联邦航空管理局（Federal Aviation Administration）
 * <a id="faas-c9"></a>FaaS：函数即服务（Function as a Service）；金融即服务（Finance As A Service）
 * <a id="fab"></a>FAB：特色、优势、价值（Feature, Advantage & Benefit）
 * <a id="fae"></a>FAE：现场应用工程师（Field Application Engineer）
@@ -15,7 +14,6 @@
 * <a id="fat"></a>FAT：文件分配表（File Allocation Table）
 * <a id="fatf"></a>FATF：反洗钱金融行动特别工作组（Financial Action Task Force on Money Laundering）
 * <a id="fbi"></a>FBI：美国联邦调查局（Federal Bureau of Investigation）
-* <a id="fc"></a>FC：光纤通道（Fibre Channel）；加拿大金融部（法语：Ministère des Finances Canada）；神经网络全连接层（Fully Connected）；函数调用（Function Call）
 * <a id="fc-x2fip"></a>FC/IP：光纤通道互联协议（Fibre Channel over Internet Protocol）
 * <a id="fc2"></a>FC2：联邦式指挥与控制（Federated Command & Control）
 * <a id="fca"></a>FCA：英国金融行为管理局（Financial Conduct Authority）
@@ -47,10 +45,8 @@
 * <a id="fema"></a>FEMA：联邦应急管理局（Federal Emergency Management Agency）
 * <a id="fett"></a>FETT：“寻找漏洞阻止篡改”赏金计划（Finding Exploits to Thwart Tampering）
 * <a id="ffi"></a>FFI：外部功能接口（Foreign Function Interface）
-* <a id="ffn"></a>FFN：前馈神经网络（Feed-Forward Networks）
 * <a id="ffrdc"></a>FFRDC：美国联资研发中心（Federally Funded Research & Development Center）
 * <a id="fgs"></a>FGS：火和燃气系统（Fire & Gas Systems）
-* <a id="fgsm"></a>FGSM：快速梯度符号法（Fast Gradient Sign Method）
 * <a id="fhe"></a>FHE：全同态加密（Fully Homomorphic Encryption）
 * <a id="fhmqv"></a>FHMQV：全哈希MQV协议（Fully Hashed Menezes-Qu-Vanstone）
 * <a id="fhss"></a>FHSS：跳频扩频（Frequency Hopping Spread Spectrum）
@@ -77,14 +73,11 @@
 * <a id="fisma"></a>FISMA：美国联邦信息安全现代化法案（Federal Information Security Modernization Act）；联邦信息安全管理法案（Federal Information Security Management Act）
 * <a id="fissea"></a>FISSEA：联邦信息系统安全教育协会（Federal Information Systems Security Educators Association）
 * <a id="fiwc"></a>FIWC：舰队信息战中心（Fleet information Warfare Center）
-* <a id="fl"></a>FL：联邦学习（Federated Learning）
-* <a id="flmm"></a>FLMM：面向金融业务场景的大模型应用能力评估（Financial Large Model Application Capability Assessment Model）
 * <a id="flops"></a>FLOPS：每秒浮点运算数（Floating-point Operations Per Second）
 * <a id="fm"></a>FM：故障管理（Fault Management）
 * <a id="fm-x26a"></a>FM&A：取证与恶意代码分析（Forensics & Malware Analysis）
 * <a id="fma"></a>FMA：混合浮点运算（Fused Multiply-Add）
 * <a id="fmc"></a>FMC：Firepower管理中心（Firepower Management Center ）
-* <a id="fmcsa"></a>FMCSA：联邦汽车运输安全管理局（Federal Motor Carrier Safety Administration）
 * <a id="fmea"></a>FMEA：失效模式和影响分析（Failure Modes & Effect Analysis）
 * <a id="fms"></a>FMS：弗鲁勒-曼廷-沙米尔攻击（Fluhrer-Mantin-Shamir）
 * <a id="fn"></a>FN：漏报（False Negative）
@@ -123,7 +116,6 @@
 * <a id="fs"></a>FS：额外段寄存器（F extra Segment）
 * <a id="fs-x2disac"></a>FS-ISAC：金融服务信息共享与分析中心（Financial Services Information Sharing & Analysis Center）
 * <a id="fsb"></a>FSB：俄罗斯联邦安全局（俄语拉丁化：Federal'naya Sluzhba Bezopasnosti Rossiyskoy Federatsii）
-* <a id="fsd"></a>FSD：全自动驾驶（特斯拉品牌术语）（Full Self-Driving）
 * <a id="fsdp"></a>FSDP：全分片数据并行（Fully Sharded Data Parallel）
 * <a id="fsf"></a>FSF：自由软件基金会（Free Software Foundation）
 * <a id="fsl"></a>FSL：设施安全等级（Facility Security Level）

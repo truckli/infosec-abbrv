@@ -2,7 +2,6 @@
 
 * <a id="t-x2dbox"></a>T-BOX：远程信息处理器（Telematics BOX）
 * <a id="t-x2f"></a>T/：团体标准（Tuan Ti，社会团体代号前缀，如 T/CCIA、T/TAF）
-* <a id="t5"></a>T5：T5模型（Transfer Text-to-Text Transformer）
 * <a id="ta"></a>TA：可信应用（Trusted Application）；跟踪区（Tracking Area）；时耗分析（Timing Analysis）；发送端地址（Transmitter Address）
 * <a id="tac"></a>TAC：跟踪区码（Tracking Area Code）；类型分配码（Type Allocation Code）；威胁分析中心（Threat Analysis Center）
 * <a id="tac-x2dd"></a>TAC-D：绿盟网络高级威胁检测系统（Threat Analysis Center - Detection）
@@ -129,7 +128,6 @@
 * <a id="tops"></a>TOPS：每秒万亿次运算数（Tera Operations Per Second）；TOPS原则（Targeted, Over-arching, Powerful & Supportable）
 * <a id="tor"></a>TOR：洋葱路由（The Onion Router）；架顶（Top-of-Rack）
 * <a id="tos"></a>TOS：可信操作系统（Trusted Operating System）
-* <a id="tot-c5"></a>ToT：大模型思维树（Tree of Thought）
 * <a id="totp"></a>TOTP：动态口令（Time-based One-Time Password）
 * <a id="tou"></a>TOU：使用时间（Time-Of-Use）
 * <a id="tp"></a>TP：转化类规程（Transformation Procedures）；事务处理（Transaction Processing）；真阳性（True Positive）；张量并行（Tensor Parallelism）
@@ -171,7 +169,6 @@
 * <a id="tsmc"></a>TSMC：台积电（Taiwan Semiconductor Manufacturing Company Limited）
 * <a id="tsme"></a>TSME：透明内存加密（Transparent Memory Encryption）
 * <a id="tsn"></a>TSN：可信系统与网络（Trusted Systems & Networks）；过渡安全网络（Transition Security Network）
-* <a id="tsne"></a>TSNE：t分布随机邻域嵌入（t-Distributed Stochastic Neighbor Embedding）
 * <a id="tsp"></a>TSP：TCM服务提供者（TCM Service Provider）；TSS服务提供层（TSS Service Provider）；时间戳协议（Time Stamp Protocol）；电信服务优先级（Telecommunications Service Priority）；汽车远程服务提供商（Telematics Service Provider）
 * <a id="tsrc"></a>TSRC：腾讯安全应急响应中心（Tencent Security Response Center）
 * <a id="tss"></a>TSS：可信软件栈（TCG Software Stack）；时间戳服务（Time Stamp Service）；任务状态段（Task State Segment）
@@ -187,7 +184,6 @@
 * <a id="tte"></a>TTE：时间触发以太网（Time Triggered Ethernet）
 * <a id="ttfb"></a>TTFB：首字节时间（Time To First Byte）
 * <a id="ttfp"></a>TTFP：首次绘制时间（Time To First Paint）
-* <a id="ttft"></a>TTFT：首 Token 时间（Time To First Token）
 * <a id="tti"></a>TTI：可交互时间（Time To Interactive）
 * <a id="ttl"></a>TTL：生存时间（Time To Live）；晶体管-晶体管逻辑电平（Transistor-Transistor Logic）
 * <a id="ttlb"></a>TTLB：末字节时间（Time To Last Byte）
@@ -195,7 +191,6 @@
 * <a id="ttm"></a>TTM：上市时间（Time To Market）
 * <a id="ttp"></a>TTP：战术、技术和过程（Tactics, Techniques & Procedures）；可信第三方（Trusted Third Party）
 * <a id="ttr"></a>TTR：修复时间（Time To Repair）
-* <a id="tts"></a>TTS：文本转语音（Text-to-Speech）
 * <a id="ttv"></a>TTV：价值实现时间（Time To Value）
 * <a id="ttx"></a>TTX：桌面练习（TableTop eXercises）
 * <a id="tup"></a>TUP：用户在场测试（Test of User Presence）

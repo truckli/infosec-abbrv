@@ -109,7 +109,6 @@
 * <a id="hulk"></a>HULK：某Web压力测试工具（Http Unbearable Load King）
 * <a id="humint"></a>HUMINT：人力情报（HUMan INTelligence）
 * <a id="hva"></a>HVA：高价值资产（High Value Asset）
-* <a id="hvac"></a>HVAC：暖通空调（Heating, Ventilation & Air Conditioning）
 * <a id="hvci"></a>HVCI：虚拟机监控器强制代码一致性（HyperVisor-enforced Code Integrity）
 * <a id="hvv"></a>HVV：某攻防演练活动（HVV）
 * <a id="hw"></a>HW：某攻防演练活动（HW）；硬件（HardWare）；华为公司（拼音：Hua Wei）

@@ -3,7 +3,6 @@
 * <a id="x3dh"></a>X3DH：扩展式三路DH协议（Extended Triple Diffie-Hellman）
 * <a id="xaa"></a>XAA：跨应用访问（Cross App Access）
 * <a id="xacml"></a>XACML：可扩展访问控制标记语言（eXtensible Access Control Markup Language）
-* <a id="xai"></a>XAI：可解释人工智能（eXplainable Artificial Intelligence）
 * <a id="xauth"></a>XAUTH：可扩展认证（Extended Authentication）
 * <a id="xbow"></a>XBOW：安全基准测试公司（XBOW）
 * <a id="xbt"></a>XBT：比特币（Bitcoin）

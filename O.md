@@ -17,9 +17,7 @@
 * <a id="oasw"></a>OASW：带外接入交换机（Out-of-band Access SWitch）
 * <a id="oath"></a>OATH：开放认证计划（Initiative for Open Authentication）
 * <a id="oauth-c3"></a>OAuth：开放授权协议（Open Authentication）
-* <a id="ob"></a>OB：开放银行（Open Banking）
 * <a id="obd"></a>OBD：车载诊断系统（On Board Diagnostics）
-* <a id="obie"></a>OBIE：开放式银行实施实体（Open Banking Implementation Entity）
 * <a id="obm"></a>OBM：原始品牌制造商（Original Brand Manufacturer）
 * <a id="obo"></a>OBO：代表用户换取短期令牌的代理令牌流（On-Behalf-Of）
 * <a id="obsai"></a>OBSAI：开放基站架构倡议（Open Base Station Architecture Initiative）
@@ -63,8 +61,6 @@
 * <a id="ofb"></a>OFB：输出反馈模态（Output Feedback）
 * <a id="ofdm"></a>OFDM：正交频分复用（Orthogonal Frequency-Division Multiplexing）
 * <a id="ofx"></a>OFX：开放式金融交易所（Open Financial Exchange）
-* <a id="og-x2drag"></a>OG-RAG：本体引导检索增强生成（Ontology-Guided Retrieval-Augmented Generation）
-* <a id="ogas"></a>OGAS：前苏联全国自动化会计与系统处理系统（俄语拉丁化：ObweGosudarstvennaq Avtomatizirovannaq Sistema uchyota i obrabotki informacii）
 * <a id="ogc"></a>OGC：原英国政府贸易办公室（Office of Government Commerce）
 * <a id="oia"></a>OIA：美国财政部情报和分析办公室（Office of Intelligence and Analysis）
 * <a id="oici"></a>OICI：美国能源部情报和反情报办公室（Office of Intelligence & Counterintelligence）
@@ -74,7 +70,6 @@
 * <a id="oig"></a>OIG：监察长办公室（Office of the Inspector General）
 * <a id="ois"></a>OIS：互联网安全组织（Organization for Internet Safety）
 * <a id="oisp"></a>OISP：美国对外投资安全计划（Outbound Investment Security Program）
-* <a id="okf"></a>OKF：开放知识基金会（Open Knowledge Foundation）
 * <a id="okr"></a>OKR：目标与关键成果法（Objectives and Key Results）
 * <a id="oks"></a>OKS：不经意关键词检索（Oblivious Keyword Search）
 * <a id="olap"></a>OLAP：联机分析处理（Online Analytical Processing）
@@ -95,7 +90,6 @@
 * <a id="onf"></a>ONF：开放网络基金会（Open Networking Foundation）
 * <a id="ong"></a>ONG：石油天然气行业（Oil & Natural Gas）
 * <a id="oni"></a>ONI：美国海军情报室（Office of Naval Intelligence）
-* <a id="onnx"></a>ONNX：ONNX模型格式（Open Neural Network eXchange）
 * <a id="onsi"></a>ONSI：美国缉毒局国家安全情报办公室（Office of National Security Intelligence）
 * <a id="ooa"></a>OOA：面向对象分析（Object-Oriented Analysis）
 * <a id="ooad"></a>OOAD：面向对象分析与设计（Object-Oriented Analysis & Design）

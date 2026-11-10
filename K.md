@@ -21,11 +21,7 @@
 * <a id="kek"></a>KEK：密钥加密密钥（Key Encryption Key）；密钥交换密钥（Key Exchange）
 * <a id="kem"></a>KEM：密钥封装机制（Key Encapsulation Mechanism）
 * <a id="kev"></a>KEV：已知利用漏洞（Known Exploited Vulnerabilities）
-* <a id="kg"></a>KG：知识图谱（Knowledge Graph）；密钥流生成器（Keystream Generator）
-* <a id="kgc"></a>KGC：密钥生成中心（Key Generation Center）；知识图谱补全（Knowledge Graph Completion）
 * <a id="kgd"></a>KGD：密钥生成与分发（Key Generation and Distribution）
-* <a id="kge"></a>KGE：知识图谱嵌入（Knowledge Graph Embedding）
-* <a id="kgqa"></a>KGQA：知识图谱问答（Knowledge Graph Question Answering）
 * <a id="khape"></a>KHAPE：密钥隐藏非对称PAKE（Key-Hiding Asymmetric PAKE）
 * <a id="kib-c5"></a>KiB：1024字节（Kili Bytes）
 * <a id="kics"></a>KICS：基础设施即代码安全扫描工具（Keeping Infrastructure as Code Secure）
@@ -55,7 +51,6 @@
 * <a id="ksk"></a>KSK：密钥签名密钥（Key-Signing Key）
 * <a id="kspm"></a>KSPM：Kubernetes安全态势管理（Kubernetes Security Posture Management）
 * <a id="kt-x2dc"></a>KT-C：网络空间关键地形（Key Terrain in Cyberspace）
-* <a id="kto"></a>KTO：知识蒸馏优化（Knowledge Distillation Optimization）
 * <a id="kv"></a>KV：键值（Key-Value）
 * <a id="kvm"></a>KVM：基于内核的虚拟机（Kernel-based Virtual Machine）
 * <a id="kwaisrc-c71"></a>KwaiSRC：快手安全应急响应中心（Kuai Security Response Center）

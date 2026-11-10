@@ -12,8 +12,6 @@
 * <a id="radics"></a>RADICS：DARPA快速攻击检测、隔离和特征识别系统项目（Rapid Attack Detection, Isolation & Characterization Systems）
 * <a id="radius"></a>RADIUS：远程认证拨号用户服务（Remote Authentication Dial-In User Service）
 * <a id="rados"></a>RADOS：Ceph自主分布式对象存储（Reliable Autonomic Distributed Object Store）
-* <a id="raft"></a>RAFT：奖励排名微调（Reward rAnked Fine Tuning）
-* <a id="rag"></a>RAG：检索增强生成（Retrieval-Augmented Generation）
 * <a id="raid"></a>RAID：独立磁盘冗余阵列（(Redundant Array Of Independent Disk）
 * <a id="raii"></a>RAII：资源获取即初始化（Resource Acquisition Is Initialization）
 * <a id="rait"></a>RAIT：独立磁带冗余阵列（Redundant Array Of Independent Tape）
@@ -49,7 +47,6 @@
 * <a id="rdat"></a>RDAT：RDAT后门（RDAT）
 * <a id="rdb"></a>RDB：关系数据库（Relational Database）；Redis数据库（Redis Database）
 * <a id="rdbms"></a>RDBMS：关系型数据库管理系统（Relational Database Management System）
-* <a id="rdd"></a>RDD：弹性分布式数据集（Resilient Distributed Dataset）
 * <a id="rde"></a>RDE：实际行驶排放（测试循环）（Real Driving Emissions）
 * <a id="rdf"></a>RDF：资源描述框架（Resource Description Framework）
 * <a id="rdi"></a>RDI：某64位寄存器代号（Register Destination Index）
@@ -87,19 +84,13 @@
 * <a id="ris"></a>RIS：放射科信息系统（Radiology Information System）
 * <a id="risc"></a>RISC：精简指令集计算机（Reduced Instruction Set Computer）；OpenID风险与事件共享协调（Risk & Incident Sharing & Collaboration）
 * <a id="rk"></a>RK：根密钥（Root Key）
-* <a id="rl"></a>RL：修复等级（Remediation Level）；强化学习（Reinforcement Learning）
-* <a id="rlaif"></a>RLAIF：AI反馈强化学习（Reinforcement Learning from Artificial Intelligence Feedback）
-* <a id="rlcd"></a>RLCD：面向校准决策的强化学习（Reinforcement Learning for Calibrated Decisions）
 * <a id="rlfa"></a>RLFA：远程无环备选通道（Remote Loop Free Alternate）
-* <a id="rlhf"></a>RLHF：基于人类反馈的强化学习（Reinforcement Learning from Human Feedback）
-* <a id="rlvr"></a>RLVR：带可验证奖励的强化学习（Reinforcement Learning with Verifiable Rewards）
 * <a id="rlwr"></a>RLWR：环上舍入学习（Ring Learning With Rounding）
 * <a id="rm"></a>RM：访问监控器（Reference Monitor）；风险管理（Risk Management）；资源管理（Resource Management）；删除命令（remove）；奖励模型（Reward Model）
 * <a id="rma"></a>RMA：军事事务革命（Revolution in Military Affairs）
 * <a id="rmc"></a>RMC：风险管理委员会（Risk management council）
 * <a id="rme"></a>RME：域管理扩展（Realm Management Extension）
 * <a id="rmf"></a>RMF：风险管理框架（Risk Management Framework）
-* <a id="rml"></a>RML：鲁棒机器学习（Robust Machine Learning）
 * <a id="rmm"></a>RMM：风险成熟度模型（Risk Maturity Model）；弹性管理模型（Resilience Management Model）；远程监控与管理（Remote Monitoring & Management）
 * <a id="rmon"></a>RMON：远程网络监控（Remote Network Monitoring）
 * <a id="rmp"></a>RMP：风险管理过程（Risk Management Process）
@@ -107,9 +98,7 @@
 * <a id="rmse"></a>RMSE：均方根误差（Root Mean Squared Error）
 * <a id="rnc"></a>RNC：无线网络控制器（Radio Network Controller）
 * <a id="rng"></a>RNG：随机数发生器（Random Number Generator）
-* <a id="rnn"></a>RNN：循环神经网络（Recurrent Neural Network）
 * <a id="roadm"></a>ROADM：可重构光分插复用器（Reconfigurable Optical Add/Drop Multiplexer）
-* <a id="roberta-c3d"></a>RoBERTa：RoBERTa模型（A Robustly Optimized BERT Pretraining Approach）
 * <a id="roc"></a>ROC：受试者操作特征（Receiver Operating Characteristic）；NSA下属的远程行动中心（Remote Operation Center）
 * <a id="roce-cd"></a>RoCE：RDMA以太网（RDMA over Converged Ethernet）
 * <a id="rodata-c0"></a>rodata：只读数据段（read-only data segment）
@@ -161,7 +150,6 @@
 * <a id="rt-x26e"></a>RT&E：研究、测试与评估（Research, Test & Evaluation）
 * <a id="rta"></a>RTA：运行时保障（runtime-assurance）
 * <a id="rtc"></a>RTC：实时音视频技术（Real-Time Communication）
-* <a id="rtca"></a>RTCA：航空无线电技术委员会（Radio Technical Commission for Aeronautics）
 * <a id="rtcp"></a>RTCP：RTP控制协议（RTP Control Protocol）
 * <a id="rtd"></a>RTD：往返延迟（Round-Trip Delay）
 * <a id="rte"></a>RTE：实时互联网大会（Real-Time 、Engagement）

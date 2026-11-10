@@ -43,7 +43,6 @@
 * <a id="caep"></a>CAEP：持续访问评估协议（Continuous Access Evaluation Protocol）
 * <a id="caf"></a>CAF：战斗机部队（Combat Air Forces）
 * <a id="cagr"></a>CAGR：复合年增长率（Compound Annual Growth Rate）
-* <a id="cai"></a>CAI：宪制人工智能（Constitutional AI）
 * <a id="caii"></a>CAII：中国工业互联网研究院（Chinese Academy of Industrial Internet）
 * <a id="caio"></a>CAIO：网络攻击和影响本体（Cyber Attack and Impact Ontology）；首席人工智能官（Chief AI Officer）
 * <a id="cal"></a>CAL：网络攻击生命周期（Cyber Attack Lifecycle）
@@ -53,7 +52,6 @@
 * <a id="camel-c15"></a>CaMeL：能力标签机器学习（CApabilities for MachinE Learning，DeepMind 设计级数据流防御）
 * <a id="can"></a>CAN：控制器局域网（Controller Area Network）
 * <a id="canet"></a>CANET：中国学术网（Chinese Academic Network）
-* <a id="cann"></a>CANN：华为异构计算架构（Compute Architecture for Neural Networks）
 * <a id="canon"></a>CANON：DARPA网络之网络复杂分析项目（Complex Analytics of Network of Networks）
 * <a id="caoc"></a>CAOC：联合空中作战中心（Combined Air Operations Center）
 * <a id="cap"></a>CAP：云接入点（Cloud Access Point）；组合确保包（Composed Assurance Packages）；纠正行动计划（Corrective Action Plan）；CMMC评估过程（CMMC Assessment Process）；CAP原理（Consistency, Availability & Partition tolerance）；认证授权专业人员（Certified Authorization Professional）
@@ -83,7 +81,6 @@
 * <a id="cbc"></a>CBC：密文块链接模态（Cipher Block Chaining）
 * <a id="cbc-x2dmac"></a>CBC-MAC：密码块链 - 消息验证码（Cipher Block Chaining - Message Authentication Code）
 * <a id="cbda"></a>CBDA：网络战损评估（Cyber Battle Damage Assessment）
-* <a id="cbdc"></a>CBDC：中央银行数字币（Central Bank Digital Currency）
 * <a id="cbi"></a>CBI：云浏览器隔离（Cloud Browser Isolation）；主张式身份（Claims-Based Identity）
 * <a id="cbk"></a>CBK：通用知识体系（Common Body of Knowledge）
 * <a id="cbm"></a>CBM：组件化业务模型（Component Business Model）
@@ -163,7 +160,6 @@
 * <a id="cd-x2drom"></a>CD-ROM：只读光盘（Compact Disc Read-Only Memory）
 * <a id="cd-x2drw"></a>CD-RW：可重写光盘（ReWritable CD）
 * <a id="cda"></a>CDA：保密协议（Confidential Disclosure Agreement）；网络防御分析（Cyber Defense Analysis）
-* <a id="cdao"></a>CDAO：首席数据与分析官（Chief Data & Analytics Officer）；首席数据与人工智能官（Chief Data & AI Officer）；美国国防部首席数字和人工智能办公室（Chief Digital & Artificial Intelligence Office）
 * <a id="cdc"></a>CDC：证书分发中心（Certificate Distribution Center）；云数据中心（Cloud Data Center）；资质国防承包商（Cleared Defense Contractor）；核心数据中心（Core Data Center）；疾病控制中心（Center for Disease Control）；集装箱数据中心（Container Data Center）；网络安全防御社区（Cybersecurity Defense Community）；座舱域控制器（Cockpit Domain Controller）；变更数据捕获（Change Data Capture）
 * <a id="cdd"></a>CDD：码分复用（Code Division Duplexing）
 * <a id="cddi"></a>CDDI：铜线分布式数据接口（Copper Distributed Data Interface）
@@ -261,7 +257,6 @@
 * <a id="ciao"></a>CIAO：关键基础设施保障办公室（Critical Infrastructure Assurance office）
 * <a id="ciba"></a>CIBA：客户端启动的反向通道身份验证（Client Initiated Backchannel Authentication）
 * <a id="cic"></a>CIC：网络创新挑战赛（Cyber Innovation Challenge）
-* <a id="cica"></a>CICA：加拿大特许会计师协会（Canadian Institute of Chartered Accountants）
 * <a id="cicc"></a>CICC：中国指挥与控制学会（Chinese Institute of Command and Control）；IEEE专用集成电路会议（IEEE Custom Integrated Circuits Conference）
 * <a id="cicd"></a>CICD：持续集成和交付（Continuous Integration & Continuous Delivery）
 * <a id="cics-x2dcert"></a>CICS-CERT：国家工业信息安全发展研究中心（China Industrial Control Systems Cyber Emergency Response Team）
@@ -323,7 +318,6 @@
 * <a id="cjcs"></a>CJCS：美国国防部参谋长联席会议主席（Chairman of the Joint Chiefs of Staff）
 * <a id="cjcsi"></a>CJCSI：参谋长联席会议指令（Chairman, Joints Chiefs of Staff Instruction）；美国参谋长联席会议指令（Chairman of the Joints Chiefs of Staff Instruction）
 * <a id="cjeu"></a>CJEU：欧洲联盟法院（Court of Justice of the European Union）
-* <a id="ck"></a>CK：ClickHouse数据库（ClickHouse）；Cohn-Kanade数据集（Cohn-Kanade）；列键（Column Key）
 * <a id="ckg"></a>CKG：网络安全知识图谱（Cybersecurity Knowledge Graph）
 * <a id="clb"></a>CLB：传统型负载均衡CLB（Classic Load Balancer）
 * <a id="clfs"></a>CLFS：通用日志文件系统（Common Log File System）
@@ -382,7 +376,6 @@
 * <a id="cnil"></a>CNIL：法国国家数据保护委员会（法语：Commission Nationale Informatique et Libertés）
 * <a id="cnitsec"></a>CNITSEC：中国信息安全测评中心（China Information Technology Security Evaluation Center）
 * <a id="cnmf"></a>CNMF：美国国家网络任务部队（Cyber National Mission Force）
-* <a id="cnn"></a>CNN：卷积神经网络（Convolutional Neural Network）
 * <a id="cnnic"></a>CNNIC：中国互联网络信息中心（China Internet Network Information Center）
 * <a id="cnnvd"></a>CNNVD：中国国家信息安全漏洞库（China National Vulnerability Database of Information Security）
 * <a id="cno"></a>CNO：计算机网络行动（Computer Network Operation）
@@ -432,8 +425,6 @@
 * <a id="cos"></a>COS：片内操作系统（Chip Operating System）；云编排服务（Cloud Orchestration Service）
 * <a id="cosai-c1d"></a>CoSAI：安全人工智能联盟（Coalition for Secure AI）
 * <a id="coso"></a>COSO：特雷德韦委员会赞助组织委员会（Committee of Sponsoring Organizations of the Treadway Commission）
-* <a id="cot-c5"></a>CoT：思维链（Chain of Thought）；信任链（Chain of Trust）
-* <a id="cot-x2dsc-c1d"></a>CoT-SC：自我一致性思维链（Self-Consistency with Chain of Thought）
 * <a id="cots"></a>COTS：商用现货（Commercial Off-The-Shelf）
 * <a id="cow-c5"></a>CoW：晶片堆叠技术（Chip-on-Wafer）
 * <a id="cowos-c15"></a>CoWoS：台积电CoWoS芯片封装技术（Chip on Wafer on Substrate）
@@ -472,7 +463,6 @@
 * <a id="cra"></a>CRA：代码重用攻击（Code Reuse Attack）；网络弹性法案（Network Resilience Act）
 * <a id="craas-c13"></a>CRaaS：云密码资源服务（Cryptography Resource as a Service）
 * <a id="crada"></a>CRADA：合作研发协议（Cooperative Research & Development Agreement）
-* <a id="crag"></a>CRAG：纠错式检索增强生成（Corrective Retrieval-Augmented Generation）
 * <a id="cramm"></a>CRAMM：中央计算和电信机构风险分析与管理方法（Central computing & telecommunications agency Risk Analysis and Management Method）
 * <a id="crash"></a>CRASH：弹性自适应安全主机重设计计划（Clean-Slate Design of Resilient, Adaptive, Secure Hosts）
 * <a id="crc"></a>CRC：循环冗余校验（Cyclic Redundancy Check）；类-职责-协作（Class-Responsibility-Collaboration）
@@ -597,8 +587,6 @@
 * <a id="cve"></a>CVE：通用漏洞与暴露（Common Vulnerabilities & Exposures）
 * <a id="cverc"></a>CVERC：国家计算机病毒应急处理中心（National Computer Virus Emergency Response Center）
 * <a id="cvp"></a>CVP：最近向量问题（Closest vector problem）
-* <a id="cvpr"></a>CVPR：计算机视觉与模式识别会议（Conference on Computer Vision and Pattern Recognition）
-* <a id="cvr"></a>CVR：驾驶舱话音记录器（Cockpit Voice Recorder）
 * <a id="cvrf"></a>CVRF：通用漏洞报告框架（Common Vulnerability Reporting Framework）
 * <a id="cvs"></a>CVS：证书确认服务（Certificate Validation Service）
 * <a id="cvss"></a>CVSS：通用漏洞评分系统（Common Vulnerability Scoring System）

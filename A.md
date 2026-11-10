@@ -1,15 +1,12 @@
 ## A
 
 * <a id="a-x26a"></a>A&A：评估与授权（Assessment & Authorization）；认证与授权（ Authentication & Authorization）
-* <a id="a2a"></a>A2A：智能体对智能体（Agent-to-Agent）
-* <a id="a2ad"></a>A2AD：反介入／区域拒止（Anti-Access & Area Denial）
 * <a id="aaa"></a>AAA：认证、授权与核查（Authentication, Authorization & Accounting）
 * <a id="aaaa"></a>AAAA：认证、授权、审计与核查（Authentication, Authorization, Auditing & Accounting）；DNS IPv6地址资源记录（Address × 4）
 * <a id="aaak"></a>AAAK：认证、授权与核查密钥（Authentication, Authorization, and Accounting Key）
 * <a id="aac"></a>AAC：自适应访问控制（Adaptive Access Control）
 * <a id="aad"></a>AAD：Azure活动目录（Azure Active Directory）；附加鉴别数据（Additional Authentication Data）
 * <a id="aag"></a>AAG：AWS、Azure、谷歌三大云（AWS, Azure & GCP）
-* <a id="aaif"></a>AAIF：智能体AI基金会，Linux 基金会下属（Agentic AI Foundation）
 * <a id="aal"></a>AAL：应用许可列表（Application Allowlisting）；认证器保障级别（Authenticator Assurance Level）；美国陆军应用实验室（Army Applications Laboratory）
 * <a id="aapm"></a>AAPM：应用到应用口令管理（Application-to-Application Password Management）
 * <a id="aar"></a>AAR：复盘报告（After Action Report）
@@ -24,7 +21,6 @@
 * <a id="abnt"></a>ABNT：巴西国家标准化组织（葡萄牙语：Associação Brasileira de Normas Técnicas）
 * <a id="abrt"></a>ABRT：自动bug报告工具（Automatic Bug Reporting Tool）
 * <a id="abrtd-c0"></a>abrtd：ABRT守护进程（ABRT daemon）
-* <a id="abs"></a>ABS：电子防抱死刹车系统（Anti-lock Braking System）
 * <a id="ac"></a>AC：访问控制（Access Control）；上网行为管理（Access Control）；应用接入数据中心（Application Center）；攻击复杂度（Attack Complexity）；附加电路（Attachment Circuit）；鉴别码（Authenticated Code）；资产类别（Asset Class）
 * <a id="ac-x2dram"></a>AC-RAM：鉴别码内存（Authenticated Code Random Access Memory）
 * <a id="aca"></a>ACA：不良网络空间活动（Adverse Cyberspace Activities）
@@ -56,7 +52,6 @@
 * <a id="ada"></a>ADA：艾达数字币（Cardano）
 * <a id="adam"></a>ADAM：活动目录应用模式（Active Directory Application Mode）
 * <a id="adams"></a>ADAMS：DARPA多尺度异常检测项目（Anomaly Detection At Multiple Scales）
-* <a id="adas"></a>ADAS：高级驾驶辅助系统（Advanced Driver-Assistance System）
 * <a id="adb"></a>ADB：阿里云AnalyticDB服务（Analytic DataBase）；Android调试桥（Android Debug Bridge）
 * <a id="adbos"></a>ADBOS：绿盟流量清洗业务运营系统（Anti Distributed Denial-of-Service Business Operation System）
 * <a id="adc"></a>ADC：应用交付控制器（Application Delivery Controller）
@@ -112,34 +107,22 @@
 * <a id="afwic"></a>AFWIC：美国空军作战一体化中心（Air Force Warfighting Integration Capability）
 * <a id="ag"></a>AG：接入网关（Access Gateway）；美国司法部部长（Attorney General）
 * <a id="aga"></a>AGA：美国天然气协会（American Gas Association）
-* <a id="agentops-c21"></a>AgentOps：智能体运维（Agent Operations）
 * <a id="agg"></a>AGG：MPLS汇聚层设备（AGGregation）
-* <a id="agi"></a>AGI：通用人工智能（Artificial General Intelligence）
 * <a id="agm"></a>AGM：隶属图模型（Affiliation Graph Model）
 * <a id="agp"></a>AGP：加速图形端口（Accelerated Graphics Port）
 * <a id="ah"></a>AH：认证头部（Authentication Header）；接受主机（Accept Host）
 * <a id="aha"></a>AHA：美国医院协会（American Hospital Association）
 * <a id="ahas"></a>AHAS：应用高可用服务（Application High Availability Service）
-* <a id="ai"></a>AI：人工智能（Artificial Intelligence）
 * <a id="ai-x2dspm"></a>AI-SPM：AI安全姿态管理（AI Security Posture Management）
 * <a id="aica"></a>AICA：自主智能网络防御代理（Autonomous Intelligent Cyber Defense Agent）
 * <a id="aicm"></a>AICM：AI控制矩阵（AI Control Matrix）
-* <a id="aicpa"></a>AICPA：美国注册会计师协会（American Institute of Certified Public Accountants）
 * <a id="aidm"></a>AIDM：应用与基础设施依赖映射（Application And Infrastructure Dependency Mapping）
 * <a id="aidr"></a>AIDR：AI 检测与响应（AI Detection and Response）
-* <a id="aie"></a>AIE：DARPA人工智能勘探计划（AI Exploration）
-* <a id="aiga"></a>AIGA：人工智能生成行动（AI Generated Actions）
-* <a id="aigc"></a>AIGC：人工智能生成内容（AI Generated Content）
-* <a id="aigs"></a>AIGS：人工智能生成软件（AI Generated Softwares）
 * <a id="aiia"></a>AIIA：中国人工智能产业发展联盟（Artificial Intelligence Industry Alliance）
 * <a id="aik"></a>AIK：作证身份密钥（Attestation Identity Key）；自动化安装工具包（Automated Installation Kit）
 * <a id="aim"></a>AIM：智能恶意软件（Autonomous Intelligent Malware）
-* <a id="aimee"></a>AIMEE：紧急执行的人工智能缓解（Artificial Intelligence Mitigation for Emergency Execution）
-* <a id="aims"></a>AIMS：自动化基础设施管理系统（Automated Infrastructure Management System）；人工智能管理体系（AI Management System）
 * <a id="aio"></a>AIO：多合一（All-In-One）；异步输入输出（Asynchronous Input/Output）
-* <a id="aiops"></a>AIOPS：智能运维（Artificial Intelligence for IT OPerationS）
 * <a id="aios"></a>AIOS：WordPress AIOS插件（All-in-One Security）
-* <a id="aiot-cb"></a>AIoT：人工智能物联网（Artificial Intelligence for the Internet of Things）
 * <a id="aip"></a>AIP：攻击拦截点（Attack Interdiction Point）
 * <a id="ais"></a>AIS：自动标示共享（Automated Indicator Sharing）；自动化信息系统（Automated Information System）；船载自动识别系统（Automatic Identification System）
 * <a id="aisi"></a>AISI：英国人工智能安全研究所（AI Security Institute）
@@ -184,7 +167,6 @@
 * <a id="andsf"></a>ANDSF：接入网发现及选择功能（Access Network Discovery and Selection Function）
 * <a id="ang"></a>ANG：美国空军国民警卫队（Air National Guard）
 * <a id="anl"></a>ANL：美国阿贡国家实验室（Argonne National Laboratory）
-* <a id="ann"></a>ANN：人工神经网络（Artificial Neural Network）；近似近邻（Approximate Nearest Neighbor）
 * <a id="ans"></a>ANS：美国国家标准（American National Standard）
 * <a id="ansi"></a>ANSI：美国国家标准协会（American National Standard Institute）
 * <a id="ansm"></a>ANSM：自适应网络安全模型（Adaptive Network Security Model）
@@ -201,7 +183,6 @@
 * <a id="apca"></a>APCA：应用协议命令分析（Application Protocol Command Analysis）
 * <a id="apcert"></a>APCERT：亚太地区计算机应急响应组（Asia Pacific Computer Emergency Response Team）
 * <a id="apdu"></a>APDU：应用协议数据单元（Application Protocol Data Unit）
-* <a id="ape"></a>APE：自动化提示工程（Automated Prompting Engineering）
 * <a id="aphid-c13"></a>APhiD：自适应的心理防御（Adaptative Psychology-informed Defense）
 * <a id="api"></a>API：应用程序接口（Application Programming Interface）
 * <a id="apk"></a>APK：安卓应用程序包（Android Application Package）
@@ -215,7 +196,6 @@
 * <a id="apt"></a>APT：高级持久威胁（Advanced Persistent Threat）；亚太电信组织（Asia-Pacific Telecommunity）
 * <a id="apts"></a>APTS：应用性能追踪服务（Application Performance Tracing Service）
 * <a id="apwg"></a>APWG：反网络钓鱼工作组（Anti-Phishing Working Group）
-* <a id="ar"></a>AR：自回归模型（AutoRegressive）；增强现实（Augmented Reality）；智能体式机器人学（Agentic Robotics）
 * <a id="ara-x2dm"></a>ARA-M：访问规则应用程序 - 主（Access Rule Application - Master）
 * <a id="arc"></a>ARC：澳大利亚研究委员会（Australian Research Council）
 * <a id="arcp"></a>ARCP：攻击收益-成本模型（Attack Return Cost Profit）
@@ -266,7 +246,6 @@
 * <a id="ast"></a>AST：应用安全测试（Application Security Testing）；抽象语法树（Abstract Syntax Tree）；美国商业太空运输办公室（FAA Office of Commercial Space Transportation）；OWASP Agentic Skills 十大风险编号前缀（OWASP Top 10 for Agentic Skills，AST01-AST10）
 * <a id="ast10"></a>AST10：智能体技能风险十项，编号AST01-AST10（OWASP Top 10 for Agentic Skills）
 * <a id="astaas-c27"></a>ASTaaS：应用安全测试即服务（Application Security Testing as a Service）
-* <a id="astarte"></a>ASTARTE："快速战术执行的空域全感知"（Airspace Total Awareness for Rapid Tactical Execution）
 * <a id="asto"></a>ASTO：应用安全测试编排（Application Security Testing Orchestration）
 * <a id="asv"></a>ASV：PCI认可扫描供应商（Approved Scanning Vendor for PCI）
 * <a id="asw"></a>ASW：阿里云接入层交换机（Access SWitch）
@@ -296,7 +275,6 @@
 * <a id="aup"></a>AUP：可接受的使用策略（Acceptable Use Policy）；商定程序（Agreed-Upon Procedure）；敏捷统一过程（Agile Unified Process）
 * <a id="auscert-c79"></a>AusCERT：澳大利亚计算机应急响应团队（Australian Computer Emergency Response Team）
 * <a id="ausf"></a>AUSF：身份验证服务功能（Authentication Server Function）
-* <a id="automl-c31"></a>AutoML：自动机器学习（Automated Machine Learning）
 * <a id="av"></a>AV：反病毒软件（Anti-Virus）；攻击载体（Attack Vector）；DoDAF全景视角（All Viewpoint）
 * <a id="avc"></a>AVC：应用漏洞关联（Application Vulnerability Correlation）
 * <a id="avien"></a>AVIEN：防病毒信息交换网络（Antivirus Information Exchange Network）

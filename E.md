@@ -42,7 +42,6 @@
 * <a id="ecb"></a>ECB：电码本（Electronic Codebook）；欧洲央行（European Central Bank）
 * <a id="ecc"></a>ECC：椭圆曲线密码学（Elliptic Curve Cryptography）；纠错码（Error Correction Code）
 * <a id="eccn"></a>ECCN：出口控制分类号（Export Control Classification Number）
-* <a id="eccv"></a>ECCV：欧洲计算机视觉国际会议（European Conference on Computer Vision）
 * <a id="ecdh"></a>ECDH：椭圆曲线DH协议（Elliptic Curve Diffie–Hellman）
 * <a id="ecdhe"></a>ECDHE：临时椭圆曲线DH协议（Elliptic Curve Diffie-Hellman Ephemeral）
 * <a id="ecdlp"></a>ECDLP：椭圆曲线离散对数问题（Elliptic Curve Discrete Logarithm Problem）
@@ -122,7 +121,6 @@
 * <a id="elf"></a>ELF：可执行与可链接格式（Executable and Linkable Format）
 * <a id="elint"></a>ELINT：电子情报（Electronic Intelligence）
 * <a id="elk"></a>ELK：ELK工具（Elasticsearch, Logstash & Kibana）
-* <a id="elmo-c7"></a>ELMo：语言模型嵌入技术（Embeddings from Language Models）
 * <a id="em"></a>EM：电磁（Electromagnetic）；暴露面管理（Exposure Management）；EM算法（Expectation–Maximization）
 * <a id="ema"></a>EMA：指数移动平均（Exponential Moving Average）
 * <a id="emass-c1e"></a>eMASS：企业任务保障支持服务（Enterprise Mission Assurance Support Service）
@@ -134,7 +132,6 @@
 * <a id="emi"></a>EMI：电磁干扰（Electromagnetic Interference）
 * <a id="eml"></a>EML：网元管理层（Element Management Layer）
 * <a id="emm"></a>EMM：扩展度量模块（Extended Measurement Module）；移动安全管理系统（Enterprise Mobility Management）；演进分组系统移动性管理（EPS Mobility Management）
-* <a id="emnlp"></a>EMNLP：自然语言处理的经验方法会议（Conference on Empirical Methods in Natural Language Processing）
 * <a id="emp"></a>EMP：电磁脉冲（Electromagnetic Pulse）
 * <a id="emr"></a>EMR：电子病历（EMR,Electronic Medical Record）
 * <a id="ems"></a>EMS：应急管理系统（Emergency Management System）；紧急缓解服务（Emergency Mitigation Service）；网元管理系统（Element Management System）；电磁敏感性（Electromagnetic Susceptibility）；电磁频谱（Electromagnetic Spectrum）；企业移动套件（Enterprise Mobility Suite）

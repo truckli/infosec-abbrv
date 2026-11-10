@@ -12,7 +12,6 @@
 * <a id="ia"></a>IA：信息保障（Information Assurance）；互联网访问（Internet Access）；FireEye调查分析系统（Investigation Analysis）；英特尔安腾体系结构（Itanium Architecture）；身份验证与认证（Identification & Authentication）
 * <a id="ia-x2d32"></a>IA-32：英特尔32位架构（Intel Architecture 32-bit）
 * <a id="ia-x2d64"></a>IA-64：英特尔安腾架构（Intel Itanium Architecture）
-* <a id="iaarc"></a>IAARC：国际建筑自动化和机器人协会（International Association for Automation & Robotics in Construction）
 * <a id="iaas-c9"></a>IaaS：基础设施即服务（Infrastructure as a Service）
 * <a id="iaasb"></a>IAASB：国际审计与鉴证准则理事会（International Auditing & Assurance Standards Board）
 * <a id="iab"></a>IAB：互联网架构委员会（Internet Architecture Board）
@@ -61,13 +60,11 @@
 * <a id="icc"></a>ICC：集成座舱控制器（Integrated Cockpit Controller）
 * <a id="iccid"></a>ICCID：集成电路卡标识符（Integrated Circuit Card Identifier）
 * <a id="iccp"></a>ICCP：互操作控制中心协议（Inter-Control Center Communications Protocol）；多机箱控制协议（Inter-Chassis Control Protocol）
-* <a id="iccv"></a>ICCV：国际计算机视觉大会（IEEE International Conference on Computer Vision）
 * <a id="icdt"></a>ICDT：信息通信与数据技术（Information, Communication & Data Technology）
 * <a id="ice"></a>ICE：网络环境情报（Intelligence on Cyber Environment）；交互连接建立协议（Interactive Connectivity Establishment）；美国移民和海关执法局（U.S. Immigration and Customs Enforcement）；浪潮云容器引擎（Inspur Container Engine）
 * <a id="ices"></a>ICES：集成云邮件安全 （Integrated Cloud Email Security）
 * <a id="icg"></a>ICG：互联网控制网关（Internet Control Gateway）；智能通信网关（Intelligent Communication Gateway）；智能控制网关（Intelligent Control Gateway）
 * <a id="icl"></a>ICL：上下文学习（In-Context Learning）
-* <a id="icml"></a>ICML：国际机器学习会议（International Conference on Machine Learning）
 * <a id="icmp"></a>ICMP：互联网控制报文协议（Internet Control Message Protocol）
 * <a id="icn"></a>ICN：以信息为中心的网络（Information Centric Networking）
 * <a id="ico"></a>ICO：首次代币发行（Initial Coin Offering）；英国信息专员办公室（Information Commissioner's Office）
@@ -96,7 +93,6 @@
 * <a id="idfv"></a>IDFV：供应商标识符（identifierForVendor）
 * <a id="idiq"></a>IDIQ：不定交付/不定数量合同（Indefinite Delivery/Indefinite Quantity）
 * <a id="idl"></a>IDL：接口描述语言（Interface description language）
-* <a id="idlg-ce"></a>iDLG：改进的深度泄漏梯度（Improved Deep Leakage from Gradients）
 * <a id="idm-c5"></a>IdM：身份管理（Identity Management）
 * <a id="idm"></a>IDM：内部防御性措施（Internal Defensive Measure）
 * <a id="idmef"></a>IDMEF：入侵检测消息交换格式（Intrusion Detection Message Exchange Format）
@@ -251,7 +247,6 @@
 * <a id="iscat"></a>ISCAT：工业网络安全合规评估工具（Industrial Security Compliance Assessment Tool）
 * <a id="isccc"></a>ISCCC：中国信息安全认证中心（China Information Security Certification Center）
 * <a id="isce"></a>ISCE：信息共享与协作环境（Information Sharing and Collaboration Environment）
-* <a id="iscf"></a>ISCF：英国产业战略挑战基金（Industrial Strategy Challenge Fund）
 * <a id="iscm"></a>ISCM：信息安全持续监视（Information Security Continuous Monitoring）
 * <a id="iscsi-c1e"></a>iSCSI：互联网小型计算机系统接口（Internet Small Computer System Interface）
 * <a id="isd-x2dp"></a>ISD-P：发行机构安全域 - 个人资料（Issuer Security Domain - Profile）

@@ -11,7 +11,6 @@
 * <a id="uarc"></a>UARC：大学附属研究中心（University Affiliated Research Center）
 * <a id="uas"></a>UAS：用户代理服务器（User Agent Server）；无人机系统（Unmanned AeriaI System）
 * <a id="uau"></a>UAU：受攻击条件下的任务效用（Utility Under Attack）
-* <a id="uav"></a>UAV：无人航空载具（Unmanned Aerial Vehicle）
 * <a id="uba"></a>UBA：用户行为分析（User Behavior Analytics）
 * <a id="ubb"></a>UBB：通用基板（Universal Baseboard）
 * <a id="ubo"></a>UBO：最终受益人（Ultimate Beneficial Owner）
@@ -21,7 +20,6 @@
 * <a id="ucdmo"></a>UCDMO：统一跨域管理办公室（Unified Cross Domain Management Office）
 * <a id="ucdsmo"></a>UCDSMO：统一跨域服务管理办公室（Unified Cross-Domain Services Management Office）
 * <a id="ucg"></a>UCG：统一协调组（Unified Coordinating Group）
-* <a id="ucmj"></a>UCMJ：美国军事法典统一法典（Uniform Code of Military Justice）
 * <a id="uco"></a>UCO：统一安全本体（Unified Cybersecurity Ontology）
 * <a id="ucp"></a>UCP：统一指挥计划（Unified Command Plan）
 * <a id="ucpe-ce"></a>uCPE：通用客户现场设备（universal Customer Premises Equipment）
@@ -94,7 +92,6 @@
 * <a id="uscert"></a>USCERT：美国计算机应急响应中心（United States Computer Emergency Readiness Team）
 * <a id="uscybercom"></a>USCYBERCOM：美国网络司令部（United States Cyber Command）
 * <a id="usd"></a>USD：美国国防部分管副部长（Under Secretary of Defense）
-* <a id="usda"></a>USDA：美国农业部（United States Department of Agriculture）
 * <a id="usdc"></a>USDC：美元数字币（USD Coin）
 * <a id="usdot"></a>USDOT：美国交通部（U.S. Department of Transportation）
 * <a id="usdt"></a>USDT：美国财政部（United States Department of the Treasury）

@@ -15,12 +15,9 @@
 * <a id="mam"></a>MAM：移动应用管理（Mobile Application Management）；移动访问管理（Mobile Access Management）
 * <a id="man"></a>MAN：城域网（Metropolitan Area Network）
 * <a id="manet"></a>MANET：移动自组织网络（Mobile Ad-hoc Network）
-* <a id="mapl"></a>MAPL：MACAW智能体策略语言（MACAW Agentic Policy Language）
 * <a id="mapp"></a>MAPP：微软主动防护计划（Microsoft Active Protection Program）
-* <a id="mappo"></a>MAPPO：多智能体近端策略优化（强化学习）（Multi-Agent Proximal Policy Optimization）
 * <a id="maq"></a>MAQ：机器账户配额（Machine Account Quota）
 * <a id="marad"></a>MARAD：海事管理局（Maritime Administration）
-* <a id="mas"></a>MAS：多智能体系统（Multi-Agent System）
 * <a id="masm"></a>MASM：微软汇编器（Microsoft Assembler）
 * <a id="mast"></a>MAST：移动应用安全测试（Mobile Application Security Testing）
 * <a id="mau"></a>MAU：月均活跃用户数量（Monthly Active User）
@@ -43,7 +40,6 @@
 * <a id="mcm"></a>MCM：多芯片模块（Multi-Chip Module）；多云管理（Multicloud Management）
 * <a id="mcn"></a>MCN：多频道网络（Multi-Channel Network）
 * <a id="mco"></a>MCO：恶意软件分类本体（Malware Classification Ontology）
-* <a id="mcp"></a>MCP：模型上下文协议（Model Context Protocol）；网格配置协议（Mesh Configuration Protocol）
 * <a id="mcps"></a>MCPS：MCP密码学安全层草案（MCP Secure，IETF提出）
 * <a id="mcs"></a>MCS：多类别安全（Multi Categories Security）
 * <a id="mcu"></a>MCU：微控制器单元（Micro-Controller Unit）
@@ -97,7 +93,6 @@
 * <a id="mictic"></a>MICTIC：一种APT归因分析框架（Malware, Infrastructure, Control Servers, Telemetry, Intelligence, Cui Bono）
 * <a id="mie"></a>MIE：内存完整性强制执行（Memory Integrity Enforcement）
 * <a id="mig"></a>MIG：美国海军陆战队远征部队信息大队（MEF Information Group）；英伟达GPU分割技术（NVIDIA Multi-Instance GPU）
-* <a id="mii"></a>MII：DeepSpeed-MII库（Model Implementations for Inference）
 * <a id="miit"></a>MIIT：工业和信息化部（Ministry of Industry and Information Technology）
 * <a id="mildec"></a>MILDEC：军事欺骗（Military Deception）
 * <a id="mils"></a>MILS：多独立安全级架构（Multiple Independent Levels of Security）
@@ -117,14 +112,10 @@
 * <a id="mivd"></a>MIVD：荷兰军事情报安全局（荷兰语：Militaire Inlichtingen- en Veiligheidsdienst）
 * <a id="mj"></a>MJ：Midjourney制图工具（Midjourney）
 * <a id="mktme"></a>MKTME：多密钥总内存加密（Multi-Key Total Memory Encryption）
-* <a id="ml"></a>ML：机器学习（Machine Learning）；度量日志（Measurement Log）
 * <a id="ml-x2ddsa"></a>ML-DSA：模格数字签名算法（Module-Lattice Digital Signature Algorithm）
 * <a id="ml-x2dkem"></a>ML-KEM：模格密钥封装机制（Module-Lattice Key Encapsulation Mechanism）
 * <a id="mlag"></a>MLAG：跨设备链路聚合组（Multi-chassis Link Aggregation Group）
 * <a id="mle"></a>MLE：测量发射环境（Measured Launch Environment）
-* <a id="mlm"></a>MLM：掩码语言模型（Masked Language Model）
-* <a id="mlops-c7"></a>MLOps：机器学习运营（Machine Learning Operations）
-* <a id="mlp"></a>MLP：多层感知机（Multi-Layer Perceptron）
 * <a id="mls"></a>MLS：多级安全（Multi-Level Security）；多级安全体（Multi-Level Secure）
 * <a id="mlwe"></a>MLWE：基于模误差学习问题（Module Learning With Errors）
 * <a id="mlwr"></a>MLWR：医学成像与技术联盟（Module Learning With Rounding）
@@ -145,7 +136,6 @@
 * <a id="modelops-c21"></a>ModelOps：模型运营（Model Operations）
 * <a id="modem"></a>MODEM：调制解调器（Modulator-Demodulator）
 * <a id="moe"></a>MOE：任务操作环境（Mission Operating Environment）；效用度量指标（Measures of Effectiveness）
-* <a id="moe-c5"></a>MoE：专家混合模型（Mixture-of-Experts）
 * <a id="mof"></a>MOF：元对象工具（Meta-Object Facility）
 * <a id="moie"></a>MOIE：面向任务的调查与实验（Mission-Oriented Investigation & Experimentation）
 * <a id="mok"></a>MOK：设备所有者密钥（Machine Owner Key）
@@ -175,7 +165,6 @@
 * <a id="mptd"></a>MPTD：最大中断时间（Maximum Period Time of Disruption）
 * <a id="mpu"></a>MPU：微处理器（Micro Processing Unit）
 * <a id="mq"></a>MQ：消息队列（Message Queuing）
-* <a id="mqa"></a>MQA：多查询注意力机制（Multi-Query Attention）
 * <a id="mqtt"></a>MQTT：消息队列遥测传输（Message Queuing Telemetry Transport）
 * <a id="mqv"></a>MQV：MQV协议（Menezes-Qu-Vanstone）
 * <a id="mra"></a>MRA：互认协议（Mutual Recognition Agreement）
@@ -183,7 +172,6 @@
 * <a id="mres"></a>MRES：多接收方加密方案（Multi-Recipient Encryption Scheme）
 * <a id="mrp"></a>MRP：物料资源计划（Materials Resource Planning）
 * <a id="mrti"></a>MRTI：机读情报（Machine-Readable Threat Intelligence）
-* <a id="mrtr"></a>MRTR：多轮请求，MCP 2026-07-28 版本机制（Multi-Round Trip Request）
 * <a id="ms"></a>MS：微软公司（Microsoft）；摩根士丹利公司（Morgan Stanley）；GSM移动端（Mobile Station）
 * <a id="ms-x2dchap"></a>MS-CHAP：微软质询握手认证协议（Microsoft Challenge-Handshake Authentication Protocol）
 * <a id="ms-x2ddrsr"></a>MS-DRSR：微软目录复制服务远程协议（Directory Replication Service Remote Protocol）

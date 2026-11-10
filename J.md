@@ -7,7 +7,6 @@
 * <a id="jadc2"></a>JADC2：联合全域指挥控制（Joint All-Domain Command & Control）
 * <a id="jadn"></a>JADN：JSON抽象数据标记（JSON Abstract Data Notation）
 * <a id="jado"></a>JADO：联合全域作战（Joint All-Domain Operations）
-* <a id="jaic"></a>JAIC：联合人工智能中心（Joint Artificial Intelligence Center）
 * <a id="jaoc"></a>JAOC：联合空中作战中心（Joint Air Operations Center）
 * <a id="jarm"></a>JARM：JARM指纹探测（John, Andrew, RJ & Mike）
 * <a id="jcap"></a>JCAP：联合通用访问平台（Joint Common Access Program）
@@ -24,7 +23,6 @@
 * <a id="jdiics"></a>JDIICS：联合DII控制系统（Joint DII Control Systems）
 * <a id="jdwp"></a>JDWP：Java调试线协议（Java Debug Wire Protocol）
 * <a id="jedi"></a>JEDI：联合企业国防基础设施（Joint Enterprise Defense Infrastructure）
-* <a id="jepa"></a>JEPA：联合嵌入预测架构（Joint Embedding Predictive Architecture）
 * <a id="jfacc"></a>JFACC：联合空军部队指挥官（Joint Force Air Component Commander）
 * <a id="jfapa"></a>JFAPA：岗位职责访问模式分析（Job Function Access Pattern Analysis）
 * <a id="jfc"></a>JFC：联合部队指挥官（Joint Force Commander）

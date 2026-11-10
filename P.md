@@ -17,14 +17,11 @@
 * <a id="pacs"></a>PACS：医学图像归档和通信系统（Picture Archiving and Communication System）；物理访问控制系统（Physical Access Control Systems）
 * <a id="pad"></a>PAD：伪现攻击检测（Presentation Attack Detection）
 * <a id="pag"></a>PAG：特权访问治理（Privileged Access Governance）
-* <a id="pai"></a>PAI：机器学习平台（Platform of Artificial Intelligence）
 * <a id="pair"></a>PAIR：提示自动迭代优化攻击（Prompt Automatic Iterative Refinement）
 * <a id="pake"></a>PAKE：口令鉴别密钥交换（Password-Authenticated Key Exchange）
-* <a id="palm-cd"></a>PaLM：PaLM模型（Pre-trained Language Model）
 * <a id="palma"></a>PALMA：组合分析机器（Portfolio Analysis Machine）
 * <a id="pam"></a>PAM：权限访问管理（Privileged Access Management）；特权账户和会话管理（Privileged Account Management）；过程资产管理（Process Asset Management）；可插拔认证模块（Pluggable Authentication Module）
 * <a id="pamaas-c27"></a>PAMaaS：特权访问管理即服务（Privileged Access Management as a Service）
-* <a id="paml"></a>PAML：预测分析与机器学习（Predictive Analysis and Machine Learning）
 * <a id="pan"></a>PAN：个人区域网（Personal Area Network）；Palo Alto网络（Palo Alto Networks）；特权访问禁用（Privileged Access Never）
 * <a id="paoboau"></a>PAOBOAU：代表授权用户执行的过程（Process Acting On Behalf Of an Authorized User）
 * <a id="pap"></a>PAP：策略管理点（Policy Administration Point）；口令鉴别协议（Password Authentication Protocol）
@@ -44,7 +41,6 @@
 * <a id="pbx"></a>PBX：专用小交换机（Private Branch eXchange）
 * <a id="pc"></a>PC：个人计算机（Personal Computer）；程序计数器（Program Counter）
 * <a id="pca"></a>PCA：隐私证书机构（Privacy Certificate Authority）；明文检查攻击（Plaintext-Checking Attacks）；主成分分析（Principal Component Analysis）
-* <a id="pcaob"></a>PCAOB：美国公众公司会计监督委员会（Public Company Accounting Oversight Board）
 * <a id="pcap"></a>PCAP：抓包（Packet Capture）
 * <a id="pcapng-c11"></a>PcapNg：数据包捕获下一代转储（Packet Capture Next Generation Dump）
 * <a id="pcast"></a>PCAST：美国总统科技顾问委员会（President's Council of Advisors on Science & Technology）
@@ -91,7 +87,6 @@
 * <a id="ped"></a>PED：提权距离，D-H SoK提出的可从agent轨迹计算的安全度量（Privilege Escalation Distance）
 * <a id="pedm"></a>PEDM：特权提升和委派管理（Privilege Elevation & Delegation Management）
 * <a id="pef"></a>PEF：保护执行设施（Protected Execution Facility）
-* <a id="peft"></a>PEFT：参数高效微调（Parameter-Efficient Fine-Tuning）
 * <a id="pei"></a>PEI：永久设备标识符（Permanent Equipment Identifier）
 * <a id="pek"></a>PEK：平台加密密钥（Platform Encryption Key）
 * <a id="pem"></a>PEM：隐私增强邮件（Privacy Enhanced Mail）
@@ -112,7 +107,6 @@
 * <a id="pfs"></a>PFS：完美前向保密（Perfect Forward Secrecy）；百度并行文件系统服务（Parallel Filesystem Service）
 * <a id="pfx"></a>PFX：PKCS12#文件格式（Personal Exchange Format）
 * <a id="pg"></a>PG：Ceph放置组（Placement Group）
-* <a id="pgd"></a>PGD：投影梯度下降（Projected Gradient Descent）
 * <a id="pgp"></a>PGP：一种保护隐私的电子邮件服务（Pretty Good Privacy）
 * <a id="pgt"></a>PGT：代理授权票据（Proxy Granting Ticket）
 * <a id="pgw"></a>PGW：分组数据网络网关（PDN GateWay）
@@ -139,7 +133,6 @@
 * <a id="pik"></a>PIK：平台身份密钥（Platform Identity Key）
 * <a id="pim"></a>PIM：产品信息管理（Products Information Management）；特权身份管理（Privileged Identity Management）；协议无关组播（Protocol Independent Multicast）
 * <a id="pin"></a>PIN：个人标识码（Personal Identification Number）
-* <a id="pinn"></a>PINN：物理信息神经网络（Physics-Informed Neural Network）
 * <a id="pip"></a>PIP：策略信息点（Policy Information Point）；个人信息保护（Personal Information Protection）；Python包安装器（Package Installer for Python）；绩效提升计划（Performance Improvement Plan）
 * <a id="pipa"></a>PIPA：个人信息保护法案（Personal Information Protection Act）；美国知识产权保护法案（Preventing Real Online Threats to Economic Creativity and Theft of Intellectual Property Act）
 * <a id="pipeda"></a>PIPEDA：加拿大《个人信息保护和电子文件法》（Personal Information Protection & Electronic Documents Act）
@@ -170,7 +163,6 @@
 * <a id="plassf"></a>PLASSF：中国人民解放军战略支援部队（The People's Liberation Army Strategic Support Force）
 * <a id="plc"></a>PLC：可编程逻辑控制器（Programmable Logic Controller）
 * <a id="plg"></a>PLG：产品主导型增长（Product-Led Growth）
-* <a id="plm"></a>PLM：预训练语言模型（Pre-trained Language Model）
 * <a id="plmn"></a>PLMN：公共陆地移动通信网（Public Land Mobile Network）
 * <a id="plop-cb"></a>PLoP：程序模式语言（Pattern Languages of Programs）
 * <a id="plt"></a>PLT：规程链接表（Procedure Linkage Table）

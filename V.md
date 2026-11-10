@@ -15,7 +15,6 @@
 * <a id="va"></a>VA：漏洞评估（Vulnerability Assessment）；虚拟地址（Virtual Address）
 * <a id="vaap"></a>VAAP：漏洞与评估计划（Vulnerability & Assessment Program）
 * <a id="vadp"></a>VADP：虚拟应用程序数据保护（vSphere API for Data Protection）
-* <a id="vae"></a>VAE：变分自编码器（Variational Autoencoder）
 * <a id="vam"></a>VAM：虚拟账号管理（Virtual Account Management）
 * <a id="vanet"></a>VANET：车载自组织网络（Vehicular Ad-hoc Network）
 * <a id="vas"></a>VAS：虚拟地址空间（Virtual Address Space）
@@ -68,7 +67,6 @@
 * <a id="vlb-c6"></a>vLB：虚拟负载均衡器（Virtual Load Balancer）
 * <a id="vlb"></a>VLB：Valiant负载均衡（Valiant Load Balancing）
 * <a id="vliw"></a>VLIW：超长指令字处理器架构（Very Long Instruction Word）
-* <a id="vlm"></a>VLM：视觉语言模型（Vision-Language Model）
 * <a id="vlr"></a>VLR：GSM访客位置寄存器（Visitor Location Register）
 * <a id="vlti-c7"></a>VLTi：虚拟链路隧道互连（Virtual Link Tunnel Interconnect）
 * <a id="vm"></a>VM：虚拟机（Virtual Machine）；漏洞管理（Vulnerability Management）
@@ -97,7 +95,6 @@
 * <a id="vpr"></a>VPR：漏洞优先级评级（Vulnerability Priority Rating）
 * <a id="vpt"></a>VPT：漏洞优先级技术（Vulnerability Prioritization Technology）
 * <a id="vq"></a>VQ：矢量量化（Vector Quantization）
-* <a id="vq-x2dvae"></a>VQ-VAE：矢量量化变分自编码器（Vector Quantized Variational AutoEncoder）
 * <a id="vqa"></a>VQA：视觉问答（Visual Question & Answering）
 * <a id="vqgan"></a>VQGAN：矢量量化生成对抗网络（Vector Quantized Generative Adversarial Network）
 * <a id="vql"></a>VQL：Velociraptor查询语言（Velociraptor Query Language）

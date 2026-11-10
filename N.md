@@ -10,14 +10,11 @@
 * <a id="nacha"></a>NACHA：美国国家自动化清算所协会（National Automated Clearing House Association）
 * <a id="nad"></a>NAD：网络访问域（Network Access Domain）
 * <a id="nai"></a>NAI：NAI公司（Network Associates, Inc.）
-* <a id="naiio"></a>NAIIO：美国国家人工智能计划办公室（National Artificial Intelligence Initiative Office）
-* <a id="nairrtf"></a>NAIRRTF：美国国家人工智能研究资源工作组（National Artificial Intelligence Research Resource Task Force）
 * <a id="nam"></a>NAM：国家制造商协会（National Association of Manufacturers）
 * <a id="napt"></a>NAPT：网络地址与端口转换（Network Address & Port Translation）
 * <a id="nara"></a>NARA：美国国家档案和记录管理局（National Archives and Records Administration）
 * <a id="naruc"></a>NARUC：美国国家公用事业监管专员协会（National Association of Regulatory Utility Commissioners）
 * <a id="nas"></a>NAS：网络附属存储（Network Attached Storage）；移动通信非接入层（Non Access Stratum）
-* <a id="nasa"></a>NASA：美国国家航空航天局（National Aeronautics & Space Administration）
 * <a id="naseo"></a>NASEO：美国国家能源官员协会（National Association of State Energy Officials）
 * <a id="nasic"></a>NASIC：国家航空航天情报中心（National Air & Space Intelligence Center）
 * <a id="nasl"></a>NASL：Nessus攻击脚本语言（Nessus Attack Scripting Language）
@@ -86,7 +83,6 @@
 * <a id="neat"></a>NEAT：不可逾越、可评价、始终调用、防篡改（Non-bypassable, Evaluatable, Always-invoked, Tamperproof）
 * <a id="nec"></a>NEC：日本电气公司（Nippon Electric Company）
 * <a id="necp"></a>NECP：美国国家应急通讯计划（National Emergency Communications Plan）
-* <a id="ned"></a>NED：美国“国家民主基金会”（The National Endowment for Democracy）
 * <a id="nef"></a>NEF：网络暴露功能（Network Exposure Function）
 * <a id="nei"></a>NEI：核能研究所（Nuclear Energy Institute）
 * <a id="nelc"></a>NELC：美国海军电子实验室中心（Naval Electronics Laboratory Center）
@@ -153,16 +149,13 @@
 * <a id="nitsc"></a>NITSC：国家信息技术安全研究中心（National Research Center for Information Technology Security）
 * <a id="nla"></a>NLA：网络位置感知（Network Location Awareness）
 * <a id="nlb"></a>NLB：网络负载均衡器（Network Load Balancer）
-* <a id="nlg"></a>NLG：自然语言生成（Natural Language Generation）
 * <a id="nlos"></a>NLOS：非视线传播（Non-Line-Of-Sight propagation）
-* <a id="nlp"></a>NLP：自然语言处理（Natural Language Processing）
 * <a id="nma"></a>NMA：网络管理应用（Network Management Application）
 * <a id="nmae"></a>NMAE：归一化平均绝对误差（Normalized Mean Absolute Error）
 * <a id="nmf"></a>NMF：国家任务部队（National Mission Force）
 * <a id="nms"></a>NMS：网络管理系统（Network Management System）；网络管理站（Network Management Station）；美国国家军事战略（National Military Strategy）
 * <a id="nms-x2dco"></a>NMS-CO：美国国家网络作战军事战略（National Military Strategy for Cyberspace Operations）
 * <a id="nmt"></a>NMT：美军国家任务部队（National Mission Team）
-* <a id="nn"></a>NN：神经网络（Neural Network）
 * <a id="nni"></a>NNI：网络到网络接口（Network-to-Network Interface）
 * <a id="nnm"></a>NNM：Nessus网络监视器（Nessus Network Monitor）
 * <a id="nntp"></a>NNTP：网络新闻传输协议（Network News Transport Protocol）
@@ -186,7 +179,6 @@
 * <a id="nppd"></a>NPPD：美国CISA前身，原国家保护和计划司（National Protection and Programs Directorate）
 * <a id="nps"></a>NPS：网络代理服务器（Network Proxy Server）；美国国家战备体系（National Preparedness System）；网络策略服务器（Network Policy Server）
 * <a id="npsi"></a>NPSI：德国国家信息保护计划（Nationaler Plan zum Schutz der Informationsstrukturen）
-* <a id="npu"></a>NPU：网络处理单元（Network Processing Unit）；神经网络处理器（Neural-network Processing Unit）
 * <a id="nr"></a>NR：5G移动网新空口（New Radio）
 * <a id="nrc"></a>NRC：美国核管理委员会（United States Nuclear Regulatory Commission）
 * <a id="nrel"></a>NREL：国家可再生能源实验室（National Renewable Energy Laboratory）
