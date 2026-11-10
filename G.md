@@ -77,6 +77,7 @@
 * <a id="glue"></a>GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
 * <a id="gm"></a>GM：国密（Guo Mi，密码行业标准，国家密码管理局）
 * <a id="gm-x2ft"></a>GM/T：密码行业标准（Cryptography Industry Standard）
+* <a id="gm-x2fz"></a>GM/Z：国密指导（Guo Mi Zhi，密码行业指导性技术文件，Z=指导）
 * <a id="gma"></a>GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * <a id="gmac"></a>GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
 * <a id="gmits"></a>GMITS：IT安全管理指南（Guidelines for the Management of IT Security）
@@ -145,6 +146,8 @@
 * <a id="guid"></a>GUID：全局唯一标识符（Globally Unique Identifier）
 * <a id="guti"></a>GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * <a id="gvlk"></a>GVLK：微软通用卷授权密钥（Generic Volume License Key）
+* <a id="gw"></a>GW：网关（Gateway）；十亿瓦（Gigawatt）；国家电子政务外网（Guo Wang，国网，国家电子政务外网管理中心，区别于国家电网）
 * <a id="gwn"></a>GWN：网关节点（Gateway Node）
+* <a id="gy"></a>GY：广播电影电视（Guang Ying，广影，取广播电影电视之广与影，国家广播电视总局）
 * <a id="gz"></a>GZ：GZIP压缩格式（GNU ZIP）
 * <a id="gzip"></a>GZIP：GZIP压缩格式（GNU ZIP）
