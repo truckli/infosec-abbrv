@@ -1,7 +1,6 @@
 ## G
 
 * <a id="g-x2d2"></a>G-2：美国陆军情报局（Intelligence G-2）
-* <a id="ga"></a>GA：正式可用/生产可用（General Availability）；公共安全行业标准（Public Security Industry Standard）
 * <a id="gaap"></a>GAAP：一般公认会计原则（Generally Accepted Accounting Principle）
 * <a id="gae"></a>GAE：图自编码器（Graph Autoencoder）
 * <a id="gair"></a>GAIR：全球人工智能与机器人大会（Global Artificial Intelligence and Robotics Conference）
