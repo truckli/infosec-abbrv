@@ -40,6 +40,7 @@
 * <a id="gdb"></a>GDB：GNU调试器（GNU Debugger）
 * <a id="gddr"></a>GDDR：显存（Graphics Double Data Rate）
 * <a id="gdi"></a>GDI：图形设备接口（Graphics Device Interface）
+* <a id="gdj"></a>GDJ：广播电影电视技术（Guang Dian Ji Shu，广Guang电Dian技Ji，广播电视网络安全类标准，如GDJ 037-2011，国家广播电视总局）
 * <a id="gdmo"></a>GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
 * <a id="gdn"></a>GDN：全球风险阻断网络（Global Disruption Network）
 * <a id="gdoi"></a>GDOI：组解释域（Group Domain of Interpretation）
