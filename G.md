@@ -40,6 +40,7 @@
 * <a id="gdb"></a>GDB：GNU调试器（GNU Debugger）
 * <a id="gddr"></a>GDDR：显存（Graphics Double Data Rate）
 * <a id="gdi"></a>GDI：图形设备接口（Graphics Device Interface）
+* <a id="gdj"></a>GDJ：广播电影电视技术（Guang Dian Ji Shu，广(Guang)电(Dian)技（Ji)，广播电视网络安全类标准，如GDJ 037-2011，国家广播电视总局）
 * <a id="gdmo"></a>GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
 * <a id="gdn"></a>GDN：全球风险阻断网络（Global Disruption Network）
 * <a id="gdoi"></a>GDOI：组解释域（Group Domain of Interpretation）
@@ -82,6 +83,7 @@
 * <a id="gmk"></a>GMK：组主密钥（Group Master Key）
 * <a id="gms"></a>GMS：谷歌移动服务（Google Mobile Services）
 * <a id="gmsk"></a>GMSK：高斯最小频移键控（Gaussian Filtered Minimum Shift Keying）
+* <a id="gmy"></a>GMY：国密研究（Guo Mi Yan，国密研究类标准，Y=研究，与GM/Z指导并列）
 * <a id="gnb-c6"></a>gNB：gNB基站（gNodeB）
 * <a id="gnd"></a>GND：地线（Ground）
 * <a id="gnn"></a>GNN：图神经网络（Graph Neural Network）
