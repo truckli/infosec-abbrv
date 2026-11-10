@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4979**条，词组**6262**条。 
+当前收录缩略词形**4990**条，词组**6277**条。 
 
 
 ## 参考链接
@@ -279,25 +279,25 @@
 
 ### G
 
-[G-2](G.md#g-x2d2) [GAAP](G.md#gaap) [GAE](G.md#gae) [GAIR](G.md#gair) [GAN](G.md#gan) [GAO](G.md#gao) [GaP](G.md#gap-c5) [GAPP](G.md#gapp)
-[GAPS](G.md#gaps) [GARCH](G.md#garch) [GARD](G.md#gard) [GAT](G.md#gat) [GB](G.md#gb) [Gb](G.md#gb-c1) [Gb/s](G.md#gb-x2fs-c1) [GB/T](G.md#gb-x2ft)
-[GB/Z](G.md#gb-x2fz) [GBDT](G.md#gbdt) [GbE](G.md#gbe-c5) [GBIC](G.md#gbic) [Gbps](G.md#gbps-c1) [GC](G.md#gc) [GC&CS](G.md#gc-x26cs) [GCC](G.md#gcc)
-[GCCP](G.md#gccp) [GCCS](G.md#gccs) [GCG](G.md#gcg) [GCHQ](G.md#gchq) [GCIP](G.md#gcip) [GCKMS](G.md#gckms) [GCM](G.md#gcm) [GCN](G.md#gcn)
-[GCP](G.md#gcp) [GCS](G.md#gcs) [GCSB](G.md#gcsb) [GCSS](G.md#gcss) [GDB](G.md#gdb) [GDDR](G.md#gddr) [GDI](G.md#gdi) [GDMO](G.md#gdmo)
-[GDN](G.md#gdn) [GDOI](G.md#gdoi) [GDP](G.md#gdp) [GDPR](G.md#gdpr) [GDS](G.md#gds) [GDT](G.md#gdt) [GDTR](G.md#gdtr) [GE](G.md#ge)
-[GenAI](G.md#genai-c19) [GEO](G.md#geo) [GEOINT](G.md#geoint) [GETVPN](G.md#getvpn) [GF](G.md#gf) [GFE](G.md#gfe) [GFS](G.md#gfs) [GFSK](G.md#gfsk)
-[GGE](G.md#gge) [GGML](G.md#ggml) [GGSN](G.md#ggsn) [GHC](G.md#ghc) [GHR](G.md#ghr) [GHz](G.md#ghz-c3) [GIAC](G.md#giac) [GICSP](G.md#gicsp)
-[GIG](G.md#gig) [GIN](G.md#gin) [GIOP](G.md#giop) [GKE](G.md#gke) [GKH](G.md#gkh) [GLOO](G.md#gloo) [GloVe](G.md#glove-c9) [GLS](G.md#gls)
-[GLUE](G.md#glue) [GM/T](G.md#gm-x2ft) [GMA](G.md#gma) [GMAC](G.md#gmac) [GMITS](G.md#gmits) [GMK](G.md#gmk) [GMS](G.md#gms) [GMSK](G.md#gmsk)
-[gNB](G.md#gnb-c6) [GND](G.md#gnd) [GNN](G.md#gnn) [GNSS](G.md#gnss) [GNU](G.md#gnu) [GOG](G.md#gog) [GoIP](G.md#goip-cd) [GOPS](G.md#gops)
-[GOSC](G.md#gosc) [GOT](G.md#got) [GoT](G.md#got-c5) [GOTS](G.md#gots) [GOV](G.md#gov) [GP](G.md#gp) [GPAI](G.md#gpai) [GPC](G.md#gpc)
-[GPF](G.md#gpf) [GPFS](G.md#gpfs) [GPG](G.md#gpg) [GPGPU](G.md#gpgpu) [GPL](G.md#gpl) [GPMC](G.md#gpmc) [GPO](G.md#gpo) [GPRS](G.md#gprs)
-[GPS](G.md#gps) [GPT](G.md#gpt) [GPU](G.md#gpu) [GPV](G.md#gpv) [GQL](G.md#gql) [GRC](G.md#grc) [GReAT](G.md#great-c1b) [GRID](G.md#grid)
-[GRO](G.md#gro) [gRPC](G.md#grpc-ce) [GRPO](G.md#grpo) [GRR](G.md#grr) [GRS](G.md#grs) [GRU](G.md#gru) [GRUB](G.md#grub) [GS](G.md#gs)
-[GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm) [GSMA](G.md#gsma) [GSN](G.md#gsn) [GSOC](G.md#gsoc) [GST](G.md#gst)
-[GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk) [GTP](G.md#gtp) [GTP-U](G.md#gtp-x2du) [GTX](G.md#gtx) [GUA](G.md#gua)
-[GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti) [GVLK](G.md#gvlk) [GW](G.md#gw) [GWN](G.md#gwn) [GY](G.md#gy)
-[GZ](G.md#gz) [GZIP](G.md#gzip)
+[G-2](G.md#g-x2d2) [GA](G.md#ga) [GAAP](G.md#gaap) [GAE](G.md#gae) [GAIR](G.md#gair) [GAN](G.md#gan) [GAO](G.md#gao) [GaP](G.md#gap-c5)
+[GAPP](G.md#gapp) [GAPS](G.md#gaps) [GARCH](G.md#garch) [GARD](G.md#gard) [GAT](G.md#gat) [GB](G.md#gb) [Gb](G.md#gb-c1) [Gb/s](G.md#gb-x2fs-c1)
+[GB/T](G.md#gb-x2ft) [GB/Z](G.md#gb-x2fz) [GBDT](G.md#gbdt) [GbE](G.md#gbe-c5) [GBIC](G.md#gbic) [Gbps](G.md#gbps-c1) [GC](G.md#gc) [GC&CS](G.md#gc-x26cs)
+[GCC](G.md#gcc) [GCCP](G.md#gccp) [GCCS](G.md#gccs) [GCG](G.md#gcg) [GCHQ](G.md#gchq) [GCIP](G.md#gcip) [GCKMS](G.md#gckms) [GCM](G.md#gcm)
+[GCN](G.md#gcn) [GCP](G.md#gcp) [GCS](G.md#gcs) [GCSB](G.md#gcsb) [GCSS](G.md#gcss) [GDB](G.md#gdb) [GDDR](G.md#gddr) [GDI](G.md#gdi)
+[GDJ](G.md#gdj) [GDMO](G.md#gdmo) [GDN](G.md#gdn) [GDOI](G.md#gdoi) [GDP](G.md#gdp) [GDPR](G.md#gdpr) [GDS](G.md#gds) [GDT](G.md#gdt)
+[GDTR](G.md#gdtr) [GE](G.md#ge) [GenAI](G.md#genai-c19) [GEO](G.md#geo) [GEOINT](G.md#geoint) [GETVPN](G.md#getvpn) [GF](G.md#gf) [GFE](G.md#gfe)
+[GFS](G.md#gfs) [GFSK](G.md#gfsk) [GGE](G.md#gge) [GGML](G.md#ggml) [GGSN](G.md#ggsn) [GHC](G.md#ghc) [GHR](G.md#ghr) [GHz](G.md#ghz-c3)
+[GIAC](G.md#giac) [GICSP](G.md#gicsp) [GIG](G.md#gig) [GIN](G.md#gin) [GIOP](G.md#giop) [GKE](G.md#gke) [GKH](G.md#gkh) [GLOO](G.md#gloo)
+[GloVe](G.md#glove-c9) [GLS](G.md#gls) [GLUE](G.md#glue) [GM](G.md#gm) [GM/T](G.md#gm-x2ft) [GMA](G.md#gma) [GMAC](G.md#gmac) [GMITS](G.md#gmits)
+[GMK](G.md#gmk) [GMS](G.md#gms) [GMSK](G.md#gmsk) [GMY](G.md#gmy) [gNB](G.md#gnb-c6) [GND](G.md#gnd) [GNN](G.md#gnn) [GNSS](G.md#gnss)
+[GNU](G.md#gnu) [GOG](G.md#gog) [GoIP](G.md#goip-cd) [GOPS](G.md#gops) [GOSC](G.md#gosc) [GOT](G.md#got) [GoT](G.md#got-c5) [GOTS](G.md#gots)
+[GOV](G.md#gov) [GP](G.md#gp) [GPAI](G.md#gpai) [GPC](G.md#gpc) [GPF](G.md#gpf) [GPFS](G.md#gpfs) [GPG](G.md#gpg) [GPGPU](G.md#gpgpu)
+[GPL](G.md#gpl) [GPMC](G.md#gpmc) [GPO](G.md#gpo) [GPRS](G.md#gprs) [GPS](G.md#gps) [GPT](G.md#gpt) [GPU](G.md#gpu) [GPV](G.md#gpv)
+[GQL](G.md#gql) [GRC](G.md#grc) [GReAT](G.md#great-c1b) [GRID](G.md#grid) [GRO](G.md#gro) [gRPC](G.md#grpc-ce) [GRPO](G.md#grpo) [GRR](G.md#grr)
+[GRS](G.md#grs) [GRU](G.md#gru) [GRUB](G.md#grub) [GS](G.md#gs) [GSA](G.md#gsa) [GSII](G.md#gsii) [GSLB](G.md#gslb) [GSM](G.md#gsm)
+[GSMA](G.md#gsma) [GSN](G.md#gsn) [GSOC](G.md#gsoc) [GST](G.md#gst) [GSW](G.md#gsw) [GTC](G.md#gtc) [GTI](G.md#gti) [GTK](G.md#gtk)
+[GTP](G.md#gtp) [GTP-U](G.md#gtp-x2du) [GTX](G.md#gtx) [GUA](G.md#gua) [GUAC](G.md#guac) [GUI](G.md#gui) [GUID](G.md#guid) [GUTI](G.md#guti)
+[GVLK](G.md#gvlk) [GW](G.md#gw) [GWN](G.md#gwn) [GY](G.md#gy) [GZ](G.md#gz) [GZIP](G.md#gzip)
 
 ### H
 
@@ -371,10 +371,11 @@
 [JEPA](J.md#jepa) [JFACC](J.md#jfacc) [JFAPA](J.md#jfapa) [JFC](J.md#jfc) [JFCC-ISR](J.md#jfcc-x2disr) [JFFS](J.md#jffs) [JFHQ](J.md#jfhq) [JFHQ-C](J.md#jfhq-x2dc)
 [JFHQ-DoDIN](J.md#jfhq-x2ddodin-c1df) [JIC](J.md#jic) [JIE](J.md#jie) [JIEO](J.md#jieo) [JISEC](J.md#jisec) [JIT](J.md#jit) [JIWG](J.md#jiwg) [JKS](J.md#jks)
 [JMN](J.md#jmn) [JMS](J.md#jms) [JMX](J.md#jmx) [JNDI](J.md#jndi) [JOC](J.md#joc) [JOP](J.md#jop) [JOPES](J.md#jopes) [JP](J.md#jp)
-[JPCERT/CC](J.md#jpcert-x2fcc) [JPEG](J.md#jpeg) [JPES](J.md#jpes) [JPO-STC](J.md#jpo-x2dstc) [JR/T](J.md#jr-x2ft) [JRASP](J.md#jrasp) [JRE](J.md#jre) [JRSS](J.md#jrss)
-[JRTF](J.md#jrtf) [JS](J.md#js) [JSA](J.md#jsa) [JSC](J.md#jsc) [JSMA](J.md#jsma) [JSON](J.md#json) [JSONL](J.md#jsonl) [JSRC](J.md#jsrc)
-[JSS](J.md#jss) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv) [JVM](J.md#jvm) [JVN](J.md#jvn)
-[JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks) [JWS](J.md#jws) [JWT](J.md#jwt)
+[JPCERT/CC](J.md#jpcert-x2fcc) [JPEG](J.md#jpeg) [JPES](J.md#jpes) [JPO-STC](J.md#jpo-x2dstc) [JR](J.md#jr) [JR/T](J.md#jr-x2ft) [JRASP](J.md#jrasp) [JRE](J.md#jre)
+[JRSS](J.md#jrss) [JRTF](J.md#jrtf) [JS](J.md#js) [JSA](J.md#jsa) [JSC](J.md#jsc) [JSMA](J.md#jsma) [JSON](J.md#json) [JSONL](J.md#jsonl)
+[JSRC](J.md#jsrc) [JSS](J.md#jss) [JT](J.md#jt) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv)
+[JVM](J.md#jvm) [JVN](J.md#jvn) [JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks)
+[JWS](J.md#jws) [JWT](J.md#jwt)
 
 ### K
 
@@ -417,27 +418,27 @@
 [MDM](M.md#mdm) [MDMS](M.md#mdms) [MDO](M.md#mdo) [MDP](M.md#mdp) [MDR](M.md#mdr) [MDS](M.md#mds) [MDT](M.md#mdt) [ME](M.md#me)
 [MEA](M.md#mea) [MEC](M.md#mec) [MECE](M.md#mece) [MECR](M.md#mecr) [MEF](M.md#mef) [MeitY](M.md#meity-c11) [MELT](M.md#melt) [MEM](M.md#mem)
 [MEMS](M.md#mems) [MES](M.md#mes) [METR](M.md#metr) [MFA](M.md#mfa) [MFHE](M.md#mfhe) [MFL](M.md#mfl) [MFLOP](M.md#mflop) [MFR](M.md#mfr)
-[MFT](M.md#mft) [MGCP](M.md#mgcp) [MGF](M.md#mgf) [MGW](M.md#mgw) [MHA](M.md#mha) [MHz](M.md#mhz-c3) [MI](M.md#mi) [MI5](M.md#mi5)
-[MI6](M.md#mi6) [MIA](M.md#mia) [MIB](M.md#mib) [MIC](M.md#mic) [MICE](M.md#mice) [MICTIC](M.md#mictic) [MIE](M.md#mie) [MIG](M.md#mig)
-[MII](M.md#mii) [MIIT](M.md#miit) [MILDEC](M.md#mildec) [MILS](M.md#mils) [MIM](M.md#mim) [MIME](M.md#mime) [MINC](M.md#minc) [MINTIC](M.md#mintic)
-[MIPS](M.md#mips) [MIS](M.md#mis) [MISC](M.md#misc) [MISI](M.md#misi) [MISO](M.md#miso) [MISP](M.md#misp) [MiSRC](M.md#misrc-c1d) [MITA](M.md#mita)
-[MITM](M.md#mitm) [MIVD](M.md#mivd) [MJ](M.md#mj) [MKTME](M.md#mktme) [ML](M.md#ml) [ML-DSA](M.md#ml-x2ddsa) [ML-KEM](M.md#ml-x2dkem) [MLAG](M.md#mlag)
-[MLE](M.md#mle) [MLM](M.md#mlm) [MLOps](M.md#mlops-c7) [MLP](M.md#mlp) [MLS](M.md#mls) [MLWE](M.md#mlwe) [MLWR](M.md#mlwr) [MMC](M.md#mmc)
-[MME](M.md#mme) [MMIO](M.md#mmio) [mMTC](M.md#mmtc-ce) [MMU](M.md#mmu) [MNO-SD](M.md#mno-x2dsd) [MNS](M.md#mns) [MO](M.md#mo) [MOB](M.md#mob)
-[MOBI](M.md#mobi) [MOC](M.md#moc) [MOD](M.md#mod) [MODA](M.md#moda) [MODAF](M.md#modaf) [ModelOps](M.md#modelops-c21) [MODEM](M.md#modem) [MOE](M.md#moe)
-[MoE](M.md#moe-c5) [MOF](M.md#mof) [MOIE](M.md#moie) [MOK](M.md#mok) [MOM](M.md#mom) [MOP](M.md#mop) [MOPS](M.md#mops) [MORDA](M.md#morda)
-[MOSA](M.md#mosa) [MoSCoW](M.md#moscow-c2d) [MOTS](M.md#mots) [MOTW](M.md#motw) [MOU](M.md#mou) [MP](M.md#mp) [MPA](M.md#mpa) [MPC](M.md#mpc)
-[MPDRR](M.md#mpdrr) [MPE](M.md#mpe) [MPEG](M.md#mpeg) [MPI](M.md#mpi) [MPKC](M.md#mpkc) [MPLS](M.md#mpls) [MPLWE](M.md#mplwe) [MPP](M.md#mpp)
-[MPPE](M.md#mppe) [MPS](M.md#mps) [MPT](M.md#mpt) [MPTD](M.md#mptd) [MPU](M.md#mpu) [MQ](M.md#mq) [MQA](M.md#mqa) [MQTT](M.md#mqtt)
-[MQV](M.md#mqv) [MRA](M.md#mra) [MRC](M.md#mrc) [MRES](M.md#mres) [MRP](M.md#mrp) [MRTI](M.md#mrti) [MRTR](M.md#mrtr) [MS](M.md#ms)
-[MS-CHAP](M.md#ms-x2dchap) [MS-DRSR](M.md#ms-x2ddrsr) [ms-DS-MachineAccountQuota](M.md#ms-x2dds-x2dmachineaccountquota-c4081c) [MS-ISAC](M.md#ms-x2disac) [MSA](M.md#msa) [MSB](M.md#msb) [MSC](M.md#msc) [mSCP](M.md#mscp-ce)
-[MSDT](M.md#msdt) [MSE](M.md#mse) [MSF](M.md#msf) [MSFT](M.md#msft) [MSG](M.md#msg) [MSHA](M.md#msha) [MSIS](M.md#msis) [MSISDN](M.md#msisdn)
-[MSISE](M.md#msise) [MSISPM](M.md#msispm) [MSIT-IS](M.md#msit-x2dis) [MSK](M.md#msk) [MSL](M.md#msl) [MSLS](M.md#msls) [MSM](M.md#msm) [MSP](M.md#msp)
-[MSRC](M.md#msrc) [MSS](M.md#mss) [MSSP](M.md#mssp) [MSSQL](M.md#mssql) [MSTIC](M.md#mstic) [MSTP](M.md#mstp) [MSV](M.md#msv) [MT](M.md#mt)
-[MTA](M.md#mta) [MTBF](M.md#mtbf) [MTC](M.md#mtc) [MTD](M.md#mtd) [MTE](M.md#mte) [MtE](M.md#mte-c5) [MTI](M.md#mti) [MTIPS](M.md#mtips)
-[mTLS](M.md#mtls-ce) [MTO](M.md#mto) [MTSRC](M.md#mtsrc) [MTTC](M.md#mttc) [MTTD](M.md#mttd) [MTTF](M.md#mttf) [MTTFD](M.md#mttfd) [MTTI](M.md#mtti)
-[MTTK](M.md#mttk) [MTTR](M.md#mttr) [MTU](M.md#mtu) [MUD](M.md#mud) [MVA](M.md#mva) [MVC](M.md#mvc) [MVCC](M.md#mvcc) [MVD](M.md#mvd)
-[MVM](M.md#mvm) [MVP](M.md#mvp) [MVX](M.md#mvx) [mW](M.md#mw-c2) [MX](M.md#mx)
+[MFT](M.md#mft) [MGCP](M.md#mgcp) [MGF](M.md#mgf) [MGW](M.md#mgw) [MH](M.md#mh) [MHA](M.md#mha) [MHz](M.md#mhz-c3) [MI](M.md#mi)
+[MI5](M.md#mi5) [MI6](M.md#mi6) [MIA](M.md#mia) [MIB](M.md#mib) [MIC](M.md#mic) [MICE](M.md#mice) [MICTIC](M.md#mictic) [MIE](M.md#mie)
+[MIG](M.md#mig) [MII](M.md#mii) [MIIT](M.md#miit) [MILDEC](M.md#mildec) [MILS](M.md#mils) [MIM](M.md#mim) [MIME](M.md#mime) [MINC](M.md#minc)
+[MINTIC](M.md#mintic) [MIPS](M.md#mips) [MIS](M.md#mis) [MISC](M.md#misc) [MISI](M.md#misi) [MISO](M.md#miso) [MISP](M.md#misp) [MiSRC](M.md#misrc-c1d)
+[MITA](M.md#mita) [MITM](M.md#mitm) [MIVD](M.md#mivd) [MJ](M.md#mj) [MKTME](M.md#mktme) [ML](M.md#ml) [ML-DSA](M.md#ml-x2ddsa) [ML-KEM](M.md#ml-x2dkem)
+[MLAG](M.md#mlag) [MLE](M.md#mle) [MLM](M.md#mlm) [MLOps](M.md#mlops-c7) [MLP](M.md#mlp) [MLS](M.md#mls) [MLWE](M.md#mlwe) [MLWR](M.md#mlwr)
+[MMC](M.md#mmc) [MME](M.md#mme) [MMIO](M.md#mmio) [mMTC](M.md#mmtc-ce) [MMU](M.md#mmu) [MNO-SD](M.md#mno-x2dsd) [MNS](M.md#mns) [MO](M.md#mo)
+[MOB](M.md#mob) [MOBI](M.md#mobi) [MOC](M.md#moc) [MOD](M.md#mod) [MODA](M.md#moda) [MODAF](M.md#modaf) [ModelOps](M.md#modelops-c21) [MODEM](M.md#modem)
+[MOE](M.md#moe) [MoE](M.md#moe-c5) [MOF](M.md#mof) [MOIE](M.md#moie) [MOK](M.md#mok) [MOM](M.md#mom) [MOP](M.md#mop) [MOPS](M.md#mops)
+[MORDA](M.md#morda) [MOSA](M.md#mosa) [MoSCoW](M.md#moscow-c2d) [MOTS](M.md#mots) [MOTW](M.md#motw) [MOU](M.md#mou) [MP](M.md#mp) [MPA](M.md#mpa)
+[MPC](M.md#mpc) [MPDRR](M.md#mpdrr) [MPE](M.md#mpe) [MPEG](M.md#mpeg) [MPI](M.md#mpi) [MPKC](M.md#mpkc) [MPLS](M.md#mpls) [MPLWE](M.md#mplwe)
+[MPP](M.md#mpp) [MPPE](M.md#mppe) [MPS](M.md#mps) [MPT](M.md#mpt) [MPTD](M.md#mptd) [MPU](M.md#mpu) [MQ](M.md#mq) [MQA](M.md#mqa)
+[MQTT](M.md#mqtt) [MQV](M.md#mqv) [MRA](M.md#mra) [MRC](M.md#mrc) [MRES](M.md#mres) [MRP](M.md#mrp) [MRTI](M.md#mrti) [MRTR](M.md#mrtr)
+[MS](M.md#ms) [MS-CHAP](M.md#ms-x2dchap) [MS-DRSR](M.md#ms-x2ddrsr) [ms-DS-MachineAccountQuota](M.md#ms-x2dds-x2dmachineaccountquota-c4081c) [MS-ISAC](M.md#ms-x2disac) [MSA](M.md#msa) [MSB](M.md#msb) [MSC](M.md#msc)
+[mSCP](M.md#mscp-ce) [MSDT](M.md#msdt) [MSE](M.md#mse) [MSF](M.md#msf) [MSFT](M.md#msft) [MSG](M.md#msg) [MSHA](M.md#msha) [MSIS](M.md#msis)
+[MSISDN](M.md#msisdn) [MSISE](M.md#msise) [MSISPM](M.md#msispm) [MSIT-IS](M.md#msit-x2dis) [MSK](M.md#msk) [MSL](M.md#msl) [MSLS](M.md#msls) [MSM](M.md#msm)
+[MSP](M.md#msp) [MSRC](M.md#msrc) [MSS](M.md#mss) [MSSP](M.md#mssp) [MSSQL](M.md#mssql) [MSTIC](M.md#mstic) [MSTP](M.md#mstp) [MSV](M.md#msv)
+[MT](M.md#mt) [MTA](M.md#mta) [MTBF](M.md#mtbf) [MTC](M.md#mtc) [MTD](M.md#mtd) [MTE](M.md#mte) [MtE](M.md#mte-c5) [MTI](M.md#mti)
+[MTIPS](M.md#mtips) [mTLS](M.md#mtls-ce) [MTO](M.md#mto) [MTSRC](M.md#mtsrc) [MTTC](M.md#mttc) [MTTD](M.md#mttd) [MTTF](M.md#mttf) [MTTFD](M.md#mttfd)
+[MTTI](M.md#mtti) [MTTK](M.md#mttk) [MTTR](M.md#mttr) [MTU](M.md#mtu) [MUD](M.md#mud) [MVA](M.md#mva) [MVC](M.md#mvc) [MVCC](M.md#mvcc)
+[MVD](M.md#mvd) [MVM](M.md#mvm) [MVP](M.md#mvp) [MVX](M.md#mvx) [mW](M.md#mw-c2) [MX](M.md#mx)
 
 ### N
 
@@ -639,32 +640,32 @@
 
 ### T
 
-[T-BOX](T.md#t-x2dbox) [T5](T.md#t5) [TA](T.md#ta) [TAC](T.md#tac) [TAC-D](T.md#tac-x2dd) [TACACS](T.md#tacacs) [TACS](T.md#tacs) [TAEP](T.md#taep)
-[TAFIM](T.md#tafim) [TAG](T.md#tag) [TAO](T.md#tao) [TAP](T.md#tap) [TARA](T.md#tara) [TARCES](T.md#tarces) [TAS](T.md#tas) [TAXII](T.md#taxii)
-[TB](T.md#tb) [TBAC](T.md#tbac) [TBB](T.md#tbb) [TBOX](T.md#tbox) [TBS](T.md#tbs) [TBYTE](T.md#tbyte) [TC](T.md#tc) [TC260](T.md#tc260)
-[TC28](T.md#tc28) [TCA](T.md#tca) [TCB](T.md#tcb) [TCCM](T.md#tccm) [TCCS](T.md#tccs) [TCDH](T.md#tcdh) [TCG](T.md#tcg) [TCH](T.md#tch)
-[TCM](T.md#tcm) [TCMA](T.md#tcma) [TCMU](T.md#tcmu) [TCN](T.md#tcn) [TCO](T.md#tco) [TCP](T.md#tcp) [TCPA](T.md#tcpa) [TCS](T.md#tcs)
-[TCSEC](T.md#tcsec) [TCSVT](T.md#tcsvt) [TCU](T.md#tcu) [TD](T.md#td) [TDA](T.md#tda) [TDD](T.md#tdd) [TDDH](T.md#tddh) [TDE](T.md#tde)
-[TDM](T.md#tdm) [TDMA](T.md#tdma) [TDO](T.md#tdo) [TDoS](T.md#tdos-cb) [TDP](T.md#tdp) [TDR](T.md#tdr) [TDS](T.md#tds) [TDSC](T.md#tdsc)
-[TDT](T.md#tdt) [TDX](T.md#tdx) [TE](T.md#te) [TEB](T.md#teb) [TECHAD](T.md#techad) [TECHINT](T.md#techint) [TEE](T.md#tee) [TEMPEST](T.md#tempest)
-[TePA](T.md#tepa-cd) [TESLA](T.md#tesla) [TETRA](T.md#tetra) [TETRAPOL](T.md#tetrapol) [TEVV](T.md#tevv) [TF-A](T.md#tf-x2da) [TF32](T.md#tf32) [TFA](T.md#tfa)
-[TFI](T.md#tfi) [TFLOPS](T.md#tflops) [TFTI](T.md#tfti) [TFTP](T.md#tftp) [TGC](T.md#tgc) [TGS](T.md#tgs) [TGT](T.md#tgt) [TGW](T.md#tgw)
-[TH](T.md#th) [THP](T.md#thp) [TI](T.md#ti) [TIA](T.md#tia) [TIARA](T.md#tiara) [TIB](T.md#tib) [TIBER-EU](T.md#tiber-x2deu) [TIC](T.md#tic)
-[TICAP](T.md#ticap) [TIFF](T.md#tiff) [TIFS](T.md#tifs) [TIG](T.md#tig) [TIM](T.md#tim) [TIOS](T.md#tios) [TIP](T.md#tip) [TK](T.md#tk)
-[TKG](T.md#tkg) [TKIP](T.md#tkip) [TLB](T.md#tlb) [TLCP](T.md#tlcp) [TLD](T.md#tld) [TLP](T.md#tlp) [TLS](T.md#tls) [TLSP](T.md#tlsp)
-[TLV](T.md#tlv) [TMA](T.md#tma) [TME](T.md#tme) [TMH](T.md#tmh) [TMMi](T.md#tmmi-c7) [TMN](T.md#tmn) [TMS](T.md#tms) [TMT](T.md#tmt)
-[TN](T.md#tn) [TNC](T.md#tnc) [TNE](T.md#tne) [TNGF](T.md#tngf) [TNI](T.md#tni) [TNIU](T.md#tniu) [TNR](T.md#tnr) [TOB](T.md#tob)
-[TOC](T.md#toc) [TOCTOU](T.md#toctou) [TOE](T.md#toe) [TOGAF](T.md#togaf) [TOPS](T.md#tops) [TOR](T.md#tor) [TOS](T.md#tos) [ToT](T.md#tot-c5)
-[TOTP](T.md#totp) [TOU](T.md#tou) [TP](T.md#tp) [TPA](T.md#tpa) [TPC](T.md#tpc) [TPCM](T.md#tpcm) [TPI](T.md#tpi) [TPL](T.md#tpl)
-[TPM](T.md#tpm) [TPN](T.md#tpn) [TPP](T.md#tpp) [TPR](T.md#tpr) [TPRM](T.md#tprm) [TPS](T.md#tps) [TPU](T.md#tpu) [TQM](T.md#tqm)
-[TR](T.md#tr) [TRA](T.md#tra) [TRADINT](T.md#tradint) [TRANSEC](T.md#transec) [TRE](T.md#tre) [TReX](T.md#trex-cb) [TRIDENT](T.md#trident) [TRiSM](T.md#trism-c1b)
-[TRM](T.md#trm) [TRMC](T.md#trmc) [TRNG](T.md#trng) [TS](T.md#ts) [TSA](T.md#tsa) [TSB](T.md#tsb) [TSC](T.md#tsc) [TSCM](T.md#tscm)
-[TSDB](T.md#tsdb) [TSF](T.md#tsf) [TSG](T.md#tsg) [TSI](T.md#tsi) [TSIG](T.md#tsig) [TSM](T.md#tsm) [TSMC](T.md#tsmc) [TSME](T.md#tsme)
-[TSN](T.md#tsn) [TSNE](T.md#tsne) [TSP](T.md#tsp) [TSRC](T.md#tsrc) [TSS](T.md#tss) [TST](T.md#tst) [TSU](T.md#tsu) [TSV](T.md#tsv)
-[TT](T.md#tt) [TT&C](T.md#tt-x26c) [TTA](T.md#tta) [TTC](T.md#ttc) [TTD](T.md#ttd) [TTE](T.md#tte) [TTFB](T.md#ttfb) [TTFP](T.md#ttfp)
-[TTFT](T.md#ttft) [TTI](T.md#tti) [TTL](T.md#ttl) [TTLB](T.md#ttlb) [TTLS](T.md#ttls) [TTM](T.md#ttm) [TTP](T.md#ttp) [TTR](T.md#ttr)
-[TTS](T.md#tts) [TTV](T.md#ttv) [TTX](T.md#ttx) [TUP](T.md#tup) [TURN](T.md#turn) [TVF](T.md#tvf) [TVM](T.md#tvm) [TwC](T.md#twc-c5)
-[TWN](T.md#twn) [TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
+[T-BOX](T.md#t-x2dbox) [T/](T.md#t-x2f) [T5](T.md#t5) [TA](T.md#ta) [TAC](T.md#tac) [TAC-D](T.md#tac-x2dd) [TACACS](T.md#tacacs) [TACS](T.md#tacs)
+[TAEP](T.md#taep) [TAFIM](T.md#tafim) [TAG](T.md#tag) [TAO](T.md#tao) [TAP](T.md#tap) [TARA](T.md#tara) [TARCES](T.md#tarces) [TAS](T.md#tas)
+[TAXII](T.md#taxii) [TB](T.md#tb) [TBAC](T.md#tbac) [TBB](T.md#tbb) [TBOX](T.md#tbox) [TBS](T.md#tbs) [TBYTE](T.md#tbyte) [TC](T.md#tc)
+[TC260](T.md#tc260) [TC28](T.md#tc28) [TCA](T.md#tca) [TCB](T.md#tcb) [TCCM](T.md#tccm) [TCCS](T.md#tccs) [TCDH](T.md#tcdh) [TCG](T.md#tcg)
+[TCH](T.md#tch) [TCII](T.md#tcii) [TCM](T.md#tcm) [TCMA](T.md#tcma) [TCMU](T.md#tcmu) [TCN](T.md#tcn) [TCO](T.md#tco) [TCP](T.md#tcp)
+[TCPA](T.md#tcpa) [TCS](T.md#tcs) [TCSEC](T.md#tcsec) [TCSVT](T.md#tcsvt) [TCU](T.md#tcu) [TD](T.md#td) [TDA](T.md#tda) [TDD](T.md#tdd)
+[TDDH](T.md#tddh) [TDE](T.md#tde) [TDM](T.md#tdm) [TDMA](T.md#tdma) [TDO](T.md#tdo) [TDoS](T.md#tdos-cb) [TDP](T.md#tdp) [TDR](T.md#tdr)
+[TDS](T.md#tds) [TDSC](T.md#tdsc) [TDT](T.md#tdt) [TDX](T.md#tdx) [TE](T.md#te) [TEB](T.md#teb) [TECHAD](T.md#techad) [TECHINT](T.md#techint)
+[TEE](T.md#tee) [TEMPEST](T.md#tempest) [TePA](T.md#tepa-cd) [TESLA](T.md#tesla) [TETRA](T.md#tetra) [TETRAPOL](T.md#tetrapol) [TEVV](T.md#tevv) [TF-A](T.md#tf-x2da)
+[TF32](T.md#tf32) [TFA](T.md#tfa) [TFI](T.md#tfi) [TFLOPS](T.md#tflops) [TFTI](T.md#tfti) [TFTP](T.md#tftp) [TGC](T.md#tgc) [TGS](T.md#tgs)
+[TGT](T.md#tgt) [TGW](T.md#tgw) [TH](T.md#th) [THP](T.md#thp) [TI](T.md#ti) [TIA](T.md#tia) [TIARA](T.md#tiara) [TIB](T.md#tib)
+[TIBER-EU](T.md#tiber-x2deu) [TIC](T.md#tic) [TICAP](T.md#ticap) [TIFF](T.md#tiff) [TIFS](T.md#tifs) [TIG](T.md#tig) [TIM](T.md#tim) [TIOS](T.md#tios)
+[TIP](T.md#tip) [TK](T.md#tk) [TKG](T.md#tkg) [TKIP](T.md#tkip) [TLB](T.md#tlb) [TLCP](T.md#tlcp) [TLD](T.md#tld) [TLP](T.md#tlp)
+[TLS](T.md#tls) [TLSP](T.md#tlsp) [TLV](T.md#tlv) [TMA](T.md#tma) [TME](T.md#tme) [TMH](T.md#tmh) [TMMi](T.md#tmmi-c7) [TMN](T.md#tmn)
+[TMS](T.md#tms) [TMT](T.md#tmt) [TN](T.md#tn) [TNC](T.md#tnc) [TNE](T.md#tne) [TNGF](T.md#tngf) [TNI](T.md#tni) [TNIU](T.md#tniu)
+[TNR](T.md#tnr) [TOB](T.md#tob) [TOC](T.md#toc) [TOCTOU](T.md#toctou) [TOE](T.md#toe) [TOGAF](T.md#togaf) [TOPS](T.md#tops) [TOR](T.md#tor)
+[TOS](T.md#tos) [ToT](T.md#tot-c5) [TOTP](T.md#totp) [TOU](T.md#tou) [TP](T.md#tp) [TPA](T.md#tpa) [TPC](T.md#tpc) [TPCM](T.md#tpcm)
+[TPI](T.md#tpi) [TPL](T.md#tpl) [TPM](T.md#tpm) [TPN](T.md#tpn) [TPP](T.md#tpp) [TPR](T.md#tpr) [TPRM](T.md#tprm) [TPS](T.md#tps)
+[TPU](T.md#tpu) [TQM](T.md#tqm) [TR](T.md#tr) [TRA](T.md#tra) [TRADINT](T.md#tradint) [TRANSEC](T.md#transec) [TRE](T.md#tre) [TReX](T.md#trex-cb)
+[TRIDENT](T.md#trident) [TRiSM](T.md#trism-c1b) [TRM](T.md#trm) [TRMC](T.md#trmc) [TRNG](T.md#trng) [TS](T.md#ts) [TSA](T.md#tsa) [TSB](T.md#tsb)
+[TSC](T.md#tsc) [TSCM](T.md#tscm) [TSDB](T.md#tsdb) [TSF](T.md#tsf) [TSG](T.md#tsg) [TSI](T.md#tsi) [TSIG](T.md#tsig) [TSM](T.md#tsm)
+[TSMC](T.md#tsmc) [TSME](T.md#tsme) [TSN](T.md#tsn) [TSNE](T.md#tsne) [TSP](T.md#tsp) [TSRC](T.md#tsrc) [TSS](T.md#tss) [TST](T.md#tst)
+[TSU](T.md#tsu) [TSV](T.md#tsv) [TT](T.md#tt) [TT&C](T.md#tt-x26c) [TTA](T.md#tta) [TTAF](T.md#ttaf) [TTC](T.md#ttc) [TTD](T.md#ttd)
+[TTE](T.md#tte) [TTFB](T.md#ttfb) [TTFP](T.md#ttfp) [TTFT](T.md#ttft) [TTI](T.md#tti) [TTL](T.md#ttl) [TTLB](T.md#ttlb) [TTLS](T.md#ttls)
+[TTM](T.md#ttm) [TTP](T.md#ttp) [TTR](T.md#ttr) [TTS](T.md#tts) [TTV](T.md#ttv) [TTX](T.md#ttx) [TUP](T.md#tup) [TURN](T.md#turn)
+[TVF](T.md#tvf) [TVM](T.md#tvm) [TwC](T.md#twc-c5) [TWN](T.md#twn) [TX](T.md#tx) [TXD](T.md#txd) [TXT](T.md#txt)
 
 ### U
 
@@ -729,7 +730,7 @@
 
 ### Y
 
-[YAML](Y.md#yaml) [YANG](Y.md#yang) [YARA](Y.md#yara) [YOLO](Y.md#yolo)
+[YAML](Y.md#yaml) [YANG](Y.md#yang) [YARA](Y.md#yara) [YD](Y.md#yd) [YOLO](Y.md#yolo)
 
 ### Z
 

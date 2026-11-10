@@ -52,6 +52,7 @@
 * <a id="jpeg"></a>JPEG：联合照片专家组（Joint Photographic Experts Group）
 * <a id="jpes"></a>JPES：联合计划与执行服务（Joint Planning and Execution Services）
 * <a id="jpo-x2dstc"></a>JPO-STC：特殊技术反制联合计划办公室（Joint Program Office for Special Technical Countermeasures）
+* <a id="jr"></a>JR：金融（Jin Rong，金融行业标准，中国人民银行）
 * <a id="jr-x2ft"></a>JR/T：金融行业推荐性标准（Financial Industry Recommended Standard）
 * <a id="jrasp"></a>JRASP：Java应用自我保护系统（Java Runtime Application Self-Protection）
 * <a id="jre"></a>JRE：Java运行时环境（Java Runtime Environment）
@@ -65,6 +66,7 @@
 * <a id="jsonl"></a>JSONL：每行一条 JSON 记录的行式日志格式（JSON Lines）
 * <a id="jsrc"></a>JSRC：京东安全应急响应中心（JD Security Response Center）
 * <a id="jss"></a>JSS：JWT签名服务（JWT Signing Service）
+* <a id="jt"></a>JT：交通（Jiao Tong，交通运输行业标准）
 * <a id="jtag"></a>JTAG：联合测试行动组协议（Joint Test Action Group）
 * <a id="jtc"></a>JTC：联合技术委员会（Joint Technical Committee）
 * <a id="jtf"></a>JTF：联合任务部队（Joint Task Force）

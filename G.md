@@ -1,6 +1,7 @@
 ## G
 
 * <a id="g-x2d2"></a>G-2：美国陆军情报局（Intelligence G-2）
+* <a id="ga"></a>GA：公安（Gong An，公共安全行业标准）；正式可用/生产可用（General Availability）
 * <a id="gaap"></a>GAAP：一般公认会计原则（Generally Accepted Accounting Principle）
 * <a id="gae"></a>GAE：图自编码器（Graph Autoencoder）
 * <a id="gair"></a>GAIR：全球人工智能与机器人大会（Global Artificial Intelligence and Robotics Conference）
@@ -39,6 +40,7 @@
 * <a id="gdb"></a>GDB：GNU调试器（GNU Debugger）
 * <a id="gddr"></a>GDDR：显存（Graphics Double Data Rate）
 * <a id="gdi"></a>GDI：图形设备接口（Graphics Device Interface）
+* <a id="gdj"></a>GDJ：广播电影电视行业技术标准（Guang Dian Ji Shu，广播电视网络安全类，国家广播电视总局）
 * <a id="gdmo"></a>GDMO：受管对象定义规范（Guidelines for the Definition of Managed Objects）
 * <a id="gdn"></a>GDN：全球风险阻断网络（Global Disruption Network）
 * <a id="gdoi"></a>GDOI：组解释域（Group Domain of Interpretation）
@@ -73,6 +75,7 @@
 * <a id="glove-c9"></a>GloVe：词表示全局向量（Global Vectors for Word Representation）
 * <a id="gls"></a>GLS：广义最小二乘法（Generalized Least Squares）
 * <a id="glue"></a>GLUE：通用语言理解评估基准（General Language Understanding Evaluation）
+* <a id="gm"></a>GM：国密（Guo Mi，密码行业标准，国家密码管理局）
 * <a id="gm-x2ft"></a>GM/T：密码行业标准（Cryptography Industry Standard）
 * <a id="gma"></a>GMA：英特尔图形媒体加速器（Graphics Media Accelerator）
 * <a id="gmac"></a>GMAC：伽罗瓦消息认证码（Galois Message Authentication Code）
@@ -80,6 +83,7 @@
 * <a id="gmk"></a>GMK：组主密钥（Group Master Key）
 * <a id="gms"></a>GMS：谷歌移动服务（Google Mobile Services）
 * <a id="gmsk"></a>GMSK：高斯最小频移键控（Gaussian Filtered Minimum Shift Keying）
+* <a id="gmy"></a>GMY：国密研究（Guo Mi Yan，密码行业标准化技术委员会研究类标准，Y=研究）
 * <a id="gnb-c6"></a>gNB：gNB基站（gNodeB）
 * <a id="gnd"></a>GND：地线（Ground）
 * <a id="gnn"></a>GNN：图神经网络（Graph Neural Network）
@@ -141,7 +145,7 @@
 * <a id="guid"></a>GUID：全局唯一标识符（Globally Unique Identifier）
 * <a id="guti"></a>GUTI：全局唯一临时标识符（Global Unique Temporary Identifier）
 * <a id="gvlk"></a>GVLK：微软通用卷授权密钥（Generic Volume License Key）
-* <a id="gw"></a>GW：网关（Gateway）；十亿瓦（Gigawatt）
+* <a id="gw"></a>GW：网关（Gateway）；十亿瓦（Gigawatt）；国家电子政务外网标准（National e-Government External Network，国家电子政务外网管理中心）
 * <a id="gwn"></a>GWN：网关节点（Gateway Node）
 * <a id="gy"></a>GY：广播电影电视行业标准（Radio, Film and Television Industry Standard）
 * <a id="gz"></a>GZ：GZIP压缩格式（GNU ZIP）

@@ -1,6 +1,7 @@
 ## T
 
 * <a id="t-x2dbox"></a>T-BOX：远程信息处理器（Telematics BOX）
+* <a id="t-x2f"></a>T/：团体标准（Tuan Ti，社会团体代号前缀，如 T/CCIA、T/TAF）
 * <a id="t5"></a>T5：T5模型（Transfer Text-to-Text Transformer）
 * <a id="ta"></a>TA：可信应用（Trusted Application）；跟踪区（Tracking Area）；时耗分析（Timing Analysis）；发送端地址（Transmitter Address）
 * <a id="tac"></a>TAC：跟踪区码（Tracking Area Code）；类型分配码（Type Allocation Code）；威胁分析中心（Threat Analysis Center）
@@ -32,6 +33,7 @@
 * <a id="tcdh"></a>TCDH：双CDH（Twin CDH）；双子计算Diffie-Hellman问题（Twin Computational Diffie-Hellman）
 * <a id="tcg"></a>TCG：可信计算组织（Trusted Computing Group）
 * <a id="tch"></a>TCH：某金融行业机构（The Clearing House）
+* <a id="tcii"></a>TCII：中国关键信息基础设施技术创新联盟（T=团体，CII=关键信息基础设施，团标代号）
 * <a id="tcm"></a>TCM：可信密码模块（Trusted Cryptography Module）
 * <a id="tcma"></a>TCMA：分层竞争多路访问（Tiered Contention Multiple Access）
 * <a id="tcmu"></a>TCMU：中国可信计算工作组（China TCM Union）
@@ -179,6 +181,7 @@
 * <a id="tt"></a>TT：温度变送器（Temperature Transmitter）
 * <a id="tt-x26c"></a>TT&C：测控遥测跟踪与指挥（Telemetry Tracking & Command）
 * <a id="tta"></a>TTA：TAXII传输代理（TAXII Transfer Agent）
+* <a id="ttaf"></a>TTAF：电信终端产业协会（Telecom Terminal Industry Association，团标代号，T/TAF）
 * <a id="ttc"></a>TTC：美欧贸易与技术委员会（Transatlantic Trade and Technology Council）
 * <a id="ttd"></a>TTD：威胁检测时间（Time To Detect）
 * <a id="tte"></a>TTE：时间触发以太网（Time Triggered Ethernet）

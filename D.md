@@ -33,7 +33,7 @@
 * <a id="dast"></a>DAST：动态应用安全测试（Dynamic Application Security Testing）
 * <a id="dato"></a>DATO：禁止授权操作（Denial of Authorization To Operate）
 * <a id="dau"></a>DAU：日均活跃用户数量（Daily Active User）
-* <a id="db"></a>DB：数据库（Database）；定义字节指令（Define Byte）；数据库主加密密钥（MEK Database Master Encryption Key）
+* <a id="db"></a>DB：数据库（Database）；定义字节指令（Define Byte）；数据库主加密密钥（MEK Database Master Encryption Key）；地方标准（Di Biao，强制性地方标准，DB/T 为推荐性地方标准）
 * <a id="dba"></a>DBA：数据库管理员（Database Administrator）
 * <a id="dbf"></a>DBF：数据库防火墙（DataBase Firewall）
 * <a id="dbft-ce"></a>dBFT：去中心化拜占庭容错（decentralized Byzantine Fault Tolerance）
