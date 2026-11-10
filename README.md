@@ -9,7 +9,7 @@
 该列表最初发表于[《网络空间安全体系》（机械工业出版社，2023）](https://item.jd.com/13984284.html)附录部分。经出版社允许，本项目在此基础上持续扩充网络安全缩略词汇，争取做到“一网打尽”，解决广大读者的困扰。
 
 
-当前收录缩略词形**4980**条，词组**6263**条。 
+当前收录缩略词形**4979**条，词组**6262**条。 
 
 
 ## 参考链接
@@ -373,9 +373,8 @@
 [JMN](J.md#jmn) [JMS](J.md#jms) [JMX](J.md#jmx) [JNDI](J.md#jndi) [JOC](J.md#joc) [JOP](J.md#jop) [JOPES](J.md#jopes) [JP](J.md#jp)
 [JPCERT/CC](J.md#jpcert-x2fcc) [JPEG](J.md#jpeg) [JPES](J.md#jpes) [JPO-STC](J.md#jpo-x2dstc) [JR/T](J.md#jr-x2ft) [JRASP](J.md#jrasp) [JRE](J.md#jre) [JRSS](J.md#jrss)
 [JRTF](J.md#jrtf) [JS](J.md#js) [JSA](J.md#jsa) [JSC](J.md#jsc) [JSMA](J.md#jsma) [JSON](J.md#json) [JSONL](J.md#jsonl) [JSRC](J.md#jsrc)
-[JSS](J.md#jss) [JT](J.md#jt) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv) [JVM](J.md#jvm)
-[JVN](J.md#jvn) [JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks) [JWS](J.md#jws)
-[JWT](J.md#jwt)
+[JSS](J.md#jss) [JTAG](J.md#jtag) [JTC](J.md#jtc) [JTF](J.md#jtf) [JTF-CNO](J.md#jtf-x2dcno) [JV](J.md#jv) [JVM](J.md#jvm) [JVN](J.md#jvn)
+[JWCC](J.md#jwcc) [JWE](J.md#jwe) [JWICS](J.md#jwics) [JWID](J.md#jwid) [JWK](J.md#jwk) [JWKS](J.md#jwks) [JWS](J.md#jws) [JWT](J.md#jwt)
 
 ### K
 
