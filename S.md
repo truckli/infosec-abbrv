@@ -274,6 +274,7 @@
 * <a id="soar"></a>SOAR：安全编排、自动化与响应（Security Orchestration, Automation and Response）
 * <a id="soc"></a>SOC：安全运营中心（Security Operation Center）；单次发生成本（Single Occurrence Cost）；服务组织控制（Service Organization Control）
 * <a id="soc-c5"></a>SoC：片上系统（System on Chip）；关注点分离（Separation of Concerns）
+* <a id="soc2"></a>SOC2：系统与组织控制 2 报告（System and Organization Controls 2）
 * <a id="socks"></a>SOCKS：SOCKS协议（SOCKet Secure）
 * <a id="socmint"></a>SOCMINT：社交媒体情报（Social Media Intelligence）
 * <a id="socom"></a>SOCOM：美国特种作战司令部（United States Special Operations Command）

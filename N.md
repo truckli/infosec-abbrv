@@ -135,6 +135,7 @@
 * <a id="nips"></a>NIPS：网络入侵预防系统（Network Intrusion Prevention System）；下一代入侵防御系统（Next-generation Intrusion Prevention System）
 * <a id="nis"></a>NIS：网络信息服务（Network Information Service）；韩国国家情报院（National Intelligence Service）；国家网络安全协作组（Network & Information System）
 * <a id="nis-x2dcg"></a>NIS-CG：欧盟网络信息系统协作组（Network & Information Systems Cooperation Group）
+* <a id="nis2"></a>NIS2：网络与信息安全指令第二版（Network and Information Security Directive 2）
 * <a id="niscc"></a>NISCC：英国国家基础设施安全协调中心（National Infrastructure Security Coordination Centre）
 * <a id="nisec"></a>NISEC：国家信息安全工程技术研究中心（National Information Security Engineering Center）
 * <a id="nisp"></a>NISP：美国国家工业安全计划（National Industrial Security Program）；国家信息安全水平证书（National Information Security Test Program）
@@ -142,6 +143,7 @@
 * <a id="nisq"></a>NISQ：含噪声中等规模量子（Noisy Intermediate-Scale Quantum）
 * <a id="niss"></a>NISS：绿盟综合安全系统（NSFOCUS Integrated Security System）
 * <a id="nist"></a>NIST：美国国家标准技术研究所（National Institute of Standards and Technology）
+* <a id="nistcsf"></a>NISTCSF：美国国家标准与技术研究院网络安全框架（National Institute of Standards and Technology Cybersecurity Framework）
 * <a id="nistir"></a>NISTIR：NIST跨机构报告（NIST Interagency Report）；NIST内部报告（NIST Internal Report）
 * <a id="nitb"></a>NITB：美国国家信息安全技术基线（National INFOSEC Technical baseline）
 * <a id="nitrd"></a>NITRD：美国网络信息技术研发计划（Network and Information Technology Research & Development）
@@ -253,4 +255,5 @@
 * <a id="nwip"></a>NWIP：新工作项提议（New Work Item Proposal）
 * <a id="nx"></a>NX：不可执行栈（Non-eXecutable stack）；FireEye网络安全产品系列（Network security）；不可执行位（Never eXecute bit）
 * <a id="nxd"></a>NXD：不可执行数据（Non-Executable Data）
+* <a id="nydfs"></a>NYDFS：纽约州金融服务局（New York State Department of Financial Services）
 * <a id="nzcv"></a>NZCV：条件标志寄存器（Negative, Zero, Carry, oVerflow）

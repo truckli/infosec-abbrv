@@ -29,6 +29,7 @@
 * <a id="vc"></a>VC：可核实凭证（Verifiable Credential）；可核实主张（Verifiable Claim）；视频会议（Video Conferencing）；风险投资（Venture Capital）
 * <a id="vcd"></a>VCD：视频光盘（Video CD）
 * <a id="vcf"></a>VCF：VMware云基础（VMware Cloud Foundation）
+* <a id="vciso-c1e"></a>vCISO：虚拟首席信息安全官（Virtual Chief Information Security Officer）
 * <a id="vcn"></a>VCN：虚拟云网络（Virtual Cloud Network）
 * <a id="vcpe-ce"></a>vCPE：虚拟化客户现场设备（virtual Customer Premise Equipment）
 * <a id="vcr"></a>VCR：录像机（Video Cassette Recorder）

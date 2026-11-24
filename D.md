@@ -1,6 +1,7 @@
 ## D
 
 * <a id="d-x26a"></a>D&A：数据与分析（Data & Analytics）
+* <a id="d-x26o"></a>D&O：董事与高管责任保险（Directors and Officers Insurance）
 * <a id="d2d"></a>D2D：设备到设备（Device-to-Device）
 * <a id="d3a"></a>D3A：决策、检测、交付和评估（Decide, Detect, Deliver & Assess）
 * <a id="d3fend"></a>D3FEND：赋能网络防御的检测、拒止和扰乱框架（Detection, Denial, and Disruption Framework Empowering Network Defense）
@@ -239,7 +240,7 @@
 * <a id="don-c5"></a>DoN：美国海军部（Department of the Navy）
 * <a id="don"></a>DON：去中心化预言机网络（Decentralized Oracle Network）
 * <a id="dop"></a>DOP：面向数据编程攻击（Data Oriented Programming）
-* <a id="dora"></a>DORA：DevOps研究与评估（DevOps Research and Assessment）
+* <a id="dora"></a>DORA：DevOps研究与评估（DevOps Research and Assessment）；数字运营韧性法案（Digital Operational Resilience Act）
 * <a id="dos-c5"></a>DoS：拒绝服务攻击（Denial of Service）
 * <a id="dos"></a>DOS：DOS操作系统（Disk Operating System）
 * <a id="dot-c5"></a>DoT：DNS-over-TLS（DNS over TLS）；美国运输部（Department of Transportation）

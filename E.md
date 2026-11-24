@@ -1,6 +1,7 @@
 ## E
 
 * <a id="e-x26m"></a>E&M：加密并MAC（Encrypt-and-MAC）
+* <a id="e-x26o"></a>E&O：专业责任保险（Errors and Omissions Insurance）
 * <a id="e-x2disac"></a>E-ISAC：电力信息共享和分析中心（Electricity Information Sharing and Analysis Center）
 * <a id="e-x2dutran"></a>E-UTRAN：演进通用陆地无线接入网（Evolved Universal Terrestrial Radio Access Network）
 * <a id="e-x2fw"></a>E/W：东/西（East/West）
