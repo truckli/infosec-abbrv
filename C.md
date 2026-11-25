@@ -126,7 +126,7 @@
 * <a id="ccitt"></a>CCITT：国际电报电话咨委会（法语：Comité Consultatif International Téléphonique et Télégraphique）
 * <a id="cck"></a>CCK：内容构建工具包（Content Construction Kit）
 * <a id="ccl"></a>CCL：商业管制清单（Commerce Control List）；知识共享许可协议（Creative Commons License）
-* <a id="ccm"></a>CCM：CBC-MAC计数器模态（Counter with Cipher block chaining Message authentication code）；通信协处理器模块（Communications Coprocessor Module）；云安全控制矩阵（Cloud Controls Matrix）
+* <a id="ccm"></a>CCM：CBC-MAC计数器模态（Counter with Cipher block chaining Message authentication code）；通信协处理器模块（Communications Coprocessor Module）；云安全控制矩阵（Cloud Controls Matrix）；持续控制监测（Continuous Control Monitoring）
 * <a id="ccmb"></a>CCMB：通用准则维护组（Common Criteria Maintenance Board）
 * <a id="ccmd"></a>CCMD：作战司令部（Combatant Command）
 * <a id="ccmf"></a>CCMF：美军网络战斗任务部队（Cyber Combat Mission Force）

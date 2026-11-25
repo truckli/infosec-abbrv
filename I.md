@@ -274,6 +274,7 @@
 * <a id="ispab"></a>ISPAB：信息安全和隐私咨询委员会（Information Security & Privacy Advisory Board）
 * <a id="ispim"></a>ISPIM：IBM安全特权身份管理（IBM Security Privileged Identity Manager）
 * <a id="ispl"></a>ISPL：EXIN信息服务采购管理认证项目（Information Service Procurement Management）
+* <a id="ispm"></a>ISPM：身份安全态势管理（Identity Security Posture Management）
 * <a id="isr"></a>ISR：情报、监视、侦察（Intelligence, Surveillance, Reconnaissance）
 * <a id="isrd"></a>ISRD：情报、监视、侦察部队（Intelligence, Surveillance & Reconnaissance Division）
 * <a id="isrm"></a>ISRM：信息安全风险管理（Information Security Risk Management）
